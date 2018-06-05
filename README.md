@@ -1,2 +1,1 @@
-# lernos
-lernOS is an operating system for livelong learning and learning organizations.
+﻿# What is lernOS?lernOS is an operating system for livelong learning and learning organizations. It can be used by individuals, teams, and organizations. lernOS is provided by the Cogneon Akademy as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) und a Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).# Getting started with lernOSThere is nothing to start with yet :-)
