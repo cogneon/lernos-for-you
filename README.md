@@ -1,7 +1,7 @@
 # What is lernOS?
 lernOS is an operating system for livelong learning and learning organizations. It can be used by individuals, teams, and organizations. lernOS fosters the right mindset, trains the right skills and provides the right tools for the digital connected knowledge society of the 21st century.
 
-![Mindset, Skillset, Toolset](https://cogneon.de/wp-content/uploads/2016/08/lernos-mst-v04.png)
+![Mindset, Skillset, Toolset](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20mi%20Guide%20-%20en/images/lernOS-Wheel-v0.5.png)
 
 # Where does the name lernOS from?
 lernos is Esperanto. It is the future tense of the verb "to learn". "lernos mi" means "I will learn" and "lernos vi" means "we will learn". The uppercase "OS" stands for "operating System" like Windows, MacOS, Linux or iOS. Put together lernOS is a framework to enable personal and organizational learning for individuals, teams and organizations (profit and non-Profit).
