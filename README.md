@@ -7,7 +7,7 @@ lernOS is an operating system for livelong learning and learning organizations. 
 lernos is Esperanto. It is the future tense of the verb "to learn". "lernos mi" means "I will learn" and "lernos vi" means "we will learn". The uppercase "OS" stands for "operating System" like Windows, MacOS, Linux or iOS. Put together lernOS is a framework to enable personal and organizational learning for individuals, teams and organizations (profit and non-Profit).
 
 # Getting started with lernOS
-There is nothing to start with yet :-)
+* [Reading Getting Started in the English Guide](https://github.com/simondueckert/lernos/blob/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.md) (Draft-Version, not really much to get started with)
 
 # Further Information
 * [lernOS Webpage](http://lernos.org) (German)
