@@ -25,7 +25,6 @@ In an ideal learning organization lernOS is used by anybody accross the whole or
 
 The lernOS Canvas -which is derived from the structure of the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)- can be used to systematically go through the elements and create a learning management system (not an LMS!) on individual, team and organizational level.
 
-in
 ## From Talking the Talk to Walking the Walk
 ...
 
