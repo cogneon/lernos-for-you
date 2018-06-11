@@ -16,6 +16,6 @@ lernos is Esperanto. It is the future tense of the verb "to learn". "lernos mi" 
 * [LOL+ – A Tool for #WOL(TM) Circle Alumni and Knowledge Workers](https://cogneon.de/2018/05/24/wol-a-tool-for-wol-circle-alumni-and-knowledge-workers/) (part of lernOS)
 
 # License
-lernOS is provided as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY).
+lernOS is provided as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). Following the [Open Definition](https://opendefinition.org/) you can freely access, use, modify, and share it for any purpose.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
