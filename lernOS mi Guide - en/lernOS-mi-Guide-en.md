@@ -12,7 +12,7 @@ lernOS will help you and your organization to develop necessary [21st century sk
 ## What is lernOS?
 lernOS is an operating system (OS) for livelong learning and learning organizations. The name is derived from the Esperanto verb "to learn". Like OKR lernOS can be used on different levels:
 
-* **Individual (lernOS mi, "I will learn"):** use it as a personal knowledge management and productivity tool for yourself
+* **Personal (lernOS mi, "I will learn"):** use it as a personal knowledge management and productivity tool for yourself
 * **Team (lernos ni, "We will learn"):** use it as a tool for communication and collaboration on team level
 * **Organization (lernos ni, "We will learn"):** use it as an agile management system for your whole organization
 
@@ -23,7 +23,7 @@ In an ideal learning organization lernOS is used by anybody accross the whole or
 * **Knowledge:** your **expertise**, know-how between your ears or codified in **knowledge assets** (e.g. checklists, presentations) stored in your **repositories** (e.g. social intranet, onedrive, slideshare)
 * **Relationships:** people in your **social network** (physical of virtual) helping you to achieve your objectives
 
-The lernOS Canvas -which is derived from the structure of the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)- can be used to systematically go through the elements and create a learning management system (not an LMS!) on individual, team and organizational level.
+The lernOS Canvas -which is derived from the structure of the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)- can be used to systematically go through the elements and create a learning management system (not an LMS!) on personal, team and organizational level.
 
 ## From Talking the Talk to Walking the Walk
 ...
