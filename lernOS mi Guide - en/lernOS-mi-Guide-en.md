@@ -23,10 +23,32 @@ In an ideal learning organization lernOS is used by anybody accross the whole or
 * **Knowledge:** your **expertise**, know-how between your ears or codified in **knowledge assets** (e.g. checklists, presentations) stored in your **repositories** (e.g. social intranet, onedrive, slideshare)
 * **Relationships:** people in your **social network** (physical of virtual) helping you to achieve your objectives
 
-The lernOS Canvas -which is derived from the structure of the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)- can be used to systematically go through the elements and create a learning management system (not an LMS!) on personal, team and organizational level.
+The lernOS Canvas -which is derived from the structure of the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)- can be used to systematically go through the elements and create a management system with a strong focus on knowledge and learning on personal, team and organizational level.
 
-## From Talking the Talk to Walking the Walk
-...
+## lernOS Sprint - Driving Agile Planning and Execution
+A lernOS sprint consists of 13 weeks (week 0 -12). In week 0 all organizational issues meetings, communication channels, documentation etc.) and a first version of your objective(s) for the sprint are defined. The objective(s) for the sprint can be refined between week 0 and week 1. In week 1 the objective(s) are fixed for the sprint.
 
-## Further information
-...
+In week 1-12 there is a weekly 30-60-minut event called the lernOS Check-In. The Check-In is a short ceremony to track results. Every Check-In has the same agenda structur (see also [The Beginners Guide to OKR](http://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf), page 38):
+
+1. **Warm-up:** what happend since the last check-in?
+1. **Objective Progress:** what changed in the Key Results since the last Check-In?
+1. **Confidence Level:** with the information I have today, how confident am I that I will reach earch Key Result?
+1. **Impediments:** what is slowing me down?
+1. **Initiatives:** what am I going to do to improve results?
+
+## lernOS Circle - From Talking the Talk to Walking the Walk
+Of course you can practice lernOS on your own. But it is more fun and also easier if you practice it in a group of 4-5 people called a lernOS Circle. A Circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group where people help each other by providing knowledge, experience, emotional, social and practical help. The lernOS Circle is a "circle of trust" so what happens in the Circle stays in the Circle.
+
+In a lernOS Circle every Circle member chooses one or more individual objectives. For each objective key results are definied that measure on a scale from 0.0 to 1.0 if the objective is reach. The objectives should be ambitious so that a key result completion rate of 0.7 is considered a success.
+
+The lernOS Circle meets each week in a 30-60 minutes Check-In with the agenda described above. The Check-in can be face-to-face or virtual. If Circle members don't know each other it might be good to have the first Check-In's face-to-face to get to know each others and build trust.
+
+Tools that might help to organize communication and documentation for Circles:
+
+* **Web Conferencing** like Skype for Business, Skype, Zoom, GoToMeeting, Circuit
+* **Instant Messengers** like Threema, Microsoft Teams, WhatsApp, Telegram, Signal, RocketChat
+* **Enterprise Social Networks** like Jive, Yammer, Connections
+* **Personal Notebooks** like OneNote, Evernote, TiddlyWiki
+* **File Hosting Services** like Dropbox, OneDrive, Google Drive
+* ** Task Management Services** like Trello, Microsoft ToDo, Planner, Todoist
+* **MindMapping Software** like XMind, Freemind, MindManager
