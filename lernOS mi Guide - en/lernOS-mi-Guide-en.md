@@ -45,10 +45,10 @@ The lernOS Circle meets each week in a 30-60 minutes Check-In with the agenda de
 
 Tools that might help to organize communication and documentation for Circles:
 
-* **Web Conferencing** like Skype for Business, Skype, Zoom, GoToMeeting, Circuit
-* **Instant Messengers** like Threema, Microsoft Teams, WhatsApp, Telegram, Signal, RocketChat
-* **Enterprise Social Networks** like Jive, Yammer, Connections
-* **Personal Notebooks** like OneNote, Evernote, TiddlyWiki
-* **File Hosting Services** like Dropbox, OneDrive, Google Drive
-* ** Task Management Services** like Trello, Microsoft ToDo, Planner, Todoist
-* **MindMapping Software** like XMind, Freemind, MindManager
+* **Web Conferencing** like [Skype for Business](https://en.wikipedia.org/wiki/Skype_for_Business), [Skype](https://en.wikipedia.org/wiki/Skype), [Zoom](https://en.wikipedia.org/wiki/Zoom_Video_Communications), [GoToMeeting](https://en.wikipedia.org/wiki/GoToMeeting), [Circuit](https://circuit.com)
+* **Instant Messengers** like [Threema](https://en.wikipedia.org/wiki/Threema), [Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams), [Slack](https://en.wikipedia.org/wiki/Slack_(software)), [WhatsApp](https://en.wikipedia.org/wiki/WhatsApp), [WeChat](https://en.wikipedia.org/wiki/WeChat), [Telegram](https://en.wikipedia.org/wiki/Telegram_(service)), [Signal](https://en.wikipedia.org/wiki/Signal_(software)), [RocketChat](https://rocket.chat)
+* **Enterprise Social Networks** like [Jive](https://en.wikipedia.org/wiki/Jive_Software), [Yammer](https://en.wikipedia.org/wiki/Yammer), [Connections](https://en.wikipedia.org/wiki/IBM_Connections), [Lithium](https://en.wikipedia.org/wiki/Lithium_Technologies)
+* **Personal Notebooks** like [OneNote](https://en.wikipedia.org/wiki/Microsoft_OneNote), [Evernote](https://en.wikipedia.org/wiki/Evernote), [TiddlyWiki](https://en.wikipedia.org/wiki/TiddlyWiki)
+* **File Hosting Services** like [Dropbox](https://en.wikipedia.org/wiki/Dropbox_(service)), [OneDrive](https://en.wikipedia.org/wiki/OneDrive), [Google Drive](https://en.wikipedia.org/wiki/Google_Drive), [OwnCloud](https://en.wikipedia.org/wiki/OwnCloud)
+* **Task Management Services** like [Trello](https://en.wikipedia.org/wiki/Trello), [Microsoft ToDo](https://en.wikipedia.org/wiki/Microsoft_To-Do), [Microsoft Planner](https://en.wikipedia.org/wiki/Microsoft_Planner)
+* **Mind Mapping Software** like [XMind](https://en.wikipedia.org/wiki/XMind), [Freemind](https://en.wikipedia.org/wiki/FreeMind), [MindManager](https://en.wikipedia.org/wiki/MindManager), [iThoughts](https://www.toketaware.com/ithoughts-ios), [MindMeister](https://en.wikipedia.org/wiki/MindMeister)
