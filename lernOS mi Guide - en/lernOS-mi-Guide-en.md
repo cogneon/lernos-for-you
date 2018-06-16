@@ -9,23 +9,25 @@ The [digital transformation](https://en.wikipedia.org/wiki/Digital_transformatio
 
 lernOS will help you and your organization to develop necessary [21st century skills](https://learning.mozilla.org/en-US/web-literacy) like problem-solving, communication, creativity, and collaboration. You can use lernOS on your own or together with 3-4 other people in a [peer support](https://en.wikipedia.org/wiki/Peer_support) group called lernOS Circle.
 
-## What is lernOS?
+# What is lernOS?
 lernOS is an operating system (OS) for livelong learning and learning organizations. The name is derived from the Esperanto verb "to learn". Like OKR lernOS can be used on different levels:
 
 * **Personal (lernOS mi, "I will learn"):** use it as a personal knowledge management and productivity tool for yourself
 * **Team (lernos ni, "We will learn"):** use it as a tool for communication and collaboration on team level
 * **Organization (lernos ni, "We will learn"):** use it as an agile management system for your whole organization
 
-In an ideal learning organization lernOS is used by anybody accross the whole organization. The basic elements of lernOS are:
+This guide describe the implementation of lernOS on the personal level. The basic elements of lernOS are:
 
 * **Objectives & Key Results:** what you try to reach and how you measure success
 * **Activities:** tasks and **roles** you have, **projects** you run
 * **Knowledge:** your **expertise**, know-how between your ears or codified in **knowledge assets** (e.g. checklists, presentations) stored in your **repositories** (e.g. social intranet, onedrive, slideshare)
 * **Relationships:** people in your **social network** (physical of virtual) helping you to achieve your objectives
 
-The lernOS Canvas -which is derived from the structure of the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)- can be used to systematically go through the elements and create a management system with a strong focus on knowledge and learning on personal, team and organizational level.
+The **lernOS Canvas** ([PDF](lernOS-mi-Canvas.pdf)) uses a similar structure as the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) by Alex Osterwalder. It can be used to systematically go through the elements of lernOS and create your personal management system with a strong focus on knowledge and learning.
 
-## lernOS Sprint - Driving Agile Planning and Execution
+![The lernOS(mi) Canvas](lernOS-mi-Canvas.png)
+
+# lernOS Sprint - Driving Agile Planning And Execution
 A lernOS sprint consists of 13 weeks (week 0 -12). In week 0 all organizational issues meetings, communication channels, documentation etc.) and a first version of your objective(s) for the sprint are defined. The objective(s) for the sprint can be refined between week 0 and week 1. In week 1 the objective(s) are fixed for the sprint.
 
 In week 1-12 there is a weekly 30-60-minut event called the lernOS Check-In. The Check-In is a short ceremony to track results. Every Check-In has the same agenda structur (see also [The Beginners Guide to OKR](http://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf), page 38):
@@ -36,7 +38,7 @@ In week 1-12 there is a weekly 30-60-minut event called the lernOS Check-In. The
 1. **Impediments:** what is slowing me down?
 1. **Initiatives:** what am I going to do to improve results?
 
-## lernOS Circle - From Talking the Talk to Walking the Walk
+# lernOS Circle - From Talking The Talk to Walking the Walk
 Of course you can practice lernOS on your own. But it is more fun and also easier if you practice it in a group of 4-5 people called a lernOS Circle. A Circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group where people help each other by providing knowledge, experience, emotional, social and practical help. The lernOS Circle is a "circle of trust" so what happens in the Circle stays in the Circle.
 
 In a lernOS Circle every Circle member chooses one or more individual objectives. For each objective key results are definied that measure on a scale from 0.0 to 1.0 if the objective is reach. The objectives should be ambitious so that a key result completion rate of 0.7 is considered a success.
@@ -51,5 +53,11 @@ Tools that might help to organize communication and documentation for Circles:
 * **Personal Notebooks** like [OneNote](https://en.wikipedia.org/wiki/Microsoft_OneNote), [Evernote](https://en.wikipedia.org/wiki/Evernote), [TiddlyWiki](https://en.wikipedia.org/wiki/TiddlyWiki), [Etherpad](https://en.wikipedia.org/wiki/Etherpad)
 * **File Hosting Services** like [Dropbox](https://en.wikipedia.org/wiki/Dropbox_(service)), [OneDrive](https://en.wikipedia.org/wiki/OneDrive), [Google Drive](https://en.wikipedia.org/wiki/Google_Drive), [OwnCloud](https://en.wikipedia.org/wiki/OwnCloud)
 * **Task Management Services** like [Trello](https://en.wikipedia.org/wiki/Trello), [Microsoft ToDo](https://en.wikipedia.org/wiki/Microsoft_To-Do), [Microsoft Planner](https://en.wikipedia.org/wiki/Microsoft_Planner)
-* **Mind Mapping Software** like [XMind](https://en.wikipedia.org/wiki/XMind), [Freemind](https://en.wikipedia.org/wiki/FreeMind), [MindManager](https://en.wikipedia.org/wiki/MindManager), [iThoughts](https://www.toketaware.com/ithoughts-ios), [MindMeister](https://en.wikipedia.org/wiki/MindMeister)
+* **Mind Mapping Software** like [XMind](https://en.wikipedia.org/wiki/XMind), [Freemind](https://en.wikipedia.org/wiki/FreeMind),a [MindManager](https://en.wikipedia.org/wiki/MindManager), [iThoughts](https://www.toketaware.com/ithoughts-ios), [MindMeister](https://en.wikipedia.org/wiki/MindMeister)
 * **Weblog Software** like [Wordpress](https://en.wikipedia.org/wiki/WordPress), [Tumblr](https://en.wikipedia.org/wiki/Tumblr)
+
+# lernOS Memex - Get Things Out Of Your Head & In A System You Trust
+
+Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
+
+If you do not have any tool at hand, you can download and use the Tiddlywiki-Version of lernOS Memex which is structured by the basic lernOS elements by default.
