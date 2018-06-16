@@ -75,6 +75,16 @@ How do you become a great musician? It's good to know the theory and to understa
 
 Traditionally a dojo is a hall or space for immersive learning or meditation. In the field of software decelopment and agile practice dojos emerged as workshop-style events to practice methods amd train new skills. Typically dojos last for several hours or days. In the dojo a skilled mentor guides the attendees ans facilitates their learning. Attendees train their skills with standardized exercises called "kata". lernOS uses a cataloque of katas to train skills related learning and knowledge. Katas can be practices in a lernOS Circle or in separate events and workshops.
 
+## Kata: A Letter To Your Future Self
+
+The letter to your future self is a classic method in self motivation. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. You can use a paper letter or services like [futureme.org](https://futureme.org) that will send you the letter as e-mail in the future:
+
+How to write your letter to your future self (see also [tutorial on wikiHow.com](https://m.wikihow.com/Write-a-Letter-to-Your-Future-Self)):
+
+* Talking about who you are now (age, summary, fears, key values, beliefs, skills, abilities, goals, hopes
+* Addressing your future self (things you want to stop/continue/start doing, give yourself advice, ask yourself questions
+* Seal the letter ans store it in a safe place or use technology to send it to you in the future
+
 # lernOS Memex - Get Things Out Of Your Head & In A System You Trust
 
 Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
