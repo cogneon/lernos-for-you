@@ -69,6 +69,12 @@ Tools that might help to organize communication and documentation for Circles:
 * **Mind Mapping Software** like [XMind](https://en.wikipedia.org/wiki/XMind), [Freemind](https://en.wikipedia.org/wiki/FreeMind),a [MindManager](https://en.wikipedia.org/wiki/MindManager), [iThoughts](https://www.toketaware.com/ithoughts-ios), [MindMeister](https://en.wikipedia.org/wiki/MindMeister)
 * **Weblog Software** like [Wordpress](https://en.wikipedia.org/wiki/WordPress), [Tumblr](https://en.wikipedia.org/wiki/Tumblr)
 
+# lernOS Dojo - Time And Place To Practice New Skills
+
+How do you become a great musician? It's good to know the theory and to understand the mechanic of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. The place for practicing is called a dojo (see also [CodeKata](http://codekata.com)).
+
+Traditionally a dojo is a hall or space for immersive learning or meditation. In the field of software decelopment and agile practice dojos emerged as workshop-style events to practice methods amd train new skills. Typically dojos last for several hours or days. In the dojo a skilled mentor guides the attendees ans facilitates their learning. Attendees train their skills with standardized exercises called "kata". lernOS uses a cataloque of katas to train skills related learning and knowledge. Katas can be practices in a lernOS Circle or in separate events and workshops.
+
 # lernOS Memex - Get Things Out Of Your Head & In A System You Trust
 
 Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
