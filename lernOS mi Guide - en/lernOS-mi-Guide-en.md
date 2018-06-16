@@ -1,3 +1,16 @@
+---
+title: "The lernOS Guide"
+author: [Simon Dückert]
+date: 2018-06-16
+titlepage: true
+titlepage-color: "ff6600"
+titlepage-text-color: "ffffff"
+titlepage-rule-color: "ffffff"
+links-as-notes: true
+lof: true
+toc: true
+...
+
 # Getting Started
 We live and work in a world of constant change. With trends like globalization, digitization, and urbanization the so called VUCA world emerged. [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity) stands for volatility, uncertainty, complexity, and ambiguity as described in a study by James A. Lawrence in 1991. In such an environment theories, principles, and tools for management and self-management from the 20th century have to be updated for the digital connected knowledge society of the 21st century. In his book [Drive](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) Daniel Pink outlined that change in 140 characters: "Carrots & Sticks are so last century. We need to upgrade to autonomy, mastery and purpose".
 
@@ -16,7 +29,7 @@ lernOS is an operating system (OS) for livelong learning and learning organizati
 * **Team (lernos ni, "We will learn"):** use it as a tool for communication and collaboration on team level
 * **Organization (lernos ni, "We will learn"):** use it as an agile management system for your whole organization
 
-This guide describe the implementation of lernOS on the personal level. The basic elements of lernOS are:
+This guide describes the implementation of lernOS on the personal level. The basic elements of lernOS are:
 
 * **Objectives & Key Results:** what you try to reach and how you measure success
 * **Activities:** tasks and **roles** you have, **projects** you run
