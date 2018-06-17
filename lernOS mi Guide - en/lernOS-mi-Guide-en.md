@@ -81,7 +81,17 @@ Tools that might help to organize communication and documentation for Circles:
 
 How do you become a great musician? It's good to know the theory and to understand the mechanic of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. The place for practicing is called a dojo (see also [CodeKata](http://codekata.com)).
 
-Traditionally a dojo is a hall or space for immersive learning or meditation. In the field of software decelopment and agile practice dojos emerged as workshop-style events to practice methods amd train new skills. Typically dojos last for several hours or days. In the dojo a skilled mentor guides the attendees ans facilitates their learning. Attendees train their skills with standardized exercises called "kata". lernOS uses a cataloque of katas to train skills related learning and knowledge. Katas can be practices in a lernOS Circle or in separate events and workshops.
+Traditionally a dojo is a hall or space for immersive learning or meditation. In the field of software decelopment and agile practice dojos emerged as workshop-style events to practice methods amd train new skills. Typically dojos last for several hours or days. In the dojo a skilled mentor guides the attendees ans facilitates their learning. Attendees train their skills with standardized exercises called "kata". lernOS uses a cataloque of katas to train skills related learning and knowledge. Katas can be practices in a lernOS Circle or in separate events and workshops. See appendix for a collection of lernOS Katas.
+
+# lernOS Memex - Get Things Out Of Your Head And In A System You Trust
+
+Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
+
+If you do not have any tool at hand, you can download and use the [Tiddlywiki-Version of lernOS Memex](https://github.com/simondueckert/lernos/blob/master/lernOS%20Memex%20-%20en/lernOS-Memex.html) which is structured by the basic lernOS elements by default. This version is based on [TiddlyWiki](https://tiddlywiki.com/), a personal wiki that lives in a single HTML file:
+
+![The lernOS(mi) Canvas](images/lernOS-Memex-TiddlyWiki-Frontpage.png)
+
+# Appendix: lernOS Katas
 
 ## Kata: A Letter To Your Future Self
 
@@ -129,11 +139,3 @@ To build strong relationships with people that matter you should not only market
 - [ ] **Exercise:** Create a list of people related to your activities and objectives in a relationship list. Try to have a list of at least ten people. Entries in the kist might be names (if you know people already) or roles like "Head of Hr in company XY. You can use services like your Social Intranet/Enterprise Social Network, LinkedIn, Twitter, Xing, YouTube, SlideShare and ResearchGate to search for people you want in your network.
 
 **Note:** If you use the lernOS Memex create the list in a seperate page.
-
-# lernOS Memex - Get Things Out Of Your Head And In A System You Trust
-
-Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
-
-If you do not have any tool at hand, you can download and use the [Tiddlywiki-Version of lernOS Memex](https://github.com/simondueckert/lernos/blob/master/lernOS%20Memex%20-%20en/lernOS-Memex.html) which is structured by the basic lernOS elements by default. This version is based on [TiddlyWiki](https://tiddlywiki.com/), a personal wiki that lives in a single HTML file:
-
-![The lernOS(mi) Canvas](images/lernOS-Memex-TiddlyWiki-Frontpage.png)
