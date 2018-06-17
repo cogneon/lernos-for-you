@@ -22,6 +22,12 @@ The [digital transformation](https://en.wikipedia.org/wiki/Digital_transformatio
 
 lernOS will help you and your organization to develop necessary [21st century skills](https://learning.mozilla.org/en-US/web-literacy) like problem-solving, communication, creativity, and collaboration. You can use lernOS on your own or together with 3-4 other people in a [peer support](https://en.wikipedia.org/wiki/Peer_support) group called lernOS Circle.
 
+# lernOS Success Factors
+
+Mastering the Digital Age and the Knowledge Society of the 21st century is not a matter of implementing the right (digital) tools and methods. Starting with the right mindset and learning new skills is crucial. The lernOS Wheel brings together these success factors as mindset, skillset, and toolset:
+
+![lernOS Wheel](https://github.com/simondueckert/lernos/blob/master/lernOS%20mi%20Guide%20-%20en/images/lernOS-Wheel-v0.5.png)
+
 # What is lernOS?
 lernOS is an operating system (OS) for livelong learning and learning organizations. The name is derived from the Esperanto verb "to learn". Like OKR lernOS can be used on different levels:
 
