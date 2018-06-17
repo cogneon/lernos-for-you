@@ -45,11 +45,13 @@ A lernOS sprint consists of 13 weeks (week 0 -12). In week 0 all organizational 
 
 In week 1-12 there is a weekly 30-60-minut event called the lernOS Check-In. The Check-In is a short ceremony to track results. Every Check-In has the same agenda structur (see also [The Beginners Guide to OKR](http://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf), page 38):
 
-1. **Warm-up:** what happend since the last check-in?
-1. **Objective Progress:** what changed in the Key Results since the last Check-In?
-1. **Confidence Level:** with the information I have today, how confident am I that I will reach earch Key Result?
-1. **Impediments:** what is slowing me down?
-1. **Initiatives:** what am I going to do to improve results?
+Agenda Item | Timebox
+----------- | -------
+**Warm-up:** what happend since the last check-in? | ... min
+**Objective Progress:** what changed in the Key Results since the last Check-In? | ... min
+**Confidence Level:** with the information I have today, how confident am I that I will reach earch Key Result? | ... min
+**Impediments:** what is slowing me down? | ... min
+**Initiatives:** what am I going to do to improve results? | ... min
 
 # lernOS Circle - From Talking The Talk to Walking the Walk
 Of course you can practice lernOS on your own. But it is more fun and also easier if you practice it in a group of 4-5 people called a lernOS Circle. A Circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group where people help each other by providing knowledge, experience, emotional, social and practical help. The lernOS Circle is a "circle of trust" so what happens in the Circle stays in the Circle.
