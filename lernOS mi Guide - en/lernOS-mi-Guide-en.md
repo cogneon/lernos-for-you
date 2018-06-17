@@ -1,7 +1,7 @@
 ---
 title: "The lernOS Guide"
 author: [Simon Dückert]
-date: 2018-06-16
+date: 2018-06-17
 titlepage: true
 titlepage-color: "ff6600"
 titlepage-text-color: "ffffff"
@@ -26,9 +26,9 @@ lernOS will help you and your organization to develop necessary [21st century sk
 
 Mastering the Digital Age and the Knowledge Society of the 21st century is not a matter of implementing the right (digital) tools and methods. Starting with the right mindset and learning new skills is crucial. The lernOS Wheel brings together these success factors as mindset, skillset, and toolset:
 
-![lernOS Wheel](https://github.com/simondueckert/lernos/blob/master/lernOS%20mi%20Guide%20-%20en/images/lernOS-Wheel-v0.5.png)
+![lernOS Wheel](images/lernOS-Wheel-v0.5.png)
 
-# What is lernOS?
+# lernOS In A Nutshell
 lernOS is an operating system (OS) for livelong learning and learning organizations. The name is derived from the Esperanto verb "to learn". Like OKR lernOS can be used on different levels:
 
 * **Personal (lernOS mi, "I will learn"):** use it as a personal knowledge management and productivity tool for yourself
@@ -87,14 +87,60 @@ Traditionally a dojo is a hall or space for immersive learning or meditation. In
 
 Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
 
-If you do not have any tool at hand, you can download and use the [Tiddlywiki-Version of lernOS Memex](https://github.com/simondueckert/lernos/blob/master/lernOS%20Memex%20-%20en/lernOS-Memex.html) which is structured by the basic lernOS elements by default. This version is based on [TiddlyWiki](https://tiddlywiki.com/), a personal wiki that lives in a single HTML file:
+If you do not have any tool at hand, you can download and use the [TiddlyWiki-Version of lernOS Memex](https://github.com/simondueckert/lernos/blob/master/lernOS%20Memex%20-%20en/lernOS-Memex.html) which is structured by the basic lernOS elements by default. This version is based on [TiddlyWiki](https://tiddlywiki.com/), a personal wiki that lives in a single HTML file:
 
-![The lernOS(mi) Canvas](images/lernOS-Memex-TiddlyWiki-Frontpage.png)
+![Screenshot Frontpage TiddlyWiki-version of the lernOS Memex](images/lernOS-Memex-TiddlyWiki-Frontpage.png)
 
 # Appendix: lernOS Katas
+## Kata: Why Are You Here?
+What is your motivation for using lernOS or beeing part of a lernOS Circle? Too often we try to change things by start using new
+methods and tools but the WHY stays unclear. Like Simon Sinek put it in his [TEDx Talk How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) with the "Golden Circle": we should start with WHY and then think about the HOW and the WHAT.
+
+- [ ] **Exercise:** Think and talk about why you want to practice lernOS and/or why you joined a Circle.
+
+## Kata: My Objective(s) For The Next 12 weeks
+What are you trying to accomplish in the next 12 weeks of the sprint? If you start using lernOS you should pick one objective that you real care about and you can make progress towards in the sprint. If you are an experienced practitioner you can choose up to five objectives per sprint.
+
+According to the method Objective Key Results (OKR) you should define 2-5 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure that you choose yourself ambitious goals a grade of 0.7 is seen as success in OKR (see also [With Goals, FAST beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)). OKR initiator John Doerr used that sentence template for the creation of OKRs:
+
+> I will ..................... as measured by..................... .
+
+- [ ] **Exercise:** Write down 1-4 obejectives and 2-5 key results per objective.
+
+## Kata: Working Alone Is Addition, Working Together Is Multiplication
+Most of the tasks you have one yourlist, have be done by others successfully before. Most of the mistakes you might make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives and avtivities by getting in touch with people inside and outside your organization in a systematic way.
+
+To build strong relationships with people that matter you should not only market yourself and push information about yourself. You should also listen and relate contributions to information you have about others. Networking specialist [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) put it this way:
+
+> You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
+
+- [ ] **Exercise:** Create an overview of people related to your activities and objectives in a relationship list. Try to have a list of at least ten people. Entries in the kist might be names (if you know people already) or roles like "Head of Hr in company XY. You can use services like your Social Intranet/Enterprise Social Network, LinkedIn, Twitter, Xing, YouTube, SlideShare and ResearchGate to search for people you want in your network.
+
+**Note:** If you use the lernOS Memex create the list in a seperate page.
+
+## Kata: Strong And Weak Ties
+An often quoted theory in social networking is [The Strength of Weak Ties](http://www.cs.umd.edu/~golbeck/INST633o/granovetterTies.pdf) by Mark Granovetter. According to that theory the strength of an interpersonal tie (a relationship to another person) can be defined by the amount of time spent together, the emotional intensity, the level of intimacy and trust, and the reciprocal services (helping each other) which characterize the tie.
+
+According to Granovetter an [interpersonal tie](https://en.wikipedia.org/wiki/Interpersonal_ties) comes in three varieties:
+
+1. **Strong** (you regularly interact, meet, help each other)
+1. **Weak** (you are somehow connected, you had interactions in the past)
+1. **Absent** (you don't know each other)
+
+- [ ] **Exercise:** Take your relationship list from kata "Working Alone Is Addition, Working Together Is Multiplication" and grade every relationship as 1 (strong), 2 (weak), or 3 (absent) to get an idea which relationships should be deepened in the future.
+
+## Kata: Your First Sharing Experience
+A common word of mouth says "sharing is caring". So when you invest time and effort in sharing your knowledge and knowledge assets (documents, images, videos etc.) your relationships deepen by every contribution you make and the people in your network are more willing to support you with your objectives aswell. With regard to knowledge in contrast to physical objects or money there is one big advantage:
+
+> Knowledge is the only Resource that Increases through Use!
+
+So if you share your knowledge you still have it and others have it aswell. In the [Mozilla Web Literacy Framework](https://learning.mozilla.org/en-US/web-literacy) Sharing is definied as Giving others access to files or digital content in an online space while respecting copyright and licenses. So if you share assets you have to be aware of legal issues like data protection (if you want to share assets of your organization), copyright issues and license issues.
+
+- [ ] **Exercise:** Think about experiences and knowledge assets that you have and that you are willing to share. The go through your relationship list and choose one person that might like your contribution. Choose an appropriate channel (e.g. private in e-mail, semi-private in an enterprise social netowrk or public on twitter) and share your knowledge!
+
+**Note:** If you use the lernOS Memex or the lernOS Canvas you can use this exercise as a starting point for "My Fields of Knowledge" and "My Knowledge Assets".
 
 ## Kata: A Letter To Your Future Self
-
 The letter to your future self is a classic method in self motivation. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. You can use a paper letter or services like [futureme.org](https://futureme.org) that will send you the letter as e-mail in the future:
 
 How to write your letter to your future self (see also [tutorial on wikiHow.com](https://m.wikihow.com/Write-a-Letter-to-Your-Future-Self)):
@@ -125,17 +171,5 @@ If you apply to study at Fuqua Business School you have to write an essay with a
 * Anything that helps to understand what makes you who YOU are
 
 - [ ] **Exercise:** Start creating a list of 10 random things about yourself. Read the [Fuqua 25 random things do's and dont's](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts/). Then expand the list to 25 things.
-
-**Note:** If you use the lernOS Memex create the list in a seperate page.
-
-## Kata: Working Alone Is Addition, Working Together Is Multiplication
-
-Most of the tasks you have one yourlist, have be done by others successfully before. Most of the mistakes you might make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives and avtivities by getting in touch with people inside and outside your organization in a systematic way.
-
-To build strong relationships with people that matter you should not only market yourself and push information about yourself. You should also listen and relate contributions to information you have about others. Networking specialist [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) put it this way:
-
-> You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
-
-- [ ] **Exercise:** Create a list of people related to your activities and objectives in a relationship list. Try to have a list of at least ten people. Entries in the kist might be names (if you know people already) or roles like "Head of Hr in company XY. You can use services like your Social Intranet/Enterprise Social Network, LinkedIn, Twitter, Xing, YouTube, SlideShare and ResearchGate to search for people you want in your network.
 
 **Note:** If you use the lernOS Memex create the list in a seperate page.
