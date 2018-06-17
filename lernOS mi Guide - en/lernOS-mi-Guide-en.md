@@ -66,7 +66,7 @@ Tools that might help to organize communication and documentation for Circles:
 * **Personal Notebooks** like [OneNote](https://en.wikipedia.org/wiki/Microsoft_OneNote), [Evernote](https://en.wikipedia.org/wiki/Evernote), [TiddlyWiki](https://en.wikipedia.org/wiki/TiddlyWiki), [Etherpad](https://en.wikipedia.org/wiki/Etherpad)
 * **File Hosting Services** like [Dropbox](https://en.wikipedia.org/wiki/Dropbox_(service)), [OneDrive](https://en.wikipedia.org/wiki/OneDrive), [Google Drive](https://en.wikipedia.org/wiki/Google_Drive), [OwnCloud](https://en.wikipedia.org/wiki/OwnCloud)
 * **Task Management Services** like [Trello](https://en.wikipedia.org/wiki/Trello), [Microsoft ToDo](https://en.wikipedia.org/wiki/Microsoft_To-Do), [Microsoft Planner](https://en.wikipedia.org/wiki/Microsoft_Planner)
-* **Mind Mapping Software** like [XMind](https://en.wikipedia.org/wiki/XMind), [Freemind](https://en.wikipedia.org/wiki/FreeMind),a [MindManager](https://en.wikipedia.org/wiki/MindManager), [iThoughts](https://www.toketaware.com/ithoughts-ios), [MindMeister](https://en.wikipedia.org/wiki/MindMeister)
+* **Mind Mapping Software** like [XMind](https://en.wikipedia.org/wiki/XMind), [Freemind](https://en.wikipedia.org/wiki/FreeMind), [MindManager](https://en.wikipedia.org/wiki/MindManager), [iThoughts](https://www.toketaware.com/ithoughts-ios), [MindMeister](https://en.wikipedia.org/wiki/MindMeister)
 * **Weblog Software** like [Wordpress](https://en.wikipedia.org/wiki/WordPress), [Tumblr](https://en.wikipedia.org/wiki/Tumblr)
 
 # lernOS Dojo - Time And Place To Practice New Skills
@@ -84,6 +84,29 @@ How to write your letter to your future self (see also [tutorial on wikiHow.com]
 * Talking about who you are now (age, summary, fears, key values, beliefs, skills, abilities, goals, hopes
 * Addressing your future self (things you want to stop/continue/start doing, give yourself advice, ask yourself questions
 * Seal the letter ans store it in a safe place or use technology to send it to you in the future
+
+**Note:** If you use the lernOS Memex create a seperate page to write down your letter.
+
+## Kata: 25 Random Things About Me
+
+If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you in networking to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!", see also [New York Times Article](https://www.nytimes.com/2009/02/05/fashion/05things.html)). Random things about yourself might include:
+
+* Life experiences
+* Your likes/dislikes
+* Where you were born/lived
+* Family, kids, parents
+* Schools, universities
+* Workplaces in the past
+* Career challenges
+* Vacations
+* Hobbies
+* Achievements
+* Fun facts
+* Anything that helps to understand what makes you who YOU are
+
+Start creating a list of 10 random things about yourself. Read the [Fuqua 25 random things do's and dont's](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts/). Then expand the list to 25 things.
+
+**Note:** If you use the lernOS Memex create the list in a seperate page.
 
 # lernOS Memex - Get Things Out Of Your Head & In A System You Trust
 
