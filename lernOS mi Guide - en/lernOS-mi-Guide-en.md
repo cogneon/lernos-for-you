@@ -85,7 +85,7 @@ How to write your letter to your future self (see also [tutorial on wikiHow.com]
 * Addressing your future self (things you want to stop/continue/start doing, give yourself advice, ask yourself questions
 * Seal the letter ans store it in a safe place or use technology to send it to you in the future
 
-- [ ] Create your letter to your future self and send it to the future.
+- [ ] **Exercise:** Create your letter to your future self and send it to the future.
 
 **Note:** If you use the lernOS Memex create a seperate page for the letter.
 
@@ -118,7 +118,7 @@ To build strong relationships with people that matter you should not only market
 
 > You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
 
-- [ ] Create a list of people related to your activities and objectives in a relationship list. Try to have a list of at least ten people. Entries in the kist might be names (if you know people already) or roles like "Head of Hr in company XY. You can use services like your Social Intranet/Enterprise Social Network, LinkedIn, Twitter, Xing, YouTube, SlideShare and ResearchGate to search for people you want in your network.
+- [ ] **Exercise:** Create a list of people related to your activities and objectives in a relationship list. Try to have a list of at least ten people. Entries in the kist might be names (if you know people already) or roles like "Head of Hr in company XY. You can use services like your Social Intranet/Enterprise Social Network, LinkedIn, Twitter, Xing, YouTube, SlideShare and ResearchGate to search for people you want in your network.
 
 **Note:** If you use the lernOS Memex create the list in a seperate page.
 
