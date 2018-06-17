@@ -108,7 +108,19 @@ Start creating a list of 10 random things about yourself. Read the [Fuqua 25 ran
 
 **Note:** If you use the lernOS Memex create the list in a seperate page.
 
-# lernOS Memex - Get Things Out Of Your Head & In A System You Trust
+## Kata: Working Alone Is Addition, Working Together Is Multiplication
+
+Most of the tasks you have one yourlist, have be done by others successfully before. Most of the mistakes you might make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives and avtivities by getting in touch with people inside and outside your organization in a systematic way.
+
+To build strong relationships with people that matter you should not only market yourself and push information about yourself. You should also listen and relate contributions to information you have about others. Networking specialist [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) put it this way:
+
+> You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
+
+Create a list of people related to your activities and objectives in a relationship list. Try to have a list of at least ten people. Entries in the kist might be names (if you know people already) or roles like "Head of Hr in company XY. You can use services like your Social Intranet/Enterprise Social Network, LinkedIn, Twitter, Xing, YouTube, SlideShare and ResearchGate to search for people you want in your network.
+
+**Note:** If you use the lernOS Memex create the list in a seperate page.
+
+# lernOS Memex - Get Things Out Of Your Head And In A System You Trust
 
 Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
 
