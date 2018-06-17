@@ -104,7 +104,7 @@ If you apply to study at Fuqua Business School you have to write an essay with a
 * Fun facts
 * Anything that helps to understand what makes you who YOU are
 
-Start creating a list of 10 random things about yourself. Read the [Fuqua 25 random things do's and dont's](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts/). Then expand the list to 25 things.
+- [ ] **Exercise:** Start creating a list of 10 random things about yourself. Read the [Fuqua 25 random things do's and dont's](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts/). Then expand the list to 25 things.
 
 **Note:** If you use the lernOS Memex create the list in a seperate page.
 
