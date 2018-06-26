@@ -5,7 +5,7 @@ lernos is Esperanto. It is the future tense of the verb "to learn". "lernos mi" 
 
 # The lernOS Guide
 * [The lernOS Guide - online](https://github.com/simondueckert/lernos/blob/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.md)
-* [The lernOS Guide - PDF](https://github.com/simondueckert/lernos/blob/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.pdf)
+* [The lernOS Guide - PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.pdf)
 
 # Further Information
 * Learn about [Roots & Inspirations of lernOS](https://github.com/simondueckert/lernos/wiki) (in Wiki)
