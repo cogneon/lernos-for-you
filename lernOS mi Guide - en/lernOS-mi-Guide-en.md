@@ -22,7 +22,7 @@ Of course you can practice lernOS on your own. But it is more fun and also easie
 
 In a lernOS Circle every Circle member chooses one or more individual objectives. For each objective one defines key results which measure (on a scale from 0.0 to 1.0) if the objective is reached. The objectives should be ambitious so that a key result completion rate of 0.7 is considered a success.
 
-The lernOS Circle meets each week in a 30-60 minutes Check-In with the agenda described above. The Check-in can be face-to-face or virtual. If C  ircle members don't know each other it might be good to have the first Check-In's face-to-face to get to know each others and build trust.
+The lernOS Circle meets each week in a 30-60 minutes Check-In with the agenda described above. The Check-in can be face-to-face or virtual. If Circle members don't know each other it might be good to have the first Check-Ins face-to-face to get to know each others and build trust.
 
 Tools that might help to organize communication and documentation for Circles:
 
