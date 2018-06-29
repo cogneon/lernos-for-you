@@ -196,7 +196,7 @@ According to the method Objective Key Results (OKR) you should define 2-5 key re
 >ToDo: Write down 1-4 obejectives and 2-5 key results per objective.
 
 ## Exercise: Working Alone Is Addition, Working Together Is Multiplication
-Most of the tasks you have one yourlist, have be done by others successfully before. Most of the mistakes you might make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives and avtivities by getting in touch with people inside and outside your organization in a systematic way.
+Most of the tasks you have one your list, have been done by others successfully before. Most of the mistakes you might make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives and avtivities by getting in touch with people inside and outside your organization in a systematic way.
 
 To build strong relationships with people that matter you should not only market yourself and push information about yourself. You should also listen and relate contributions to information you have about others. Networking specialist [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) put it this way: "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you".
 
