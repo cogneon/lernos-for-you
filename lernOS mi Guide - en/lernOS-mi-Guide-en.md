@@ -173,7 +173,7 @@ The basic elements of the lernOS Canvas are:
 
 # lernOS Memex - Get Things Out Of Your Head And In A System You Trust
 
-Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
+Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex (memex = memory extender).
 
 If you do not have any tool at hand, you can download and use the [TiddlyWiki-Version of lernOS Memex](https://github.com/simondueckert/lernos/blob/master/lernOS%20Memex%20-%20en/lernOS-Memex.html) which is structured by the basic lernOS elements by default. This version is based on [TiddlyWiki](https://tiddlywiki.com/), a personal wiki that lives in a single HTML file:
 
