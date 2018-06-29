@@ -5,7 +5,7 @@ This is also called a VUCA World, a world that is volatile, uncertain, complex, 
 
 Individuals and organizations (for-profit and non-profit) have to adapt to that new situation to be successful in this century. As an induvidual you have to have to practice a lifestyle of self-directed lifelong learning. You have to acquire new digital skills and also use new digital tools to be productive. As an organization you have to become a learning organization. A learning organization is able to create, acquire, and transfer knowledge, and also to modify its behavior according to new knowledge and insights (Garvin, 2008).
 
-Fortunatly  not all knowledge has to be created from scratch, not every wheel has to be reinvented and not all mistakes have to be repeated. If you have an open mindset and connect with other people inside and outside your organization you will be standing on the shoulders of giants. Working fully networked in contrast to working in silos has a benefit of over 30 percent (McKinsey, 2010).
+Fortunatly not all knowledge has to be created from scratch, not every wheel has to be reinvented and not all mistakes have to be repeated. If you have an open mindset and connect with other people inside and outside your organization you will be standing on the shoulders of giants. Working fully networked in contrast to working in silos has a benefit of over 30 percent (McKinsey, 2010).
 
 Digital tools like wikis, weblogs and social networks can help you to connect and learn with other people independent of time and space. To make use of this new possibilities you have to acquire new digital skills. But you don't have to be a digital native to learn these skills. Everybody can learn them: one small step at a time.
 
