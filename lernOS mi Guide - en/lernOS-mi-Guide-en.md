@@ -20,7 +20,7 @@ Mastering the Digital Age and the Knowledge Society of the 21st century is not a
 # lernOS Circle - From Talking The Talk to Walking the Walk
 Of course you can practice lernOS on your own. But it is more fun and also easier if you practice it in a group of 4-5 people called a lernOS Circle. A Circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group where people help each other by providing knowledge, experience, emotional, social and practical help. The lernOS Circle is a "circle of trust" so what happens in the Circle stays in the Circle.
 
-In a lernOS Circle every Circle member chooses one or more individual objectives. For each objective key results are definied that measure on a scale from 0.0 to 1.0 if the objective is reach. The objectives should be ambitious so that a key result completion rate of 0.7 is considered a success.
+In a lernOS Circle every Circle member chooses one or more individual objectives. For each objective one defines key results which measure (on a scale from 0.0 to 1.0) if the objective is reached. The objectives should be ambitious so that a key result completion rate of 0.7 is considered a success.
 
 The lernOS Circle meets each week in a 30-60 minutes Check-In with the agenda described above. The Check-in can be face-to-face or virtual. If C  ircle members don't know each other it might be good to have the first Check-In's face-to-face to get to know each others and build trust.
 
