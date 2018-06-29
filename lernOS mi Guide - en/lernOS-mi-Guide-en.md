@@ -220,7 +220,7 @@ A common word of mouth says "sharing is caring". So when you invest time and eff
 
 So if you share your knowledge you still have it and others have it as well. In the [Mozilla Web Literacy Framework](https://learning.mozilla.org/en-US/web-literacy) Sharing is definied as Giving others access to files or digital content in an online space while respecting copyright and licenses. So if you share assets you have to be aware of legal issues like data protection (if you want to share assets of your organization), copyright issues and license issues.
 
->ToDo: Think about experiences and knowledge assets that you have and that you are willing to share. The go through your relationship list and choose one person that might like your contribution. Choose an appropriate channel (e.g. private in e-mail, semi-private in an enterprise social netowrk or public on twitter) and share your knowledge!
+>ToDo: Think about experiences and knowledge assets that you have and that you are willing to share. Go through your relationship list and choose one person that might like your contribution. Choose an appropriate channel (e.g. private in e-mail, semi-private in an enterprise social netowrk or public on twitter) and share your knowledge!
 
 ## Exercise: A Letter To Your Future Self
 The letter to your future self is a classic method in self motivation. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. You can use a paper letter or services like [futureme.org](https://futureme.org) that will send you the letter as e-mail in the future:
