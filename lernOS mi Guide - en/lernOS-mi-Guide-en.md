@@ -170,7 +170,7 @@ The basic elements of the lernOS Canvas are:
 * **Objectives & Key Results:** what you try to reach and how you measure success
 * **Activities:** tasks and **roles** you have, **projects** you run
 * **Knowledge:** your **expertise**, know-how between your ears or codified in **knowledge assets** (e.g. checklists, presentations) stored in your **repositories** (e.g. social intranet, onedrive, slideshare)
-* **Relationships:** people in your **social network** (physical of virtual) helping you to achieve your objectives
+* **Relationships:** people in your **social network** (physical or virtual) helping you to achieve your objectives
 
 
 # lernOS Memex - Get Things Out Of Your Head And In A System You Trust
