@@ -159,7 +159,7 @@ Agenda Item | Timebox
 
 # lernOS Canvas - Use it as Checklist And To Tell Your Story
 
-The **lernOS Canvas** ([PDF](lernOS-mi-Canvas.pdf)) uses a similar structure as the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) by Alex Osterwalder. It can be used to systematically go through the elements of lernOS and create your personal management system with a strong focus on knowledge and learning.
+The **lernOS Canvas** ([PDF](lernOS-mi-Canvas.pdf)) uses a similar structure as the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) by Alex Osterwalder. It can be used to systematically go through the elements of lernOS and create your personal management system with a strong focus on knowledge and learning.
 
 ![The lernOS(mi) Canvas](lernOS-mi-Canvas.png)
 
