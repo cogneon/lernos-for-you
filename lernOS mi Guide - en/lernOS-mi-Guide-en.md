@@ -38,7 +38,7 @@ Tools that might help to organize communication and documentation for Circles:
 * **Weblog Software** like [Wordpress](https://en.wikipedia.org/wiki/WordPress), [Tumblr](https://en.wikipedia.org/wiki/Tumblr)
 
 # lernOS Sprint - Driving Agile Planning And Execution
-A lernOS sprint consists of 13 weeks (week 0 -12). In week 0 all organizational issues meetings, communication channels, documentation etc.) and a first version of your objective(s) for the sprint are defined. The objective(s) for the sprint can be refined between week 0 and week 1. In week 1 the objective(s) are fixed for the sprint.
+A lernOS sprint consists of 13 weeks (week 0 -12). In week 0 all organizational issues (meetings, communication channels, documentation etc.) and a first version of your objective(s) (one or more) for the sprint are defined. The objectives for the sprint can be refined between week 0 and week 1. In week 1 the objectives are fixed for the sprint.
 
 In week 1-12 there is a weekly 30-60-minut event called the lernOS Check-In. The Check-In is a short ceremony to track results. Every Check-In has the same agenda structur (see also [The Beginners Guide to OKR](http://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf), page 38):
 
