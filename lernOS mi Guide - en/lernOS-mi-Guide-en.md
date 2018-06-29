@@ -184,7 +184,7 @@ If you do not have any tool at hand, you can download and use the [TiddlyWiki-Ve
 How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops.
 
 ## Exercise: Why Are You Here?
-What is your motivation for using lernOS or beeing part of a lernOS Circle? Too often we try to change things by start using new
+What is your motivation for using lernOS or being part of a lernOS Circle? Too often we try to change things by start using new
 methods and tools but the WHY stays unclear. Like Simon Sinek put it in his [TEDx Talk How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) with the "Golden Circle": we should start with WHY and then think about the HOW and the WHAT.
 
 >ToDo: Think and talk about why you want to practice lernOS and/or why you joined a Circle.
