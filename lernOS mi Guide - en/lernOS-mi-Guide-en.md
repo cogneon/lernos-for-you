@@ -225,9 +225,9 @@ The letter to your future self is a classic method in self motivation. You refle
 
 How to write your letter to your future self (see also [tutorial on wikiHow.com](https://m.wikihow.com/Write-a-Letter-to-Your-Future-Self)):
 
-* Talking about who you are now (age, summary, fears, key values, beliefs, skills, abilities, goals, hopes
-* Addressing your future self (things you want to stop/continue/start doing, give yourself advice, ask yourself questions
-* Seal the letter ans store it in a safe place or use technology to send it to you in the future
+* Talking about who you are now (age, summary, fears, key values, beliefs, skills, abilities, goals, hopes)
+* Addressing your future self (things you want to stop/continue/start doing, give yourself advice, ask yourself questions)
+* Seal the letter and store it in a safe place or use technology to send it to you in the future
 
 >ToDo: Create your letter to your future self and send it to the future.
 
