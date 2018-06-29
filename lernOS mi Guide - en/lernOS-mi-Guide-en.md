@@ -183,7 +183,7 @@ If you do not have any tool at hand, you can download and use the [TiddlyWiki-Ve
 
 # lernOS Exercises - Time And Place To Practice New Skills
 
-How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a cataloque of exercises to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops.
+How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops.
 
 ## Exercise: Why Are You Here?
 What is your motivation for using lernOS or beeing part of a lernOS Circle? Too often we try to change things by start using new
