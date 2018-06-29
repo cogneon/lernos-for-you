@@ -170,7 +170,6 @@ The basic elements of the lernOS Canvas are:
 * **Knowledge:** your **expertise**, know-how between your ears or codified in **knowledge assets** (e.g. checklists, presentations) stored in your **repositories** (e.g. social intranet, onedrive, slideshare)
 * **Relationships:** people in your **social network** (physical or virtual) helping you to achieve your objectives
 
-
 # lernOS Memex - Get Things Out Of Your Head And In A System You Trust
 
 Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex (memex = memory extender).
@@ -190,7 +189,7 @@ methods and tools but the WHY stays unclear. Like Simon Sinek put it in his [TED
 >ToDo: Think and talk about why you want to practice lernOS and/or why you joined a Circle.
 
 ## Exercise: My Objective(s) For The Next 12 weeks
-What are you trying to accomplish in the next 12 weeks of the sprint? If you start using lernOS you should pick one objective that you real care about and you can make progress towards in the sprint. If you are an experienced practitioner you can choose up to five objectives per sprint.
+What are you trying to accomplish in the next 12 weeks of the sprint? If you start using lernOS you should pick one objective that you really care about and you can make progress towards in the sprint. If you are an experienced practitioner you can choose up to five objectives per sprint.
 
 According to the method Objective Key Results (OKR) you should define 2-5 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure that you choose yourself ambitious goals a grade of 0.7 is seen as success in OKR (see also [With Goals, FAST beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)). OKR initiator John Doerr used the sentence as template "I will ... as measured by ... ." for the creation of OKRs.
 
