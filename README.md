@@ -5,7 +5,7 @@ lernos is Esperanto. It is the future tense of the verb "to learn". "lernos mi" 
 
 The core of lernOS is based on principles from [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), and [Working Out Loud](https://workingoutloud.com/en/circle-guides/). If your practice one of these methods already you can use the [lernOS Canvas]() for visual documentation and to expand your approach over time.
 
-[Download The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-Canvas.pdf)
+[![Download The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-Canvas.pdf)](https://cogneon.de/wp-content/uploads/2018/06/lernOS-Canvas-Download.png)
 
 # The lernOS Guide
 * [The lernOS Guide - online](https://github.com/simondueckert/lernos/blob/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.md)
