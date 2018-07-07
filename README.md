@@ -1,7 +1,13 @@
 # What is lernOS?
-lernOS is an operating system for livelong learning and learning organizations. It can be used by individuals, teams, and organizations. lernOS fosters the right mindset, trains the right skills and provides the right tools for the digital connected knowledge society of the 21st century.
+**lernOS** is an **operating system** for **livelong learning** and **learning organizations**. It can be used by individuals, teams, and organizations. lernOS fosters the right **mindset**, trains the right **skills** and provides the right **tools** for the **digital connected knowledge society of the 21st century**.
 
-lernos is Esperanto. It is the future tense of the verb "to learn". "lernos mi" means "I will learn" and "lernos vi" means "we will learn". The uppercase "OS" stands for "operating system" like Windows, MacOS, Linux or iOS. Put together lernOS is a framework to enable personal and organizational learning for individuals, teams and organizations (profit and non-Profit).
+![lernOS Logo](https://cogneon.de/wp-content/uploads/2018/06/lernOS-Logo.png)
+
+lernos in **Esperanto** is the future tense of the verb "to learn" (mi lernos: I will learn, ni lernos: WE will learn). The uppercase "OS" stands for **"operating system"** like iOS, MacOS and CentOS. Simply put **lernOS is a framework to unleash the potential learning for individuals, teams and organizations** (profit and non-profit).
+
+The **core of lernOS** is based on principles from [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), and [Working Out Loud](https://workingoutloud.com/en/circle-guides/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
+
+[![Download The lernOS Canvas](https://cogneon.de/wp-content/uploads/2018/06/lernOS-Canvas-Download.png)](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-Canvas.pdf)
 
 # The lernOS Guide
 * [The lernOS Guide - online](https://github.com/simondueckert/lernos/blob/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.md)
