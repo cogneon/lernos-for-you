@@ -9,9 +9,9 @@ In terms of learning not all knowledge has to be created from scratch, not every
 
 The [digital transformation](https://en.wikipedia.org/wiki/Digital_transformation) enables new ways of working and new ways of learning. Digital transformation means that products, processes, and business models are digitized (e.g. transition vinyl record/compact disc/spotify, Airbnb as hotel company without buildings, Uber as taxi company without cars). To make use of this new possibilities digital skills have to be acquired by everybody. These skills can be learned with new methods like [Getting Things Done](https://gettingthingsdone.com/), [Personal Knowledge Mastery](https://jarche.com/pkm/), [Scrum](https://www.scrumguides.org/), [Holacracy](https://www.holacracy.org/constitution), and [Working Out Loud](https://workingoutloud.com/). One example: at the german engineering company Bosch 98% of employees practicing Working Out Loud say that the method helps to improve digital skills and support cultural change. You don't have to be a digital native to learn these skills. Everybody can learn them one small stepp at a time.
 
-lernOS will help you and your organization to develop necessary [21st century skills](https://learning.mozilla.org/en-US/web-literacy) like problem-solving, communication, creativity, and collaboration. You can use lernOS on your own or together with 3-4 other people in a [peer support](https://en.wikipedia.org/wiki/Peer_support) group called lernOS Circle.
+lernOS is an operating system for livelong learning and learning organizations. The name is derived from Esperanto (mi lernos: I will learn, ni lernos: We will learn). lernOS will help you and your organization to develop the necessary 21st century skills. lernOS can be used on individual, team, and organizational level. You can use lernOS just on your own or practice it in a group of 4-5 people called a lernOS Circle.
 
-lernOS is an operating system (OS) for livelong learning and learning organizations. The name is derived from the Esperanto verb "to learn". Like OKR lernOS can be used on personal, team, and individual level.
+This guide will help you to take the first steps on a lifelong journey.
 
 # lernOS Wheel - Mindset, Skillset, and Toolset as Success Factors
 
