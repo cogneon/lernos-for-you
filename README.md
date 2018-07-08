@@ -18,13 +18,11 @@ Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master
 * [The lernOS Guide - EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.epub) (E-Book)
 
 # Further Information
-* Learn about [Roots & Inspirations of lernOS](https://github.com/simondueckert/lernos/wiki) (in Wiki)
-* Join the open lernOS User Goup on Telegram (https://t.me/lernos) to ask questions, discuss ideas and exchange experiences. YOU learn, WE grow!
+* Follow [@lern_os on twitter](https://twitter.com/lern_os) to get the latest news and updates
+* Join [open lernOS User Goup on Telegram](https://t.me/lernos) to ask questions, discuss ideas and exchange experiences
+* Learn about [Roots & Inspirations of lernOS](https://github.com/simondueckert/lernos/wiki) in wiki
 * [lernOS Pitch Deck](https://slides.com/simondueckert/lernos) (there will be one in the near future :)
-* [lernOS Webpage](http://lernos.org) (German)
-* [lernOS @ Corporate Learning Camp 2017](https://cogneon.de/2017/10/02/lernos-session-auf-dem-corporate-learning-camp/) (German)
-* [lernOS @ Knowledge Camp 2017](https://cogneon.de/2017/09/15/lernos-session-auf-dem-knowledge-camp/) (German)
-* [LOL+ – A Tool for #WOL(TM) Circle Alumni and Knowledge Workers](https://cogneon.de/2018/05/24/wol-a-tool-for-wol-circle-alumni-and-knowledge-workers/) (part of lernOS)
+* Blogs: [lernOS@clc17](https://cogneon.de/2017/10/02/lernos-session-auf-dem-corporate-learning-camp/) (German), [lernOS@gkc17](https://cogneon.de/2017/09/15/lernos-session-auf-dem-knowledge-camp/) (German), [lernOS CANVAS – A Tool for #WOL Circle Alumni and Knowledge Workers](https://cogneon.de/2018/05/24/wol-a-tool-for-wol-circle-alumni-and-knowledge-workers/)
 
 # License
 lernOS is provided as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). Following the [Open Definition](https://opendefinition.org/) you can freely access, use, modify, and share it for any purpose (private/business, commercial/non-commercial).
