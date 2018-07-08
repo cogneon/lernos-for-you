@@ -1,1 +1,1 @@
-pandoc -s -o lernOS-mi-Guide-en.epub lernOS-mi-Guide-en.md
+pandoc -s -o lernOS-Guide-en.epub lernOS-Guide-en.md
