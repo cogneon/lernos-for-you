@@ -21,7 +21,7 @@ Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master
 * Follow [@lern_os on twitter](https://twitter.com/lern_os) to get the latest news and updates
 * Join [open lernOS User Goup on Telegram](https://t.me/lernos) to ask questions, discuss ideas and exchange experiences
 * Learn about [Roots & Inspirations of lernOS](https://github.com/simondueckert/lernos/wiki) in wiki
-* [lernOS Pitch Deck](https://slides.com/simondueckert/lernos) (there will be one in the near future :)
+* Use the [lernOS Pitch Deck](https://slides.com/simondueckert/lernos) to present lernOS (there will be one in the near future :)
 * Blogs: [lernOS@clc17](https://cogneon.de/2017/10/02/lernos-session-auf-dem-corporate-learning-camp/) (German), [lernOS@gkc17](https://cogneon.de/2017/09/15/lernos-session-auf-dem-knowledge-camp/) (German), [lernOS CANVAS – A Tool for #WOL Circle Alumni and Knowledge Workers](https://cogneon.de/2018/05/24/wol-a-tool-for-wol-circle-alumni-and-knowledge-workers/)
 
 # License
