@@ -31,7 +31,7 @@ lernOS is provided as [free cultural work](https://creativecommons.org/share-you
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-# Frequently Asked Questions
+# Frequently Asked Questions (FAQ)
 ## What is the current state of lernOS?
 lernOS is in alpha state and under heavy construction. Structure and content might change frequently. The version 1.0 of the lernOS guide will be released at 2018-09-17.
 
