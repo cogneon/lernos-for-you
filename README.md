@@ -38,5 +38,8 @@ lernOS is in alpha state and under heavy construction. Structure and content mig
 ## Can I use and modify lernOS?
 Yes you can and we want you to do it! That's why lernOS is released under a creative commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and follows the principles of the open definition. You can download, use, and modify it. You can use it in private and business contexts. You can create products and services with lernOS and provide support, training, coaching and professional services. You can also call yourself a lernOS coach, mentor, guide, trainer, circle facilitator etc.
 
+## Can I read the lernOS Guide on an ebook reader like the kindle?
+Yes. You have to get the email adress of your kindle in the preferences. Then download the Microsoft Word version an send it as an email attachement to your kindle.
+
 ## How can I contribute?
 There is no formalized way to contribute yet (e.g. become part of the development team). You can give feedback on twitter (#lernOS) or file an issue here on github. There will be more options in the near future.
