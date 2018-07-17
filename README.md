@@ -9,13 +9,13 @@ The **core of lernOS** is based on principles from [Getting Things Done](https:/
 
 ![The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-Canvas.png)
 
-Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-Canvas.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-Canvas.pptx), [PNG](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-Canvas.png)
+Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.pptx), [PNG](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.png)
 
 # The lernOS Guide
-* [The lernOS Guide - online](https://github.com/simondueckert/lernos/blob/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.md)
-* [The lernOS Guide - PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.pdf)
-* [The lernOS Guide - DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.docx) (Microsoft Word)
-* [The lernOS Guide - EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20mi%20Guide%20-%20en/lernOS-mi-Guide-en.epub) (E-Book)
+* [The lernOS Guide - online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md)
+* [The lernOS Guide - PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf)
+* [The lernOS Guide - DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) (Microsoft Word)
+* [The lernOS Guide - EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) (E-Book)
 
 # Further Information
 * Follow [@lern_os on twitter](https://twitter.com/lern_os) to get the latest news and updates
