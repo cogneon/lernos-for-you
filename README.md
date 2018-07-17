@@ -30,3 +30,16 @@ lernOS is provided as [free cultural work](https://creativecommons.org/share-you
 ![Free Cultural Works Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/240px-Approved-for-free-cultural-works.svg.png)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+# Frequently Asked Questions (FAQ)
+## What is the current state of lernOS?
+lernOS is in alpha state and under heavy construction. Structure and content might change frequently. The version 1.0 "Base" of the lernOS guide will be released at 2018-09-17. From then onwards lernOS will be [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) and grow with its users over time.
+
+## Can I use and modify lernOS?
+Yes you can and we want you to do it! That's why lernOS is released under a creative commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and follows the principles of the open definition. You can download, use, and modify it. You can use it in private and business contexts. You can create products and services with lernOS and provide support, training, coaching and professional services. You can also call yourself a lernOS coach, mentor, guide, trainer, circle facilitator etc.
+
+## Can I read the lernOS Guide on an ebook reader like the kindle?
+Yes. You have to get the email adress of your kindle in the preferences. Then download the Microsoft Word version an send it as an email attachement to your kindle.
+
+## How can I contribute?
+There is no formalized way to contribute yet (e.g. become part of the development team). You can give feedback on twitter (#lernOS) or file an issue here on github. There will be more options in the near future.
