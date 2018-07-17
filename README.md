@@ -7,15 +7,16 @@ lernos in **Esperanto** is the future tense of the verb "to learn" (mi lernos: I
 
 The **core of lernOS** is based on principles from [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), and [Working Out Loud](https://workingoutloud.com/en/circle-guides/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
 
-![The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.png)
-
-Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.pptx), [PNG](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.png)
-
-# The lernOS Guide
+# lernOS Guide
 * [The lernOS Guide - online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md)
 * [The lernOS Guide - PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf)
 * [The lernOS Guide - DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) (Microsoft Word)
 * [The lernOS Guide - EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) (E-Book)
+
+# lernOS Canvas
+![The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.png)
+
+Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.pptx), [PNG](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.png)
 
 # Further Information
 * Follow [@lern_os on twitter](https://twitter.com/lern_os) to get the latest news and updates
