@@ -1,0 +1,1 @@
+pandoc lernOS-Guide-en.md -o lernOS-Guide-en.pdf --from markdown --template lernOS
