@@ -1,3 +1,10 @@
+> Did your environment change a lot in the past and is still changing?
+> Is collaboration and mastering digital tools important for your success?
+> Do you have to learn new skills on an ongoing basis?
+> 
+> Then I wrote this guide for you
+> Simon Dueckert
+
 # Why lernOS?
 We live and work in a world of constant change. Due to technical progress with mechanization, mass produktion and automation people face change since a very long time. But with the invention of the digital technology we live in an age of digital transformation. And since computing power grows at an exponential rate also the change of our environment gets faster and faster.
 
