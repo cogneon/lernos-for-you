@@ -1,6 +1,6 @@
-> Did your environment change a lot in the past and is still changing?
-> Is collaboration and mastering digital tools important for your success?
-> Do you have to learn new skills on an ongoing basis?
+> Did your environment change a lot in the past and is still changing?<br/>
+> Is collaboration and mastering digital tools important for your success?<br/>
+> Do you have to learn new skills on an ongoing basis?<br/>
 > 
 > Then I wrote this guide for you
 > Simon Dueckert
