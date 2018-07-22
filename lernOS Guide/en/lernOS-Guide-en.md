@@ -62,7 +62,7 @@ In the **lernOS Weeks 1-12** there is 15-60 minute event called the lernOS Weekl
 ## Week 0 - Your True North
 When you are new to lernOS you will get to know each other in the Circle in week 0. You will plan the administrative stuff (when to meet, which tools to use, who is the facilitator) and you will also think about your ambitions in the long run (your true north). If you had a Circle before this week you should run an additional sprint retrospective (1-3 hours) with your Circle Members.
 
-**Agenda for Week 1:**
+**Agenda for Week 0:**
 * **Check-in:** Welcome Everybody! _(5 minutes)_
 * **Get together:** Who are you? Introduce yourself. Three minute timebox per Circle member. _(15 minutes)_
 * **Exercise:** [Your Future Backwards](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-future-backwards) _(25 minutes)_
