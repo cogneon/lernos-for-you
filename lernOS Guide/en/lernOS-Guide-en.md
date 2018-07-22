@@ -2,7 +2,7 @@
 > Is collaboration and mastering digital tools important for your success?<br/>
 > Do you have to learn new skills on an ongoing basis?<br/>
 > 
-> Then I wrote this guide for you
+> Then I wrote this guide for you<br/>
 > Simon Dueckert
 
 # Why lernOS?
