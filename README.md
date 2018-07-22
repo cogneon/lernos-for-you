@@ -11,10 +11,9 @@ The **core of lernOS** is based on principles from [Getting Things Done](https:/
 * Take part in survey [Your Experience with Working Out Loud](https://forms.office.com/Pages/ResponsePage.aspx?id=PGjhk_Rd_0aMWt5vYuGdXRSAz0xMR4xAqMImIIyMSRlUNTZRVzdRWVlBQUFNRU9SMldFWEZQNVIzUS4u) until 2018-08-30
 
 # lernOS Guide
-* [The lernOS Guide - online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md)
-* [The lernOS Guide - PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf)
-* [The lernOS Guide - DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) (Microsoft Word)
-* [The lernOS Guide - EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) (E-Book)
+| Language | Online | PDF | MS Word | eBook |
+|----------|--------|-----|---------|-------|
+| English (en) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) |
 
 # lernOS Canvas
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png)
