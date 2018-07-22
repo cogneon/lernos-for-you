@@ -214,7 +214,7 @@ What is the big picture in your (work) life? Can you explain the purpose of your
 
 **PRO TIP:** 30 minutes to run the future backwards in the Weekly is a very short timebox. If you want to have an in depth experience you should spent an extra 2-4 hours slot with the Circle Members to run the process.
 
-## Kata: lernOS Sprint Planning
+## [lernOS Sprint Planning](#lernos-sprint-planning)
 What are the major impediments for running a Circle and a Sprint? It is something as simple as event and time management. Having five people together for a one hour meeting per week is a big issue in practice. You should define the basic rules of running the Circle until the end of week 0.
 
 **Exercise:**
@@ -226,7 +226,7 @@ What are the major impediments for running a Circle and a Sprint? It is somethin
 1. Decide if you use further tools for communication (e.g. WhatsApp, Threema, Telegram, WeChat) and documentation (e.g. OneNote, Evernote). Discuss if everybody is able to use the chosen tools or if additional tool support is necessary in week 0-2.
 1. Everybody puts all Weeklys in the personal calendar ... NOW! :-)
 
-## Kata: Why Are You Here?
+## [Why Are You Here?](#why-are-you-here)
 What is your motivation for joining this lernOS Circle? Too often we try to change things by start using new
 methods and tools but the "Why" is unclear. Simon Sinek explained it in his TEDx Talk [How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) with the "Golden Circle": we should start with the "Why" and then think about the "How" and the "What".
 
@@ -236,7 +236,7 @@ methods and tools but the "Why" is unclear. Simon Sinek explained it in his TEDx
 1. Complete the sentence "I joined this circle because ...".
 1. Talk about your reasons in the circle.
 
-## Kata: My Objective(s) For The Next 12 weeks
+## [My Objective(s) For The Next 12 weeks](#my-objectives-for-the-next-12-weeks)
 What do you want to accomplish in the next 12 weeks? Pick an objective (max. 5) that you really, really care about and you can make progress towards in the sprint. How can you see or feel that you make progress towards your objective(s)? To help you to track progress define 2-5 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure to set yourself ambitious gouls a completion rate of 0.7 is regarded as a success.
 
 **Exercise:**
@@ -245,7 +245,7 @@ What do you want to accomplish in the next 12 weeks? Pick an objective (max. 5) 
 1. Write down your objectives and 2-5 key results per objective. An example format might be "I will ... as measured by ...".
 1. Talk about your objective(s) in the circle.
 
-## Kata: People Related To Your Objective(s)
+## [People Related To Your Objective(s)](#people-related-to-your-objectives)
 Most tasks we do have been done by others before. Most of the mistakes we make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives by getting in touch with people inside and outside your organization. To build strong relationships is based on trust and sharing. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) said "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you". So how do you get in touch with people related to your objective(s)?
 
 **Exercise:**
@@ -254,7 +254,7 @@ Most tasks we do have been done by others before. Most of the mistakes we make, 
 1. Use your contact lists or internal and external social networks you use to find more people.
 1. Explain your list to the other circle members and let them help to complete it.
 
-## Kata: Strong Or Weak Ties?
+## [Strong Or Weak Ties?](#strong-or-weak-ties)
 How strong is the relationship to the people related to your objective(s)? The connection between people in a social network can be defined by the amount of time spent together, the emotional intensity, the level of intimacy and trust, and the reciprocal services (helping each other). There are three levels [interpersonal ties](https://en.wikipedia.org/wiki/Interpersonal_ties) can have:
 
 1. **Absent:** you don't know each other
@@ -266,7 +266,7 @@ How strong is the relationship to the people related to your objective(s)? The c
 1. Take your relationship list and grade every relationship as 1 (strong), 2 (weak), or 3 (absent) to get an idea which relationships should be deepened in the future.
 1. Mark the relationships that you want to deepen in the future.
 
-## Kata: Your First Sharing Experience
+## [Your First Sharing Experience](#your-first-sharing-experience)
 Sharing is caring! In the digital world sharing is often seen as giving others access to files or digital content in an online space. But it can also be as simple sharing your attention with another person by following him, liking his content or subscribing to his website. By sharing you deepen your relationships with every contribution you make and the people in your network will be more willing to support you with your objectives. Knowledge assets and digital assets have one thing in common: they are resources that increase through use! Hint: be careful of legal and data protection issues if you share knowledge or content from your organization with externals.
 
 **Exercise:**
@@ -275,7 +275,7 @@ Sharing is caring! In the digital world sharing is often seen as giving others a
 1. Look for possibilities to share some attention. This might be a follow button, a like button, a subscribe field, a five star rating, a comment field or a contact form.
 1. Discuss your contributions in the circle.
 
-## Kata: An Appointment With Yourself
+## [An Appointment With Yourself](#an-appointment-with-yourself)
 Do you spend enough time for your personal development and for working on your personal objectives? A lot of people are busy with their day to day business and do not care enough for their strategic development and their well being. A good approach is to make an appointment with yourself and reserve that time in your calender so nobody else can invite you then. A friday afternoon or any other day with no regular meetings might work well.
 
 **Exercise:**
@@ -284,7 +284,7 @@ Do you spend enough time for your personal development and for working on your p
 1. Put an appointment with yourself in the calender. If possible make it a recurring event so taking time for yourself can become a habit.
 1. Discuss the individual approaches in the Circle.
 
-## Kata: Use Web-Scale Networking
+## [Use Web-Scale Networking](#use-web-scale-networking)
 When you interact with indivdual people you grow your network over time. But when interact with whole groups or communities you can scale your reach. You become visible to more and more people and your contributions bring value to the group. Examples of such groups are online communities, communities of practice, user groups, discussion forums, and regular meetups.
 
 **Exercise:**
@@ -293,7 +293,7 @@ When you interact with indivdual people you grow your network over time. But whe
 1. Discuss your list of groups with your Circle and get more suggestions.
 1. Make a small contribution to at least one of the groups.
 
-## Kata: Practice Social Praise
+## [Practice Social Praise](#practice-social-praise)
 How does it feel if someone uses your knowledge or your content and just says "thank you" afterwards? Almost everybody does appreciate this. So it's a good habit not take any content and contributions out there for granted but be thankful and express your thankfulness at least from time to time.
 
 **Exercise:**
@@ -301,7 +301,7 @@ How does it feel if someone uses your knowledge or your content and just says "t
 1. Think of two examples where knowledge or content from another person helped you to reach your objectives.
 1. Create a message (one private and one public) to express your thankfulness towards this person. This could be an private e-mail message and/or a comment in a blog or social profile.
 
-## Kata: Tone Of Voice In Online communication
+## [Tone Of Voice In Online Communication](#tone-of-voice-in-online-communication)
 Do you have the same tone when you communication online then you have in real life? Do you write emails with the same tone like you would talk to the persone in a face-to-face meeting? Often the tone in online communication is tougher and more rude than it should be. This is true for emails, messages, discussion forums and blog comments. It is a barrier for devolopping trust and a supportive network.
 
 **Exercise:**
@@ -309,7 +309,7 @@ Do you have the same tone when you communication online then you have in real li
 1. Image that you are the sender. What kind of message whould have increased the chance to get a valuable answer?
 1. Discuss the examples in the Circle.
 
-## Kata: Sharing A Useful Resource
+## [Sharing A Useful Resource](#sharing-a-useful-resource)
 When was the last time you shared a valuable resource with a person or group without beeing asked for it? How could you present such a resource in a way to draw someone's attention to you?
 
 **Exercise:**
@@ -318,7 +318,7 @@ When was the last time you shared a valuable resource with a person or group wit
 1. Find at least three people on the list that will be interested in the resource.
 1. Send a message to these people with the resource attached or a link to the resource. Explain the context and why you send the message and also why you think the resource might be valuable for the recipient.
 
-## Kata: 25 Random Things About Me
+## [25 Random Things About Me](#25-random-things-about-me)
 What are interesting facts about you that might help you to connect with other people? If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you in networking to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!"). Random things about yourself might include:
 
 * Life experiences
@@ -341,7 +341,7 @@ What are interesting facts about you that might help you to connect with other p
 1. Then expand your list to 25 things.
 1. Share the facts about you in the circle. You could do this by giving your list around and let other circle members write associations and connections on it.
 
-## Kata: Contribute Your Self
+## [Contribute Your Self](#contribute-your-self)
 Not all contributions in your network have to be about your objectives. Sometimes it's good to share something about yourself to make a personal connection. The list of facts about yourself might help to find interesting links to other people. Try to find these possible links and use them to make a connection.
 
 **Exercise:**
@@ -349,7 +349,7 @@ Not all contributions in your network have to be about your objectives. Sometime
 1. Go through your facts about you and find at least one fact that might be of interest for a person on your relationship list.
 2. Write a message to that person and try to deepen the relationship with that fact as contribution.
 
-## Kata: Go Google Yourself!
+## [Go Google Yourself!](#go-google-yourself)
 What do people see when they search for you on the internet? Do they get an idea of who you are, what your objectives are and how they might help you? You can simulate that search by googling yourself, often called egosurfing, egosearching or vanity search.
 
 **Exercise:**
@@ -358,7 +358,7 @@ What do people see when they search for you on the internet? Do they get an idea
 1. Open at least the first 10 search results and check if your personality, your offerings and your objectives are represented in the way you want them to be.
 1. Think about what your main online profile might be (e.g. LinkedIn profile, about.me profile or profile in your enterprise social network). This will be called your "digital twin" that represents you online.
 
-## Kata: Update Your Digital Twin
+## [Update Your Digital Twin](#update-your-digital-twin)
 Does your main online profile or your "digital twin" represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects, current interests, key knowledge domains, and objectives you need support for should be visible on that profile.
 
 **Exercise:**
@@ -369,7 +369,7 @@ Does your main online profile or your "digital twin" represent you in the way yo
 1. Update your digital twin and put a regular task for updating in your calender.
 
 
-## Kata: Spend Time On Making Connections
+## [Spend Time On Making Connections](#spend-time-on-making-connections)
 How do you connect with other people on social networks? Of courcse there is a connect button or invite button in all the networks but to just use the default message is not a very polite way to connect with strangers. Most social networks provide features to customize the message when connecting. You should always use this option.
 
 **Exercise:**
@@ -378,7 +378,7 @@ How do you connect with other people on social networks? Of courcse there is a c
 1. Search that person in social networks on the internet or intranet.
 1. Connect with the person and write a customized message (add information like: Why do I connect? What do I appreciate? What do I have to offer?)
 
-## Kata: Write A Letter To Your Future Self
+## [Write A Letter To Your Future Self](#write-a-letter-to-your-future-self)
 The letter to your future self is a classic method in self motivation and visioning. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. With the letter in the back of your mind chances are that your wishes become a [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
 
 **Exercise:**
@@ -387,7 +387,7 @@ The letter to your future self is a classic method in self motivation and vision
 1. Seal the letter and store it in a safe place or use services like [futureme.org](https://futureme.org) to send it to your future self.
 1. If you want to share the letter with your Circle members just read it out loud afterwards.
 
-## Kata: Share Your Objectives
+## [Share Your Objectives](#share-your-objectives)
 A good way to let other connect with your to help you with your objectives is to make your objectives visible openly. You can do this by putting them on your online profiles or writing a status update about it. You do not have to share any objectives but the ones others might be of help with their knowledge and experiences.
 
 **Exercise:**
@@ -396,7 +396,7 @@ A good way to let other connect with your to help you with your objectives is to
 1. Check the social networks you use to find the options for documenting your objectives there.
 1. Put your objectives on your online profiles. If you know people that might help already notify them by using the @mention function if available.
 
-## Kata: Stop Procrastination!
+## [Stop Procrastination!](#stop-procrastination)
 Do you sometimes feel like you voluntarily delay an intended course of action despite expecting to be worse off for the delay? That is the definition of [procrastination](https://en.wikipedia.org/wiki/Procrastination). Estimations are that more than 90% of the people procrastinate. To overcome procrastination there are some counter measures listed in the Wikipedia:
 
 * Be aware of habits and thoughts that lead to procrastinating.
@@ -415,7 +415,7 @@ Do you sometimes feel like you voluntarily delay an intended course of action de
 1. Go through the list of procrastination counter measures and identify the ones that might help you.
 1. For each identified counter measer write down how it might help you to make progress.
 
-## Kata: Create Your Own Burn Down Chart
+## [Create Your Own Burn Down Chart](#create-your-own-burn-down-chart)
 How do you see if you make progress towards your objectives? In agile project management [burn down charts](https://en.wikipedia.org/wiki/Burn_down_chart) are used to represent progress in a graphical way. On a burn down chart the completed tasks are tracked over time. You start with the sum of tasks and reach zero if any task is completed.
 
 **Exercise:**
@@ -423,8 +423,7 @@ How do you see if you make progress towards your objectives? In agile project ma
 1. Think about how you can use a burn down chart to measure and visualize progress towards your objectives. This might be the measurable key results the tasks you need to do to create the results.
 1. You can use paper or pen or any software that supports task tracking in a visual way.
 
-
-## Kata: Help Others To Connect
+## [Help Others To Connect](#help-others-to-connect)
 Did you ever use social networks to connect people with each other? Most internal and external social networks support this feature. You can pick two profiles and use a function to introduce people to each other. You might do it directly or ask ther persons for permission upfront.
 
 **Exercise:**
@@ -433,7 +432,7 @@ Did you ever use social networks to connect people with each other? Most interna
 1. Check your relationship list to see who might profit from knowing each other.
 1. Decide if you want to ask for permission first or just introduce the selected persons.
 
-## Kata: Your Top 10 Assets
+## [Your Top 10 Assets](#your-top-10-assets)
 What are the most valuable assets related to your objectives that you might share? An asset could be a book, a video, a link, a document, a checklist, a presentation etc. When you organize your assets in a way they are linkable and shareble it will be easy for you to contribute them to your network.
 
 **Exercise:**
@@ -441,7 +440,7 @@ What are the most valuable assets related to your objectives that you might shar
 1. Chose one of your objectives and list at least ten related assets you find useful or interesting. You can write them down on paper or put it in your memex.
 1. Present the Top 10 lists in the Circle and let Circle help to extend it.
 
-## Kata: The Dinner Table University
+## [The Dinner Table University](#the-dinner-table-university)
 Do you use informal situations like lunch to learn? Leo Buscaglia called this the [Dinner Table University](http://unprovenpervert.blogspot.com/2008/05/our-dinner-table-university-by-leo.html). His father said "There is so much to learn. Though we're born stupid, only the stupid remain that way". After the dinner the father asked the children "Tell me what you learned today". This way every meal becomes a learning opportunity as well. In business you can practice this with methods Lunch&Learn or Walk&Talk.
 
 **Exercise:**
@@ -450,7 +449,7 @@ Do you use informal situations like lunch to learn? Leo Buscaglia called this th
 1. Share the learning in the Circle one Circle member after the other.
 1. Discuss if you want to share these learning in a social networking on an ongoing basis.
 
-## Kata: What Can I Contribute?
+## [What Can I Contribute?](#what-can-i-contribute)
 Do you have a clear idea what you can contribute to your network? Often we do not contriute because we don't know what to share or write. [Research shows](https://www.researchgate.net/publication/259390661_The_Contextual_Nature_of_Enterprise_Social_Networking_A_Multi_Case_Study_Comparison) that there are typical activities in social networks you could use as a checklist for your contributions:
 
 * **Discussion and opinion:** Users discuss general matters, current affairs, politics, industryrelated news, etc. in social networks.
@@ -472,7 +471,7 @@ on tasks that need to be staffed, or ask for task assignments and offer spare ca
 1. For every point in the checklist above write down what your possible contributions for the future might be.
 1. Discuss your list in the Circle and let the others support you to enhance the list.
 
-## Kata: My Networking And Sharing Time
+## [My Networking And Sharing Time](#my-networking-and-sharing-time)
 Do you have a timeslot blocked in your calendar for networking with people and sharing in your network? Do you have a clear idea with whom to network when there is a sudden free slot in a full packed day? If you have clear timeslots and ideas when to network and what to share it will be much easier for you to make networking and sharing a habit.
 
 **Exercise:**
@@ -481,7 +480,7 @@ Do you have a timeslot blocked in your calendar for networking with people and s
 1. Go through your relationship list an pick people with whom you would like to network in the near future.
 1. Add these contacts on a networking checklist or put them in the entries of your calendar.
 
-## Kata: Try this crazy method called "asking"!
+## [Try this crazy method called "asking"!](#try-this-crazy-method-called-asking)
 Do you sometimes have the feeling that you could use some information, advice, or experience from somebody else? Instead of waiting and hoping try this crazy method called "asking"! If you think of some benefit the other person might have in return you normally get the support you need.
 
 **Exercise:**
@@ -490,7 +489,7 @@ Do you sometimes have the feeling that you could use some information, advice, o
 1. Formulate a message that invites the other person to help you.
 1. Discuss the messages in the Circle.
 
-## Kata: Find Communities Related To Your Objectives
+## [Find Communities Related To Your Objectives](#find-communities-related-to-your-objectives)
 A tribe [according to Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead) is a group of people connected to one another, connected to a leader, and connected to an idea. Instead of tribe the term "community" or "community of practice" is often used. A group needs only two things to be a tribe: a shared interest and a way to communicate. Tribes need leadership. Sometimes one person leads, sometimes more. People want connection and growth and something new. They want change. Which are the tribes connected to your objectives?
 
 **Exercise:**
@@ -498,7 +497,7 @@ A tribe [according to Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tr
 1. Think about and look for communities that are related to your objectives. List at least 5.
 1. Talk about your lists in the Circle and let the others help you to complete your list.
 
-## Kata: Who Are The First And Second Dancers?
+## [Who Are The First And Second Dancers?](#who-are-the-first-and-second-dancers)
 You can’t have a tribe without a leader - and you can’t be a leader without a tribe. Are you able to identify the leader of the tribes related to your objectives? Who was the first person that started the movement. Which people were joining the tribe at an early stage.
 
 **Exercise:**
@@ -507,7 +506,7 @@ You can’t have a tribe without a leader - and you can’t be a leader without 
 1. Now pick the community from your list that is most closely related to your objective.
 1. Try to find out as much as possible about that community? Who started it? Who joined early? What are the core messages? What are the ways to interact? What are the possibilities for you to join the community.
 
-## Kata: Do You Want To Start Your Own Community?
+## [Do You Want To Start Your Own Community?](#do-you-want-to-start-your-own-community)
 Can you imagine to start your own tribe or community? If you cannot find a community related to your objectives perhaps you have to start a new one. As you saw in examples you searched for it is possible to start your own if necessary. If so you will be the first dancer and have to think about the time and place where to start your tribe.
 
 **Exercise:**
@@ -517,7 +516,7 @@ Can you imagine to start your own tribe or community? If you cannot find a commu
 1. Create a list of people that might be your "second dancers".
 1. Discuss the results in the Circle.
 
-## Kata: Your Eureka Moment
+## [Your Eureka Moment](#your-eureka-moment)
 The [eureka moment](https://en.wikipedia.org/wiki/Eureka_effect) refers to the common human experience of suddenly understanding a previously incomprehensible problem or concept. When you think back to the first weeks of your Circle, what changed since then? What insights did you gain with regard to your objectives, your values, your relationships and your work practices.
 
 **Exercise:**
@@ -525,7 +524,7 @@ The [eureka moment](https://en.wikipedia.org/wiki/Eureka_effect) refers to the c
 1. Describe your eureka moment in one sentance (e.g. "Since I practice lernOS, I ...").
 1. Present your eureka moment in the Circle.
 
-## Kata: Create Your Time Capsule
+## [Create Your Time Capsule](#create-your-time-capsule)
 A [time capsule](https://en.wikipedia.org/wiki/Time_capsule) is a cache of goods or information, usually intended as a method of communication with future people - like your future self. Like the letter to your future self a time capsule can be used to support the [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy): what you put in the time capsule will become reality in the future.
 
 **Exercise:**
@@ -533,7 +532,7 @@ A [time capsule](https://en.wikipedia.org/wiki/Time_capsule) is a cache of goods
 1. Who do you want to be then? What skills do you want to have developped? What relationships do you want to have? Write it down on paper or in a digital format.
 1. Put it in a phyiscal time capsule and write the date to open in on the capsule. If you do it the digital way you can use services like [futureme.org](https://www.futureme.org/) or just put an event with the content in your calendar.
 
-## Kata: Repetition Is The Key To Mastery
+## [Repetition Is The Key To Mastery](#repetition-is-the-key-to-mastery)
 Be honest: when you started your first sprint did you think something like "OMG 13 weeks ... so long"? But you were able to finish the sprint on your own or together with your Circle. But to develop mastery in the digital connected knwowledge society of the 21st century you have to continue to practice. To become an [expert](https://en.wikipedia.org/wiki/Expert) in a domain it might take 10.000 hours or 10 years. So you have to keep calm & learn on!
 
 **Exercise:**
