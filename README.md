@@ -13,8 +13,20 @@ The **core of lernOS** is based on principles from [Getting Things Done](https:/
 # lernOS Guide
 | Language | Online | PDF | MS Word | eBook |
 |----------|--------|-----|---------|-------|
+| Chinese (zh) | Online | PDF | DOCX | EPUB |
+| Spanish (es) | Online | PDF | DOCX | EPUB |
 | English (en) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) |
+| Hindi (hi) | Online | PDF | DOCX | EPUB |
+| Arabic (ar) | Online | PDF | DOCX | EPUB |
+| Portugese (pt) | Online | PDF | DOCX | EPUB |
+| Bengali (bn) | Online | PDF | DOCX | EPUB |
+| Russian (ru) | Online | PDF | DOCX | EPUB |
+| Japanese (ja) | Online | PDF | DOCX | EPUB |
+| Punjabi (pa) | Online | PDF | DOCX | EPUB |
 | German (de) | Online | PDF | DOCX | EPUB |
+| French (fr) | Online | PDF | DOCX | EPUB |
+| Turkish (tr) | Online | PDF | DOCX | EPUB |
+| Italian (it) | Online | PDF | DOCX | EPUB |
 
 # lernOS Canvas
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png)
