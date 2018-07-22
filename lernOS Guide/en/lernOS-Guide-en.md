@@ -180,7 +180,7 @@ In this week the first iteration of your key results should be available. Talk a
 
 The **lernOS Canvas** ([PDF](lernOS-mi-Canvas.pdf)) uses a similar structure as the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) by Alex Osterwalder. It can be used to systematically go through the elements of lernOS and create your personal management system with a strong focus on knowledge and learning.
 
-![lernOS Canvas](lernOS-Canvas.png)
+![lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.png)
 
 The basic elements of the lernOS Canvas are:
 
@@ -397,7 +397,7 @@ A good way to let other connect with your to help you with your objectives is to
 1. Put your objectives on your online profiles. If you know people that might help already notify them by using the @mention function if available.
 
 ## Kata: Stop Procrastination!
-Do you sometimes feel like you voluntarily delay an intended course of action despite expecting to be worse off for the delay? That is the definition of [procrastination](https://en.wikipedia.org/wiki/Procrastination). Estimations are that more than 90% of the people procrastinate. To overcome procrastination there are some counter measures listed in the wikipedia:
+Do you sometimes feel like you voluntarily delay an intended course of action despite expecting to be worse off for the delay? That is the definition of [procrastination](https://en.wikipedia.org/wiki/Procrastination). Estimations are that more than 90% of the people procrastinate. To overcome procrastination there are some counter measures listed in the Wikipedia:
 
 * Be aware of habits and thoughts that lead to procrastinating.
 * Seek help for self-defeating problems such as fear, anxiety, difficulty in concentrating, poor time management, indecisiveness, and perfectionism.
