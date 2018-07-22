@@ -63,6 +63,7 @@ In the **lernOS Weeks 1-12** there is 15-60 minute event called the lernOS Weekl
 When you are new to lernOS you will get to know each other in the Circle in week 0. You will plan the administrative stuff (when to meet, which tools to use, who is the facilitator) and you will also think about your ambitions in the long run (your true north). If you had a Circle before this week you should run an additional sprint retrospective (1-3 hours) with your Circle Members.
 
 **Agenda for Week 0:**
+
 * **Check-in:** Welcome Everybody! _(5 minutes)_
 * **Get together:** Who are you? Introduce yourself. Three minute timebox per Circle member. _(15 minutes)_
 * **Exercise:** [Your Future Backwards](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-future-backwards) _(25 minutes)_
@@ -73,6 +74,7 @@ When you are new to lernOS you will get to know each other in the Circle in week
 In this week you choose your objective(s) for this sprint. The objective(s) might change or sharpen in the next two weeks but not throughout the whole sprint. You will also start to think about people who might help you with your objective(s). Working alone is addition, working together is multiplication.
 
 **Agenda for Week 1:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Why Are You Here? _(10 minutes)_
 * **Exercise:** My Objective(s) For The Next 12 weeks _(25 minutes)_
@@ -83,6 +85,7 @@ In this week you choose your objective(s) for this sprint. The objective(s) migh
 In this week you will reflect on the quantity and quality of the relationships related to your objective(s). You will also start to share attention, knowledge, experiences, and assets with your network to build trust and get support.
 
 **Agenda for Week 2:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Strong Or Weak Ties? _(5 minutes)_
 * **Exercise:** Your First Sharing Experience _(40 minutes)_
@@ -92,6 +95,7 @@ In this week you will reflect on the quantity and quality of the relationships r
 In this week you will make sure that you have enough time for networking, sharing, and caring for your network. You will do this by making appointments with yourself in your calendar. You will also think about how to use the intranet oder internet to scale your impact.
 
 **Agenda for Week 3:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** An Appointment With Yourself _(15 minutes)_
 * **Exercise:** Use Web-Scale Networking _(15 minutes)_
@@ -102,6 +106,7 @@ In this week you will make sure that you have enough time for networking, sharin
 In this week your objective(s) should be stable and you should have a clear idea which people in the network (known or unknown) might help you to get your work done. Take this week for a short "pitstop" to reflect if everything works well for you and the circle. The next four weeks you will focus to work on the first iteration  of your key results.
 
 **Agenda for Week 4:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Tone Of Voice In Online communication _(15 minutes)_
 * **Exercise:** Sharing A Useful Resource _(30 minutes)_
@@ -111,6 +116,7 @@ In this week your objective(s) should be stable and you should have a clear idea
 In this week the work on the first iteration of your key results should have started. The goal is to have a "minimal viable product" (MVP) by the end of week 8. You will also start to think about which facts and personal information might be relevant for your network.
 
 **Agenda for Week 5:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** 25 Random Facts About Me _(25 minutes)_
 * **Exercise:** Contribute Your Self _(20 minutes)_
@@ -120,6 +126,7 @@ In this week the work on the first iteration of your key results should have sta
 In this week you will look yourself up in the intranet and/or internet. If your digital twins (e.g. website, blog, profile) do not match your findings from last week you will go out and update them.
 
 **Agenda for Week 6:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Go Google Yourself! _(10 minutes)_
 * **Exercise:** Upate Your Digital Twin _(20 minutes)_
@@ -130,6 +137,7 @@ In this week you will look yourself up in the intranet and/or internet. If your 
 In this week you will work on finishing the first iteration of your minimal viable product. You will also start see yourself in the future by writing a letter to your future self. You will help your network to support you by making your vision and your objective(s) visible on your online profiles.
 
 **Agenda for Week 7:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Write A Letter To Your Future Self _(35 minutes)_
 * **Exercise:** Share Your Objectives _(10 minutes)_
@@ -139,6 +147,7 @@ In this week you will work on finishing the first iteration of your minimal viab
 In this week the first iteration of your key results should be available. Talk about them or show them in the check-in. When you experienced that you procrastinated to work on your key results you will learn about some "counter measures".
 
 **Agenda for Week 8:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Stop Procrastination! _(20 minutes)_
 * **Exercise:** Create Your Own Burn Down Chart _(10 minutes)_
@@ -147,6 +156,7 @@ In this week the first iteration of your key results should be available. Talk a
 
 ## Week 9
 **Agenda for Week 9:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Your Top 10 Assets _(30 minutes)_
 * **Exercise:** The Dinner Table University _(15 minutes)_
@@ -154,6 +164,7 @@ In this week the first iteration of your key results should be available. Talk a
 
 ## Week 10
 **Agenda for Week 10:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** What Can I Contribute? _(20 minutes)_
 * **Exercise:** My Networking And Sharing Time _(10 minutes)_
@@ -162,6 +173,7 @@ In this week the first iteration of your key results should be available. Talk a
 
 ## Week 11
 **Agenda for Week 11:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Find Communities Related To Your Objectives _(15 minutes)_
 * **Exercise:** Who Are The First And Second Dancers? _(15 minutes)_
@@ -170,6 +182,7 @@ In this week the first iteration of your key results should be available. Talk a
 
 ## Week 12 - Reflect And Celebrate
 **Agenda for Week 12:**
+
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** Your Eureka moment _(15 minutes)_
 * **Exercise:** Create Your Time Capsule _(15 minutes)_
