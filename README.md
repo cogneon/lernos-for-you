@@ -7,6 +7,8 @@ lernos in **Esperanto** is the future tense of the verb "to learn" (mi lernos: I
 The **core of lernOS** is based on principles from [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), and [Working Out Loud](https://workingoutloud.com/en/circle-guides/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
 
 # lernOS News
+Follow [@lern_os](https://twitter.com/lern_os) on Twitter or join the open [lernOS User Goup](https://t.me/lernos) on Telegram to get the latest news and discuss with others.
+
 * Take part in survey [Your Experience with Working Out Loud](https://forms.office.com/Pages/ResponsePage.aspx?id=PGjhk_Rd_0aMWt5vYuGdXRSAz0xMR4xAqMImIIyMSRlUNTZRVzdRWVlBQUFNRU9SMldFWEZQNVIzUS4u) until 2018-08-30
 
 # lernOS Guide
@@ -31,19 +33,16 @@ The **core of lernOS** is based on principles from [Getting Things Done](https:/
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png)
 
 | Language | PDF | MS PowerPoint | PNG |
-|----------|-----|---------------|-----
+|----------|-----|---------------|-----|
 | English (en) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pdf) | [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pptx) | [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png) |
 
 # lernOS Tutorials
 
 * [How to the lernOS Canvas in WOL Circles](https://github.com/simondueckert/lernos/wiki/How-to-use-the-lernOS-Canvas-in-WOL-Circles) ([Video](https://youtu.be/7a1Vq7ism5Y))
 
-# Further Information
-* Follow [@lern_os on twitter](https://twitter.com/lern_os) to get the latest news and updates
-* Join [open lernOS User Goup on Telegram](https://t.me/lernos) to ask questions, discuss ideas and exchange experiences
-* Learn about [Roots & Inspirations of lernOS](https://github.com/simondueckert/lernos/wiki) in wiki
-* Use the [lernOS Pitch Deck](https://slides.com/simondueckert/lernos) to present lernOS (there will be one in the near future :)
-* Blogs: [lernOS@clc17](https://cogneon.de/2017/10/02/lernos-session-auf-dem-corporate-learning-camp/) (German), [lernOS@gkc17](https://cogneon.de/2017/09/15/lernos-session-auf-dem-knowledge-camp/) (German), [lernOS CANVAS – A Tool for #WOL Circle Alumni and Knowledge Workers](https://cogneon.de/2018/05/24/wol-a-tool-for-wol-circle-alumni-and-knowledge-workers/)
+# More Food For Thought
+* [lernOS Wiki](https://github.com/simondueckert/lernos/wiki) e.g. with roots & inspirations of lernOS
+* Blog [lernOS CANVAS – A Tool for #WOL Circle Alumni and Knowledge Workers](https://cogneon.de/2018/05/24/wol-a-tool-for-wol-circle-alumni-and-knowledge-workers/)
 
 # License
 lernOS is provided as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). Following the [Open Definition](https://opendefinition.org/) you can freely access, use, modify, and share it for any purpose (private/business, commercial/non-commercial).
