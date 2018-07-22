@@ -214,7 +214,7 @@ If you do not have any tool at hand, you can download and use the [TiddlyWiki-Ve
 
 How do you become a great musician? It's good to know the theory and to understand the mechanic of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a cataloque of exercises called "Katas" to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops (e.g. a lernOS Dojo).
 
-## Kata: Your Future Backwards
+## [Your Future Backwards](#your-future-backwards)
 What is the big picture in your (work) life? Can you explain the purpose of your day-to-day activities in one sentence? A good exercise to get a clear picture is a combination of [The Future Backwards](http://cognitive-edge.com/methods/the-future-backwards/) by Dave Snowden and the [Golden Circle](https://www.youtube.com/watch?v=IPYeCltXpxw) by Simon Sinek. This can be done in a group (e.g. departement or project team) or on your own. In a very short timebox you look at your current state, your past, your desired future (vision), your anti-vision, and the major milestones towards your desired future.
 
 **Exercise:**
