@@ -7,6 +7,9 @@ lernos in **Esperanto** is the future tense of the verb "to learn" (mi lernos: I
 
 The **core of lernOS** is based on principles from [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), and [Working Out Loud](https://workingoutloud.com/en/circle-guides/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
 
+# News
+* Take part in survey [Your Experience with Working Out Loud](https://forms.office.com/Pages/ResponsePage.aspx?id=PGjhk_Rd_0aMWt5vYuGdXRSAz0xMR4xAqMImIIyMSRlUNTZRVzdRWVlBQUFNRU9SMldFWEZQNVIzUS4u) until 2018-08-30
+
 # lernOS Guide
 * [The lernOS Guide - online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md)
 * [The lernOS Guide - PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf)
