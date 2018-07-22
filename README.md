@@ -17,9 +17,9 @@ The **core of lernOS** is based on principles from [Getting Things Done](https:/
 * [The lernOS Guide - EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) (E-Book)
 
 # lernOS Canvas
-![The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.png)
+![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png)
 
-Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.pptx), [PNG](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Canvas.png)
+Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pptx), [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png)
 
 # Further Information
 * Follow [@lern_os on twitter](https://twitter.com/lern_os) to get the latest news and updates
