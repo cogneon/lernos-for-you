@@ -69,147 +69,112 @@ When you are new to lernOS you will get to know each other in the Circle in week
 * **Exercise:** lernOS Sprint Planning _(10 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-Topic | Timebox
------------ | -------
-**Check-in:** Welcome Everybody! | 5''
-**Get together:** Who are you? Introduce yourself. Three minute timebox per Circle member. | 15''
-**lernOS Katas:** |
-Your Future Backwards | 25''
-lernOS Sprint Planning | 10''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
-
 ## Week 1 - Your Sprint Objective(s)
 In this week you choose your objective(s) for this sprint. The objective(s) might change or sharpen in the next two weeks but not throughout the whole sprint. You will also start to think about people who might help you with your objective(s). Working alone is addition, working together is multiplication.
 
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**lernOS Katas:** |
-Why Are You Here? | 10''
-My Objective(s) For The Next 12 weeks |25''
-People Related To Your Objective(s) | 20''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 1:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Why Are You Here? _(10 minutes)_
+* **Exercise:** My Objective(s) For The Next 12 weeks _(25 minutes)_
+* **Exercise:** People Related To Your Objective(s) _(20 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 2 - Sharing Is Caring
 In this week you will reflect on the quantity and quality of the relationships related to your objective(s). You will also start to share attention, knowledge, experiences, and assets with your network to build trust and get support.
 
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**lernOS Katas:** |
-Strong Or Weak Ties? | 5''
-Your First Sharing Experience | 40''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
-
-Strong And Weak Ties
+**Agenda for Week 2:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Strong Or Weak Ties? _(5 minutes)_
+* **Exercise:** Your First Sharing Experience _(40 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 3 - Use The Network Effect
 In this week you will make sure that you have enough time for networking, sharing, and caring for your network. You will do this by making appointments with yourself in your calendar. You will also think about how to use the intranet oder internet to scale your impact.
 
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**lernOS Katas:** |
-An Appointment With Yourself | 15''
-Use Web-Scale Networking | 15''
-Practice Social Praise | 15''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 3:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** An Appointment With Yourself _(15 minutes)_
+* **Exercise:** Use Web-Scale Networking _(15 minutes)_
+* **Exercise:** Practice Social Praise _(15 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 4 - Pitstop 1
 In this week your objective(s) should be stable and you should have a clear idea which people in the network (known or unknown) might help you to get your work done. Take this week for a short "pitstop" to reflect if everything works well for you and the circle. The next four weeks you will focus to work on the first iteration  of your key results.
 
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-Tone Of Voice In Online communication | 15''
-Sharing A Useful Resource | 30''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 4:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Tone Of Voice In Online communication _(15 minutes)_
+* **Exercise:** Sharing A Useful Resource _(30 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 5 - Who Am I?
 In this week the work on the first iteration of your key results should have started. The goal is to have a "minimal viable product" (MVP) by the end of week 8. You will also start to think about which facts and personal information might be relevant for your network.
 
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-25 Random Facts About Me | 25''
-Contribute Your Self | 20''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 5:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** 25 Random Facts About Me _(25 minutes)_
+* **Exercise:** Contribute Your Self _(20 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 6 - Update Your Digital Twin
 In this week you will look yourself up in the intranet and/or internet. If your digital twins (e.g. website, blog, profile) do not match your findings from last week you will go out and update them.
 
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-Go Google Yourself! | 10''
-Upate Your Digital Twin | 20''
-Spend Time On Making Connections | 15''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 6:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Go Google Yourself! _(10 minutes)_
+* **Exercise:** Upate Your Digital Twin _(20 minutes)_
+* **Exercise:** Spend Time On Making Connections _(15 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 7 - Your Vision Goes Digital
 In this week you will work on finishing the first iteration of your minimal viable product. You will also start see yourself in the future by writing a letter to your future self. You will help your network to support you by making your vision and your objective(s) visible on your online profiles.
 
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-Write A Letter To Your Future Self | 35''
-Share Your Objectives | 10''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 7:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Write A Letter To Your Future Self _(35 minutes)_
+* **Exercise:** Share Your Objectives _(10 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 8 - Pitstop 2
 In this week the first iteration of your key results should be available. Talk about them or show them in the check-in. When you experienced that you procrastinated to work on your key results you will learn about some "counter measures".
 
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-Stop Procrastination! (20'')
-Create Your Own Burn Down Chart | 10''
-Help Others To Connect | 15''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 8:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Stop Procrastination! _(20 minutes)_
+* **Exercise:** Create Your Own Burn Down Chart _(10 minutes)_
+* **Exercise:** Help Others To Connect _(15 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 9
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-Your Top 10 Assets | 30''
-The Dinner Table University | 15''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 9:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Your Top 10 Assets _(30 minutes)_
+* **Exercise:** The Dinner Table University _(15 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 10
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-What Can I Contribute? | 20''
-My Networking And Sharing Time | 10''
-Try this crazy method called "asking"! | 15''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 10:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** What Can I Contribute? _(20 minutes)_
+* **Exercise:** My Networking And Sharing Time _(10 minutes)_
+* **Exercise:** Try this crazy method called "asking"! _(15 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 11
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-Find Communities Related To Your Objectives | 15''
-Who Are The First And Second Dancers? | 15''
-Do You Want To Start Your Own Community? | 15''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 11:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Find Communities Related To Your Objectives _(15 minutes)_
+* **Exercise:** Who Are The First And Second Dancers? _(15 minutes)_
+* **Exercise:** Do You Want To Start Your Own Community? _(15 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 12 - Reflect And Celebrate
-Topic | Timebox
------------ | -------
-**Check-in:** What happend since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. | 10''
-**Optional lernOS Katas:** |
-Your Eureka moment | 15''
-Create Your Time Capsule | 15''
-Repetition Is The Key To Mastery | 15''
-**Check-out:** What will I do until the next Weekly? One minute timebox per circle member. | 5''
+**Agenda for Week 12:**
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **Exercise:** Your Eureka moment _(15 minutes)_
+* **Exercise:** Create Your Time Capsule _(15 minutes)_
+* **Exercise:** Repetition Is The Key To Mastery _(15 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 # lernOS Canvas - Use it as Checklist And To Tell Your Story
 
