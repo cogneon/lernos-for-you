@@ -2,17 +2,17 @@
 > Is collaboration and mastering digital tools important for your success?<br/>
 > Do you have to learn new skills on an ongoing basis?<br/>
 >
-> Then I wrote this guide for you<br/>
-> @simondueckert
+> Then I wrote this guide for you!<br/>
+> [@simondueckert](https://twitter.com/simondueckert)
 
 # Why lernOS?
-We live and work in a world of constant change. Due to technical progress with mechanization, mass produktion and automation people face change since a very long time. But with the invention of the digital technology we live in an age of digital transformation. And since computing power grows at an exponential rate also the change of our environment gets faster and faster.
+We live and work in a world of constant change. Due to technical progress with mechanization, mass production and automation people face change since a very long time. But with the invention of the digital technology we live in an age of digital transformation. And since computing power grows at an exponential rate also the change of our environment gets faster and faster.
 
 This is also called a VUCA World, a world that is volatile, uncertain, complex, and ambiguous (Lawrence, 1991). Trends like globalization and urbanization amplify this development. In such an environment values, methods, and tools for living and working in the 21st century have to be updated. The digital transformation and the knowledge society become the driving forces for the future.
 
-Individuals and organizations (for-profit and non-profit) have to adapt to that new situation to be successful in this century. As an induvidual you have to have to practice a lifestyle of self-directed lifelong learning. You have to acquire new digital skills and also use new digital tools to be productive. As an organization you have to become a learning organization. A learning organization is able to create, acquire, and transfer knowledge, and also to modify its behavior according to new knowledge and insights (Garvin, 2008).
+Individuals and organizations (for-profit and non-profit) have to adapt to that new situation to be successful in this century. As an individual you have to have to practice a lifestyle of self-directed lifelong learning. You have to acquire new digital skills and also use new digital tools to be productive. As an organization you have to become a learning organization. A learning organization is able to create, acquire, and transfer knowledge, and also to modify its behaviour according to new knowledge and insights (Garvin, 2008).
 
-Fortunatly  not all knowledge has to be created from scratch, not every wheel has to be reinvented and not all mistakes have to be repeated. If you have an open mindset and connect with other people inside and outside your organization you will be standing on the shoulders of giants. Working fully networked in contrast to working in silos has a benefit of over 30 percent (McKinsey, 2010).
+Fortunately  not all knowledge has to be created from scratch, not every wheel has to be reinvented and not all mistakes have to be repeated. If you have an open mindset and connect with other people inside and outside your organization you will be standing on the shoulders of giants. Working fully networked in contrast to working in silos has a benefit of over 30 percent (McKinsey, 2010).
 
 Digital tools like wikis, weblogs and social networks can help you to connect and learn with other people independent of time and space. To make use of this new possibilities you have to acquire new digital skills. But you don't have to be a digital native to learn these skills. Everybody can learn them: one small step at a time.
 
@@ -29,9 +29,9 @@ Mastering the Digital Age and the Knowledge Society of the 21st century is not a
 # lernOS Circle - From Talking The Talk to Walking the Walk
 Of course you can practice lernOS on your own. But it is more fun and also easier if you practice it in a group of 4-5 people called a lernOS Circle. A Circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group where people help each other by providing knowledge, experience, emotional, social and practical help. The lernOS Circle is a "circle of trust" so what happens in the Circle stays in the Circle.
 
-In a lernOS Circle every Circle member chooses one or more individual objectives. For each objective key results are definied that measure on a scale from 0.0 to 1.0 if the objective is reach. The objectives should be ambitious so that a key result completion rate of 0.7 is considered a success.
+In a lernOS Circle every Circle member chooses one or more individual objectives. For each objective one defines key results which measure (on a scale from 0.0 to 1.0) if the objective is reached. The objectives should be ambitious so that a key result completion rate of 0.7 is considered a success.
 
-The lernOS Circle meets each week in a 30-60 minutes Check-In with the agenda described above. The Check-in can be face-to-face or virtual. If C  ircle members don't know each other it might be good to have the first Check-In's face-to-face to get to know each others and build trust.
+The lernOS Circle meets each week in a 30-60 minutes Check-In with the agenda described above. The Check-in can be face-to-face or virtual. If Circle members don't know each other it might be good to have the first Check-Ins face-to-face to get to know each others and build trust.
 
 Tools that might help to organize communication and documentation for Circles (see [lernOS Wiki](https://github.com/simondueckert/lernos/wiki) for application links):
 
@@ -47,15 +47,15 @@ Tools that might help to organize communication and documentation for Circles (s
 # lernOS Sprint - Driving Agile Planning And Execution
 A lernOS sprint has 13 weeks (week 0 -12). Therefor a year has four sprints (Jan-Mar, Apr-Jun, Jul-Sep, Oct-Dec).
 
-The **lernOS Week 0** has three main topics:
+The **lernOS Week 0** has three main goals:
 
 1. **Reflection:** If you ran a Sprint/Circle before do a retrospective of that sprint to learn from it.
-1. **Long Range Planning:**  In Week 0 it's time to think about your "true north". What's your purpose? What' i's your mission statement? What are breakthrough goals for the future? What might be objectives for the next sprint?
+1. **Long Range Planning:**  In Week 0 it's time to think about your "true north". What's your purpose? What is your mission statement? What are breakthrough goals for the future? What might be objectives for the next sprint?
 1. **Sprint Planning:** Does anybody in the Circle understand the process? When will the lernOS Weekly be? How will the Weekly be organized (face-2-face vs. virtual)? Which tools are used for communication and documentation in the sprint? Is anybody able to use the tools?
 
 ![lernOS Sprint](images/lernOS-Sprint-v0.1.png)
 
-In the **lernOS Weeks 1-12** there is 15-60 minute event called the lernOS Weekly. A suggested timeslot for a 60 minute Weekly is friday from 11-12 am so you can have lunche with the Circle members after the Weekly. The Weekly is a short ceremony to track results, practice exercises, and motivate yourself for the next week. Every Weekly has a similar agenda that can be modified if necessary. If you only want to track results in the weekly a 15 minute stand-up meeting or online meeting is enough. If you use the "Optional lernOS Katas" in week 1-12 you run through a similar process like [Working Out Loud](https://workingoutloud.com). When you want to do the exercises (Katas) in the Circle you should at least plan for a 60 minute weekly. You find the descriptions for every Kata in the chapter "lernOS Kata Cataloque".
+In the **lernOS Weeks 1-12** there is 15-60 minute event called the lernOS Weekly. A suggested timeslot for a 60 minute Weekly is Friday from 11-12 am so you can have lunch with the circle members after the weekly. The weekly is a short ceremony to track results, practice exercises, and motivate yourself for the next week. Every weekly has a similar agenda that can be modified if necessary. If you only want to track results in the weekly a 15 minute stand-up meeting or online meeting is enough. If you use the "Optional lernOS Katas" in week 1-12 you run through a similar process like [Working Out Loud](https://workingoutloud.com). When you want to do the exercises (Katas) in the Circle you should at least plan for a 60 minute weekly. You find the descriptions for every Kata in the chapter "lernOS Kata Cataloque".
 
 **PRO TIP:** in a lot of Circles the timebox for running an exercise in the Circle is too short. You can use the [flipped classroom approach](https://en.wikipedia.org/wiki/Flipped_classroom): every Circle member prepares the exercises as "homework" upfront so you will have more time to discuss results in the Circle.
 
@@ -187,20 +187,19 @@ The basic elements of the lernOS Canvas are:
 * **Objectives & Key Results:** what you try to reach and how you measure success
 * **Activities:** tasks and **roles** you have, **projects** you run
 * **Knowledge:** your **expertise**, know-how between your ears or codified in **knowledge assets** (e.g. checklists, presentations) stored in your **repositories** (e.g. social intranet, onedrive, slideshare)
-* **Relationships:** people in your **social network** (physical of virtual) helping you to achieve your objectives
-
+* **Relationships:** people in your **social network** (physical or virtual) helping you to achieve your objectives
 
 # lernOS Memex - Get Things Out Of Your Head And In A System You Trust
 
-Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex.
+Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex (Memory Extender).
 
 If you do not have any tool at hand, you can download and use the [TiddlyWiki-Version of lernOS Memex](https://github.com/simondueckert/lernos/blob/master/lernOS%20Memex%20-%20en/lernOS-Memex.html) which is structured by the basic lernOS elements by default. This version is based on [TiddlyWiki](https://tiddlywiki.com/), a personal wiki that lives in a single HTML file:
 
 ![lernOS Memex (TiddlyWiki Version)](images/lernOS-Memex-TiddlyWiki-Frontpage.png)
 
-# lernOS Kata Cataloque - Practice New Skills
+# lernOS Kata Catalogue - Practice New Skills
 
-How do you become a great musician? It's good to know the theory and to understand the mechanic of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a cataloque of exercises called "Katas" to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops (e.g. a lernOS Dojo).
+How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops (e.g. a lernOS Dojo).
 
 ## [Your Future Backwards](#your-future-backwards)
 What is the big picture in your (work) life? Can you explain the purpose of your day-to-day activities in one sentence? A good exercise to get a clear picture is a combination of [The Future Backwards](http://cognitive-edge.com/methods/the-future-backwards/) by Dave Snowden and the [Golden Circle](https://www.youtube.com/watch?v=IPYeCltXpxw) by Simon Sinek. This can be done in a group (e.g. departement or project team) or on your own. In a very short timebox you look at your current state, your past, your desired future (vision), your anti-vision, and the major milestones towards your desired future.
@@ -268,7 +267,7 @@ How strong is the relationship to the people related to your objective(s)? The c
 1. Mark the relationships that you want to deepen in the future.
 
 ## Kata: Your First Sharing Experience
-Sharing is caring! In the digital world sharing is often seen as giving others access to files or digital content in an online space. But it can also be as simple sharing your attention with another person by following him, liking his content or subscribing to his website. By sharing you deepen your relationships with every contribution you make and the people in your network will be more willing to support you with your objectives. Knowledge and digital assets have one thing in common: they are resources that increase through use! Hint: be careful of legal and data protection issues if you share knowledge or content from your organization with externals.
+Sharing is caring! In the digital world sharing is often seen as giving others access to files or digital content in an online space. But it can also be as simple sharing your attention with another person by following him, liking his content or subscribing to his website. By sharing you deepen your relationships with every contribution you make and the people in your network will be more willing to support you with your objectives. Knowledge assets and digital assets have one thing in common: they are resources that increase through use! Hint: be careful of legal and data protection issues if you share knowledge or content from your organization with externals.
 
 **Exercise:**
 
@@ -355,11 +354,11 @@ What do people see when they search for you on the internet? Do they get an idea
 
 **Exercise:**
 
-1. Open your search engine of choice and enter your name. This could be interent search or also intranet search.
+1. Open your search engine of choice and enter your name. This could be internet search or also intranet search.
 1. Open at least the first 10 search results and check if your personality, your offerings and your objectives are represented in the way you want them to be.
 1. Think about what your main online profile might be (e.g. LinkedIn profile, about.me profile or profile in your enterprise social network). This will be called your "digital twin" that represents you online.
 
-## Kata: Upate Your Digital Twin
+## Kata: Update Your Digital Twin
 Does your main online profile or your "digital twin" represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects, current interests, key knowledge domains, and objectives you need support for should be visible on that profile.
 
 **Exercise:**
@@ -375,17 +374,17 @@ How do you connect with other people on social networks? Of courcse there is a c
 
 **Exercise:**
 
-1. Go throuh your relationship list and find someone you don't know yet.
+1. Go through your relationship list and find someone you don't know yet.
 1. Search that person in social networks on the internet or intranet.
 1. Connect with the person and write a customized message (add information like: Why do I connect? What do I appreciate? What do I have to offer?)
 
 ## Kata: Write A Letter To Your Future Self
-The letter to your future self is a classic method in self motivation and visioning. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. With the letter in the back of your mind chances are that your wishes become a [self-fullfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
+The letter to your future self is a classic method in self motivation and visioning. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. With the letter in the back of your mind chances are that your wishes become a [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
 
 **Exercise:**
 
 1. Write a letter to your future self. Talk about who you are now (age, summary, fears, key values, beliefs, skills, abilities, goals, hopes). Then address your future self with the things you want to stop/continue/start doing. Give yourself advice and ask yourself questions.
-1. Seal the letter ans store it in a safe place or use services like [futureme.org](https://futureme.org) to send it to your future self.
+1. Seal the letter and store it in a safe place or use services like [futureme.org](https://futureme.org) to send it to your future self.
 1. If you want to share the letter with your Circle members just read it out loud afterwards.
 
 ## Kata: Share Your Objectives
