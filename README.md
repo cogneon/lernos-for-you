@@ -30,7 +30,13 @@ The **core of lernOS** is based on principles from [Getting Things Done](https:/
 # lernOS Canvas
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png)
 
-Download lernOS Canvas: [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pptx), [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png)
+| Language | PDF | MS PowerPoint | PNG |
+|----------|-----|---------------|-----
+| English (en) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pdf) | [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pptx) | [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png) |
+
+# lernOS Tutorials
+
+* [How to the lernOS Canvas in WOL Circles](https://github.com/simondueckert/lernos/wiki/How-to-use-the-lernOS-Canvas-in-WOL-Circles) ([Video](https://youtu.be/7a1Vq7ism5Y))
 
 # Further Information
 * Follow [@lern_os on twitter](https://twitter.com/lern_os) to get the latest news and updates
