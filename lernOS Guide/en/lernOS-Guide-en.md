@@ -2,8 +2,8 @@
 > Is collaboration and mastering digital tools important for your success?<br/>
 > Do you have to learn new skills on an ongoing basis?<br/>
 >
-> Then I wrote this guide for you
-> Simon Dueckert
+> Then I wrote this guide for you<br/>
+> @simondueckert
 
 # Why lernOS?
 We live and work in a world of constant change. Due to technical progress with mechanization, mass produktion and automation people face change since a very long time. But with the invention of the digital technology we live in an age of digital transformation. And since computing power grows at an exponential rate also the change of our environment gets faster and faster.
@@ -61,6 +61,12 @@ In the **lernOS Weeks 1-12** there is 15-60 minute event called the lernOS Weekl
 
 ## Week 0 - Your True North
 When you are new to lernOS you will get to know each other in the Circle in Week 0. You will plan the adminstrative stuff (when to meet, which tools to use, who is the facilitator) and you will also think about your ambitions in the long run. If you had a Circle before this Week you should run an additional sprint retrospective (1-3 hours) with your Circle Members.
+
+* **Check-in:** Welcome Everybody! _(5 minutes)_
+* **Get together:** Who are you? Introduce yourself. Three minute timebox per Circle member. _(15 minutes)_
+* **Exercise:** [Your Future Backwards](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-future-backwards) _(25 minutes)_
+* **Exercise:** lernOS Sprint Planning _(10 minutes)_
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 Topic | Timebox
 ----------- | -------
@@ -230,7 +236,7 @@ If you do not have any tool at hand, you can download and use the [TiddlyWiki-Ve
 
 How do you become a great musician? It's good to know the theory and to understand the mechanic of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a cataloque of exercises called "Katas" to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops (e.g. a lernOS Dojo).
 
-## Kata: Your Future Backwards
+## [Your Future Backwards](#your-future-backwards)
 What is the big picture in your (work) life? Can you explain the purpose of your day-to-day activities in one sentence? A good exercise to get a clear picture is a combination of [The Future Backwards](http://cognitive-edge.com/methods/the-future-backwards/) by Dave Snowden and the [Golden Circle](https://www.youtube.com/watch?v=IPYeCltXpxw) by Simon Sinek. This can be done in a group (e.g. departement or project team) or on your own. In a very short timebox you look at your current state, your past, your desired future (vision), your anti-vision, and the major milestones towards your desired future.
 
 **Exercise:**
