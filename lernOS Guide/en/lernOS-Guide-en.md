@@ -155,6 +155,8 @@ In this week the first iteration of your key results should be available. Talk a
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 9
+In this week you will start working on the second iteration of your key results. In addition you will reflect on your top 10 knowledge assets and the knowledge domains you might contribute expertise and experiences to your network.
+
 **Agenda for Week 9:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -163,6 +165,8 @@ In this week the first iteration of your key results should be available. Talk a
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 10
+In this week you will go through a checklist to see which assets you have to share in your network. You will create a time management system that makes sure that you have enough time for networking and sharing. And you will learn that sometimes listening is more important then sending.
+
 **Agenda for Week 10:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -172,6 +176,8 @@ In this week the first iteration of your key results should be available. Talk a
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 11
+In this week you will search for communities that are related to your objectives. You will learn to decode the DNA of communities. You will also think about if it would be a good idea to start an own community to support your objectives.
+
 **Agenda for Week 11:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -181,6 +187,8 @@ In this week the first iteration of your key results should be available. Talk a
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 12 - Reflect And Celebrate
+In this week the final iteration of your key results should be available. Talk about them or show them in the check-in. You will reflect on the circle experience and think about how to sustain the process. After the weekly you should take some time and celebrate your success!
+
 **Agenda for Week 12:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
