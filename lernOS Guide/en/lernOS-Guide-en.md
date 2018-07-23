@@ -3,22 +3,14 @@
 > Do you have to learn new skills on an ongoing basis?<br/>
 >
 > Then I wrote this guide for you!<br/>
-> [@simondueckert](https://twitter.com/simondueckert)
+> @simondueckert
 
 # Why lernOS?
-We live and work in a world of constant change. Due to technical progress with mechanization, mass production and automation people face change since a very long time. But with the invention of the digital technology we live in an age of digital transformation. And since computing power grows at an exponential rate also the change of our environment gets faster and faster.
+We live in a world of constant change. Technical progress like mechanization, mass production and automation led to big changes in the past. With the invention of the transistor the digital transformation started. The processing power of computers grows yearly at an exponential rate. For this reason also our environment changes faster and faster in the 21st century.
 
-This is also called a VUCA World, a world that is volatile, uncertain, complex, and ambiguous (Lawrence, 1991). Trends like globalization and urbanization amplify this development. In such an environment values, methods, and tools for living and working in the 21st century have to be updated. The digital transformation and the knowledge society become the driving forces for the future.
+The world we live in is a world full of volatility, uncertainty, complexity, and ambiguity (VUCA). In such an environment proven methods and tools from the past have to be questioned. We have to evolve from one-time education to self-directed livelong learning. We have to acquire new skills, use new digital tools, and develop a new mindset to be successful.
 
-Individuals and organizations (for-profit and non-profit) have to adapt to that new situation to be successful in this century. As an individual you have to have to practice a lifestyle of self-directed lifelong learning. You have to acquire new digital skills and also use new digital tools to be productive. As an organization you have to become a learning organization. A learning organization is able to create, acquire, and transfer knowledge, and also to modify its behaviour according to new knowledge and insights (Garvin, 2008).
-
-Fortunately  not all knowledge has to be created from scratch, not every wheel has to be reinvented and not all mistakes have to be repeated. If you have an open mindset and connect with other people inside and outside your organization you will be standing on the shoulders of giants. Working fully networked in contrast to working in silos has a benefit of over 30 percent (McKinsey, 2010).
-
-Digital tools like wikis, weblogs and social networks can help you to connect and learn with other people independent of time and space. To make use of this new possibilities you have to acquire new digital skills. But you don't have to be a digital native to learn these skills. Everybody can learn them: one small step at a time.
-
-lernOS is an operating system for livelong learning and learning organizations. The name is derived from Esperanto (mi lernos: I will learn, ni lernos: We will learn). lernOS will help you and your organization to develop the necessary 21st century skills. lernOS can be used on individual, team, and organizational level. You can use lernOS just on your own or practice it in a group of 4-5 people called a lernOS Circle.
-
-This guide will help you to take the first steps on a lifelong journey.
+lernOS can help to develop these skills for the 21st century. lernOS is an operating system for livelong learning and learning organizations. The phrase “mi lernos” means “I will learn” in Esperanto. lernOS helps to organize the daily tasks and to learn consciously from every activity. It will also promote networking with other people. In this way not every wheel has to be reinvented and not every mistake has to be repeated. And the best thing is: lernOS is really easy to understand. Let's begin.
 
 # lernOS Wheel - Mindset, Skillset, and Toolset as Success Factors
 
@@ -561,3 +553,14 @@ Be honest: when you started your first sprint did you think something like "OMG 
 1. If somebody wants to leave the Circle (e.g. to do the next sprint on his own or in another Circle) that's totally fine.
 1. Reflect on the organization of the Circle in this sprint (e.g. day&time of weekly, timeboxes, tools to use in the Circle) and decide what to continue, what to change, and what to stop in the next sprint.
 1. Celebrate the finished sprint e.g. by going out for lunch/dinner or sharing a Circle selfie.
+
+# Stop talking, start doing!
+To start with lernOS is really easy. These five steps will help to start smoothly:
+
+1. Schedule Time: define the quarter when you begin to use lernOS. Add the time-slots for  the weekly to your calendar. This regular meeting is of particular importance if you practice in a lernOS circle.
+1. Define Objectives and Key Results: use week 0 to define the objectives and the measurable results for the sprint. If you practice lernOS beside your daily business just choose an additional goal you really, really care about.
+1. Find a Circle: look for 3-4 people who want to start a sprint in the same quarter. If someone has been in a circle before he can take the role of the "Circle Facilitator".
+1. Organize the Weekly Check-In: if you don't know each other in the circle meet face-to-face for the first weekly. Use social networks or instant messengers to communicate between the meetings. Use web conferencing tools to organize virtual meetings.
+1. Plan, Do, Learn, Repeat: Use the last meeting of the sprint to reflect the results and the collaboration in the circle. Decide if you want to run another sprint together.
+
+Keep Calm & Learn On! :-)
