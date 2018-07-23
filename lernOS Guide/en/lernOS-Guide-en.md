@@ -67,7 +67,7 @@ When you are new to lernOS you will get to know each other in the Circle in week
 * **Check-in:** Welcome Everybody! _(5 minutes)_
 * **Get together:** Who are you? Introduce yourself. Three minute timebox per Circle member. _(15 minutes)_
 * **Exercise:** [Your Future Backwards](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-future-backwards) _(25 minutes)_
-* **Exercise:** lernOS Sprint Planning _(10 minutes)_
+* **Exercise:** [lernOS Sprint Planning](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#lernos-sprint-planning) _(10 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 1 - Your Sprint Objective(s)
@@ -76,9 +76,9 @@ In this week you choose your objective(s) for this sprint. The objective(s) migh
 **Agenda for Week 1:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Why Are You Here? _(10 minutes)_
-* **Exercise:** My Objective(s) For The Next 12 weeks _(25 minutes)_
-* **Exercise:** People Related To Your Objective(s) _(20 minutes)_
+* **Exercise:** [Why Are You Here?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#why-are-you-here) _(10 minutes)_
+* **Exercise:** [My Objective(s) For The Next 12 weeks](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#my-objectives-for-the-next-12-weeks) _(25 minutes)_
+* **Exercise:** [People Related To Your Objective(s)](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#people-related-to-your-objectives) _(20 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 2 - Sharing Is Caring
@@ -87,8 +87,8 @@ In this week you will reflect on the quantity and quality of the relationships r
 **Agenda for Week 2:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Strong Or Weak Ties? _(5 minutes)_
-* **Exercise:** Your First Sharing Experience _(40 minutes)_
+* **Exercise:** [Strong Or Weak Ties?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#strong-or-weak-ties) _(5 minutes)_
+* **Exercise:** [Your First Sharing Experience](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-first-sharing-experience) _(40 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 3 - Use The Network Effect
@@ -199,7 +199,7 @@ In this week the final iteration of your key results should be available. Talk a
 
 # lernOS Canvas - Use it as Checklist And To Tell Your Story
 
-The **lernOS Canvas** ([PDF](lernOS-mi-Canvas.pdf)) uses a similar structure as the [business modell canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) by Alex Osterwalder. It can be used to systematically go through the elements of lernOS and create your personal management system with a strong focus on knowledge and learning.
+The **lernOS Canvas** ([PDF](lernOS-mi-Canvas.pdf)) uses a similar structure as the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) by Alex Osterwalder. It can be used to systematically go through the elements of lernOS and create your personal management system with a strong focus on knowledge and learning.
 
 ![lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.png)
 
