@@ -339,7 +339,7 @@ When was the last time you shared a valuable resource with a person or group wit
 1. Find at least three people on the list that will be interested in the resource.
 1. Send a message to these people with the resource attached or a link to the resource. Explain the context and why you send the message and also why you think the resource might be valuable for the recipient.
 
-## [25 Random Things About Me](#25-random-things-about-me)
+## [25 Random Facts About Me](#25-random-facts-about-me)
 What are interesting facts about you that might help you to connect with other people? If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you in networking to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!"). Random things about yourself might include:
 
 * Life experiences
