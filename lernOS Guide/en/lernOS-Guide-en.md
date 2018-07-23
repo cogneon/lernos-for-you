@@ -97,9 +97,9 @@ In this week you will make sure that you have enough time for networking, sharin
 **Agenda for Week 3:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** An Appointment With Yourself _(15 minutes)_
-* **Exercise:** Use Web-Scale Networking _(15 minutes)_
-* **Exercise:** Practice Social Praise _(15 minutes)_
+* **Exercise:** [An Appointment With Yourself](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#an-appointment-with-yourself) _(15 minutes)_
+* **Exercise:** [Use Web-Scale Networking](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#use-web-scale-networking) _(15 minutes)_
+* **Exercise:** [Practice Social Praise](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#practice-social-praise) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 4 - Pitstop 1
@@ -108,8 +108,8 @@ In this week your objective(s) should be stable and you should have a clear idea
 **Agenda for Week 4:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Tone Of Voice In Online communication _(15 minutes)_
-* **Exercise:** Sharing A Useful Resource _(30 minutes)_
+* **Exercise:** [Tone Of Voice In Online communication](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#tone-of-voice-in-online-communication) _(15 minutes)_
+* **Exercise:** [Sharing A Useful Resource](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#sharing-a-useful-resource) _(30 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 5 - Who Am I?
@@ -118,8 +118,8 @@ In this week the work on the first iteration of your key results should have sta
 **Agenda for Week 5:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** 25 Random Facts About Me _(25 minutes)_
-* **Exercise:** Contribute Your Self _(20 minutes)_
+* **Exercise:** [25 Random Facts About Me](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#25-random-facts-about-me) _(25 minutes)_
+* **Exercise:** [Contribute Your Self](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#contribute-your-self) _(20 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 6 - Update Your Digital Twin
@@ -128,9 +128,9 @@ In this week you will look yourself up in the intranet and/or internet. If your 
 **Agenda for Week 6:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Go Google Yourself! _(10 minutes)_
-* **Exercise:** Upate Your Digital Twin _(20 minutes)_
-* **Exercise:** Spend Time On Making Connections _(15 minutes)_
+* **Exercise:** [Go Google Yourself!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#go-google-yourself) _(10 minutes)_
+* **Exercise:** [Update Your Digital Twin](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#update-your-digital-twin) _(20 minutes)_
+* **Exercise:** [Spend Time On Making Connections](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#spend-time-on-making-connections) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 7 - Your Vision Goes Digital
@@ -139,8 +139,8 @@ In this week you will work on finishing the first iteration of your minimal viab
 **Agenda for Week 7:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Write A Letter To Your Future Self _(35 minutes)_
-* **Exercise:** Share Your Objectives _(10 minutes)_
+* **Exercise:** [Write A Letter To Your Future Self](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#write-a-letter-to-your-future-self) _(35 minutes)_
+* **Exercise:** [Share Your Objectives](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#share-your-objectives) _(10 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 8 - Pitstop 2
@@ -149,9 +149,9 @@ In this week the first iteration of your key results should be available. Talk a
 **Agenda for Week 8:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Stop Procrastination! _(20 minutes)_
-* **Exercise:** Create Your Own Burn Down Chart _(10 minutes)_
-* **Exercise:** Help Others To Connect _(15 minutes)_
+* **Exercise:** [Stop Procrastination!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#stop-procrastination) _(20 minutes)_
+* **Exercise:** [Create Your Own Burn Down Chart](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#create-your-own-burn-down-chart) _(10 minutes)_
+* **Exercise:** [Help Others To Connect](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#help-others-to-connect) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 9
@@ -160,8 +160,8 @@ In this week you will start working on the second iteration of your key results.
 **Agenda for Week 9:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Your Top 10 Assets _(30 minutes)_
-* **Exercise:** The Dinner Table University _(15 minutes)_
+* **Exercise:** [Your Top 10 Assets](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-top-10-assets) _(30 minutes)_
+* **Exercise:** [The Dinner Table University](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#the-dinner-table-university) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 10
@@ -170,9 +170,9 @@ In this week you will go through a checklist to see which assets you have to sha
 **Agenda for Week 10:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** What Can I Contribute? _(20 minutes)_
-* **Exercise:** My Networking And Sharing Time _(10 minutes)_
-* **Exercise:** Try this crazy method called "asking"! _(15 minutes)_
+* **Exercise:** [What Can I Contribute?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#what-can-i-contribute) _(20 minutes)_
+* **Exercise:** [My Networking And Sharing Time](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#my-networking-and-sharing-time) _(10 minutes)_
+* **Exercise:** [Try this crazy method called "asking"!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#try-this-crazy-method-called-asking) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 11
@@ -181,9 +181,9 @@ In this week you will search for communities that are related to your objectives
 **Agenda for Week 11:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Find Communities Related To Your Objectives _(15 minutes)_
-* **Exercise:** Who Are The First And Second Dancers? _(15 minutes)_
-* **Exercise:** Do You Want To Start Your Own Community? _(15 minutes)_
+* **Exercise:** [Find Communities Related To Your Objectives](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#find-communities-related-to-your-objectives) _(15 minutes)_
+* **Exercise:** [Who Are The First And Second Dancers?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#who-are-the-first-and-second-dancers) _(15 minutes)_
+* **Exercise:** [Do You Want To Start Your Own Community?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#do-you-want-to-start-your-own-community) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 12 - Reflect And Celebrate
@@ -192,9 +192,9 @@ In this week the final iteration of your key results should be available. Talk a
 **Agenda for Week 12:**
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** Your Eureka moment _(15 minutes)_
-* **Exercise:** Create Your Time Capsule _(15 minutes)_
-* **Exercise:** Repetition Is The Key To Mastery _(15 minutes)_
+* **Exercise:** [Your Eureka moment](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-eureka-moment) _(15 minutes)_
+* **Exercise:** [Create Your Time Capsule](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#create-your-time-capsule) _(15 minutes)_
+* **Exercise:** [Repetition Is The Key To Mastery](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#repetition-is-the-key-to-mastery) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 # lernOS Canvas - Use it as Checklist And To Tell Your Story
