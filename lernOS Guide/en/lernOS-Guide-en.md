@@ -557,10 +557,10 @@ Be honest: when you started your first sprint did you think something like "OMG 
 # Stop talking, start doing!
 To start with lernOS is really easy. These five steps will help to start smoothly:
 
-1. Schedule Time: define the quarter when you begin to use lernOS. Add the time-slots for  the weekly to your calendar. This regular meeting is of particular importance if you practice in a lernOS circle.
-1. Define Objectives and Key Results: use week 0 to define the objectives and the measurable results for the sprint. If you practice lernOS beside your daily business just choose an additional goal you really, really care about.
-1. Find a Circle: look for 3-4 people who want to start a sprint in the same quarter. If someone has been in a circle before he can take the role of the "Circle Facilitator".
-1. Organize the Weekly Check-In: if you don't know each other in the circle meet face-to-face for the first weekly. Use social networks or instant messengers to communicate between the meetings. Use web conferencing tools to organize virtual meetings.
-1. Plan, Do, Learn, Repeat: Use the last meeting of the sprint to reflect the results and the collaboration in the circle. Decide if you want to run another sprint together.
+1. **Schedule Time:** define the quarter when you begin to use lernOS. Add the time-slots for  the weekly to your calendar. This regular meeting is of particular importance if you practice in a lernOS circle.
+1. **Define Objectives and Key Results:** use week 0 to define the objectives and the measurable results for the sprint. If you practice lernOS beside your daily business just choose an additional goal you really, really care about.
+1. **Find a Circle:** look for 3-4 people who want to start a sprint in the same quarter. If someone has been in a circle before he can take the role of the "Circle Facilitator".
+1. **Organize the Weekly Check-In:** if you don't know each other in the circle meet face-to-face for the first weekly. Use social networks or instant messengers to communicate between the meetings. Use web conferencing tools to organize virtual meetings.
+1. **Plan, Do, Learn, Repeat:** Use the last meeting of the sprint to reflect the results and the collaboration in the circle. Decide if you want to run another sprint together.
 
 Keep Calm & Learn On! :-)
