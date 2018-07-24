@@ -25,14 +25,14 @@ Follow [@lern_os](https://twitter.com/lern_os) on Twitter or join the open [lern
 |----------|-----|---------------|-----|
 | English (en) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pdf) | [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pptx) | [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png) |
 
+## lernOS Tutorials
+
+* [How to the lernOS Canvas in WOL Circles](https://github.com/simondueckert/lernos/wiki/How-to-use-the-lernOS-Canvas-in-WOL-Circles) ([Video](https://youtu.be/7a1Vq7ism5Y))
+
 # Contribute to lernOS
 1. Use lernOS to get an idea of what it can do for you, for your network, and for your organization
 1. Spread the word in social networks like twitter or linkedin using hashtag #lernOS
 1. Contribute your feedback and ideas for further development at https://lernos.fider.io
-
-# lernOS Tutorials
-
-* [How to the lernOS Canvas in WOL Circles](https://github.com/simondueckert/lernos/wiki/How-to-use-the-lernOS-Canvas-in-WOL-Circles) ([Video](https://youtu.be/7a1Vq7ism5Y))
 
 # More Food For Thought
 * [lernOS Wiki](https://github.com/simondueckert/lernos/wiki) e.g. with roots & inspirations of lernOS
