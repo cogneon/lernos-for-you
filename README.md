@@ -11,34 +11,28 @@ Follow [@lern_os](https://twitter.com/lern_os) on Twitter or join the open [lern
 
 * Take part in survey [Your Experience with Working Out Loud](https://forms.office.com/Pages/ResponsePage.aspx?id=PGjhk_Rd_0aMWt5vYuGdXRSAz0xMR4xAqMImIIyMSRlUNTZRVzdRWVlBQUFNRU9SMldFWEZQNVIzUS4u) until 2018-08-30
 
-# lernOS Guide
+# Use lernOS
+## lernOS Guide
 | Language | Online | PDF | MS Word | eBook |
 |----------|--------|-----|---------|-------|
-| Chinese (zh) | Online | PDF | DOCX | EPUB |
-| Spanish (es) | Online | PDF | DOCX | EPUB |
 | English (en) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) |
-| Hindi (hi) | Online | PDF | DOCX | EPUB |
-| Arabic (ar) | Online | PDF | DOCX | EPUB |
-| Portugese (pt) | Online | PDF | DOCX | EPUB |
-| Bengali (bn) | Online | PDF | DOCX | EPUB |
-| Russian (ru) | Online | PDF | DOCX | EPUB |
-| Japanese (ja) | Online | PDF | DOCX | EPUB |
-| Punjabi (pa) | Online | PDF | DOCX | EPUB |
 | German (de) | Online | PDF | DOCX | EPUB |
-| French (fr) | Online | PDF | DOCX | EPUB |
-| Turkish (tr) | Online | PDF | DOCX | EPUB |
-| Italian (it) | Online | PDF | DOCX | EPUB |
 
-# lernOS Canvas
+## lernOS Canvas
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png)
 
 | Language | PDF | MS PowerPoint | PNG |
 |----------|-----|---------------|-----|
 | English (en) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pdf) | [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.pptx) | [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas.png) |
 
-# lernOS Tutorials
+## lernOS Tutorials
 
 * [How to the lernOS Canvas in WOL Circles](https://github.com/simondueckert/lernos/wiki/How-to-use-the-lernOS-Canvas-in-WOL-Circles) ([Video](https://youtu.be/7a1Vq7ism5Y))
+
+# Contribute to lernOS
+1. Use lernOS to get an idea of what it can do for you, for your network, and for your organization
+1. Spread the word in social networks like twitter or linkedin using hashtag #lernOS
+1. Contribute your feedback and ideas for further development at https://lernos.fider.io
 
 # More Food For Thought
 * [lernOS Wiki](https://github.com/simondueckert/lernos/wiki) e.g. with roots & inspirations of lernOS
