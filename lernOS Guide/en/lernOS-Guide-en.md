@@ -146,7 +146,7 @@ In this week the first iteration of your key results should be available. Talk a
 * **Exercise:** [Help Others To Connect](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#help-others-to-connect) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 9
+## Week 9 - Your Knowledge Assets
 In this week you will start working on the second iteration of your key results. In addition you will reflect on your top 10 knowledge assets and the knowledge domains you might contribute expertise and experiences to your network.
 
 **Agenda for Week 9:**
@@ -156,7 +156,7 @@ In this week you will start working on the second iteration of your key results.
 * **Exercise:** [The Dinner Table University](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#the-dinner-table-university) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 10
+## Week 10 - Networking And Sharing Time
 In this week you will go through a checklist to see which assets you have to share in your network. You will create a time management system that makes sure that you have enough time for networking and sharing. And you will learn that sometimes listening is more important then sending.
 
 **Agenda for Week 10:**
@@ -167,7 +167,7 @@ In this week you will go through a checklist to see which assets you have to sha
 * **Exercise:** [Try this crazy method called "asking"!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#try-this-crazy-method-called-asking) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 11
+## Week 11 - The Power Of Communities
 In this week you will search for communities that are related to your objectives. You will learn to decode the DNA of communities. You will also think about if it would be a good idea to start an own community to support your objectives.
 
 **Agenda for Week 11:**
