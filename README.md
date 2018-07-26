@@ -50,7 +50,20 @@ lernOS is provided as [free cultural work](https://creativecommons.org/share-you
 lernOS is in alpha state and under heavy construction. Structure and content might change frequently. The version 1.0 "Base" of the lernOS guide will be released at 2018-09-17. From then onwards lernOS will be [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) and grow with its users over time.
 
 ## Can I use and modify lernOS?
-Yes you can and we want you to do it! That's why lernOS is released under a creative commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and follows the principles of the open definition. You can download, use, and modify it. You can use it in private and business contexts. You can create products and services with lernOS and provide support, training, coaching and professional services. You can also call yourself a lernOS coach, mentor, guide, trainer, circle facilitator etc.
+Yes. You can and we want you to do it! That's why lernOS is released under a creative commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and follows the principles of the open definition. You can download, use, and modify it. You can use it in private and business contexts. You can create products and services with lernOS and provide support, training, coaching and professional services. You can also call yourself a lernOS coach, mentor, guide, trainer, circle facilitator etc.
+
+# Can I use the lernOS content to practice Working Out Loud?
+Yes. You can use the lernOS Canvas to document results from working with the [WOL Guide](https://workingoutloud.com/en/circle-guides/). You can also use the exercises in the [lernOS Guide](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md) as an alternative to the WOL exercises. There is one alternative for each WOL exercise, e.g.
+
+| WOL exercise | lernOS exercise |
+|--------------|-----------------|
+| What brought you here? | Why are you here? |
+| Your goal for the next 12 weeks | My objective(s) for the next 12 weeks |
+| Create your first relationship list | People related to your objective(s) |
+| Intimacy levels | Strong or weak ties? |
+| Make your first contributions | Your first sharing experience |
+| Pay yourself first | An appointment with yourself |
+| ... | ... |
 
 ## Can I read the lernOS Guide on an ebook reader like the kindle?
 Yes. You have to get the email adress of your kindle in the preferences. Then download the Microsoft Word version an send it as an email attachement to your kindle.
