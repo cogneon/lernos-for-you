@@ -13,7 +13,6 @@ The world we live in is a world full of volatility, uncertainty, complexity, and
 lernOS can help to develop these skills for the 21st century. lernOS is an operating system for livelong learning and learning organizations. The phrase “mi lernos” means “I will learn” in Esperanto. lernOS helps to organize the daily tasks and to learn consciously from every activity. It will also promote networking with other people. In this way not every wheel has to be reinvented and not every mistake has to be repeated. And the best thing is: lernOS is really easy to understand. Let's begin.
 
 # lernOS Wheel - Mindset, Skillset, and Toolset as Success Factors
-
 Mastering the Digital Age and the Knowledge Society of the 21st century is not only a matter of implementing the right (digital) tools and methods.
 
 ![lernOS Wheel](images/lernos-wheel-men-v02.png)
@@ -73,6 +72,17 @@ In week 0 the sprint planning takes place: Does everybody understand the process
 ![lernOS Sprint](images/lernOS-Sprint-v0.1.png)
 
 In weeks 1-12 the weekly meeting as described in the chapter "lernOS Circle" takes place. The circle members are working on their desired results during the sprint. They build a network that supports them with achieving their objectives. The two "pitstops" in week 4 and week 8 help to see if everybody is still on track. When no additional exercises are made in the weekly meeting it will take 15 minutes. If additional exercises are chosen, up to 60 minutes will be necessary for the meeting. The documentation for every exercise is in the chapter "lernOS Kata Catalogue".
+
+# lernOS Canvas - Use it as Checklist And To Tell Your Story
+A canvas is a visual structure that can be used to work through several topic areas in a systematic way (canvas as checklist). It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). This canvas is used to design a business model for an organization. Instead of writing a business plan in a linear document the canvas is used in a visual and agile way. The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the areas have been changed to reflect the topics a circle works on during a sprint.
+
+![lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.png)
+
+The header of the canvas contains the creation date, the number of the sprint, and the mission statement from week 0. In the area "My Objectives & Key Results" the goals for the current sprint are documented. The areas "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people inside and outside the organization who can help to achieve the objectives. Social networks can be internal (e.g. Enterprise Social Network, Jive, Yammer, Connections) or external (e.g. LinkedIn, Twitter, ResearchGate). Available knowledge asset (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
+
+The lernOS Canvas can be downloaded from the [lernOS Repository on github](https://github.com/simondueckert/lernos) in different formats (e.g. PowerPoint, PDF, PNG). To be able to work with the canvas in an agile way one should NEVER write on a canvas ... that's why sticky notes were invented!
+
+**ProTip:** if you use a lernOS Memex (e.g. OneNote) you can take a photo of the current version of the canvas and put it in the memex. This way the other circle members can see it as well.
 
 # lernOS Weekly - Interacting And Learning On A Regular Basis
 
@@ -213,19 +223,6 @@ In this week the final iteration of your key results should be available. Talk a
 * **Exercise:** [Create Your Time Capsule](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#create-your-time-capsule) _(15 minutes)_
 * **Exercise:** [Repetition Is The Key To Mastery](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#repetition-is-the-key-to-mastery) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
-
-# lernOS Canvas - Use it as Checklist And To Tell Your Story
-
-The **lernOS Canvas** ([PDF](lernOS-mi-Canvas.pdf)) uses a similar structure as the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) by Alex Osterwalder. It can be used to systematically go through the elements of lernOS and create your personal management system with a strong focus on knowledge and learning.
-
-![lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas.png)
-
-The basic elements of the lernOS Canvas are:
-
-* **Objectives & Key Results:** what you try to reach and how you measure success
-* **Activities:** tasks and **roles** you have, **projects** you run
-* **Knowledge:** your **expertise**, know-how between your ears or codified in **knowledge assets** (e.g. checklists, presentations) stored in your **repositories** (e.g. social intranet, onedrive, slideshare)
-* **Relationships:** people in your **social network** (physical or virtual) helping you to achieve your objectives
 
 # lernOS Memex - Get Things Out Of Your Head And In A System You Trust
 
