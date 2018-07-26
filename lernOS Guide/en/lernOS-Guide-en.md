@@ -14,23 +14,25 @@ lernOS can help to develop these skills for the 21st century. lernOS is an opera
 
 # lernOS Wheel - Mindset, Skillset, and Toolset as Success Factors
 
-Mastering the Digital Age and the Knowledge Society of the 21st century is not a matter of implementing the right (digital) tools and methods. Starting with the right mindset and learning new skills is crucial. The lernOS Wheel brings together these success factors as mindset, skillset, and toolset:
+Mastering the Digital Age and the Knowledge Society of the 21st century is not only a matter of implementing the right (digital) tools and methods.
+
+![lernOS Wheel](images/lernos-wheel-men-v02.png)
+
+Starting with the right mindset and learning new skills is crucial. The lernOS Wheel brings together these success factors as mindset, skillset, and toolset:
 
 ![lernOS Wheel](images/lernOS-Wheel-v0.5.png)
 
 # lernOS Circle - From Talking The Talk to Walking the Walk
-Like Getting Things Done (GTD) you can practice lernOS on your own. But it's easier and more fun if you practice it in a group of 4-5 people. This group is called a lernOS Circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The lernOS Circle is a circle of trust - what happens in the circle stays in the circle.
+You can practice lernOS on your own. But it's easier and more successful if you practice it in a group of 4-5 people. This group is called a lernOS Circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The lernOS Circle is a circle of trust: what happens in the circle stays in the circle!
 
 ![lernOS Wheel](images/lernOS-Circle-v02.png)
 
-The circle meets weekly in a meeting called lernOS Weekly. The weekly is a short ceremony to track results, practice exercises, and motivate yourself for the next week. In the circle each member defines personal objectives and desired results. Circle members learn to share and network to build get a network of trust and relationships that help to achieve the personal objectives. Each week has a standardized agenda with a check-in, a check-out, and suggested exercises called lernOS Katas. The timebox for the weekly can be adopted to personal needs (suggested timeslot Friday between 11-12am):
+The circle meets weekly in a meeting called lernOS Weekly. The weekly is a short ceremony to track results, practice exercises, and motivate yourself for the next week. In the circle each member defines personal objectives and desired results. Circle members learn to share and network to build get a network of trust and relationships that help to achieve the personal objectives. Each week has a standardized agenda with a check-in, a check-out, and suggested exercises called lernOS Katas. The timebox for the weekly can be adopted to personal needs (suggested timeslot: Friday between 11-12am):
 
-* **15 Minute Weekly:** only Check-In and Check-Out to track progress
-* **30 Minute Weekly:** like 15 minutes plus 1 exercise
-* **45 Minute Weekly:** like 15 minutes plus 2 exercise
-* **60 Minute Weekly:** like 15 minutes plus all exercise
+* **15 Minute Weekly Meeting:** only Check-In and Check-Out to track progress
+* **30-60 Minute Weekly Meeting:** like 15 minutes plus exercises from the lernOS Kata Catalogue
 
-**ProTip:** in a lot of circles the timebox for running an exercise in the circle is too short. You can use the [flipped classroom approach](https://en.wikipedia.org/wiki/Flipped_classroom): every circle member prepares the exercises as "homework" upfront so you will have more time to discuss results in the circle.
+**ProTip:** in a lot of circles the timebox for running an exercise in the circle is too short. You can use the method [inverted classroom](https://en.wikipedia.org/wiki/Flipped_classroom): every circle member prepares the exercises as "homework" upfront so you will have more time to discuss results in the circle.
 
 The weekly meeting might be face-to-face or virtual. In any case the circle should establish a digital infrastructure for communication and documentation in between the weekly meetings. The following table shows some tools that are proven in practice (find more in the [lernOS Wiki](https://github.com/simondueckert/lernos/wiki)):
 
@@ -56,20 +58,23 @@ The weekly meeting might be face-to-face or virtual. In any case the circle shou
 | WhatsApp | X | |
 | Zoom | X | | |
 
-**ProTip:** To have a good usability choose a tool that supports communication and documentation like a [Facebook Group](https://www.facebook.com/help/1629740080681586) or [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software). In a Facebook Group you can use the activity stream for communicating and [group docs](https://www.facebook.com/help/203003559734725) for documentation. In Microsoft Teams you can use the channel "General" for communication and wiki pages or a OneNote Notebook for documentation.
+**ProTip:** To have a good usability choose a tool that supports communication and documentation, e.g. a [Facebook Group](https://www.facebook.com/help/1629740080681586) or [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software). In a Facebook Group you can use the activity stream for communicating and [group docs](https://www.facebook.com/help/203003559734725) for documentation. In Microsoft Teams you can use the channel "General" for communication and wiki pages or a OneNote Notebook for documentation.
 
 # lernOS Sprint - Driving Agile Planning And Execution
-A lernOS sprint has 13 weeks (week 0 -12). Therefor a year has four sprints (Jan-Mar, Apr-Jun, Jul-Sep, Oct-Dec).
+Circle members should be able to switch circles if they want. Therefore the circles have to have the same rhythm. For this reason lernOS is practiced in so called sprints of on quarter of a year each (13 weeks). So one year consists of four lernOS Sprints:
 
-The **lernOS Week 0** has three main goals:
+* **01.01.-31.03.:** lernOS Sprint 1
+* **01.04.-30.06.:** lernOS Sprint 2
+* **01.07.-30.09.:** lernOS Sprint 3
+* **01.10.-31.12.:** lernOS Sprint 4
 
-1. **Reflection:** If you ran a Sprint/Circle before do a retrospective of that sprint to learn from it.
-1. **Long Range Planning:**  In Week 0 it's time to think about your "true north". What's your purpose? What is your mission statement? What are breakthrough goals for the future? What might be objectives for the next sprint?
-1. **Sprint Planning:** Does anybody in the Circle understand the process? When will the lernOS Weekly be? How will the Weekly be organized (face-2-face vs. virtual)? Which tools are used for communication and documentation in the sprint? Is anybody able to use the tools?
+In week 0 the sprint planning takes place: Does everybody understand the process? When will the weekly meeting be? Which exercises are chosen for the weeks? Will the weekly meeting be organized face-to-face or virtual? Which tools are used for communication and documentation in the sprint? Is everybody able to use the tools? Additionally week 0 can be used for strategic planning: What is the purpose? What is the true north? What is the mission? What are breakthrough goals for the future? What might be objectives for the next sprint?
 
 ![lernOS Sprint](images/lernOS-Sprint-v0.1.png)
 
-In the **lernOS Weeks 1-12** there is 15-60 minute event called the lernOS Weekly. A suggested timeslot for a 60 minute Weekly is Friday from 11-12 am so you can have lunch with the circle members after the weekly. The weekly is a short ceremony to track results, practice exercises, and motivate yourself for the next week. Every weekly has a similar agenda that can be modified if necessary. If you only want to track results in the weekly a 15 minute stand-up meeting or online meeting is enough. If you use the "Optional lernOS Katas" in week 1-12 you run through a similar process like [Working Out Loud](https://workingoutloud.com). When you want to do the exercises (Katas) in the Circle you should at least plan for a 60 minute weekly. You find the descriptions for every Kata in the chapter "lernOS Kata Cataloque".
+In weeks 1-12 the weekly meeting as described in the chapter "lernOS Circle" takes place. The circle members are working on their desired results during the sprint. They build a network that supports them with achieving their objectives. The two "pitstops" in week 4 and week 8 help to see if everybody is still on track. When no additional exercises are made in the weekly meeting it will take 15 minutes. If additional exercises are chosen, up to 60 minutes will be necessary for the meeting. The documentation for every exercise is in the chapter "lernOS Kata Catalogue".
+
+# lernOS Weekly - Interacting And Learning On A Regular Basis
 
 ## Week 0 - Your True North
 When you are new to lernOS you will get to know each other in the Circle in week 0. You will plan the administrative stuff (when to meet, which tools to use, who is the facilitator) and you will also think about your ambitions in the long run (your true north). If you had a Circle before this week you should run an additional sprint retrospective (1-3 hours) with your Circle Members.
