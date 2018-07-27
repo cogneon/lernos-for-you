@@ -10,16 +10,124 @@ We live in a world of constant change. Technical progress like mechanization, ma
 
 The world we live in is a world full of volatility, uncertainty, complexity, and ambiguity (VUCA). In such an environment proven methods and tools from the past have to be questioned. We have to evolve from one-time education to self-directed livelong learning. We have to acquire new skills, use new digital tools, and develop a new mindset to be successful.
 
-lernOS can help to develop these skills for the 21st century. lernOS is an operating system for livelong learning and learning organizations. The phrase “mi lernos” means “I will learn” in Esperanto. lernOS helps to organize the daily tasks and to learn consciously from every activity. It will also promote networking with other people. In this way not every wheel has to be reinvented and not every mistake has to be repeated. And the best thing is: lernOS is really easy to understand. Let's begin.
+lernOS can help to get fit for the 21st century. lernOS is an operating system for livelong learning and learning organizations. The phrase “mi lernos” means “I will learn” in Esperanto. lernOS helps to organize the daily tasks and to learn consciously from every activity. It will also promote networking with other people. In this way not every wheel has to be reinvented and not every mistake has to be repeated. And the best thing is: lernOS is really easy to understand. Let's begin.
 
 # lernOS Wheel - Mindset, Skillset, and Toolset as Success Factors
-Mastering the Digital Age and the Knowledge Society of the 21st century is not only a matter of implementing the right (digital) tools and methods.
 
-![lernOS Wheel](images/lernos-wheel-men-v02.png)
+Mastering the digital age and the knowledge society of the 21st century requires to be open for change and new approaches. There are a lot of tools and methods out there. But when one is not open to give it a try and to experiment with new approaches success will stay away. Like the people with the "square wheels" in the image below we are often too busy to see new possibilities and chances.
 
-Starting with the right mindset and learning new skills is crucial. The lernOS Wheel brings together these success factors as mindset, skillset, and toolset:
+![lernOS Wheel People](images/lernos-wheel-men-v02.png)
+
+Adopting new practices is not only about using new digital tools or fancy methods like design thinking, scum, and working out loud (Remeber: A fool with a tool is still a fool). To switch from "square wheels" to "round wheels" the basic assumptions about the world, the personal skills, and the used methods and tools have to be taken into account. lernOS calls this three dimensions mindset, skillset, and toolset. Focussing on only one or two of the three dimensions might already help. But for the best results all three dimensions should be considered.
 
 ![lernOS Wheel](images/lernOS-Wheel-v0.5.png)
+
+## Mindset
+The mindset can be described as the assumptions, beliefs, perceptions, thoughts, feelings, and values that lead to actions and visible artifacts. These visible artifacts is everything one can see, hear, and feel. In an organizations artifacts might be structures, hierarchies, processes, architectures, office design, physical environment, and ICT infrastructure. The necessary values to successfully use lernOS are very well described in the [Manifesto for Human Leadership](https://fuehrung-erfahren.de/wp-content/uploads/2018/02/Manifesto-for-Human-Leadership.pdf):
+
+> We believe in the creativity and motivation of human beings. We consider human leadership
+> as pivotal in a highly networked and highly complex world. We understand the task of
+> leadership as serving life and striving for conditions in which people, in their diversity, can
+> contribute in the best possible way and in which they can develop themselves and work
+> effectively together. These values are important to us:
+>
+> **Unleashing human potential** over employing human resources.
+>
+> **Diversity and dissent** over conformity and consensus.
+>
+> **Purpose and trust** over command and control.
+>
+> **Contributions to networks** over position in hierarchies.
+>
+> **Growing leaders** over leading followers.
+>
+> **Courageously exploring the new** over efficiently exploiting the old.
+
+**ProTip:** leadership is not assigned or bound to managers. Everybody can be a leader. Just do it! Like Grace Hopper said in 1986 "It's easier to ask forgiveness then it is to get permission".
+
+**ProTip:** your mindset is not fixed you can develop a new mindset. Watch Carol Dweck's video on [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) to learn more about it.
+
+## Skillset
+To get fit for the 21st century a lot of new skills have to be acquired. On the one hand these are skills to exploit new digital opportunities also called digital skills and digital leadership. These skills are outlined in [DigiComp 2.1](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use), a digital competence framework for citizens in the 21st century:
+
+* **Competence Area 1: Information and data literacy**
+  * Browsing, searching, fltering data, information and digital content
+  * Evaluating data, information and digital content
+  * Managing data, information and digital content
+* **Competence Area 2: Communication and collaboration**
+  * Interacting through digital technologies
+  * Sharing throught digital technologies
+  * Engaging in citizenship through digital technologies
+  * Collaborating through digital technologies
+  * Netiquette
+  * Managing digital identity
+* **Competence Area 3: Digital content creation**
+  * Developing digital content
+  * Integrating and re-elaborating digital content
+  * Copyright and licences
+  * Programming
+* **Competence Area 4: Safety**
+  * Protecting devices
+  * Protecting personal data and privacy
+  * Protecting health and well-being
+  * Protecting the environment
+* **Competence Area 5: Problem solving**
+  * Solving technical problems
+  * Identifying needs and technological responses
+  * Creatively using digital technologies
+  * Identifying digital competence gaps
+
+On the other hand automation, artificial intelligence, and machine learning will replace a lot of activities that have been done by humans in the past. The [P21 Framework for 21set Century Learning](http://www.p21.org/our-work/p21-framework) gives a good overview of the 4C learning and innovation skills (creativity, critical thinking, communication, collaboration) that will prepare citizens for increasingly life and work environments in the 21st Century:
+
+* **Creativity and Innovation**
+  * Think Creatively: Use a wide range of idea creation techniques (such as brainstorming), Create new and worthwhile ideas (both incremental and radical concepts), Elaborate, refine, analyze and evaluate their own ideas in order to improve and maximize creative efforts
+  * Work Creatively with Others: Develop, implement and communicate new ideas to others effectively, Be open and responsive to new and diverse perspectives; incorporate group input and feedback into the work, Demonstrate originality and inventiveness in work and understand the real world limits to adopting new ideas, View failure as an opportunity to learn; understand that creativity and innovation is a long-term, cyclical process of small successes and frequent mistakes
+  * Implement Innovations: Act on creative ideas to make a tangible and useful contribution to the field in which the innovation will occur
+* **Critical Thinking and Problem Solving**
+  * Reason Effectively: Use various types of reasoning (inductive, deductive, etc.) as appropriate to the situation
+  * Use Systems Thinking: Analyze how parts of a whole interact with each other to produce overall outcomes in complex systems
+  * Make Judgments and Decisions: Effectively analyze and evaluate evidence, arguments, claims and beliefs, Analyze and evaluate major alternative points of view, Synthesize and make connections between information and arguments, Interpret information and draw conclusions based on the best analysis, Reflect critically on learning experiences and processes
+  * Solve Problems: Solve different kinds of non-familiar problems in both conventional and innovative ways, Identify and ask significant questions that clarify various points of view and lead to better solutions
+* **Communication**
+  * Communicate Clearly, including ...
+  * Articulate thoughts and ideas effectively using oral, written and nonverbal communication skills in a variety of forms and contexts
+  * Listen effectively to decipher meaning, including knowledge, values, attitudes and intentions
+  * Use communication for a range of purposes (e.g. to inform, instruct, motivate and persuade)
+  * Utilize multiple media and technologies, and know how to judge their effectiveness a priori as well as assess their impact
+  * Communicate effectively in diverse environments (including multi-lingual)
+* **Collaboration**
+  * Collaborate with Others, including ...
+  * Demonstrate ability to work effectively and respectfully with diverse teams
+  * Exercise flexibility and willingness to be helpful in making necessary compromises to accomplish a common goal
+  * Assume shared responsibility for collaborative work, and value the individual contributions made by each team member
+
+**ProTip:** the Mozilla Foundation has developed the [Web Literacy Framework](https://learning.mozilla.org/en-US/web-literacy) with a lot of exercises for developing digital literacy and 21st century skills.
+
+## Toolset
+With the emergence of [Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) in 2005 social media and new methods came up. Not everybody needs to know all tools and methods but it is a good idea to have an overview, know the principles, and choose the right tools for oneself. The social prism gives an overview of web 2.0 platforms available today:
+
+![Social Media Prism 2017/2018 by Sten Franke & ethority, CC BY SA](images/Social-Media-Prisma-2017-2018-v7-1250x1250.png)
+
+For a beginner this prism with 25 categories and dozens of tools might be overwhelming. To begin with the following short list provides a compact overview of the most relevant tools (aphabetical order):
+
+1. **Digital Notebook:** Evernote, OneNote, TiddlyWiki
+1. **File Sharing:** Dropbox, Google Drive, Office 365, OneDrive, SharePoint
+1. **Messenger:** Microsoft Teams, Slack, Threema, WeChat, WhatsApp, Telegram
+1. **Mind Mapping:** Freemind, iThoughts, MindManager, MindMeister, XMind
+1. **Social Network:** professional social Networks (LinkedIn, Xing, Twitter) as well as enterprise social networks (Jive, Yammer, IBM Connections, Workplace by Facebook)
+1. **Video Sharing:** Kaltura, Vimeo, Vimp, YouTube
+1. **Web Conferencing:** Google Hangout, GoToMeeting, Microsoft Teams, Skype, Skype for Business, WebEx, Zoom
+1. **Weblog:** Medium, tumblr, Wordpress (tip: social networks often offer blog functions)
+1. **Wiki:** Confluence, Mediawiki, Wikipedia
+1. **Work Coordination:** asana, Microsoft Planner, Microsoft To-Do, Trello
+
+**ProTip:** you find links for all the tools in the [lernOS Wiki on github](https://github.com/simondueckert/lernos/wiki).
+
+In addition to technical tools also a new set of helpful methods is available. Good examples are barcamps, communities of practice, coworking, design thinking, shipit days (aka fedex days), future backwards, getting things done, hackathon, knowledge map, lessons learned, massive open online courses, podcast, screencast, scrum, and working out loud.
+
+**ProTip:** feel free to choose a tool or method and try it out in your circle to upskill yourself.
+
+Enough theory. You have read about the right mindset, skillset, and toolset for the 21st century. Now it is time to practice. You will do this in periods of three month called lernOS Sprints. To have some peer support you should not practice on your own but in a group of 4-5 people called a lernOS Circle. You will have a weekly meeting with a standard agenda to structure your learning process step by step. The next chapters will explain the practice of lernOS in detail.
 
 # lernOS Circle - From Talking The Talk to Walking the Walk
 You can practice lernOS on your own. But it's easier and more successful if you practice it in a group of 4-5 people. This group is called a lernOS Circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The lernOS Circle is a circle of trust: what happens in the circle stays in the circle!
