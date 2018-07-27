@@ -192,6 +192,17 @@ The lernOS Canvas can be downloaded from the [lernOS Repository on github](https
 
 **ProTip:** if you use a lernOS Memex (e.g. OneNote) you can take a photo of the current version of the canvas and put it in the memex. This way the other circle members can see it as well.
 
+# lernOS Memex - Get Things Out Of Your Head And In A System You Trust
+According to David Allen our mind is good for having ideas not for holding them. Therefore we need a way to get things out of the head and into a system we trust. In his 1945 article [As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think) Vannevar Bush called such a system a "memex" (memory extender). Bush's version of the memex was a personal desk based on microfilm and mechanical controls. But his memex can also be seen as an early vision of hypertext and wiki systems.
+
+In the digital age tools like [Microsoft OneNote](https://products.office.com/en-US/onenote) can play the role of a personal memex. In contrast to the physical version OneNote can be used on a desktop computer but also mobile on a smartphone or tablet. OneNote can handle multiple notebooks at the same time. Information in a notebook can be organized in sections, pages, and subpages. With the wiki function pages can also be interlinked. The content on each page can be format freely and can also contain tables, images, audio, and video. A notebook can be shared with coworkers to work on it simultaneously. Content from the internet can be easily stored in OneNote with the [OneNote Web Clipper](https://www.onenote.com/clipper).
+
+![lernOS Canvas](images/lernOS-Memex-OneNote-Frontpage.png)
+
+When using OneNote in a circle a section can be structured by the weekly meetings and the circle members. The page for each weekly meeting contains the agenda, the exercises, and the links to the exercises. Every completed agenda item can be marked as done by a checkbox. The pages for the circle members contain headings for all required documentation in the circle (e.g. goals, relationship list, social network, facts about me). This way all circle members can see the documentation of everybody else.
+
+**ProTip:** you can download a OneNote Template that can be used for lernOS Circles and WOL Circles [from the lernOS Repository on GitHub](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg).
+
 # lernOS Weekly - Interacting And Learning On A Regular Basis
 
 ## Week 0 - Your True North
@@ -331,14 +342,6 @@ In this week the final iteration of your key results should be available. Talk a
 * **Exercise:** [Create Your Time Capsule](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#create-your-time-capsule) _(15 minutes)_
 * **Exercise:** [Repetition Is The Key To Mastery](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#repetition-is-the-key-to-mastery) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
-
-# lernOS Memex - Get Things Out Of Your Head And In A System You Trust
-
-Everything you define or agree upon should be documented in a system you trust. This is not for bureaucracy reasons but to keep your head free for creative knowledge work. You can use any personal notebook (paper-based or digital) as lernOS Memex (Memory Extender).
-
-If you do not have any tool at hand, you can download and use the [TiddlyWiki-Version of lernOS Memex](https://github.com/simondueckert/lernos/blob/master/lernOS%20Memex%20-%20en/lernOS-Memex.html) which is structured by the basic lernOS elements by default. This version is based on [TiddlyWiki](https://tiddlywiki.com/), a personal wiki that lives in a single HTML file:
-
-![lernOS Memex (TiddlyWiki Version)](images/lernOS-Memex-TiddlyWiki-Frontpage.png)
 
 # lernOS Kata Catalogue - Practice New Skills
 
