@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: lernOS
+description: A short description of your site's purpose
+show_downloads: true
+github:
+  en_url: https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf
+  de_url: https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf
