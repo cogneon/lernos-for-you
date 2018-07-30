@@ -177,7 +177,7 @@ Circle members should be able to switch circles if they want. Therefore the circ
 
 In week 0 the sprint planning takes place: Does everybody understand the process? When will the weekly meeting be? Which exercises are chosen for the weeks? Will the weekly meeting be organized face-to-face or virtual? Which tools are used for communication and documentation in the sprint? Is everybody able to use the tools? Additionally week 0 can be used for strategic planning: What is the purpose? What is the true north? What is the mission? What are breakthrough goals for the future? What might be objectives for the next sprint?
 
-![lernOS Sprint](images/lernOS-Sprint-v0.1.png)
+![lernOS Sprint](images/lernOS-Sprint-v02.png)
 
 In weeks 1-12 the weekly meeting as described in the chapter "lernOS Circle" takes place. The circle members are working on their desired results during the sprint. They build a network that supports them with achieving their objectives. The two "pitstops" in week 4 and week 8 help to see if everybody is still on track. When no additional exercises are made in the weekly meeting it will take 15 minutes. If additional exercises are chosen, up to 60 minutes will be necessary for the meeting. The documentation for every exercise is in the chapter "lernOS Kata Catalogue".
 
