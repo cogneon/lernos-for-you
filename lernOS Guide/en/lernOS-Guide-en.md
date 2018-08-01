@@ -206,34 +206,34 @@ When using OneNote in a circle a section can be structured by the weekly meeting
 
 **ProTip:** you can download a OneNote Template that can be used for lernOS Circles and WOL Circles [from the lernOS Repository on GitHub](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg).
 
-# lernOS Weekly - Interacting And Learning On A Regular Basis
+# lernOS Weekly - Meet Your Circle Members Every Week
 
-## Week 0 - Your True North
-When you are new to lernOS you will get to know each other in the Circle in week 0. You will plan the administrative stuff (when to meet, which tools to use, who is the facilitator) and you will also think about your ambitions in the long run (your true north). If you had a Circle before this week you should run an additional sprint retrospective (1-3 hours) with your Circle Members.
-
-**Agenda for Week 0:**
+## Week 0 - Sprint Planning
+When you are new to the circle you will get to know each other in week 0. You will plan the administrative stuff like when to meet, which tools to use, who is the facilitator etc. One of the major impediments for running a circle is discipline and time management. You should define the basic rules for running the circle until the end of week 0.
 
 * **Check-in:** Welcome Everybody! _(5 minutes)_
-* **Get together:** Who are you? Introduce yourself. Three minute timebox per Circle member. _(15 minutes)_
-* **Exercise:** [Your Future Backwards](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-future-backwards) _(25 minutes)_
-* **Exercise:** [lernOS Sprint Planning](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#lernos-sprint-planning) _(10 minutes)_
+* **Get together:** Who are you? Introduce yourself. Five minute timebox per Circle member. _(25 minutes)_
+* **Sprint Planning** see below _(25 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 1 - Your Sprint Objective(s)
-In this week you choose your objective(s) for this sprint. The objective(s) might change or sharpen in the next two weeks but not throughout the whole sprint. You will also start to think about people who might help you with your objective(s). Working alone is addition, working together is multiplication.
+Define a circle facilitator who cares for event and time management. The facilitator is not the "boss" of the circle but just a normal member that cares for the smooth operation. Define the day and time of your weekly circle meeting (suggestion: Friday, 11-12 am). Define if you meet face-to-face or virtually. If you go for virtual Weekly discuss if weeks 4, 7 and 12 might be done face-to-face. If you meet virtually define the tool you use for the web conference (e.g. Skype for Business, Zoom, appear.in). Decide if you use further tools for communication (e.g. WhatsApp, Threema, Telegram, WeChat) and documentation (e.g. OneNote, Evernote).
 
-**Agenda for Week 1:**
+* **Circle facilitator:** ...
+* **Day/time of weekly meeting:** ... (put it in your calendar NOW! :-)
+* **Weekly meetings are:** face-to-face / virtual
+* **Tools used in circle:** ... (test if everybody is able to use the tools)
+
+## Week 1 - Your Sprint Objectives
+In this week you choose your objectives for this sprint (one or more, max. 5). The objectives might be refined until week 4 but not later in the sprint. You will also start to think about people who might help you with your objectives (remember: working alone is addition, working together is multiplication!).
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Why Are You Here?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#why-are-you-here) _(10 minutes)_
-* **Exercise:** [My Objective(s) For The Next 12 weeks](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#my-objectives-for-the-next-12-weeks) _(25 minutes)_
+* **Exercise:** [My Objectives For The Next 12 weeks](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#my-objectives-for-the-next-12-weeks) _(25 minutes)_
 * **Exercise:** [People Related To Your Objective(s)](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#people-related-to-your-objectives) _(20 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 2 - Sharing Is Caring
-In this week you will reflect on the quantity and quality of the relationships related to your objective(s). You will also start to share attention, knowledge, experiences, and assets with your network to build trust and get support.
-
-**Agenda for Week 2:**
+In this week you will reflect on the quantity and quality of the relationships related to your objectives. You will also start to share attention, knowledge, experiences, and assets with your network to build trust and get support.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Strong Or Weak Ties?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#strong-or-weak-ties) _(5 minutes)_
@@ -241,9 +241,7 @@ In this week you will reflect on the quantity and quality of the relationships r
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 3 - Use The Network Effect
-In this week you will make sure that you have enough time for networking, sharing, and caring for your network. You will do this by making appointments with yourself in your calendar. You will also think about how to use the intranet oder internet to scale your impact.
-
-**Agenda for Week 3:**
+In this week you will make sure that you have enough time for networking, sharing, and caring for your network. You will do this by making appointments with yourself. You will also think about how to use the intranet oder internet to reach more people.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [An Appointment With Yourself](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#an-appointment-with-yourself) _(15 minutes)_
@@ -252,9 +250,7 @@ In this week you will make sure that you have enough time for networking, sharin
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 4 - Pitstop 1
-In this week your objective(s) should be stable and you should have a clear idea which people in the network (known or unknown) might help you to get your work done. Take this week for a short "pitstop" to reflect if everything works well for you and the circle. The next four weeks you will focus to work on the first iteration  of your key results.
-
-**Agenda for Week 4:**
+In this week your objectives should be stable and you should have a clear idea which people in the network might help you to get your work done. Take this week for a short "pitstop" to reflect if everything works well for you and the circle. The next four weeks you will focus to work on the first iteration of your key results.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Tone Of Voice In Online communication](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#tone-of-voice-in-online-communication) _(15 minutes)_
@@ -262,9 +258,7 @@ In this week your objective(s) should be stable and you should have a clear idea
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 5 - Who Am I?
-In this week the work on the first iteration of your key results should have started. The goal is to have a "minimal viable product" (MVP) by the end of week 8. You will also start to think about which facts and personal information might be relevant for your network.
-
-**Agenda for Week 5:**
+In this week the work on the first iteration of your key results should have started. The goal is to have a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (something that works and that you can show) by the end of week 8. You will also start to think about which facts and personal information might be relevant for your network.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [25 Random Facts About Me](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#25-random-facts-about-me) _(25 minutes)_
@@ -272,9 +266,7 @@ In this week the work on the first iteration of your key results should have sta
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 6 - Update Your Digital Twin
-In this week you will look yourself up in the intranet and/or internet. If your digital twins (e.g. website, blog, profile) do not match your findings from last week you will go out and update them.
-
-**Agenda for Week 6:**
+In this week you will look yourself up in the intranet or internet. If your digital twins (e.g. website, blog, profile) do not match your findings from last week you will go out and update your profiles.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Go Google Yourself!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#go-google-yourself) _(10 minutes)_
@@ -283,9 +275,7 @@ In this week you will look yourself up in the intranet and/or internet. If your 
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 7 - Your Vision Goes Digital
-In this week you will work on finishing the first iteration of your minimal viable product. You will also start see yourself in the future by writing a letter to your future self. You will help your network to support you by making your vision and your objective(s) visible on your online profiles.
-
-**Agenda for Week 7:**
+In this week you will work on finishing the first iteration of your minimum viable product. You will also start to envision yourself in the future by writing a letter to your future self. And you will help your network to support you by making your vision and your objectives visible on your online profiles.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Write A Letter To Your Future Self](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#write-a-letter-to-your-future-self) _(35 minutes)_
@@ -293,9 +283,7 @@ In this week you will work on finishing the first iteration of your minimal viab
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 8 - Pitstop 2
-In this week the first iteration of your key results should be available. Talk about them or show them in the check-in. When you experienced that you procrastinated to work on your key results you will learn about some "counter measures".
-
-**Agenda for Week 8:**
+In this week the first iteration of your key results should be available. Talk about them or show them in the check-in. When you experienced that you procrastinated to work on your key results you will learn about some "procrastination counter measures".
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Stop Procrastination!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#stop-procrastination) _(20 minutes)_
@@ -304,9 +292,7 @@ In this week the first iteration of your key results should be available. Talk a
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 9 - Your Knowledge Assets
-In this week you will start working on the second iteration of your key results. In addition you will reflect on your top 10 knowledge assets and the knowledge domains you might contribute expertise and experiences to your network.
-
-**Agenda for Week 9:**
+In this week you will start working on the second iteration of your key results. In addition you will reflect on your top 10 knowledge assets and the knowledge domains that you can contribute to your network.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Your Top 10 Assets](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-top-10-assets) _(30 minutes)_
@@ -314,9 +300,7 @@ In this week you will start working on the second iteration of your key results.
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 10 - Networking And Sharing Time
-In this week you will go through a checklist to see which assets you have to share in your network. You will create a time management system that makes sure that you have enough time for networking and sharing. And you will learn that sometimes listening is more important then sending.
-
-**Agenda for Week 10:**
+In this week you will use a checklist to find more assets that can be shared in the network. You will create a time management system that makes sure you have enough time for networking and sharing. And you will learn that sometimes listening is more important then sending.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [What Can I Contribute?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#what-can-i-contribute) _(20 minutes)_
@@ -325,9 +309,7 @@ In this week you will go through a checklist to see which assets you have to sha
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
 ## Week 11 - The Power Of Communities
-In this week you will search for communities that are related to your objectives. You will learn to decode the DNA of communities. You will also think about if it would be a good idea to start an own community to support your objectives.
-
-**Agenda for Week 11:**
+In this week you will search for communities that are related to your objectives. You will learn to decode the DNA of communities. You will also think about starting an own community to support your objectives.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Find Communities Related To Your Objectives](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#find-communities-related-to-your-objectives) _(15 minutes)_
@@ -338,43 +320,14 @@ In this week you will search for communities that are related to your objectives
 ## Week 12 - Reflect And Celebrate
 In this week the final iteration of your key results should be available. Talk about them or show them in the check-in. You will reflect on the circle experience and think about how to sustain the process. After the weekly you should take some time and celebrate your success!
 
-**Agenda for Week 12:**
-
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
 * **Exercise:** [Your Eureka moment](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-eureka-moment) _(15 minutes)_
 * **Exercise:** [Create Your Time Capsule](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#create-your-time-capsule) _(15 minutes)_
 * **Exercise:** [Repetition Is The Key To Mastery](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#repetition-is-the-key-to-mastery) _(15 minutes)_
-* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+* **Check-out:** Party time! _(5 minutes)_
 
 # lernOS Kata Catalogue - Practice New Skills
 How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops (e.g. a lernOS Dojo).
-
-## [Your Future Backwards](#your-future-backwards)
-What is the big picture in your (work) life? Can you explain the purpose of your day-to-day activities in one sentence? A good exercise to get a clear picture is a combination of [The Future Backwards](http://cognitive-edge.com/methods/the-future-backwards/) by Dave Snowden and the [Golden Circle](https://www.youtube.com/watch?v=IPYeCltXpxw) by Simon Sinek. This can be done in a group (e.g. departement or project team) or on your own. In a very short timebox you look at your current state, your past, your desired future (vision), your anti-vision, and the major milestones towards your desired future.
-
-**Exercise:**
-
-1. Decide if you want to do the future backwards on operational level (1 sprint backward/forward), on tactical level (1 year backward/forward) or on strategic level (3-5 backward forward).
-1. Prepare a whiteboard or an A3 paper with a horizontal line (time axis, e.g. +/-1 year), desired future, and anti-future. You can use the shape of a "Y" turned 90 degrees clockwise.
-1. Take 5x5 minutes timeboxes to describe your current state, your past, your desired future (vision), your anti-vision, and your milestones or breakthrough goals towards the desired future in 3-5 bullet points each.
-1. Try to describe your purpose as a mission statement that helps you to focus in your day-to-day work. The mission statement should have an action part (what you do), a product or output part (what you deliver), and a customer or target group. An example phrase might be "I provide the best pizza to customers city-wide" (source: [Business Motivation Model](https://www.omg.org/spec/BMM/1.3/PDF), p.28).
-
-Talk about the results in the Circle.
-
-**PRO TIP:** 30 minutes to run the future backwards in the Weekly is a very short timebox. If you want to have an in depth experience you should spent an extra 2-4 hours slot with the Circle Members to run the process.
-
-## [lernOS Sprint Planning](#lernos-sprint-planning)
-What are the major impediments for running a Circle and a Sprint? It is something as simple as event and time management. Having five people together for a one hour meeting per week is a big issue in practice. You should define the basic rules of running the Circle until the end of week 0.
-
-**Exercise:**
-
-Define a Circle Facilitator who cares for event and time management. The facilitator is not the "boss" of the circle he or she is just a normal member that cares for the smooth operation of the Circle. Define the day and time your Weekly Circle meeting will be (suggestion: Friday, 11-12 am). Afterwards everybody puts all weekly meetings in his personal calendar. NOW! :-) Define if you meet face-to-face or virtually. If you go for virtual Weekly discuss if weeks 4, 7 and 12 might be done face-to-face. If you meet virtually define the tool you use for the web conference (e.g. Skype for Business, Zoom, appear.in). Decide if you use further tools for communication (e.g. WhatsApp, Threema, Telegram, WeChat) and documentation (e.g. OneNote, Evernote). Discuss if everybody is able to use the chosen tools.
-
-* **Circle facilitator:** ...
-* **Day of weekly meeting:** ...
-* **Time of weekly meeting:** ...
-* **Weekly meetings are:** face-to-face / virtual
-* **Tools used in circle:** ...
 
 ## [Why Are You Here?](#why-are-you-here)
 What is your motivation for joining this lernOS Circle? Too often we try to change things by start using new
@@ -973,6 +926,20 @@ If you liked the circle experience: develp some ideas on how to spread the appro
 * ...
 
 Celebrate the finished sprint e.g. by going out for lunch/dinner. You might also write a status update or blog post and post a selfie of your circle to let others know that you are a finisher! Keep Calm & Learn On!
+
+## [Your Future Backwards](#your-future-backwards)
+What is the big picture in your (work) life? Can you explain the purpose of your day-to-day activities in one sentence? A good exercise to get a clear picture is a combination of [The Future Backwards](http://cognitive-edge.com/methods/the-future-backwards/) by Dave Snowden and the [Golden Circle](https://www.youtube.com/watch?v=IPYeCltXpxw) by Simon Sinek. This can be done in a group (e.g. departement or project team) or on your own. In a very short timebox you look at your current state, your past, your desired future (vision), your anti-vision, and the major milestones towards your desired future.
+
+**Exercise:**
+
+1. Decide if you want to do the future backwards on operational level (1 sprint backward/forward), on tactical level (1 year backward/forward) or on strategic level (3-5 backward forward).
+1. Prepare a whiteboard or an A3 paper with a horizontal line (time axis, e.g. +/-1 year), desired future, and anti-future. You can use the shape of a "Y" turned 90 degrees clockwise.
+1. Take 5x5 minutes timeboxes to describe your current state, your past, your desired future (vision), your anti-vision, and your milestones or breakthrough goals towards the desired future in 3-5 bullet points each.
+1. Try to describe your purpose as a mission statement that helps you to focus in your day-to-day work. The mission statement should have an action part (what you do), a product or output part (what you deliver), and a customer or target group. An example phrase might be "I provide the best pizza to customers city-wide" (source: [Business Motivation Model](https://www.omg.org/spec/BMM/1.3/PDF), p.28).
+
+Talk about the results in the Circle.
+
+**PRO TIP:** 30 minutes to run the future backwards in the Weekly is a very short timebox. If you want to have an in depth experience you should spent an extra 2-4 hours slot with the Circle Members to run the process.
 
 # Stop talking, start doing!
 If you read through this guide but are not practising yet you should do so NOW! To start with lernOS is really easy. These five steps will help to start smoothly:
