@@ -326,12 +326,12 @@ In this week the final iteration of your key results should be available. Talk a
 * **Exercise:** [Repetition Is The Key To Mastery](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#repetition-is-the-key-to-mastery) _(15 minutes)_
 * **Check-out:** Party time! _(5 minutes)_
 
-# lernOS Kata Catalogue - Practice New Skills
-How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. Exercises can be practiced in a lernOS Circle or in separate events and workshops (e.g. a lernOS Dojo).
+# lernOS Kata Catalogue - Exercises For Upskilling
+How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. Most of the exercises can be practiced in a circle or separately.
 
 ## [Why Are You Here?](#why-are-you-here)
-What is your motivation for joining this lernOS Circle? Too often we try to change things by start using new
-methods and tools but the "Why" is unclear. Simon Sinek explained it in his TEDx Talk [How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) with the "Golden Circle": we should start with the "Why" and then think about the "How" and the "What".
+What is your motivation for joining this circle? Too often we try to change things by start using new
+methods and tools but the "Why" is unclear. Simon Sinek explained with his "golden circle" that we should start with the "Why" and then think about the "How" and the "What".
 
 **Exercise (10 minutes):**
 
@@ -341,8 +341,12 @@ _I joined this circle because ..._
 
 Share your reasons in the circle.
 
-## [My Objective(s) For The Next 12 weeks](#my-objectives-for-the-next-12-weeks)
-What do you want to accomplish in the next 12 weeks? Pick an objective (max. 5) that you really, really care about and you can make progress towards in the sprint. How can you see or feel that you make progress towards your objective(s)? To help you to track progress define 2-4 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure to set yourself ambitious gols a completion rate of 0.7 is regarded as a success.
+**Further Information:**
+
+* Video [How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) with Simon Sinek
+
+## [My Objectives For The Next 12 weeks](#my-objectives-for-the-next-12-weeks)
+What do you want to accomplish in the next 12 weeks? Pick one or more objectives (max. 5) that you really care about and you can make progress towards in the sprint. How can you see or feel that you make progress towards your objectives? To help you to track progress define 2-4 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure to set yourself ambitious goals a completion rate of 0.7 is regarded as a success.
 
 **Exercise (25 minutes):**
 
@@ -359,8 +363,14 @@ _as measured by (key results):_
 
 Share your objective(s) in the circle.
 
+**Further Information:**
+
+* Video [How Google Sets Goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) with Google ventures partner Rick Klau
+* Book [Introduction To OKRs](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) by Christina Wodtke
+* Book [The Beginner's Guide To OKR](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) by Felipe Castro
+
 ## [People Related To Your Objective(s)](#people-related-to-your-objectives)
-Most tasks we do have been done by others before. Most of the mistakes we make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives by getting in touch with people inside and outside your organization. To build strong relationships is based on trust and sharing. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) said "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you". So how do you get in touch with people related to your objective(s)?
+Most tasks we do have been done by others before. Most of the mistakes we make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives by getting in touch with people inside and outside your organization. To build strong relationships is based on trust and sharing. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) said "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you". So how do you get in touch with people related to your objectives?
 
 **Exercise (20 minutes):**
 
@@ -379,8 +389,12 @@ Create a list of at least ten people related to your objectives. If you don't kn
 
 Share your list in the circle and let others help to complete it.
 
+**Further Information:**
+
+* Video [Social Networking In Plain English](https://www.youtube.com/watch?v=6a_KF7TYKVc)
+
 ## [Strong Or Weak Ties?](#strong-or-weak-ties)
-How strong is the relationship to the people related to your objective(s)? The connection between people in a social network can be defined by the amount of time spent together, the emotional intensity, the level of intimacy and trust, and the reciprocal services (helping each other). There are three levels [interpersonal ties](https://en.wikipedia.org/wiki/Interpersonal_ties) can have:
+How strong is the relationship to the people related to your objectives? The connection between people in a social network can be defined by the amount of time spent together, the emotional intensity, the level of intimacy and trust, and the reciprocal services (helping each other). There are three levels [interpersonal ties](https://en.wikipedia.org/wiki/Interpersonal_ties) can have:
 
 1. **Absent:** you don't know each other
 1. **Weak:** you are somehow connected, you had interactions in the past
@@ -389,6 +403,11 @@ How strong is the relationship to the people related to your objective(s)? The c
 **Exercise (5 minutes):**
 
 Take your relationship list and grade every relationship as 1 (absent), 2 (weak), or 3 (strong) to get an idea which relationships should be deepened in the future. Mark the relationships that you want to deepen in the future.
+
+**Further Information:**
+
+* Video [Social Networks and Getting a Job](https://www.youtube.com/watch?v=g3bBajcR5fE) with Mark Granovetter
+* Article [The Strength Of Weak Ties](http://www.cs.umd.edu/~golbeck/INST633o/granovetterTies.pdf) by Mark Granovetter
 
 ## [Your First Sharing Experience](#your-first-sharing-experience)
 Sharing is caring! In the digital world sharing is often seen as giving others access to files or digital content in an online space. But it can also be as simple sharing your attention with another person by following him, liking his content or subscribing to his website. By sharing you deepen your relationships with every contribution you make and the people in your network will be more willing to support you with your objectives. Knowledge assets and digital assets have one thing in common: they are resources that increase through use! Hint: be careful of legal and data protection issues if you share knowledge or content from your organization with externals.
@@ -421,7 +440,7 @@ Check your calendar and see when an appointment with yourself fits in. One hour 
 Discuss your approache in the circle.
 
 ## [Use Web-Scale Networking](#use-web-scale-networking)
-When you interact with individual people you grow your network over time. But when interact with whole groups or communities you can scale your reach. You become visible to more and more people and your contributions bring value to the group. Examples of such groups are online communities, communities of practice, user groups, discussion forums, and regular meetups.
+When you interact with individual people you grow your network over time. But when interacting with whole groups or communities you can scale your reach. You become visible to more and more people and your contributions bring value to the group. Examples of such groups are online communities, communities of practice, user groups, discussion forums, and regular meetups.
 
 **Exercise (15 minutes):**
 
@@ -434,6 +453,10 @@ Search the intranet or internet to find at least five groups that are related to
 1. ...
 
 Discuss the lists of groups in the circle and get more suggestions. Make a small contribution to at least one of the groups afterwards.
+
+**Further Information:**
+
+* Sources for groups: [LinkedIn Groups](https://www.linkedin.com/groups), [Facebook Groups](https://www.facebook.com/groups), [Xing Groups](https://www.xing.com/communities) (mostly german), [meetup.com](https://www.meetup.com), [reddit.com](https://www.reddit.com/reddits/).
 
 ## [Practice Social Praise](#practice-social-praise)
 How does it feel if someone uses your knowledge or your content and just says "thank you" afterwards? Almost everybody does appreciate this. So it's a good habit not take any content and contributions out there for granted but be thankful and express your thankfulness at least from time to time.
@@ -459,6 +482,10 @@ Go through your email inbox or your messages in social networks. Which email sho
 1. ...
 
 Discuss the examples in the circle.
+
+**Further Information:**
+
+* Video [Email In Real Life](https://www.youtube.com/watch?v=HTgYHHKs0Zw)
 
 ## [Sharing A Useful Resource](#sharing-a-useful-resource)
 When was the last time you shared a valuable resource with a person or group without being asked for it? How could you present such a resource in a way to draw someone's attention to you?
@@ -529,6 +556,10 @@ Create a list of 10 random facts about yourself. Then read the [Fuqua 25 random 
 
 Share the facts about you in the circle. You could do this by giving your list around and let other circle members write associations and connections on it.
 
+**Further Information:**
+
+* YouTube-Search ["random facts about me"](https://www.youtube.com/results?search_query=random+facts+about+me)
+
 ## [Contribute Your Self](#contribute-your-self)
 Not all contributions in your network have to be about your objectives. Sometimes it's good to share something about yourself to make a personal connection. The list of facts about yourself might help to find interesting links to other people. Try to find these possible links and use them to make a connection.
 
@@ -558,6 +589,11 @@ Open your search engine of choice and enter your name. This could be internet se
 
 Think about what your main online profile might be (e.g. LinkedIn profile, about.me profile or profile in your enterprise social network). This will be called your "digital twin" that represents you online:
 
+**Further Information:**
+
+* Wikipedia Article [Egosurfing](https://en.wikipedia.org/wiki/Egosurfing)
+* Article [Google Yourself! Measuring the performance of personalized information resources](http://snurb.info/files/aoir2008/Google%20Yourself!%20Measuring%20the%20performance%20of%20personalized%20information%20resources%20(AoIR%202008).pdf) by Thomas Nicolai and Lars Kirchhoff.
+
 * **My main online profile:** ...
 
 ## [Update Your Digital Twin](#update-your-digital-twin)
@@ -584,7 +620,7 @@ How do you connect with other people on social networks? Of courcse there is a c
 
 **Exercise (10 minutes):**
 
-Go through your relationship list and find someone you don't know yet (level 1). Search that person in social networks on the internet or intranet. Connect with the person and write a customized message (add information like: Why do I connect? What do I appreciate? What do I have to offer?:
+Go through your relationship list and find someone you don't know yet (level 1). Search that person in social networks on the internet or intranet. Connect with the person and write a customized message (add information like: Why do I connect? What do I appreciate? What do I have to offer?):
 
 1. ...<br/><br/>
 
@@ -617,6 +653,10 @@ Write a letter to your future self. Talk about who you are now (age, summary, fe
 * ...
 
 If you want to share the letter with your Circle members just read it out loud afterwards.
+
+**Further Information:**
+
+* Video [A Letter To My Future Self](https://www.youtube.com/watch?v=XwN0tJlXF-0)
 
 ## [Share Your Objectives](#share-your-objectives)
 A good way to let other connect with you to help you with your objectives is to make your objectives visible openly. You can do this by putting them on your online profiles or writing a status update about it.
@@ -660,12 +700,19 @@ Go through the list of procrastination counter measures and identify the ones th
 1. ...
 1. ...
 
+**Further Information:**
+
+* Video and Infographic [15 Ways to Overcome Procrastination and Get Stuff Done](https://www.entrepreneur.com/article/240262)
+
 ## [Create Your Own Burn Down Chart](#create-your-own-burn-down-chart)
 How do you see if you make progress towards your objectives? In agile project management [burn down charts](https://en.wikipedia.org/wiki/Burn_down_chart) are used to represent progress in a graphical way. On a burn down chart the completed tasks are tracked over time. You start with the sum of tasks and reach zero if any task is completed.
 
 **Exercise (10 minutes):**
 
 Think about how you can use a burn down chart to measure and visualize progress towards your objectives. This might be the measurable key results the tasks you need to do to create the results. You can use paper or pen or any software that supports task tracking in a visual way.
+
+**Further Information:**
+* Video [How to use The Sprint Burndown](https://www.youtube.com/watch?v=GokN-50Jt4A)
 
 ## [Help Others To Connect](#help-others-to-connect)
 Did you ever use social networks to connect people with each other? Most internal and external social networks support this feature. You can pick two profiles and use a function to introduce people to each other. You might do it directly or ask ther persons for permission upfront.
@@ -760,6 +807,10 @@ Check your calendar for the next weeks and block at least five time slots for ne
 1. ...
 1. ...
 
+**Further Information:**
+
+* Article [Google Took Its 20% Back, But Other Companies Are Making Employee Side Projects Work For Them](https://www.fastcompany.com/3015963/google-took-its-20-back-but-other-companies-are-making-employee-side-projects-work-for-them)
+
 ## [Try this crazy method called "asking"!](#try-this-crazy-method-called-asking)
 Do you sometimes have the feeling that you could use some information, advice, or experience from somebody else? Instead of waiting and hoping try this crazy method called "asking"! If you think of some benefit the other person might have in return you normally get the support you need.
 
@@ -794,6 +845,8 @@ Think about and look for communities that are related to your objectives. List a
 1. ...
 
 Talk about your lists in the circle and let the others help you to complete your list.
+
+* Sources for communities: [LinkedIn Groups](https://www.linkedin.com/groups), [Facebook Groups](https://www.facebook.com/groups), [Xing Groups](https://www.xing.com/communities) (mostly german), [meetup.com](https://www.meetup.com), [reddit.com](https://www.reddit.com/reddits/).
 
 ## [Who Are The First And Second Dancers?](#who-are-the-first-and-second-dancers)
 You can’t have a tribe without a leader - and you can’t be a leader without a tribe. Are you able to identify the leader of the tribes related to your objectives? Who was the first person that started the movement. Which people were joining the tribe at an early stage.
@@ -843,6 +896,13 @@ Create a list of at least ten people that might be your "second dancers":
 1. ...
 
 Discuss the results in the circle.
+
+**Further Information:**
+
+* Article [Introduction to communities of practice](http://wenger-trayner.com/introduction-to-communities-of-practice/) by Etienne Wenger.
+* Video [Situated Learning and Communities of Practice](https://www.youtube.com/watch?v=roKJbwCLNBs) with Etienne Wenger
+* Infographic [Cultivating Communities of Practice - A Quick Start-Up Guide](http://ec.europa.eu/employment_social/equal_consolidated/data/document/0709-cop-guide_en.pdf) by Etienne wenger
+* Website [The Community Roundtable](https://communityroundtable.com/)
 
 ## [Your Eureka Moment](#your-eureka-moment)
 The [eureka moment](https://en.wikipedia.org/wiki/Eureka_effect) refers to the common human experience of suddenly understanding a previously incomprehensible problem or concept. When you think back to the first weeks of your Circle, what changed since then? Why are you part of the movement? What insights did you gain with regard to your objectives, your values, your relationships and your work practices.
@@ -894,6 +954,10 @@ Pick a time in a future future not too far away (e.g. some sprints ahead). Who d
 
 Put it in a physical time capsule or envelope and write the date to open in on the capsule. If you do it the digital way you can use services like [futureme.org](https://www.futureme.org/) or just put an event with the content in your calendar.
 
+**Further Information:**
+
+* Video [Top 10 Most Incredible Time Capsule Findings](https://www.youtube.com/watch?v=d9tNcboMwTE)
+
 ## [Repetition Is The Key To Mastery](#repetition-is-the-key-to-mastery)
 Be honest: when you started your first sprint did you think something like "OMG 13 weeks ... so long"? But you were able to finish the sprint on your own or together with your Circle. But to develop mastery in the digital connected knwowledge society of the 21st century you have to continue to practice. To become an [expert](https://en.wikipedia.org/wiki/Expert) in a domain it might take 10.000 hours or 10 years.
 
@@ -926,6 +990,10 @@ If you liked the circle experience: develp some ideas on how to spread the appro
 * ...
 
 Celebrate the finished sprint e.g. by going out for lunch/dinner. You might also write a status update or blog post and post a selfie of your circle to let others know that you are a finisher! Keep Calm & Learn On!
+
+**Further Information:**
+
+* [Malcolm Gladwell on the 10,000 hour Rule](https://www.youtube.com/watch?v=XS5EsTc_-2Q)
 
 ## [Your Future Backwards](#your-future-backwards)
 What is the big picture in your (work) life? Can you explain the purpose of your day-to-day activities in one sentence? A good exercise to get a clear picture is a combination of [The Future Backwards](http://cognitive-edge.com/methods/the-future-backwards/) by Dave Snowden and the [Golden Circle](https://www.youtube.com/watch?v=IPYeCltXpxw) by Simon Sinek. This can be done in a group (e.g. departement or project team) or on your own. In a very short timebox you look at your current state, your past, your desired future (vision), your anti-vision, and the major milestones towards your desired future.
