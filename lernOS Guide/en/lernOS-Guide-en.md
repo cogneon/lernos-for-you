@@ -185,11 +185,11 @@ In week 0 the sprint planning takes place: Does everybody understand the process
 In weeks 1-12 the weekly meeting as described in the chapter "lernOS Circle" takes place. The circle members are working on their desired results during the sprint. They build a network that supports them with achieving their objectives. The two "pitstops" in week 4 and week 8 help to see if everybody is still on track. When no additional exercises are made in the weekly meeting it will take 15 minutes. If additional exercises are chosen, up to 60 minutes will be necessary for the meeting. The documentation for every exercise is in the chapter "lernOS Kata Catalogue".
 
 # lernOS Canvas - Use it as Checklist And To Tell Your Story
-A canvas is a visual structure that can be used to work through several topic areas in a systematic way (canvas as checklist). It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). This canvas is used to design a business model for an organization. Instead of writing a business plan in a linear document the canvas is used in a visual and agile way. The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the areas have been changed to reflect the topics a circle works on during a sprint.
+A canvas is a visual structure that can be used to work through several topic areas in a systematic way (canvas as checklist). It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). This canvas is used to design a business model for an organization. Instead of writing a business plan in a linear document the canvas is used in a visual and agile way. The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the building blocks have been changed to reflect the topics a circle works on during a sprint.
 
 ![lernOS Canvas](../../lernOS%20Canvas/lernOS-Canvas.png)
 
-The header of the canvas contains the creation date, the number of the sprint, and the mission statement from week 0. In the area "My Objectives & Key Results" the goals for the current sprint are documented. The areas "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people inside and outside the organization who can help to achieve the objectives. Social networks can be internal (e.g. Enterprise Social Network, Jive, Yammer, Connections) or external (e.g. LinkedIn, Twitter, ResearchGate). Available knowledge asset (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
+The header of the canvas contains the creation date, the number of the sprint, and the mission statement from week 0. In the building block "My Objectives & Key Results" the goals for the current sprint are documented. The building blocks "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people inside and outside the organization who can help to achieve the objectives. Social networks can be internal (e.g. Enterprise Social Network, Jive, Yammer, Connections) or external (e.g. LinkedIn, Twitter, ResearchGate). Available knowledge asset (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
 
 The lernOS Canvas can be downloaded from the [lernOS Repository on github](https://github.com/simondueckert/lernos) in different formats (e.g. PowerPoint, PDF, PNG). To be able to work with the canvas in an agile way one should NEVER write on a canvas ... that's why sticky notes were invented!
 
@@ -208,7 +208,7 @@ When using OneNote in a circle a section can be structured by the weekly meeting
 
 # lernOS Weekly - Meet Your Circle Members Every Week
 
-## Week 0 - Sprint Planning
+## Week 0 - Get Together & Sprint Planning
 When you are new to the circle you will get to know each other in week 0. You will plan the administrative stuff like when to meet, which tools to use, who is the facilitator etc. One of the major impediments for running a circle is discipline and time management. You should define the basic rules for running the circle until the end of week 0.
 
 * **Check-in:** Welcome Everybody! _(5 minutes)_
@@ -326,7 +326,7 @@ In this week the final iteration of your key results should be available. Talk a
 * **Exercise:** [Repetition Is The Key To Mastery](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#repetition-is-the-key-to-mastery) _(15 minutes)_
 * **Check-out:** Party time! _(5 minutes)_
 
-# lernOS Kata Catalogue - Exercises For Upskilling
+# lernOS Kata Catalogue - Exercises To Upskill Yourself
 How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. Most of the exercises can be practiced in a circle or separately.
 
 ## [Why Are You Here?](#why-are-you-here)
@@ -346,11 +346,30 @@ Share your reasons in the circle.
 * Video [How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) with Simon Sinek
 
 ## [My Objectives For The Next 12 weeks](#my-objectives-for-the-next-12-weeks)
-What do you want to accomplish in the next 12 weeks? Pick one or more objectives (max. 5) that you really care about and you can make progress towards in the sprint. How can you see or feel that you make progress towards your objectives? To help you to track progress define 2-4 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure to set yourself ambitious goals a completion rate of 0.7 is regarded as a success.
+What do you want to accomplish in the next 12 weeks? Pick an objective that you really care about and you can make progress towards in the sprint. The objective might be an open and explorative one like "I want to learn something about digital leadership". It might help you to use the SMART or FAST criteria to formulate your objective. You can also use Google's OKR method to get measurable key results (see ProTip).
+
+![](images/lernOS-Kata-My-Objectives-For-The-Next-12-Weeks.png)
+
+**SMART criteria:**
+
+* **Specific:** target a specific area for improvement.
+* **Measurable:** quantify or at least suggest an indicator of progress.
+* **Achievable:** make sure that the objective is realistic.
+* **Relevant:** motivate yourself by objectives you care about.
+* **Time-bound:** specify when the results can be achieved.
+
+**FAST criteria (by The Strategic Agility Project):**
+
+* **Frequently discussed:** Goals should be embedded in ongoing discussions to review progress, allocate resources, prioritize initiatives, and provide feedback.
+* **Ambitious:** Objectives should be difficult but not impossible to achieve.
+* **Specific:** Goals are translated into concrete metrics and milestones that force clarity on how to achieve each goal and measure progress.
+* **Transparent:** Goals and current performance should be made public for all employees to see.
 
 **Exercise (25 minutes):**
 
-Think about your objective(s) for the next 12 weeks. If you have problems to find a good objective think about goals that support your roles, activities, or projects. Write down your objective(s) and 2-5 key results per objective:
+Select an objective for the next 12 weeks. Use the test questions "Do I really, really care?", "Can I achieve it in 12 weeks?", and "Can my network help me?" to check if the objective is appropriate for the circle. If you have problems to find a good objective think about goals that support your roles, activities, or projects.
+
+**ProTip:** Use the principles from objective & key results (OKR) to specify your objective. Define an objective and write it down below. To help you to track progress define 2-4 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure to set yourself ambitious goals a completion rate of 0.7 is regarded as a success.
 
 _I will (objective):_ ...
 
@@ -363,8 +382,12 @@ _as measured by (key results):_
 
 Share your objective(s) in the circle.
 
+**lernOS Canvas:** put objectives in the building block "My Objectives". You might add further sticky notes for the key results as well.
+
 **Further Information:**
 
+* Wikipedia Article [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria)
+* MIT Sloan Article [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)
 * Video [How Google Sets Goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) with Google ventures partner Rick Klau
 * Book [Introduction To OKRs](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) by Christina Wodtke
 * Book [The Beginner's Guide To OKR](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) by Felipe Castro
@@ -389,6 +412,8 @@ Create a list of at least ten people related to your objectives. If you don't kn
 
 Share your list in the circle and let others help to complete it.
 
+**lernOS Canvas:** collect people related to your objective in the building block "My Relationships". You can sort them by priority or internal/external if you like.
+
 **Further Information:**
 
 * Video [Social Networking In Plain English](https://www.youtube.com/watch?v=6a_KF7TYKVc)
@@ -403,6 +428,8 @@ How strong is the relationship to the people related to your objectives? The con
 **Exercise (5 minutes):**
 
 Take your relationship list and grade every relationship as 1 (absent), 2 (weak), or 3 (strong) to get an idea which relationships should be deepened in the future. Mark the relationships that you want to deepen in the future.
+
+**lernOS Canvas:** put grades (1-3) on the sticky notes in section "My Relationships".
 
 **Further Information:**
 
@@ -423,6 +450,8 @@ Go through your relationship list and look for some kind of online presence for 
 1. ...
 
 Discuss your sharing experiences in the circle.
+
+**lernOS Canvas:** if you find people from your relationship list inside an internal or external social network list the network in the building block "My Social Networks".
 
 ## [An Appointment With Yourself](#an-appointment-with-yourself)
 Do you spend enough time for your personal development and for working on your personal objectives? A lot of people are busy with their day to day business and do not care enough for their strategic development and their well being. A good approach is to make an appointment with yourself and reserve that time in your calender so nobody else can invite you then. A friday afternoon or any other day with no regular meetings might work well.
@@ -454,6 +483,8 @@ Search the intranet or internet to find at least five groups that are related to
 
 Discuss the lists of groups in the circle and get more suggestions. Make a small contribution to at least one of the groups afterwards.
 
+**lernOS Canvas:** use building block "My Social Networks" to list groups or communities related to your objective.
+
 **Further Information:**
 
 * Sources for groups: [LinkedIn Groups](https://www.linkedin.com/groups), [Facebook Groups](https://www.facebook.com/groups), [Xing Groups](https://www.xing.com/communities) (mostly german), [meetup.com](https://www.meetup.com), [reddit.com](https://www.reddit.com/reddits/).
@@ -467,6 +498,8 @@ Think of two examples where knowledge or content from another person helped you 
 
 1. ...
 1. ...
+
+**lernOS Canvas:** add two people who helped you before to the building block "My Relationships".
 
 ## [Tone Of Voice In Online Communication](#tone-of-voice-in-online-communication)
 Do you have the same tone when you communication online then you have in real life? Do you write emails with the same tone like you would talk to the person in a face-to-face meeting? Often the tone in online communication is tougher and more rude than it should be. This is true for emails, messages, discussion forums and blog comments. It is a barrier for developing trust and a supportive network.
@@ -492,7 +525,7 @@ When was the last time you shared a valuable resource with a person or group wit
 
 **Exercise (30 minutes):**
 
-Think of resources that might be valuable to people on your relationship list. This can be links, videos, books, articles, podcasts, documents or anything else. Put together a list of 5 resources:
+Think of resources that might be valuable for people on your relationship list. This can be links, videos, books, articles, podcasts, documents or anything else. Put together a list of 5 resources:
 
 1. ...
 1. ...
@@ -507,6 +540,8 @@ Find at least three people on your relationship list that will be interested in 
 1. ...
 
 Discuss the shared resources and how you shared it in the circle.
+
+**lernOS Canvas:** Collect five resources that might be valuable for people in your relationship list in the building block "My Knowledge Assets".
 
 ## [25 Random Facts About Me](#25-random-facts-about-me)
 What are interesting facts about you that might help you to connect with other people? If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you in networking to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!"). Random things about yourself might include:
@@ -556,6 +591,8 @@ Create a list of 10 random facts about yourself. Then read the [Fuqua 25 random 
 
 Share the facts about you in the circle. You could do this by giving your list around and let other circle members write associations and connections on it.
 
+**lernOS Canvas:** scan the list of facts about you. If any of the facts indicate knowledge domains or skills put them in the building block "My Knowledge & Skills".
+
 **Further Information:**
 
 * YouTube-Search ["random facts about me"](https://www.youtube.com/results?search_query=random+facts+about+me)
@@ -589,12 +626,14 @@ Open your search engine of choice and enter your name. This could be internet se
 
 Think about what your main online profile might be (e.g. LinkedIn profile, about.me profile or profile in your enterprise social network). This will be called your "digital twin" that represents you online:
 
+*My main online profile is ...*
+
+**lernOS Canvas:** add social networks you find profiles of yourself in the building block "My Social Networks".
+
 **Further Information:**
 
 * Wikipedia Article [Egosurfing](https://en.wikipedia.org/wiki/Egosurfing)
 * Article [Google Yourself! Measuring the performance of personalized information resources](http://snurb.info/files/aoir2008/Google%20Yourself!%20Measuring%20the%20performance%20of%20personalized%20information%20resources%20(AoIR%202008).pdf) by Thomas Nicolai and Lars Kirchhoff.
-
-* **My main online profile:** ...
 
 ## [Update Your Digital Twin](#update-your-digital-twin)
 Does your main online profile or your "digital twin" represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects, current interests, key knowledge domains, and objectives you need support for should be visible on that profile.
@@ -614,6 +653,7 @@ Go through the online profile and check if you have a nice image, a short descri
 1. ...
 1. ...
 
+**lernOS Canvas:** mark the social network that contains your main online profile in the building block "My Social Networks".
 
 ## [Spend Time On Making Connections](#spend-time-on-making-connections)
 How do you connect with other people on social networks? Of courcse there is a connect button or invite button in all the networks but to just use the default message is not a very polite way to connect with strangers. Most social networks provide features to customize the message when connecting. You should always use this option.
@@ -711,6 +751,8 @@ How do you see if you make progress towards your objectives? In agile project ma
 
 Think about how you can use a burn down chart to measure and visualize progress towards your objectives. This might be the measurable key results the tasks you need to do to create the results. You can use paper or pen or any software that supports task tracking in a visual way.
 
+**lernOS Canvas:** Mark finished key results as done in the building block "My Objectives & Key Results".
+
 **Further Information:**
 * Video [How to use The Sprint Burndown](https://www.youtube.com/watch?v=GokN-50Jt4A)
 
@@ -747,6 +789,8 @@ Chose one of your objectives and list at least ten related assets you find usefu
 
 Present the Top 10 list in the circle and let others help to extend it.
 
+**lernOS Canvas:** collect the valuable assets related to your objectives in the building block "My Knowledge Assets".
+
 ## [The Dinner Table University](#the-dinner-table-university)
 Do you use informal situations like lunch to learn? Leo Buscaglia called this the [Dinner Table University](http://unprovenpervert.blogspot.com/2008/05/our-dinner-table-university-by-leo.html). His father said "There is so much to learn. Though we're born stupid, only the stupid remain that way". After the dinner the father asked the children "Tell me what you learned today". This way every meal becomes a learning opportunity as well. In business you can practice this with methods Lunch&Learn or Walk&Talk.
 
@@ -761,6 +805,8 @@ Think about what you learned today or the day before:
 1. ...
 
 Share the learning in the circle. Discuss if you want to share these kind of learnings in a social networking on an ongoing basis.
+
+**lernOS Canvas:** collect knowledge domains and skills you learned in the building block "My Knowledge & Skills".
 
 ## [What Can I Contribute?](#what-can-i-contribute)
 Do you have a clear idea what you can contribute to your network? Often we do not contriute because we don't know what to share or write. [Research shows](https://www.researchgate.net/publication/259390661_The_Contextual_Nature_of_Enterprise_Social_Networking_A_Multi_Case_Study_Comparison) that there are typical activities in social networks you could use as a checklist for your contributions:
