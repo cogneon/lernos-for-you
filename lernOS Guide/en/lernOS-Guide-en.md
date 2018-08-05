@@ -350,7 +350,7 @@ What do you want to accomplish in the next 12 weeks? Pick an objective that you 
 
 ![](images/lernOS-Kata-My-Objectives-For-The-Next-12-Weeks.png)
 
-**SMART criteria:**
+**SMART criteria (by George Doran):**
 
 * **Specific:** target a specific area for improvement.
 * **Measurable:** quantify or at least suggest an indicator of progress.
