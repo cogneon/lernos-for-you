@@ -609,6 +609,8 @@ Go through your facts about you and find at least one fact that might be of inte
 ## [Go Google Yourself!](#go-google-yourself)
 What do people see when they search for you on the internet? Do they get an idea of who you are, what your objectives are and how they might help you? You can simulate that search by googling yourself, often called egosurfing, egosearching or vanity search.
 
+![Go Google Yourself on google.com or in an intranet search engine](images/lernOS-Kata-Go-Google-Yourself.png)
+
 **Exercise (10 minutes):**
 
 Open your search engine of choice and enter your name. This could be internet search or also intranet search. Open at least the first 10 search results and check if your personality, your offerings and your objectives are represented in the way you want them to be:
