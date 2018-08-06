@@ -24,83 +24,57 @@ Adopting new practices is not only about using new digital tools or fancy method
 ![lernOS Wheel](images/lernOS-Wheel-v06.png)
 
 ## Mindset - Your World View
-The mindset can be described as the assumptions, beliefs, perceptions, thoughts, feelings, and values that lead to actions and visible artifacts. These visible artifacts is everything one can see, hear, and feel. In an organizations artifacts might be structures, hierarchies, processes, architectures, office design, physical environment, and ICT infrastructure. The necessary values to successfully use lernOS are very well described in the [Manifesto for Human Leadership](https://fuehrung-erfahren.de/wp-content/uploads/2018/02/Manifesto-for-Human-Leadership.pdf):
+The mindset can be described as the assumptions, beliefs, perceptions, thoughts, feelings, and values that lead to actions and visible artefacts. These visible artefacts is everything one can see, hear, and feel. In an organizations artefacts might be structures, hierarchies, processes, architectures, office design, physical environment, and ICT infrastructure. The necessary values to successfully use lernOS are covered in the preamble of the [Manifesto for Human Leadership](https://fuehrung-erfahren.de/wp-content/uploads/2018/02/Manifesto-for-Human-Leadership.pdf):
 
 > We believe in the creativity and motivation of human beings. We consider human leadership
 > as pivotal in a highly networked and highly complex world. We understand the task of
 > leadership as serving life and striving for conditions in which people, in their diversity, can
 > contribute in the best possible way and in which they can develop themselves and work
-> effectively together. These values are important to us:
->
-> **Unleashing human potential** over employing human resources.
->
-> **Diversity and dissent** over conformity and consensus.
->
-> **Purpose and trust** over command and control.
->
-> **Contributions to networks** over position in hierarchies.
->
-> **Growing leaders** over leading followers.
->
-> **Courageously exploring the new** over efficiently exploiting the old.
+> effectively together.
 
-**ProTip:** leadership is not assigned or bound to managers. Everybody can be a leader. Just do it! Like Grace Hopper said in 1986 "It's easier to ask forgiveness then it is to get permission".
+The core principle for a 21st century mindset is [openness](https://en.wikipedia.org/wiki/Openness). This means being open to new experience, knowledge, and ideas as well as sharing knowledge, ideas, and content openly (e.g. by the [open definition](https://opendefinition.org/)). You should develop an "open first mindset" over time as described in the [Open First Manifesto](http://innovationsbeirat.de/open-first/):
+
+![Open First Manifesto by @ib_neudenker](images/open-first-manifesto-v10.png)
 
 **ProTip:** your mindset is not fixed you can develop a new mindset. Watch Carol Dweck's video on [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) to learn more about it.
 
 ## Skillset - Your Capabilities
-To get fit for the 21st century a lot of new skills have to be acquired. On the one hand these are skills to exploit new digital opportunities also called digital skills and digital leadership. These skills are outlined in [DigiComp 2.1](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use), a digital competence framework for citizens in the 21st century:
 
-* **Competence Area 1: Information and data literacy**
-  * Browsing, searching, fltering data, information and digital content
-  * Evaluating data, information and digital content
-  * Managing data, information and digital content
-* **Competence Area 2: Communication and collaboration**
-  * Interacting through digital technologies
-  * Sharing throught digital technologies
-  * Engaging in citizenship through digital technologies
-  * Collaborating through digital technologies
-  * Netiquette
+Since the 1980s skills like solving non-routine problems and interacting with others in creative ways become dominant. Also automation, artificial intelligence, and machine learning will replace a lot of activities that have been done by humans in the past. Therefore to get fit for the 21st century a lot of new skills have to be acquired. This new skillset can be described as a combination of the [DigiComp 2.1 Framework](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use) for digital skills and the [P21 Framework for 21st Century Learning](http://www.p21.org/our-work/p21-framework) with the 4C learning and innovation skills (creativity, critical thinking, communication, collaboration):
+
+1. **Creativity and Innovation**
+  * Think creatively
+  * Work creatively with others
+  * Implement innovations
+1. **Critical Thinking And Problem Solving**
+  * Identifying needs and technological responses
+  * Reason effectively
+  * Make judgments and decisions
+  * Solve technical and non-technical problems
+  * Creatively using technologies to solve problems
+1. **Communication**
+  * Articulate thoughts and ideas clearly and effectively
+  * Listen effectively to decipher meaning
+  * Use communication to inform, instruct, motivate and persuade
+  * Utilize multiple media and technologies
+  * Communicate effectively in diverse environments (including multi-lingual, multi-cultural)
+1. **Collaboration**
+  * Work effectively and respectfully with diverse teams
+  * Exercise flexibility and willingness to be helpful in making necessary compromises to accomplish a common goal
+  * Assume shared responsibility for collaborative work, and value the individual contributions
+  * Interacting, engaging, sharing, and collaborating through digital technologies
   * Managing digital identity
-* **Competence Area 3: Digital content creation**
+1. **Information, Data, And Web Literacy**
+  * Browsing, searching, filtering data, information and digital content
+  * Evaluating and managing data, information and digital content
+  * Managing data, information and digital content
+  * Protecting digital devices
+  * Protecting personal data and privacy
+1. **Digital Content Creation**
   * Developing digital content
   * Integrating and re-elaborating digital content
-  * Copyright and licences
-  * Programming
-* **Competence Area 4: Safety**
-  * Protecting devices
-  * Protecting personal data and privacy
-  * Protecting health and well-being
-  * Protecting the environment
-* **Competence Area 5: Problem solving**
-  * Solving technical problems
-  * Identifying needs and technological responses
-  * Creatively using digital technologies
-  * Identifying digital competence gaps
-
-On the other hand automation, artificial intelligence, and machine learning will replace a lot of activities that have been done by humans in the past. The [P21 Framework for 21set Century Learning](http://www.p21.org/our-work/p21-framework) gives a good overview of the 4C learning and innovation skills (creativity, critical thinking, communication, collaboration) that will prepare citizens for increasingly life and work environments in the 21st Century:
-
-* **Creativity and Innovation**
-  * Think Creatively: Use a wide range of idea creation techniques (such as brainstorming), Create new and worthwhile ideas (both incremental and radical concepts), Elaborate, refine, analyze and evaluate their own ideas in order to improve and maximize creative efforts
-  * Work Creatively with Others: Develop, implement and communicate new ideas to others effectively, Be open and responsive to new and diverse perspectives; incorporate group input and feedback into the work, Demonstrate originality and inventiveness in work and understand the real world limits to adopting new ideas, View failure as an opportunity to learn; understand that creativity and innovation is a long-term, cyclical process of small successes and frequent mistakes
-  * Implement Innovations: Act on creative ideas to make a tangible and useful contribution to the field in which the innovation will occur
-* **Critical Thinking and Problem Solving**
-  * Reason Effectively: Use various types of reasoning (inductive, deductive, etc.) as appropriate to the situation
-  * Use Systems Thinking: Analyze how parts of a whole interact with each other to produce overall outcomes in complex systems
-  * Make Judgments and Decisions: Effectively analyze and evaluate evidence, arguments, claims and beliefs, Analyze and evaluate major alternative points of view, Synthesize and make connections between information and arguments, Interpret information and draw conclusions based on the best analysis, Reflect critically on learning experiences and processes
-  * Solve Problems: Solve different kinds of non-familiar problems in both conventional and innovative ways, Identify and ask significant questions that clarify various points of view and lead to better solutions
-* **Communication**
-  * Communicate Clearly, including ...
-  * Articulate thoughts and ideas effectively using oral, written and nonverbal communication skills in a variety of forms and contexts
-  * Listen effectively to decipher meaning, including knowledge, values, attitudes and intentions
-  * Use communication for a range of purposes (e.g. to inform, instruct, motivate and persuade)
-  * Utilize multiple media and technologies, and know how to judge their effectiveness a priori as well as assess their impact
-  * Communicate effectively in diverse environments (including multi-lingual)
-* **Collaboration**
-  * Collaborate with Others, including ...
-  * Demonstrate ability to work effectively and respectfully with diverse teams
-  * Exercise flexibility and willingness to be helpful in making necessary compromises to accomplish a common goal
-  * Assume shared responsibility for collaborative work, and value the individual contributions made by each team member
+  * Handling Copyright and licences
+  * Programming, Scripting, and Coding
 
 **ProTip:** the Mozilla Foundation has developed the [Web Literacy Framework](https://learning.mozilla.org/en-US/web-literacy) with a lot of exercises for developing digital literacy and 21st century skills.
 
@@ -122,24 +96,39 @@ For a beginner this prism with 28 categories and dozens of tools might be overwh
 1. **Wiki:** Confluence, Mediawiki, Wikipedia
 1. **Work Coordination:** asana, Microsoft Planner, Microsoft To-Do, Trello
 
-**ProTip:** you find links for all the tools in the [lernOS Wiki on github](https://github.com/simondueckert/lernos/wiki).
-
-In addition to technical tools also a new set of helpful methods is available. Good examples are barcamps, communities of practice, coworking, design thinking, shipit days (aka fedex days), future backwards, getting things done, hackathon, knowledge map, lessons learned, massive open online courses, podcast, screencast, scrum, and working out loud.
-
-**ProTip:** feel free to choose a tool or method and try it out in your circle to upskill yourself.
-
-Enough theory. You have read about the right mindset, skillset, and toolset for the 21st century. Now it is time to practice. You will do this in periods of three month called lernOS Sprints. To have some peer support you should not practice on your own but in a group of 4-5 people called a lernOS Circle. You will have a weekly meeting with a standard agenda to structure your learning process step by step. The next chapters will explain the practice of lernOS in detail.
+In addition to technical tools also a new set of helpful methods is available. Good examples are barcamps, communities of practice, coworking, design thinking, shipit days (aka fedex days), future backwards, getting things done, hackathon, knowledge map, lessons learned, massive open online courses, podcast, screencast, scrum, and working out loud. The right toolset is highly depended on your life or your occupation.
 
 # lernOS Circle - From Talking The Talk to Walking the Walk
-You can practice lernOS on your own. But it's easier and more successful if you practice it in a group of 4-5 people. This group is called a lernOS Circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The lernOS Circle is a circle of trust: what happens in the circle stays in the circle!
+Enough theory. You have read about the right mindset, skillset, and toolset for the 21st century. Now it is time to practice. You will do this in periods of three month called lernOS Sprints. To have peer support you should not practice on your own but in a group of 4-5 people called a lernOS Circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The lernOS Circle is a circle of trust: what happens in the circle stays in the circle! The circle members will have a weekly meeting with a standard agenda to structure your learning process step by step.
 
 ![lernOS Circle](images/lernOS-Circle-v03.png)
 
 The circle meets weekly in a meeting called lernOS Weekly. The weekly is a short ceremony to track results, practice exercises, and motivate yourself for the next week. In the circle each member defines personal objectives and desired results. Circle members learn to share and network to build get a network of trust and relationships that help to achieve the personal objectives.
 
-**ProTip:** in a lot of circles the timebox for running an exercise in the circle is too short. You can use the method [inverted classroom](https://en.wikipedia.org/wiki/Flipped_classroom): every circle member prepares the exercises as "homework" upfront so you will have more time to discuss results in the circle.
+# lernOS Sprint - Driving Agile Planning And Execution
+Circle members should be able to switch circles if they want. Therefore the circles have to have the same rhythm. For this reason lernOS is practiced in so called sprints of on quarter of a year each (13 weeks). So one year consists of four lernOS Sprints:
 
-The weekly meeting might be face-to-face or virtual. In any case the circle should establish a digital infrastructure for communication and documentation in between the weekly meetings. The following table shows some tools that are proven in practice (find more in the [lernOS Wiki](https://github.com/simondueckert/lernos/wiki)):
+| Date | Sprint |
+|------|--------|
+| **01.01.-31.03.:** | 01/yyyy |
+| **01.04.-30.06.:** | 02/yyyy |
+| **01.07.-30.09.:** | 03/yyyy |
+| **01.10.-31.12.:** | 04/yyyy |
+
+In week 0 the sprint planning takes place: Does everybody understand the process? When will the weekly meeting be? Which exercises are chosen for the weeks? Will the weekly meeting be organized face-to-face or virtual? Which tools are used for communication and documentation in the sprint? Is everybody able to use the tools? Additionally week 0 can be used for strategic planning: What is the purpose? What is the true north? What is the mission? What are breakthrough goals for the future? What might be objectives for the next sprint?
+
+![lernOS Sprint](images/lernOS-Sprint-v02.png)
+
+In weeks 1-12 the weekly meeting as described in the chapter "lernOS Circle" takes place. The circle members are working on their desired results during the sprint. They build a network that supports them with achieving their objectives. The two "pitstops" in week 4 and week 8 help to see if everybody is still on track. When no additional exercises are made in the weekly meeting it will take 15 minutes. If additional exercises are chosen, up to 60 minutes will be necessary for the meeting. The documentation for every exercise is in the chapter "lernOS Kata Catalogue".
+
+# lernOS Weekly - Meet Your Circle Members Every Week
+
+A lernOS Circle meets once a week. Each week has a standardized agenda with a check-in, a check-out, and suggested exercises called lernOS Katas. The timebox for the weekly can be adopted to personal needs (suggested timeslot: Friday between 11-12am):
+
+* **15 Minute Weekly Meeting:** only Check-In and Check-Out to track progress
+* **30-60 Minute Weekly Meeting:** like 15 minutes plus exercises from the lernOS Kata Catalogue
+
+In the sprint planning in week 0 the circle members can decide which exercises they want to do in the circle and which ones they want to adapt or leave out. The weekly meeting might be face-to-face or virtual. In any case the circle should establish a digital infrastructure for communication and documentation in between the weekly meetings. The following table shows some tools that are proven in practice (find more in the [lernOS Wiki](https://github.com/simondueckert/lernos/wiki)):
 
 | Tool A-Z | Communication | Documentation |
 |------|---------------|---------------|
@@ -165,42 +154,6 @@ The weekly meeting might be face-to-face or virtual. In any case the circle shou
 
 **ProTip:** To have a good usability choose a tool that supports communication and documentation, e.g. a [Facebook Group](https://www.facebook.com/help/1629740080681586) or [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software). In a Facebook Group you can use the activity stream for communicating and [group docs](https://www.facebook.com/help/203003559734725) for documentation. In Microsoft Teams you can use the channel "General" for communication and wiki pages or a OneNote Notebook for documentation.
 
-# lernOS Sprint - Driving Agile Planning And Execution
-Circle members should be able to switch circles if they want. Therefore the circles have to have the same rhythm. For this reason lernOS is practiced in so called sprints of on quarter of a year each (13 weeks). So one year consists of four lernOS Sprints:
-
-| Date | Sprint |
-|------|--------|
-| **01.01.-31.03.:** | 01/yyyy |
-| **01.04.-30.06.:** | 02/yyyy |
-| **01.07.-30.09.:** | 03/yyyy |
-| **01.10.-31.12.:** | 04/yyyy |
-
-In week 0 the sprint planning takes place: Does everybody understand the process? When will the weekly meeting be? Which exercises are chosen for the weeks? Will the weekly meeting be organized face-to-face or virtual? Which tools are used for communication and documentation in the sprint? Is everybody able to use the tools? Additionally week 0 can be used for strategic planning: What is the purpose? What is the true north? What is the mission? What are breakthrough goals for the future? What might be objectives for the next sprint?
-
-![lernOS Sprint](images/lernOS-Sprint-v02.png)
-
-In weeks 1-12 the weekly meeting as described in the chapter "lernOS Circle" takes place. The circle members are working on their desired results during the sprint. They build a network that supports them with achieving their objectives. The two "pitstops" in week 4 and week 8 help to see if everybody is still on track. When no additional exercises are made in the weekly meeting it will take 15 minutes. If additional exercises are chosen, up to 60 minutes will be necessary for the meeting. The documentation for every exercise is in the chapter "lernOS Kata Catalogue".
-
-# lernOS Canvas - Use it as Checklist And To Tell Your Story
-A canvas is a visual structure that can be used to work through several topic areas in a systematic way (canvas as checklist). It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). This canvas is used to design a business model for an organization. Instead of writing a business plan in a linear document the canvas is used in a visual and agile way. The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the building blocks have been changed to reflect the topics a circle works on during a sprint.
-
-![lernOS Canvas](../../lernOS%20Canvas/lernOS-Canvas-en.png)
-
-The header of the canvas contains the creation date, the number of the sprint, and the mission statement from week 0. In the building block "My Objectives & Key Results" the goals for the current sprint are documented. The building blocks "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people inside and outside the organization who can help to achieve the objectives. Social networks can be internal (e.g. Enterprise Social Network, Jive, Yammer, Connections) or external (e.g. LinkedIn, Twitter, ResearchGate). Available knowledge asset (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
-
-The lernOS Canvas can be downloaded from the [lernOS Repository on github](https://github.com/simondueckert/lernos) in different formats (e.g. PowerPoint, PDF, PNG). To be able to work with the canvas in an agile way one should NEVER write on a canvas ... that's why sticky notes were invented!
-
-**ProTip:** if you use a lernOS Memex (e.g. OneNote) you can take a photo of the current version of the canvas and put it in the memex. This way the other circle members can see it as well.
-
-# lernOS Weekly - Meet Your Circle Members Every Week
-
-A lernOS Circle meets once a week. Each week has a standardized agenda with a check-in, a check-out, and suggested exercises called lernOS Katas. The timebox for the weekly can be adopted to personal needs (suggested timeslot: Friday between 11-12am):
-
-* **15 Minute Weekly Meeting:** only Check-In and Check-Out to track progress
-* **30-60 Minute Weekly Meeting:** like 15 minutes plus exercises from the lernOS Kata Catalogue
-
-In the sprint planning in week 0 the circle members can decide which exercises they want to do in the circle and which ones they want to adapt or leave out.
-
 ## Week 0 - Get Together & Sprint Planning
 When you are new to the circle you will get to know each other in week 0. You will plan the administrative stuff like when to meet, which tools to use, who is the facilitator etc. One of the major impediments for running a circle is discipline and time management. You should define the basic rules for running the circle until the end of week 0.
 
@@ -209,7 +162,7 @@ When you are new to the circle you will get to know each other in week 0. You wi
 * **Sprint Planning** see below _(25 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-Define a circle facilitator who cares for event and time management. The facilitator is not the "boss" of the circle but just a normal member that cares for the smooth operation. Define the day and time of your weekly circle meeting (suggestion: Friday, 11-12 am). Define if you meet face-to-face or virtually. If you go for virtual Weekly discuss if weeks 4, 7 and 12 might be done face-to-face. If you meet virtually define the tool you use for the web conference (e.g. Skype for Business, Zoom, appear.in). Decide if you use further tools for communication (e.g. WhatsApp, Threema, Telegram, WeChat) and documentation (e.g. OneNote, Evernote).
+Define a circle facilitator who cares for event and time management. The facilitator is not the "boss" of the circle but just a normal member that cares for the smooth operation. Define the day and time of your weekly circle meeting (suggestion: Friday, 11-12 am). Define if you meet face-to-face or virtually. If you go for virtual Weekly discuss if weeks 4, 7 and 12 might be done face-to-face. If you meet virtually define the tool you use for the web conference (e.g. Skype for Business, Zoom, appear.in). Decide if you use further tools for communication (e.g. WhatsApp, Threema, Telegram, WeChat) and documentation (e.g. OneNote, Evernote). Also talk about the topics from the lernOS Wheel (mindset, skillset, toolset) and if you want to improve of some of the areas listed there.
 
 * **Circle facilitator:** ...
 * **Day/time of weekly meeting:** ... (put it in your calendar NOW! :-)
@@ -321,6 +274,8 @@ In this week the final iteration of your key results should be available. Talk a
 
 # lernOS Kata Catalogue - Exercises To Upskill Yourself
 How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. The standard agenda for the weekly meeting reference some of the katas. Used this way one or more exercises can be practiced in a circle during a 12 week self-directed learning programme.
+
+**ProTip:** in a lot of circles the timebox for running an exercise in the circle is too short. You can use the method [inverted classroom](https://en.wikipedia.org/wiki/Flipped_classroom): every circle member prepares the exercises as "homework" upfront so you will have more time to discuss results in the circle.
 
 ## [Why Are You Here?](#why-are-you-here)
 What is your motivation for joining this circle? Too often we try to change things by start using new methods and tools but the "Why" is unclear. Simon Sinek explained with his "golden circle" that we should start with the "Why" and then think about the "How" and the "What".
@@ -1043,6 +998,28 @@ What is the big picture in your (work) life? Can you explain the purpose of your
 
 Talk about the results in the Circle.
 
+# lernOS Canvas - Use It As Checklist And To Tell Your Story
+A canvas is a visual structure that can be used to work through several topic areas in a systematic way (canvas as checklist). It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). This canvas is used to design a business model for an organization. Instead of writing a business plan in a linear document the canvas is used in a visual and agile way. The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the building blocks have been changed to reflect the topics a circle works on during a sprint.
+
+![lernOS Canvas](../../lernOS%20Canvas/lernOS-Canvas-en.png)
+
+The header of the canvas contains the creation date, the number of the sprint, and the mission statement from week 0. In the building block "My Objectives & Key Results" the goals for the current sprint are documented. The building blocks "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people inside and outside the organization who can help to achieve the objectives. Social networks can be internal (e.g. Enterprise Social Network, Jive, Yammer, Connections) or external (e.g. LinkedIn, Twitter, ResearchGate). Available knowledge asset (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
+
+The lernOS Canvas can be downloaded from the [lernOS Repository on github](https://github.com/simondueckert/lernos) in different formats (e.g. PowerPoint, PDF, PNG). To be able to work with the canvas in an agile way one should NEVER write on a canvas ... that's why sticky notes were invented!
+
+**ProTip:** if you use a lernOS Memex (e.g. OneNote) you can take a photo of the current version of the canvas and put it in the memex. This way the other circle members can see it as well.
+
+# lernOS Memex - Get Things Out Of Your Head And In A System You Trust
+According to David Allen our mind is good for having ideas not for holding them. Therefore we need a way to get things out of the head and into a system we trust. In his 1945 article [As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think) Vannevar Bush called such a system a "memex" (memory extender). Bush's version of the memex was a personal desk based on microfilm and mechanical controls. But his memex can also be seen as an early vision of hypertext and wiki systems.
+
+In the digital age tools like [Microsoft OneNote](https://products.office.com/en-US/onenote) can play the role of a personal memex. In contrast to the physical version OneNote can be used on a desktop computer but also mobile on a smartphone or tablet. OneNote can handle multiple notebooks at the same time. Information in a notebook can be organized in sections, pages, and subpages. With the wiki function pages can also be interlinked. The content on each page can be format freely and can also contain tables, images, audio, and video. A notebook can be shared with coworkers to work on it simultaneously. Content from the internet can be easily stored in OneNote with the [OneNote Web Clipper](https://www.onenote.com/clipper).
+
+![lernOS Memex (OneNote Version)](images/lernOS-Memex-OneNote.png)
+
+When using OneNote in a circle a section can be structured by the weekly meetings and the circle members. The page for each weekly meeting contains the agenda, the exercises, and the links to the exercises. Every completed agenda item can be marked as done by a checkbox. The pages for the circle members contain headings for all required documentation in the circle (e.g. goals, relationship list, social network, facts about me). This way all circle members can see the documentation of everybody else.
+
+**ProTip:** you can download a OneNote Template that can be used for lernOS Circles and WOL Circles [from the lernOS Repository on GitHub](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg).
+
 # Stop talking, start doing!
 If you read through this guide but are not practising yet you should do so NOW! To start with lernOS is really easy. These five steps will help to start smoothly:
 
@@ -1053,15 +1030,3 @@ If you read through this guide but are not practising yet you should do so NOW! 
 1. **Plan, Do, Learn, Repeat:** Use the last meeting of the sprint to reflect the results and the collaboration in the circle. Decide if you want to run another sprint together.
 
 Keep Calm & Learn On! :-)
-
-# Appendix
-## lernOS Memex - Get Things Out Of Your Head And In A System You Trust
-According to David Allen our mind is good for having ideas not for holding them. Therefore we need a way to get things out of the head and into a system we trust. In his 1945 article [As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think) Vannevar Bush called such a system a "memex" (memory extender). Bush's version of the memex was a personal desk based on microfilm and mechanical controls. But his memex can also be seen as an early vision of hypertext and wiki systems.
-
-In the digital age tools like [Microsoft OneNote](https://products.office.com/en-US/onenote) can play the role of a personal memex. In contrast to the physical version OneNote can be used on a desktop computer but also mobile on a smartphone or tablet. OneNote can handle multiple notebooks at the same time. Information in a notebook can be organized in sections, pages, and subpages. With the wiki function pages can also be interlinked. The content on each page can be format freely and can also contain tables, images, audio, and video. A notebook can be shared with coworkers to work on it simultaneously. Content from the internet can be easily stored in OneNote with the [OneNote Web Clipper](https://www.onenote.com/clipper).
-
-![lernOS Memex (OneNote Version)](images/lernOS-Memex-OneNote.png)
-
-When using OneNote in a circle a section can be structured by the weekly meetings and the circle members. The page for each weekly meeting contains the agenda, the exercises, and the links to the exercises. Every completed agenda item can be marked as done by a checkbox. The pages for the circle members contain headings for all required documentation in the circle (e.g. goals, relationship list, social network, facts about me). This way all circle members can see the documentation of everybody else.
-
-**ProTip:** you can download a OneNote Template that can be used for lernOS Circles and WOL Circles [from the lernOS Repository on GitHub](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg).
