@@ -113,14 +113,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="749.04082"
-     inkscape:cy="544.77942"
+     inkscape:zoom="2"
+     inkscape:cx="513.61461"
+     inkscape:cy="610.10444"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-8-9-6"
      showgrid="false"
-     inkscape:window-width="2304"
-     inkscape:window-height="1346"
+     inkscape:window-width="3072"
+     inkscape:window-height="1634"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -142,66 +142,62 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-58.874969)">
+    <rect
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:0.35637045;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1052"
+       width="104.05954"
+       height="25.815411"
+       x="30.830976"
+       y="78.342369" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.94847488px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39193121;"
+       x="60.202747"
+       y="94.094093"
+       id="text854"><tspan
+         sodipodi:role="line"
+         id="tspan852"
+         x="60.202747"
+         y="94.094093"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.94847488px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.39193121;">My Objective</tspan></text>
     <g
-       id="g1173"
-       transform="matrix(1.5760936,0,0,1.5760936,-225.83655,-216.05403)">
-      <rect
-         y="186.78865"
-         x="162.85043"
-         height="16.379364"
-         width="66.023705"
-         id="rect1052"
-         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.22610995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text854"
-         y="196.78281"
-         x="181.48624"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.94658947px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24867254"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.94658947px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.24867254"
-           y="196.78281"
-           x="181.48624"
-           id="tspan852"
-           sodipodi:role="line">My Objective</tspan></text>
+       transform="matrix(0.11976286,0,0,0.11958489,3.8416285,26.38715)"
+       inkscape:label="Layer 1"
+       id="layer1-8-9-6">
       <g
-         id="layer1-8-9-6"
-         inkscape:label="Layer 1"
-         transform="matrix(0.07598715,0,0,0.07587423,145.72623,153.8241)">
-        <g
-           id="g818-0-2"
-           transform="translate(-0.9635,-1.0044)">
-          <circle
-             r="180.62735"
-             cy="557.68408"
-             cx="351.13956"
-             id="path12427-9-3-9-9-8"
-             style="color:#000000;fill:none;stroke:#000000;stroke-width:24.08399963"
-             transform="matrix(0.41522,0,0,0.41522,203.67,311.84)" />
-          <circle
-             r="180.62735"
-             cy="557.68408"
-             cx="351.13956"
-             id="path12427-9-3-9-8-5-2-9"
-             style="color:#000000;fill:none;stroke:#000000;stroke-width:40.13899994"
-             transform="matrix(0.24913,0,0,0.24913,261.99,404.46)" />
-          <circle
-             r="180.62735"
-             cy="557.68408"
-             cx="351.13956"
-             id="path12427-9-3-9-8-2-3-0-9"
-             style="color:#000000;fill:#000000"
-             transform="matrix(0.12121,0,0,0.12121,306.91,475.8)" />
-          <path
-             id="path13189-0-9-9"
-             d="M 349.48,455.93 V 630.88"
-             style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path45-3-3"
-             style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round"
-             inkscape:connector-curvature="0"
-             d="M 436.98,543.41 H 262.03" />
-        </g>
+         transform="translate(-0.9635,-1.0044)"
+         id="g818-0-2">
+        <circle
+           transform="matrix(0.41522,0,0,0.41522,203.67,311.84)"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:24.08399963"
+           id="path12427-9-3-9-9-8"
+           cx="351.13956"
+           cy="557.68408"
+           r="180.62735" />
+        <circle
+           transform="matrix(0.24913,0,0,0.24913,261.99,404.46)"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:40.13899994"
+           id="path12427-9-3-9-8-5-2-9"
+           cx="351.13956"
+           cy="557.68408"
+           r="180.62735" />
+        <circle
+           transform="matrix(0.12121,0,0,0.12121,306.91,475.8)"
+           style="color:#000000;fill:#000000"
+           id="path12427-9-3-9-8-2-3-0-9"
+           cx="351.13956"
+           cy="557.68408"
+           r="180.62735" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round"
+           d="M 349.48,455.93 V 630.88"
+           id="path13189-0-9-9" />
+        <path
+           d="M 436.98,543.41 H 262.03"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round"
+           id="path45-3-3" />
       </g>
     </g>
     <g
