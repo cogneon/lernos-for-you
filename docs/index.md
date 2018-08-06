@@ -15,13 +15,13 @@ Download the lernOS Guide and get started now! If you need support with finding 
 The adoption of lernOS isn't a matter of hours or days but of months or years. So Keep Calm & Learn On!
 
 # Downloads
-## lernOS Guide
+**lernOS Guide:**
 | Language | Online | PDF | MS Word | eBook |
 |----------|--------|-----|---------|-------|
 | English (en) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) |
 | German (de) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-de.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.epub) |
 
-## lernOS Canvas
+**lernOS Canvas:**
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
 
 | Language | PDF | MS PowerPoint | PNG |
