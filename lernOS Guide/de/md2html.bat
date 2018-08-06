@@ -1,0 +1,1 @@
+pandoc -s -o lernOS-Guide-de.html lernOS-Guide-de.md

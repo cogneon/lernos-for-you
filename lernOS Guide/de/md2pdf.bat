@@ -1,0 +1,1 @@
+pandoc lernOS-Guide-de.md metadata.yaml -o lernOS-Guide-de.pdf --from markdown --template lernOS
