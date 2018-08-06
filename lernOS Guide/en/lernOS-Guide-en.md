@@ -187,7 +187,7 @@ In weeks 1-12 the weekly meeting as described in the chapter "lernOS Circle" tak
 # lernOS Canvas - Use it as Checklist And To Tell Your Story
 A canvas is a visual structure that can be used to work through several topic areas in a systematic way (canvas as checklist). It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). This canvas is used to design a business model for an organization. Instead of writing a business plan in a linear document the canvas is used in a visual and agile way. The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the building blocks have been changed to reflect the topics a circle works on during a sprint.
 
-![lernOS Canvas](../../lernOS%20Canvas/lernOS-Canvas.png)
+![lernOS Canvas](../../lernOS%20Canvas/lernOS-Canvas-en.png)
 
 The header of the canvas contains the creation date, the number of the sprint, and the mission statement from week 0. In the building block "My Objectives & Key Results" the goals for the current sprint are documented. The building blocks "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people inside and outside the organization who can help to achieve the objectives. Social networks can be internal (e.g. Enterprise Social Network, Jive, Yammer, Connections) or external (e.g. LinkedIn, Twitter, ResearchGate). Available knowledge asset (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
 
@@ -330,8 +330,9 @@ In this week the final iteration of your key results should be available. Talk a
 How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. Most of the exercises can be practiced in a circle or separately.
 
 ## [Why Are You Here?](#why-are-you-here)
-What is your motivation for joining this circle? Too often we try to change things by start using new
-methods and tools but the "Why" is unclear. Simon Sinek explained with his "golden circle" that we should start with the "Why" and then think about the "How" and the "What".
+What is your motivation for joining this circle? Too often we try to change things by start using new methods and tools but the "Why" is unclear. Simon Sinek explained with his "golden circle" that we should start with the "Why" and then think about the "How" and the "What".
+
+![Why Are You Here?](images/lernOS-Kata-Why-Are-You-Here.png)
 
 **Exercise (10 minutes):**
 
@@ -348,7 +349,7 @@ Share your reasons in the circle.
 ## [My Objectives For The Next 12 weeks](#my-objectives-for-the-next-12-weeks)
 What do you want to accomplish in the next 12 weeks? Pick an objective that you really care about and you can make progress towards in the sprint. The objective might be an open and explorative one like "I want to learn something about digital leadership". It might help you to use the SMART or FAST criteria to formulate your objective. You can also use Google's OKR method to get measurable key results (see ProTip).
 
-![](images/lernOS-Kata-My-Objectives-For-The-Next-12-Weeks.png)
+![My Objectives For The Next 12 weeks](images/lernOS-Kata-My-Objectives-For-The-Next-12-Weeks.png)
 
 **SMART criteria (by George Doran):**
 
@@ -392,7 +393,7 @@ Share your objective(s) in the circle.
 * Book [Introduction To OKRs](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) by Christina Wodtke
 * Book [The Beginner's Guide To OKR](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) by Felipe Castro
 
-## [People Related To Your Objective(s)](#people-related-to-your-objectives)
+## [People Related To Your Objectives](#people-related-to-your-objectives)
 Most tasks we do have been done by others before. Most of the mistakes we make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives by getting in touch with people inside and outside your organization. To build strong relationships is based on trust and sharing. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) said "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you". So how do you get in touch with people related to your objectives?
 
 **Exercise (20 minutes):**

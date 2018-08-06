@@ -15,8 +15,8 @@
    version="1.1"
    id="svg311"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="lernOS-Canvas.svg"
-   inkscape:export-filename="C:\Users\Simon Dückert\Documents\GitHub\lernos\lernOS Canvas\lernOS-Canvas-300dpi.png"
+   sodipodi:docname="lernOS-Canvas-de.svg"
+   inkscape:export-filename="C:\Users\Simon Dückert\Documents\GitHub\lernos\lernOS Canvas\lernOS-Canvas-de-300dpi.png"
    inkscape:export-xdpi="299.96188"
    inkscape:export-ydpi="299.96188">
   <defs
@@ -28,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="195.29041"
-     inkscape:cy="382.11769"
+     inkscape:zoom="1.4"
+     inkscape:cx="652.77158"
+     inkscape:cy="361.29916"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="3072"
+     inkscape:window-height="1634"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      units="mm" />
   <metadata
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,37 +68,33 @@
          id="tspan852"
          x="9.6870451"
          y="109.4988"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88525009px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.38966307">The lernOS Canvas</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.88525009px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.38966307">Der lernOS Canvas</tspan></text>
     <g
        id="layer2"
        inkscape:label="Layer"
        transform="matrix(0.36842994,0,0,0.36842994,-58.948556,-85.350361)" />
-    <g
-       id="g3828"
-       transform="translate(0,1.3055237)">
-      <text
-         id="text854-9"
-         y="92.771004"
-         x="106.79903"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17102146px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14931335"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17102146px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.14931335"
-           y="92.771004"
-           x="106.79903"
-           id="tspan852-8"
-           sodipodi:role="line">Working Out</tspan></text>
-      <text
-         id="text854-9-4"
-         y="98.495522"
-         x="106.59943"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17102146px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14931335"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17102146px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.14931335"
-           y="98.495522"
-           x="106.59943"
-           id="tspan852-8-7"
-           sodipodi:role="line">Open &amp; Loud!</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17102146px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14931335"
+       x="111.56152"
+       y="94.07653"
+       id="text854-9"><tspan
+         sodipodi:role="line"
+         id="tspan852-8"
+         x="111.56152"
+         y="94.07653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17102146px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.14931335">Keep Calm &amp;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17102146px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14931335"
+       x="114.61444"
+       y="99.801048"
+       id="text854-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan852-8-7"
+         x="114.61444"
+         y="99.801048"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17102146px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.14931335">Learn On!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.67736566px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06004599"
@@ -109,7 +105,7 @@
          id="tspan852-8-6"
          x="262.70877"
          y="91.441261"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.67736566px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.06004599">Date:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.67736566px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.06004599">Datum:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.67736566px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06004599"
@@ -159,7 +155,7 @@
          id="tspan852-8-5"
          x="15.675101"
          y="110.02261"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769657px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">My Roles</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769657px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">Meine Rollen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15455824"
@@ -170,7 +166,7 @@
          id="tspan852-8-5-8"
          x="70.453613"
          y="109.94882"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">My Activities</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">Meine Aufgaben</tspan></text>
     <g
        id="g3943"
        transform="translate(0,-0.61670652)">
@@ -184,7 +180,7 @@
            y="110.63932"
            x="125.27359"
            id="tspan852-8-5-8-7"
-           sodipodi:role="line">My Objectives</tspan></text>
+           sodipodi:role="line">Meine Ziele</tspan></text>
       <text
          id="text854-9-7-7-0-4"
          y="116.48349"
@@ -195,7 +191,7 @@
            y="116.48349"
            x="124.95087"
            id="tspan852-8-5-8-7-3"
-           sodipodi:role="line">&amp; Key Results</tspan></text>
+           sodipodi:role="line">&amp; Schlüsselergebnisse</tspan></text>
     </g>
     <g
        id="g3949"
@@ -210,7 +206,7 @@
            y="110.06491"
            x="179.78397"
            id="tspan852-8-5-8-7-9"
-           sodipodi:role="line">My Social</tspan></text>
+           sodipodi:role="line">Meine Sozialen</tspan></text>
       <text
          id="text854-9-7-7-0-0"
          y="115.74995"
@@ -221,7 +217,7 @@
            y="115.74995"
            x="179.84512"
            id="tspan852-8-5-8-7-5"
-           sodipodi:role="line">Networks</tspan></text>
+           sodipodi:role="line">Netzwerke</tspan></text>
     </g>
     <g
        id="g3955"
@@ -236,7 +232,7 @@
            y="115.81643"
            x="234.45119"
            id="tspan852-8-5-8-7-5-5"
-           sodipodi:role="line">Relationships</tspan></text>
+           sodipodi:role="line">Beziehungen</tspan></text>
       <text
          id="text854-9-7-7-0-0-6-1"
          y="110.00801"
@@ -247,7 +243,7 @@
            y="110.00801"
            x="234.45482"
            id="tspan852-8-5-8-7-5-5-8"
-           sodipodi:role="line">My</tspan></text>
+           sodipodi:role="line">Meine</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -259,7 +255,7 @@
          id="tspan852-8-5-8-0"
          x="70.257065"
          y="175.61981"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">My Projects</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">Meine Projekte</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15455824"
@@ -270,7 +266,7 @@
          id="tspan852-8-5-8-5"
          x="15.675101"
          y="242.4342"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">My Knowledge &amp; Skills</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">Mein Wissen &amp; Meine Fähigkeiten</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15455824"
@@ -281,7 +277,7 @@
          id="tspan852-8-5-8-5-1"
          x="152.18172"
          y="242.4342"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">My Knowledge Assets</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">Mein WissensWerte</tspan></text>
     <g
        id="g3961"
        transform="translate(0.2662806,3.2672821)">
@@ -295,7 +291,7 @@
            y="117.76278"
            x="15.23724"
            id="tspan852-8-5-83"
-           sodipodi:role="line">What are my current roles?</tspan></text>
+           sodipodi:role="line">Was sind meine aktuellen Rollen?</tspan></text>
       <text
          id="text854-9-7-4-5"
          y="120.6633"
@@ -306,7 +302,7 @@
            y="120.6633"
            x="15.420149"
            id="tspan852-8-5-83-2"
-           sodipodi:role="line">What objectives arise from these roles?</tspan></text>
+           sodipodi:role="line">Welche Ziele ergeben sich aus diesen?</tspan></text>
     </g>
     <g
        id="g3967"
@@ -321,7 +317,7 @@
            y="121.2276"
            x="70.122353"
            id="tspan852-8-5-83-2-9"
-           sodipodi:role="line">What objectives arise from these tasks?</tspan></text>
+           sodipodi:role="line">Welche Ziele ergeben sich aus diesen?</tspan></text>
       <text
          id="text854-9-7-4-5-7-9"
          y="118.37474"
@@ -332,7 +328,7 @@
            y="118.37474"
            x="70.208801"
            id="tspan852-8-5-83-2-9-2"
-           sodipodi:role="line">What are my current tasks?</tspan></text>
+           sodipodi:role="line">Was sind meine aktuellen Aufgaben?</tspan></text>
     </g>
     <g
        id="g3973"
@@ -347,7 +343,7 @@
            y="124.16072"
            x="124.96397"
            id="tspan852-8-5-83-2-9-2-1"
-           sodipodi:role="line">What are my objectives for the next 12 weeks?</tspan></text>
+           sodipodi:role="line">Welche Ziele habe ich in den nächsten 12</tspan></text>
       <text
          inkscape:transform-center-y="-2.8528535"
          inkscape:transform-center-x="5.9218311"
@@ -360,7 +356,7 @@
            y="127.10619"
            x="124.99052"
            id="tspan852-8-5-83-2-9-2-1-9"
-           sodipodi:role="line">What should be the measurable results?</tspan></text>
+           sodipodi:role="line">Wochen? Gibt es messbare Ergebnisse?</tspan></text>
     </g>
     <g
        id="g3979"
@@ -377,7 +373,7 @@
            y="123.04546"
            x="179.60802"
            id="tspan852-8-5-83-2-9-2-1-9-6"
-           sodipodi:role="line">Which internal and external social networks</tspan></text>
+           sodipodi:role="line">Welche internen und externen sozialen Netz-</tspan></text>
       <text
          inkscape:transform-center-y="-2.8528564"
          inkscape:transform-center-x="5.9218171"
@@ -390,7 +386,7 @@
            y="125.85223"
            x="179.51256"
            id="tspan852-8-5-83-2-9-2-1-9-6-8"
-           sodipodi:role="line">can help me to connect with others?</tspan></text>
+           sodipodi:role="line">werke helfen mir bei der Vernetzung?</tspan></text>
     </g>
     <g
        id="g3991"
@@ -405,7 +401,7 @@
            y="183.3419"
            x="69.937057"
            id="tspan852-8-5-83-2-9-5"
-           sodipodi:role="line">What are my current projects?</tspan></text>
+           sodipodi:role="line">Was sind meine aktuellen Projekte?</tspan></text>
       <text
          id="text854-9-7-4-5-7-1-5"
          y="186.18857"
@@ -416,7 +412,7 @@
            y="186.18857"
            x="69.933212"
            id="tspan852-8-5-83-2-9-5-9"
-           sodipodi:role="line">What objectives arise from these projects?</tspan></text>
+           sodipodi:role="line">Welche Ziele ergeben sich aus diesen?</tspan></text>
     </g>
     <g
        id="g3997"
@@ -431,7 +427,7 @@
            y="184.31198"
            x="179.54143"
            id="tspan852-8-5-83-2-9-5-6"
-           sodipodi:role="line">Which repositories can I use to</tspan></text>
+           sodipodi:role="line">Welche Ablageorte kann ich nutzen,</tspan></text>
       <text
          id="text854-9-7-4-5-7-1-1-8"
          y="187.23317"
@@ -442,7 +438,7 @@
            y="187.23317"
            x="179.46376"
            id="tspan852-8-5-83-2-9-5-6-7"
-           sodipodi:role="line">publish my knowledge assets?</tspan></text>
+           sodipodi:role="line">um meine WissensWerte zu veröffentlichen?</tspan></text>
     </g>
     <g
        id="g3985"
@@ -457,7 +453,7 @@
            y="123.49075"
            x="234.08386"
            id="tspan852-8-5-83-2-9-5-6-7-5"
-           sodipodi:role="line">Who can help me with my objectives?</tspan></text>
+           sodipodi:role="line">Wer kann mir bei meinen Zielen helfen?</tspan></text>
       <text
          id="text854-9-7-4-5-7-1-1-8-4-0"
          y="126.44001"
@@ -468,7 +464,7 @@
            y="126.44001"
            x="234.14326"
            id="tspan852-8-5-83-2-9-5-6-7-5-7"
-           sodipodi:role="line">Do I know these people already?</tspan></text>
+           sodipodi:role="line">Kenne ich diese Personen schon?</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -480,7 +476,7 @@
          id="tspan852-8-5-83-2-9-5-6-7-5-7-1"
          x="152.01013"
          y="250.08035"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30044079px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:0.08234727">Which knowledge assets (documents, checklists, videos etc.) can I offer to my network?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30044079px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:0.08234727">Welche WissensWerte (Dokumente, Checklisten, Videos etc.) kann ich meinem Netzwerk anbieten?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30044079px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08234727"
@@ -491,7 +487,7 @@
          id="tspan852-8-5-83-2-9-5-6-7-5-7-1-2"
          x="15.50352"
          y="250.08035"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30044079px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:0.08234727">What are the fields of knolwedge and skills relevant to achieve my objectives? What do I have to learn?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30044079px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:0.08234727">Welche Wissensgebiete und Fähigkeiten sind für meine Ziele relevant? Was muss ich noch lernen?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44615102px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12336459"
@@ -502,7 +498,7 @@
          id="tspan852-8-8"
          x="144.27185"
          y="93.503586"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44615102px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.12336459">Purpose:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44615102px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.12336459">Zweck:</tspan></text>
     <g
        id="g3822"
        transform="translate(-0.04869264)">
@@ -516,7 +512,7 @@
            y="290.22134"
            x="11.320611"
            id="tspan852-8-5-8-5-7"
-           sodipodi:role="line">The lernOS Canvas is part of lernOS, the Operating System for Livelong Learning &amp;</tspan></text>
+           sodipodi:role="line">Der lernOS Canvas ist Teil von lernOS, dem Organisationssystem für Lebenslanges Lernen &amp;</tspan></text>
       <text
          id="text854-9-7-7-7-7-5"
          y="293.91965"
@@ -527,7 +523,7 @@
            y="293.91965"
            x="11.699549"
            id="tspan852-8-5-8-5-7-0"
-           sodipodi:role="line">Learning Organizations. You can learn more about lernOS at https://lernos.org</tspan></text>
+           sodipodi:role="line">Lernende Organisationen. Mehr Informationen über lernOS unter https://lernos.org</tspan></text>
     </g>
     <g
        id="g3816"
@@ -545,29 +541,29 @@
              id="tspan852-8-5-83-2-9-5-6-7-5-7-1-1"
              x="210.13707"
              y="302.08206"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.05910463">This work is licensed under the Creative Commons Attibution 4.0 International License.</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.05910463">Dieses Werk steht unter der Creative Commons Attibution 4.0 International Lizenz.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.65113771px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05910463"
-           x="215.86282"
+           x="206.79189"
            y="306.28882"
            id="text854-9-7-4-5-7-1-1-8-4-0-1-3-1"><tspan
              sodipodi:role="line"
              id="tspan852-8-5-83-2-9-5-6-7-5-7-1-1-3"
-             x="215.86282"
+             x="206.79189"
              y="306.28882"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.05910463">To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0.</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.05910463">Eine Kopie der Lizenz befindet sich unter https://creativecommons.org/licenses/by/4.0.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.65113771px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05910463"
-           x="214.42278"
-           y="303.98605"
+           x="206.92969"
+           y="304.28278"
            id="text854-9-7-4-5-7-1-1-8-4-0-1-3-1-9"><tspan
              sodipodi:role="line"
              id="tspan852-8-5-83-2-9-5-6-7-5-7-1-1-3-6"
-             x="214.42278"
-             y="303.98605"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.05910463">The Font Awesome icons used are licensed under CC BY 4.0 International License.</tspan></text>
+             x="206.92969"
+             y="304.28278"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.05910463">Die verwendeten Font Awesome Icons stehen unter der CC BY 4.0 International Lizenz.</tspan></text>
       </g>
       <g
          transform="matrix(0.13464691,0,0,0.13464691,270.81784,288.59483)"
@@ -779,6 +775,6 @@
          id="tspan852-8-5-8-0-5"
          x="180.59814"
          y="175.61981"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">My Repositories</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31769705px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.15455824">Meine Ablageorte</tspan></text>
   </g>
 </svg>
