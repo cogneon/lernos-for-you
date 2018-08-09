@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: lernOS
-description: The Method for Living, Learning & Working in the 21st Century
+description: The Method for Living, Learning & Working in the 21st Century. It's free and it's open!
 show_downloads: true
 github:
-  en_url: https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf
-  de_url: https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf
+  en_url: https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md
+  de_url: https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-de.md
