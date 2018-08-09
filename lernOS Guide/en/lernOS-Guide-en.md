@@ -56,39 +56,32 @@ The core principle for a 21st century mindset is [openness](https://en.wikipedia
 
 Since the 1980s skills like solving non-routine problems and interacting with others in creative ways become dominant. Also automation, artificial intelligence, and machine learning will replace a lot of activities that have been done by humans in the past. Therefore to get fit for the 21st century a lot of new skills have to be acquired. This new skillset can be described as a combination of the [DigiComp 2.1 Framework](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use) for digital skills and the [P21 Framework for 21st Century Learning](http://www.p21.org/our-work/p21-framework) with the 4C learning and innovation skills (creativity, critical thinking, communication, collaboration):
 
-1. **Creativity and Innovation**
-  * Think creatively
-  * Work creatively with others
-  * Implement innovations
-1. **Critical Thinking And Problem Solving**
-  * Identifying needs and technological responses
-  * Reason effectively
-  * Make judgments and decisions
-  * Solve technical and non-technical problems
-  * Creatively using technologies to solve problems
-1. **Communication**
-  * Articulate thoughts and ideas clearly and effectively
-  * Listen effectively to decipher meaning
-  * Use communication to inform, instruct, motivate and persuade
-  * Utilize multiple media and technologies
-  * Communicate effectively in diverse environments (including multi-lingual, multi-cultural)
-1. **Collaboration**
-  * Work effectively and respectfully with diverse teams
-  * Exercise flexibility and willingness to be helpful in making necessary compromises to accomplish a common goal
-  * Assume shared responsibility for collaborative work, and value the individual contributions
-  * Interacting, engaging, sharing, and collaborating through digital technologies
-  * Managing digital identity
-1. **Information, Data, And Web Literacy**
-  * Browsing, searching, filtering data, information and digital content
-  * Evaluating and managing data, information and digital content
-  * Managing data, information and digital content
-  * Protecting digital devices
-  * Protecting personal data and privacy
-1. **Digital Content Creation**
-  * Developing digital content
-  * Integrating and re-elaborating digital content
-  * Handling Copyright and licences
-  * Programming, Scripting, and Coding
+| Skill Area | Skill |
+|-|-------|
+| **Creativity and Innovation** | Think creatively |
+| | Work creatively with others |
+| | Implement innovations |
+| **Critical Thinking And Problem Solving** | Identifying needs and technological responses |
+| | Reason effectively |
+| | Make judgments and decisions |
+| | Solve technical and non-technical problems |
+| | Creatively using technologies to solve problems |
+| **Communication** | Articulate thoughts and ideas clearly and effectively |
+| | Listen effectively to decipher meaning |
+| | Use communication to inform, instruct, motivate and persuade |
+| | Utilize multiple media and technologies |
+| | Communicate effectively in diverse environments (including multi-lingual, multi-cultural) |
+| **Collaboration** | Work effectively and respectfully with diverse teams |
+| | Exercise flexibility and willingness to be helpful in making necessary compromises to accomplish a common goal |
+| | Assume shared responsibility for collaborative work, and value the individual contributions |
+| | Interacting, engaging, sharing, and collaborating through digital technologies |
+| | Managing digital identity |
+| **Digital Literacy** | Browsing, searching, filtering data, information and digital content |
+| | Evaluating and managing data, information and digital content |
+| | Protecting digital devices, personal data and privacy |
+| | Developing, integrating, and re-elaborating digital content |
+| | Handling Copyright and licences |
+| | Programming, Scripting, and Coding |
 
 **ProTip:** the Mozilla Foundation has developed the [Web Literacy Framework](https://learning.mozilla.org/en-US/web-literacy) with a lot of exercises for developing digital literacy and 21st century skills.
 
