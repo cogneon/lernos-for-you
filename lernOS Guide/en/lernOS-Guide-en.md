@@ -161,7 +161,7 @@ In the sprint planning in week 0 the circle members can decide which exercises t
 
 **ProTip:** To have a good usability choose a tool that supports communication and documentation, e.g. a [Facebook Group](https://www.facebook.com/help/1629740080681586) or [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software). In a Facebook Group you can use the activity stream for communicating and [group docs](https://www.facebook.com/help/203003559734725) for documentation. In Microsoft Teams you can use the channel "General" for communication and wiki pages or a OneNote Notebook for documentation.
 
-## Week 0 - Get Together & Sprint Planning
+## Week 0: Get Together & Sprint Planning
 When you are new to the circle you will get to know each other in week 0. You will plan the administrative stuff like when to meet, which tools to use, who is the facilitator etc. One of the major impediments for running a circle is discipline and time management. You should define the basic rules for running the circle until the end of week 0.
 
 * **Check-in:** Welcome Everybody! _(5 minutes)_
@@ -176,7 +176,7 @@ Define a circle facilitator who cares for event and time management. The facilit
 * **Weekly meetings are:** face-to-face / virtual
 * **Tools used in circle:** ... (test if everybody is able to use the tools)
 
-## Week 1 - Your Sprint Objectives
+## Week 1: Your Sprint Objectives
 In this week you choose your objectives for this sprint (one or more, max. 5). The objectives might be refined until week 4 but not later in the sprint. You will also start to think about people who might help you with your objectives (remember: working alone is addition, working together is multiplication!).
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -185,7 +185,7 @@ In this week you choose your objectives for this sprint (one or more, max. 5). T
 * **Exercise:** [People Related To Your Objective(s)](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#people-related-to-your-objectives) _(20 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 2 - Sharing Is Caring
+## Week 2: Sharing Is Caring
 In this week you will reflect on the quantity and quality of the relationships related to your objectives. You will also start to share attention, knowledge, experiences, and assets with your network to build trust and get support.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -193,7 +193,7 @@ In this week you will reflect on the quantity and quality of the relationships r
 * **Exercise:** [Your First Sharing Experience](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-first-sharing-experience) _(40 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 3 - Use The Network Effect
+## Week 3: Use The Network Effect
 In this week you will make sure that you have enough time for networking, sharing, and caring for your network. You will do this by making appointments with yourself. You will also think about how to use the intranet oder internet to reach more people.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -202,7 +202,7 @@ In this week you will make sure that you have enough time for networking, sharin
 * **Exercise:** [Practice Social Praise](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#practice-social-praise) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 4 - Pitstop 1
+## Week 4: Pitstop 1
 In this week your objectives should be stable and you should have a clear idea which people in the network might help you to get your work done. Take this week for a short "pitstop" to reflect if everything works well for you and the circle. The next four weeks you will focus to work on the first iteration of your key results.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -210,7 +210,7 @@ In this week your objectives should be stable and you should have a clear idea w
 * **Exercise:** [Sharing A Useful Resource](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#sharing-a-useful-resource) _(30 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 5 - Who Am I?
+## Week 5: Who Am I?
 In this week the work on the first iteration of your key results should have started. The goal is to have a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (something that works and that you can show) by the end of week 8. You will also start to think about which facts and personal information might be relevant for your network.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -218,7 +218,7 @@ In this week the work on the first iteration of your key results should have sta
 * **Exercise:** [Contribute Your Self](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#contribute-your-self) _(20 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 6 - Update Your Digital Twin
+## Week 6: Update Your Digital Twin
 In this week you will look yourself up in the intranet or internet. If your digital twins (e.g. website, blog, profile) do not match your findings from last week you will go out and update your profiles.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -227,7 +227,7 @@ In this week you will look yourself up in the intranet or internet. If your digi
 * **Exercise:** [Spend Time On Making Connections](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#spend-time-on-making-connections) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 7 - Your Vision Goes Digital
+## Week 7: Your Vision Goes Digital
 In this week you will work on finishing the first iteration of your minimum viable product. You will also start to envision yourself in the future by writing a letter to your future self. And you will help your network to support you by making your vision and your objectives visible on your online profiles.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -235,7 +235,7 @@ In this week you will work on finishing the first iteration of your minimum viab
 * **Exercise:** [Share Your Objectives](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#share-your-objectives) _(10 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 8 - Pitstop 2
+## Week 8: Pitstop 2
 In this week the first iteration of your key results should be available. Talk about them or show them in the check-in. When you experienced that you procrastinated to work on your key results you will learn about some "procrastination counter measures".
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -244,7 +244,7 @@ In this week the first iteration of your key results should be available. Talk a
 * **Exercise:** [Help Others To Connect](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#help-others-to-connect) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 9 - Your Knowledge Assets
+## Week 9: Your Knowledge Assets
 In this week you will start working on the second iteration of your key results. In addition you will reflect on your top 10 knowledge assets and the knowledge domains that you can contribute to your network.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -252,7 +252,7 @@ In this week you will start working on the second iteration of your key results.
 * **Exercise:** [The Dinner Table University](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#the-dinner-table-university) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 10 - Networking And Sharing Time
+## Week 10: Networking And Sharing Time
 In this week you will use a checklist to find more assets that can be shared in the network. You will create a time management system that makes sure you have enough time for networking and sharing. And you will learn that sometimes listening is more important then sending.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -261,7 +261,7 @@ In this week you will use a checklist to find more assets that can be shared in 
 * **Exercise:** [Try this crazy method called "asking"!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#try-this-crazy-method-called-asking) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 11 - The Power Of Communities
+## Week 11: The Power Of Communities
 In this week you will search for communities that are related to your objectives. You will learn to decode the DNA of communities. You will also think about starting an own community to support your objectives.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
@@ -270,7 +270,7 @@ In this week you will search for communities that are related to your objectives
 * **Exercise:** [Do You Want To Start Your Own Community?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#do-you-want-to-start-your-own-community) _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 12 - Reflect And Celebrate
+## Week 12: Reflect And Celebrate
 In this week the final iteration of your key results should be available. Talk about them or show them in the check-in. You will reflect on the circle experience and think about how to sustain the process. After the weekly you should take some time and celebrate your success!
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
