@@ -21,7 +21,7 @@ The adoption of lernOS isn't a matter of hours or days but of months or years. S
 
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
 
-# lernOS Webcasts
+# lernOS Webcast
 * 2018-09-17: lOScast 03 - lernOS Version 1.0 Release Party (4-5pm CEST, [Zoom Link](https://zoom.us/j/889519925))
 * 2018-08-13: lOScast 02 - How to use Microsoft OneNote as a Tool in a Circle ([Video](https://www.youtube.com/watch?v=C4bpt4EJKFs), [Slides](https://media.cogneon.de/index.php/s/o7pyN23fmjXniLO/download), [Chat Protocol](https://media.cogneon.de/index.php/s/iUSvkhlDJc0MOkU/download))
 * 2018-07-09: lOScast 01 - How to use the lernOS Canvas as a Tool in Working Out Loud Circles ([Video](https://www.youtube.com/watch?v=7a1Vq7ism5Y), [Slides](https://media.cogneon.de/index.php/s/j2CZijvAJm1t1so/download))
