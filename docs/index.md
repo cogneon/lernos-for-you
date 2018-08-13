@@ -15,21 +15,10 @@ Download the lernOS Guide and get started now! If you need support with finding 
 The adoption of lernOS isn't a matter of hours or days but of months or years. So Keep Calm & Learn On!
 
 # Downloads
-**lernOS Guide:**
-
-| Language | Online | PDF | MS Word | eBook |
-|----------|--------|-----|---------|-------|
-| English (en) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) |
-| German (de) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-de.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.epub) |
-
-**lernOS Canvas:**
+* **lernOS Guide:** English ([Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md), [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf), [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx), [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub), German ([Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-de.md), [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf), [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx), [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.epub) |
+* **lernOS Canvas:** English ([PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx), [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png), German ([PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pdf), [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pptx), [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-de.png))
 
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
-
-| Language | PDF | MS PowerPoint | PNG |
-|----------|-----|---------------|-----|
-| English (en) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf) | [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx) | [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png) |
-| German (de) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pdf) | [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pptx) | [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-de.png) |
 
 # License
 lernOS is provided as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). Following the [Open Definition](https://opendefinition.org/) you can freely access, use, modify, and share it for any purpose (private/business, commercial/non-commercial).
