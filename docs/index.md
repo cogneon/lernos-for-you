@@ -17,7 +17,7 @@ The adoption of lernOS isn't a matter of hours or days but of months or years. S
 # Downloads
 * **lernOS Guide:** English ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx)), German ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx))
 * **lernOS Canvas:** English ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx)), German ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pptx))
-* **lernOS OneNote Circle Template:** English ([onepkg](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg)), German
+* **lernOS Circle Template:** English ([onepkg](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg)), German
 
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
 
