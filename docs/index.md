@@ -18,6 +18,12 @@ The adoption of lernOS is a matter of months or years not hours or days. So Keep
 # Downloads
 The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/simondueckert/lernos/issues).
 
+| Language | Content | Format |
+| -------- | ------- | ------ |
+| English | lernOS Guide | [pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) |
+| | lernOS Canvas | [pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx) |
+| | lernOS Circle Template | [onepkg](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg) |
+
 * **English:** Guide ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx)), Canvas ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx)), OneNote Circle Template ([onepkg](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg))
 * **German:** Leitfaden ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx)), Canvas ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pptx)), OneNote Circle Vorlage (onepkg)
 
