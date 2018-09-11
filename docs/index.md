@@ -2,15 +2,15 @@
 layout: default
 ---
 
-**Attention:** lernOS is currently published in an alpha version. Version 1.0 will be released at 2018-09-17. There will be a webcast at 2018-09-17 from 4-5pm CEST ([Zoom Link](https://zoom.us/j/889519925)).
+**IMPORTANT:** lernOS is currently published in an alpha version. Version 1.0 will be released at 2018-09-17. There will be an open webcast at 2018-09-17 from 4-5pm CEST ([Zoom Link](https://zoom.us/j/889519925)).
 
-lernOS for individuals is a self-management method for people living and working in the 21st century. To be successful in this century you have to learn, organize, and develop yourself on an ongoing basis. No matter if you are a teenager, a student, a young professional, a senior expert, a manager, or leader. lernOS brings together the best elements from existing methods like [Objectives & Key Results](https://en.wikipedia.org/wiki/OKR) (OKR), , [Getting Things Done](https://gettingthingsdone.com) (GTD) and [Working Out Loud](https://workingoutloud.com) (WOL).
+lernOS is a self-management method for people living and working in the 21st century. To be successful today you have to learn, organize, and develop yourself on an ongoing basis. No matter if you are a teenager, a student, a young professional, a subject matter expert, a manager, or a leader. lernOS integrates elements from methods like [Personal Knowledge Management]() (PKM,) [Objectives & Key Results](https://en.wikipedia.org/wiki/OKR) (OKR), , [Getting Things Done](https://gettingthingsdone.com) (GTD) and [Working Out Loud](https://workingoutloud.com) (WOL) in an integrated approach.
 
-If you have never heard of the three methods above you should start by reading about them to get a first overview. If you decide to start using lernOS the suggested way is to find 3-4 other people and become a peer support group called a "lernOS Circle". Decide when to start and meet for one hour in a so called "lernOS Sprint". Use the predefined agendas for the "lernOS Weekly" in this guide. Do a retrospective after the sprint and decide if you want to run another sprint with the same circle members.
+You can practice lernOS on your own but it's better to find 3-4 other people and become a peer support group called a lernOS Circle. The Circle meets for 13 weeks in a meeting called lernOS Weekly (15-60 Minutes each). The 13 weeks are called a lernOS Sprint with the week 0 for sprint planning and weeks 1-12 for running the lernOS working & learning programme. This way four sprints per year build the basic framework for your livelong learning process.
 
-Download the lernOS Guide and get started now! You find the recordings of the monthly lernOS Webcasts below. If you need support with finding circle members you can use the free [Circlefinder App](http://circlefinder.app/). If you are unsure or have any further questions you can join the [lernOS User Group](https://t.me/lernos) on Telegram or write with the hashtag [#lernOS](https://twitter.com/search?q=%23lernOS) on Twitter.
+Download the lernOS Guide and additional material below and get started now! If you need support with finding circle members you can use the free [Circlefinder App](http://circlefinder.app/). If you are unsure or have any further questions you can join the [lernOS User Group](https://t.me/lernos) on Telegram or follow [@lern_os](https://twitter.com/lern_os) on Twitter.
 
-The adoption of lernOS isn't a matter of hours or days but of months or years. So Keep Calm & Learn On!
+The adoption of lernOS is a matter of months or years not hours or days. So Keep Calm & Learn On!
 
 # Downloads
 * **lernOS Guide:** English ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx)), German ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx))
