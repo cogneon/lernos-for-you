@@ -16,13 +16,16 @@ The adoption of lernOS is a matter of months or years not hours or days. So Keep
 [@simondueckert](https://twitter.com/simondueckert)
 
 # Downloads
-* **lernOS Guide:** English ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx)), German ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx))
-* **lernOS Canvas:** English ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx)), German ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pptx))
-* **lernOS Circle Template:** English ([onepkg](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg)), German
+The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/simondueckert/lernos/issues).
+
+* **English:** Guide ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx)), Canvas ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx)), OneNote Circle Template ([onepkg](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg))
+* **German:** Leitfaden ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx)), Canvas ([pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pptx)), OneNote Circle Vorlage (onepkg)
 
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
 
-# lernOS Webcasts
+# lernOS Webcast
+The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
+
 * **2018-09-17:** lOScast 03 - lernOS Version 1.0 Release Party (4-5pm CEST, [Zoom Link](https://zoom.us/j/889519925))
 * **2018-08-13:** lOScast 02 - How to use Microsoft OneNote as a Tool in a Circle ([Video](https://www.youtube.com/watch?v=C4bpt4EJKFs), [Slides](https://media.cogneon.de/index.php/s/o7pyN23fmjXniLO/download), [Chat Protocol](https://media.cogneon.de/index.php/s/iUSvkhlDJc0MOkU/download))
 * **2018-07-09:** lOScast 01 - How to use the lernOS Canvas as a Tool in Working Out Loud Circles ([Video](https://www.youtube.com/watch?v=7a1Vq7ism5Y), [Slides](https://media.cogneon.de/index.php/s/j2CZijvAJm1t1so/download))
