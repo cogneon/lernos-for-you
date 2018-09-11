@@ -16,7 +16,7 @@ The adoption of lernOS is a matter of months or years not hours or days. So Keep
 [@simondueckert](https://twitter.com/simondueckert)
 
 # Downloads
-The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/simondueckert/lernos/issues).
+The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/simondueckert/lernos).
 
 | Language | lernOS Guide | lernOS Canvas | lernOS Circle Template |
 | -------- | ------------ | ------------- | ---------------------- |
