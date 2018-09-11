@@ -8,7 +8,7 @@ _Translate: **en** | [ar](https://translate.google.com/translate?sl=en&tl=ar&u=h
 <hr />
 
 ![lernOS Logo](https://github.com/simondueckert/lernos/raw/master/images/lernOS-Logo-400x110.png)
-
+<br />
 lernOS is a self-management method for people living and working in the 21st century. To be successful you have to learn, organize, and develop yourself on an ongoing basis. No matter if you are a teenager, a student, a subject matter expert, or a manager. lernOS integrates elements from methods like [Personal Knowledge Management]() (PKM,) [Objectives & Key Results](https://en.wikipedia.org/wiki/OKR) (OKR), [Getting Things Done](https://gettingthingsdone.com) (GTD) and [Working Out Loud](https://workingoutloud.com) (WOL) in an integrated approach.
 
 You can use lernOS on your own. But it's better to find 3-4 other people and become a peer support group called a lernOS Circle. The Circle meets for 13 weeks in a meeting called lernOS Weekly (15-60 Minutes each). The 13 weeks are called a lernOS Sprint. Week 0 is for sprint planning and weeks 1-12 for running the lernOS working & learning programme. This way four sprints per year build the basic framework for your livelong learning process.
