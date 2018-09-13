@@ -23,8 +23,8 @@ The lernOS content can be downloaded in different formats and languages. All the
 
 | Language | lernOS Guide | lernOS Canvas | lernOS Circle Template |
 | -------- | ------------ | ------------- | ---------------------- |
-| English | pdf, docx, epub | pdf, pptx | onepkg |
-| German | pdf, docx, epub | pdf, pptx | onepkg |
+| English | pdf, docx, epub | pdf, pptx, svg | onepkg |
+| German | pdf, docx, epub | pdf, pptx, svg | onepkg |
 
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
 
