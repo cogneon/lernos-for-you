@@ -23,8 +23,8 @@ The lernOS content can be downloaded in different formats and languages. All the
 
 | Language | lernOS Guide | lernOS Canvas | lernOS Circle Template |
 | -------- | ------------ | ------------- | ---------------------- |
-| English | [pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) | [pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx) | [onepkg](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg) |
-| German | [pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf), [docx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx) | [pdf](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pdf), [pptx](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pptx) | onepkg |
+| English | pdf, docx, epub | pdf, pptx | onepkg |
+| German | pdf, docx, epub | pdf, pptx | onepkg |
 
 ![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
 
