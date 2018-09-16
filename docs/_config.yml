@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
-title: lernOS
-description: The Method for Living, Learning & Working in the 21st Century. It's free and it's open!
-show_downloads: true
+title: lernOS (CC BY)
+description: The Art of Self-Directed, Lifelong Learning. It's Free and it's Open!
+show_downloads: false
 github:
   en_url: https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md
   de_url: https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-de.md
