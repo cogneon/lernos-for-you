@@ -4,7 +4,7 @@
 
 lernos in **Esperanto** is the future tense of the verb "to learn" (mi lernos: I will learn, ni lernos: WE will learn). The uppercase "OS" stands for **"operating system"** like iOS, MacOS and CentOS. Simply put **lernOS is a framework to unleash the potential learning for individuals, teams and organizations** (profit and non-profit).
 
-The **core of lernOS** is based on principles from [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), and [Working Out Loud](https://workingoutloud.com/en/circle-guides/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
+The **core of lernOS** is based on principles from Personal Knowledge Management, [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), [Working Out Loud](https://workingoutloud.com/en/circle-guides/), and [Scrum](http://scrumguides.org/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
 
 # lernOS News
 Follow [@lern_os](https://twitter.com/lern_os) on Twitter or join the open [lernOS User Goup](https://t.me/lernos) on Telegram to get the latest news and discuss with others.
