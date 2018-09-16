@@ -26,7 +26,7 @@ The lernOS content can be downloaded in different formats and languages. All the
 | English | pdf, docx, epub | pdf, pptx, svg | onepkg |
 | German | pdf, docx, epub | pdf, pptx, svg | onepkg |
 
-![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
+![The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/en/lernOS-Canvas-en.png)
 
 # lernOS Webcast
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
