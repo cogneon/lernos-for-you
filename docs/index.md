@@ -23,8 +23,8 @@ The lernOS content can be downloaded in different formats and languages. All the
 
 | Language | lernOS Guide | lernOS Canvas | lernOS Circle Template |
 | -------- | ------------ | ------------- | ---------------------- |
-| English | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54019), [docx](https://cogneon.de/?smd_process_download=1&download_id=54022), [epub](https://cogneon.de/?smd_process_download=1&download_id=54035) | pdf, pptx, [svg](https://cogneon.de/?smd_process_download=1&download_id=54040) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54025) |
-| German | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54011), [docx](https://cogneon.de/?smd_process_download=1&download_id=54014), [epub](https://cogneon.de/?smd_process_download=1&download_id=54037) | pdf, pptx, [svg](https://cogneon.de/?smd_process_download=1&download_id=54045) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54032) |
+| English | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54019), [docx](https://cogneon.de/?smd_process_download=1&download_id=54022), [epub](https://cogneon.de/?smd_process_download=1&download_id=54035) | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54053), [pptx](https://cogneon.de/?smd_process_download=1&download_id=54056), [svg](https://cogneon.de/?smd_process_download=1&download_id=54040) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54025) |
+| German | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54011), [docx](https://cogneon.de/?smd_process_download=1&download_id=54014), [epub](https://cogneon.de/?smd_process_download=1&download_id=54037) | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54059), [pptx](https://cogneon.de/?smd_process_download=1&download_id=54062), [svg](https://cogneon.de/?smd_process_download=1&download_id=54045) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54032) |
 
 ![The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/en/lernOS-Canvas-en.png)
 
