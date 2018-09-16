@@ -1,60 +1,54 @@
-> Did your environment change a lot in the past and is still changing?<br/>
->
-> Is collaboration and mastering digital tools important for your success?<br/>
->
-> Do you have to learn new skills on an ongoing basis?<br/>
->
-> Then I wrote this guide for you! @simondueckert
+# Preface
 
-# Getting Started With lernOS
+lernOS is a self-management method for people living and working in the 21st century. To be successful today you have to learn, organize, and develop yourself on an ongoing basis. Nobody else is responsible for that process. You have to care for it on your own (self-directed lifelong learning).
 
-lernOS for individuals is a self-management method for people living and working in the 21st century. To be successful in this century you have to learn, organize, and develop yourself on an ongoing basis. No matter if you are a teenager, a student, a young professional, a senior expert, a manager, or leader. lernOS brings together the best elements from existing methods (a big THANK YOU to all creators and contributors) to learn these 21st century skills:
+If you decide to start with lernOS I suggest that you find 3-4 other people and become a peer support group called a lernOS Circle. Let this document guide you to a 13 week experience called a lernOS Sprint. Do a retrospective after the sprint and decide if you want to go on with another one. This can be with the same circle members or with new ones.
 
-* **Objectives & Key Results (OKR):** a method developed by Andy Grove and John Doerr to manage objectives and laser-sharp focus in what we do.
-* **Getting Things Done (GTD):** a method developed by David Allen to handle all the stuff and information overload we have to deal with on a daily basis.
-* **Working Out Loud (WOL):** a method coined by Bryce Williams and enriched by John Stepper to systematically network with people that might help us achieving our objectives.
+If you need support to find circle members you can ask your friends and network or use the free [Circlefinder App](http://circlefinder.app). If you have any further questions you can join the [lernOS User Group](https://t.me/lernos) on Telegram or write with the [hashtag #lernOS on Twitter](https://twitter.com/search?q=%23lernOS).
 
-If you have never heard of the three methods above you should start by reading about them to get a first overview. If you decide to start using lernOS the suggested way is to find 3-4 other people and become a peer support group called a "lernOS Circle". Decide when to start and meet for one hour in a so called "lernOS Sprint". Use the predefined agendas for the "lernOS Weekly" in this guide. Do a retrospective after the sprint and decide if you want to run another sprint with the same circle members.
+The adoption of lernOS is a matter of months or years not hours or days. So Keep Calm & Learn On!
 
-If you need support with finding circle members you can use the free [Circlefinder App](http://circlefinder.app/). If you are unsure or have any further questions you can [join the lernOS User Group on Telegram](https://t.me/lernos) or write with the [hashtag #lernOS on Twitter](https://twitter.com/search?q=%23lernOS).
-
-The adoption of lernOS isn't a matter of hours or days but of months or years. So Keep Calm & Learn On!
+@simondueckert
 
 # Why lernOS?
-We live in a world of constant change. Technical progress like mechanization, mass production and automation led to big changes in the past. With the invention of the transistor the digital transformation started. The processing power of computers grows yearly at an exponential rate. For this reason also our environment changes faster and faster in the 21st century.
+We are facing enormous challenges driven by globalization, digitization, and a fast rate of technological and scientific progress. At the same time those changes  provide us with a lot of new opportunities for development. The future is uncertain and we cannot predict it. So we need to be open and ready for it (Source: [Learning Framework 2030](http://www.oecd.org/education/2030)).
 
-The world we live in is a world full of volatility, uncertainty, complexity, and ambiguity (VUCA). In such an environment proven methods and tools from the past have to be questioned. We have to evolve from one-time education to self-directed livelong learning. We have to acquire new skills, use new digital tools, and develop a new mindset to be successful.
+To navigate through the so called [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity) world of the 21st century full of volatility, uncertainty, complexity, and ambiguity teenagers, students, professionals, managers, and leaders have to upskill themselves. Everybody has to develop skills like creativity, critical thinking, communication, and collaboration. Digital literacy is important to be able to use digital tools productively. The personal motivation for development should be more than getting a well-paid job or making profit. Everybody should care about the well-being of himself, his friend & families, his communities, and the society. We need to learn what knowledge, skills, mindset, attitudes, values, methods, and tools we need to design and shape a better future together.
 
-lernOS can help to get fit for the 21st century. lernOS is an operating system for livelong learning and learning organizations. The phrase “mi lernos” means “I will learn” in Esperanto. lernOS helps to organize the daily tasks and to learn consciously from every activity. It will also promote networking with other people. In this way not every wheel has to be reinvented and not every mistake has to be repeated. And the best thing is: lernOS is really easy to understand. Let's begin.
+lernOS can help you to get fit for the 21st century. lernOS is an operating system for livelong learning and learning organizations. The phrase “mi lernos” means “I will learn” in Esperanto. lernOS helps to organize the daily, weekly, and monthly activities and to learn consciously from every action. It will also promote networking with other people so you don't have to reinvent every wheel and repeat every mistake.
 
-# lernOS Wheel - Mindset, Skillset, and Toolset as Success Factors
+And the best thing is: lernOS is free, open, and easy to understand. Start using it today!
 
-Mastering the digital age and the knowledge society of the 21st century requires to be open for change and new approaches. There are a lot of tools and methods out there. But when one is not open to give it a try and to experiment with new approaches success will stay away. Like the people with the "square wheels" in the image below we are often too busy to see new possibilities and chances.
+# lernOS Wheel: New Mindset, Skills, and Tools
 
-![lernOS Wheel People](images/lernOS-Wheel-People-v03.png)
+Mastering the VUCA world of the 21st century requires to be open for change and new approaches. There are a lot of tools and methods out there. But when one is not open to give it a try, experiment, and fail there will be no success. Like the people with the "square wheels" in the image below we are often too busy to see new opportunities.
 
-Adopting new practices is not only about using new digital tools or fancy methods like design thinking, scum, and working out loud (Remeber: A fool with a tool is still a fool). To switch from "square wheels" to "round wheels" the basic assumptions about the world, the personal skills, and the used methods and tools have to be taken into account. lernOS calls this three dimensions mindset, skillset, and toolset. Focussing on only one or two of the three dimensions might already help. But for the best results all three dimensions should be considered.
+![lernOS Wheel People by @simondueckert, CC BY 4.0](images/lernOS-Wheel-People.png)
 
-![lernOS Wheel](images/lernOS-Wheel-v06.png)
+Adopting new practices in life, school, or work is not only about using digital tools. To switch from "square wheels" to "round wheels" the personal attitude, values, and skills have also to be taken into account. lernOS calls these three dimensions mindset, skillset, and toolset. To focus only on some dimensions might help. But for the best results all three should be considered in the personal development process.
 
-## Mindset - Your World View
-The mindset can be described as the assumptions, beliefs, perceptions, thoughts, feelings, and values that lead to actions and visible artefacts. These visible artefacts is everything one can see, hear, and feel. In an organizations artefacts might be structures, hierarchies, processes, architectures, office design, physical environment, and ICT infrastructure. The necessary values to successfully use lernOS are covered in the preamble of the [Manifesto for Human Leadership](https://fuehrung-erfahren.de/wp-content/uploads/2018/02/Manifesto-for-Human-Leadership.pdf):
+![lernOS Wheel by @simondueckert, CC BY 4.0](images/lernOS-Wheel.png)
 
-> We believe in the creativity and motivation of human beings. We consider human leadership
-> as pivotal in a highly networked and highly complex world. We understand the task of
-> leadership as serving life and striving for conditions in which people, in their diversity, can
-> contribute in the best possible way and in which they can develop themselves and work
-> effectively together.
+## Mindset: Your World View
+The mindset can be described as the attitudes and values that lead to actions and visible results. These values develop over time and form the culture of organizations and society. When we act in the world we get feedback and learn from it. Over time our mind creates mental models of the world and values that guide our future actions ([Boisot, 2004](http://www.rrojasdatabank.info/thermo/20388.pdf)). To successfully navigate the VUCA world these five values are important to be successful (Buhse 2014 & Petry, 2014):
 
-The core principle for a 21st century mindset is [openness](https://en.wikipedia.org/wiki/Openness). This means being open to new experience, knowledge, and ideas as well as sharing knowledge, ideas, and content openly (e.g. by the [open definition](https://opendefinition.org/)). You should develop an "open first mindset" over time as described in the [Open First Manifesto](http://innovationsbeirat.de/open-first/):
+1. **NETWORKING** over isolation
+1. **TRUST** over suspiciousness
+1. **OPENNESS** over silos
+1. **PARTICIPATION** over exclusion
+1. **AGILITY** over stability
 
-![Open First Manifesto by @ib_neudenker](images/open-first-manifesto-v10.png)
+There is no ranking in the values above but for some people [openness](https://en.wikipedia.org/wiki/Openness) seems to be the core value for a 21st century mindset. It means being open to new experiences, knowledge, and ideas as well as sharing knowledge, ideas, and content openly (see also the [Open Definition](https://opendefinition.org)). You should develop an "open first mindset" over time as described in the [Open First Manifesto](http://innovationsbeirat.de/open-first):
 
-**ProTip:** your mindset is not fixed you can develop a new mindset. Watch Carol Dweck's video on [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) to learn more about it.
+![Open First (innovationsbeirat.de/open-first) by innovationsbeirat, CC BY SA 4.0](images/open-first-manifesto-v1.0.png)
 
-## Skillset - Your Capabilities
+**#ProTip:** your mindset is not fixed it can grow over time. Watch Carol Dweck's video on [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) to learn more about it.
 
-Since the 1980s skills like solving non-routine problems and interacting with others in creative ways become dominant. Also automation, artificial intelligence, and machine learning will replace a lot of activities that have been done by humans in the past. Therefore to get fit for the 21st century a lot of new skills have to be acquired. This new skillset can be described as a combination of the [DigiComp 2.1 Framework](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use) for digital skills and the [P21 Framework for 21st Century Learning](http://www.p21.org/our-work/p21-framework) with the 4C learning and innovation skills (creativity, critical thinking, communication, collaboration):
+## Skillset: Your Capabilities
+
+Since the 1980s skills like solving problems and interacting with others in creative ways became most important to be successful. These are also skills that can't be easily replaced by automation and artificial intelligence in the future. To get fit for the 21st century you have to train the following skills ([Framework for 21st Century Learning](http://www.p21.org/our-work/p21-framework), [DigiComp 2.1 Framework](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use)):
+
+![lernOS Skillset by @simondueckert, CC BY 4.0](images/lernOS-Skillset.png)
 
 | Skill Area | Skill |
 |-|-------|
@@ -70,7 +64,7 @@ Since the 1980s skills like solving non-routine problems and interacting with ot
 | | Listen effectively to decipher meaning |
 | | Use communication to inform, instruct, motivate and persuade |
 | | Utilize multiple media and technologies |
-| | Communicate effectively in diverse environments (including multi-lingual, multi-cultural) |
+| | Communicate effectively in diverse environments |
 | **Collaboration** | Work effectively and respectfully with diverse teams |
 | | Exercise flexibility and willingness to be helpful in making necessary compromises to accomplish a common goal |
 | | Assume shared responsibility for collaborative work, and value the individual contributions |
@@ -83,59 +77,51 @@ Since the 1980s skills like solving non-routine problems and interacting with ot
 | | Handling Copyright and licences |
 | | Programming, Scripting, and Coding |
 
-**ProTip:** the Mozilla Foundation has developed the [Web Literacy Framework](https://learning.mozilla.org/en-US/web-literacy) with a lot of exercises for developing digital literacy and 21st century skills.
+**#ProTip:** the Mozilla Foundation has developed the [Web Literacy Framework](https://learning.mozilla.org/en-US/web-literacy) with a lot of exercises for developing digital literacy and 21st century skills.
 
-## Toolset - Methods And Tools You Use
-With the emergence of [Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) in 2005 social media and new methods came up. Not everybody needs to know all tools and methods but it is a good idea to have an overview, know the principles, and choose the right tools for oneself. The conversation prism gives an overview of web 2.0 platforms available today:
+## Toolset: Digital Tools You Use
+With the emergence of [Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) in 2005 social media entered the stage. Not everybody needs to know all the tools but you should have an overview, know the principles, and choose the right tools for yourself. The [conversation prism](https://conversationprism.com) gives a nice overview of web 2.0 platforms available today:
 
-![Conversation Prism 5.0 by Brian Solis and JESS3, conversationprism.com](images/JESS3_BrianSolis_ConvoPrism_Digital-Final_V3.2-02.png)
+![Conversation Prism 5.0 (conversationprism.com) by Brian Solis and JESS3](images/jess3-briansolis-conversation-prism-v3.2.png)
 
-For a beginner this prism with 28 categories and dozens of tools might be overwhelming. To begin with the following short list provides a compact overview of the most relevant tools (aphabetical order):
+For a beginner 28 categories and dozens of tools might be overwhelming. Therefore the following list provides an overview of the most relevant tools for learnOS:
 
-1. **Digital Notebook:** Evernote, OneNote, TiddlyWiki
-1. **File Sharing:** Dropbox, Google Drive, Office 365, OneDrive, SharePoint
-1. **Messenger:** Microsoft Teams, Slack, Threema, WeChat, WhatsApp, Telegram
-1. **Mind Mapping:** Freemind, iThoughts, MindManager, MindMeister, XMind
-1. **Social Network:** professional social Networks (LinkedIn, Xing, Twitter) as well as enterprise social networks (Jive, Yammer, IBM Connections, Workplace by Facebook)
-1. **Video Sharing:** Kaltura, Vimeo, Vimp, YouTube
-1. **Web Conferencing:** Google Hangout, GoToMeeting, Microsoft Teams, Skype, Skype for Business, WebEx, Zoom
-1. **Weblog:** Medium, tumblr, Wordpress (tip: social networks often offer blog functions)
-1. **Wiki:** Confluence, Mediawiki, Wikipedia
-1. **Work Coordination:** asana, Microsoft Planner, Microsoft To-Do, Trello
+1. **Office & Productivity**, e.g. Dropbox, Evernote, Freemind, G Suite, MindManager, Office 365, OneNote, SharePoint, Trello, XMind
+1. **Chat & Messenger**, e.g. Google Hangouts Chat, Mattermost, Microsoft Teams, RocketChat, Slack, Telegram, Threema, WeChat, WhatsApp
+1. **Social Networks**, e.g. IBM Connections, Jive, LinkedIn, Mastodon, Twitter, Workplace by Facebook, Xing, Yammer
+1. **Videoconference**, e.g. Google Hangouts Meet, GoToMeeting, Microsoft Teams, Skype, Skype for Business, WebEx, Zoom
+1. **Weblogs & Wikis**, e.g. Confluence, DokuWiki, LinkedIn (Article), MediaWiki, Medium, tumblr, Wikipedia, Wordpress
 
-In addition to technical tools also a new set of helpful methods is available. Good examples are barcamps, communities of practice, coworking, design thinking, shipit days (aka fedex days), future backwards, getting things done, hackathon, knowledge map, lessons learned, massive open online courses, podcast, screencast, scrum, and working out loud. The right toolset is highly depended on your life or your occupation.
+**#ProTip:** the [lernOS Wiki](https://github.com/simondueckert/lernos/wiki) contains a list with links to all the mentioned tools. There will be tutorials on how to use them in the future.
 
-# lernOS Circle - From Talking The Talk to Walking the Walk
-Enough theory. You have read about the right mindset, skillset, and toolset for the 21st century. Now it is time to practice. You will do this in periods of three month called lernOS Sprints. To have peer support you should not practice on your own but in a group of 4-5 people called a lernOS Circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The lernOS Circle is a circle of trust: what happens in the circle stays in the circle! The circle members will have a weekly meeting with a standard agenda to structure your learning process step by step.
+# lernOS Circle: The Power Of Peer Support
+You have read about the right mindset, skillset, and toolset for the 21st century. Now it is time to practice. You should not practice on your own but in a group of 4-5 people called a lernOS Circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The lernOS Circle is a circle of trust: what happens in the circle stays in the circle! The circle members will have a weekly meeting with a standard agenda to structure the learning and development process.
 
-![lernOS Circle](images/lernOS-Circle-v03.png)
+![lernOS Circle by @simondueckert, CC BY 4.0](images/lernOS-Circle.png)
 
-The circle meets weekly in a meeting called lernOS Weekly. The weekly is a short ceremony to track results, practice exercises, and motivate yourself for the next week. In the circle each member defines personal objectives and desired results. Circle members learn to share and network to build get a network of trust and relationships that help to achieve the personal objectives.
+The lernOS Weekly is a meeting to track results, practice exercises (called Katas), and motivate each others for the actions ahead. In the circle each member defines personal objectives and desired results. Circle members learn to share, network, build trust and relationships.
 
-# lernOS Sprint - Driving Agile Planning And Execution
-Circle members should be able to switch circles if they want. Therefore the circles have to have the same rhythm. For this reason lernOS is practiced in so called sprints of on quarter of a year each (13 weeks). So one year consists of four lernOS Sprints:
+# lernOS Sprint: A 13 Week Self Learning Experience
+lernOS is practiced in timeboxes of 13 weeks called lernOS Sprints. Normally sprints run along the quarters of a year but this rhythm can be changed if necessary. The week 0 is used for the planning of the sprint. From week 1-12 the weekly meeting takes place.
 
-| Date | Sprint |
-|------|--------|
-| **01.01.-31.03.:** | 01/yyyy |
-| **01.04.-30.06.:** | 02/yyyy |
-| **01.07.-30.09.:** | 03/yyyy |
-| **01.10.-31.12.:** | 04/yyyy |
+![lernOS Sprint by @simondueckert, CC BY 4.0](images/lernOS-Sprint.png)
 
-In week 0 the sprint planning takes place: Does everybody understand the process? When will the weekly meeting be? Which exercises are chosen for the weeks? Will the weekly meeting be organized face-to-face or virtual? Which tools are used for communication and documentation in the sprint? Is everybody able to use the tools? Additionally week 0 can be used for strategic planning: What is the purpose? What is the true north? What is the mission? What are breakthrough goals for the future? What might be objectives for the next sprint?
+In short this is what happens during a lernOS Sprint:
 
-![lernOS Sprint](images/lernOS-Sprint-v02.png)
+* **Week 0 with the Sprint Planning:** Does everybody understand the process? When will the weekly meeting be? Will the weekly be face-to-face or virtual? Which tools are used for communication and documentation? Is everybody able to use the tools? Which exercises are chosen for the weeks?
 
-In weeks 1-12 the weekly meeting as described in the chapter "lernOS Circle" takes place. The circle members are working on their desired results during the sprint. They build a network that supports them with achieving their objectives. The two "pitstops" in week 4 and week 8 help to see if everybody is still on track. When no additional exercises are made in the weekly meeting it will take 15 minutes. If additional exercises are chosen, up to 60 minutes will be necessary for the meeting. The documentation for every exercise is in the chapter "lernOS Kata Catalogue".
+* **Weeks 1-12 with the Weekly Meeting:** the circle members are working on their objectives and desired results during the sprint. They build a network that supports them with achieving their objectives. The two pitstops in week 4 and week 8 help to see if everybody is still on track.
 
-# lernOS Weekly - Meet Your Circle Members Every Week
+# lernOS Weekly: Stay On Track And Upskill Yourself
 
-A lernOS Circle meets once a week. Each week has a standardized agenda with a check-in, a check-out, and suggested exercises called lernOS Katas. The timebox for the weekly can be adopted to personal needs (suggested timeslot: Friday between 11-12am):
+A lernOS Circle meets once a week. Each meeting has a standardized agenda with a check-in, a check-out, and suggested exercises called lernOS Katas (see appendix for the weekly agendas and the exercise descriptions). The timebox for the weekly can be adopted to the needs of the circle members, suggested timeslot is Friday between 11-12am:
 
-* **15 Minute Weekly Meeting:** only Check-In and Check-Out to track progress
-* **30-60 Minute Weekly Meeting:** like 15 minutes plus exercises from the lernOS Kata Catalogue
+* **15 Minute Weekly Meeting:** only Check-In and Check-Out to track progress (OKR-Style).
+* **30-60 Minute Weekly Meeting:** like the 15 minute experience plus exercises from the lernOS Kata Catalogue to learn new skills (WOL-Style).
 
-In the sprint planning in week 0 the circle members can decide which exercises they want to do in the circle and which ones they want to adapt or leave out. The weekly meeting might be face-to-face or virtual. In any case the circle should establish a digital infrastructure for communication and documentation in between the weekly meetings. The following table shows some tools that are proven in practice (find more in the [lernOS Wiki](https://github.com/simondueckert/lernos/wiki)):
+**#ProTip:** Kata is just another term for exercise. It comes from practicing programming skills in a peer learning format. Read more about this format at [codekata.com](http://codekata.com).
+
+The weekly meeting can be face-to-face or virtual. The circle has to define tools for communication and documentation between the weekly meetings. The following table suggests tools that have proven to work in practice:
 
 | Tool A-Z | Communication | Documentation |
 |------|---------------|---------------|
@@ -159,135 +145,163 @@ In the sprint planning in week 0 the circle members can decide which exercises t
 | WhatsApp | X | |
 | Zoom | X | | |
 
-**ProTip:** To have a good usability choose a tool that supports communication and documentation, e.g. a [Facebook Group](https://www.facebook.com/help/1629740080681586) or [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software). In a Facebook Group you can use the activity stream for communicating and [group docs](https://www.facebook.com/help/203003559734725) for documentation. In Microsoft Teams you can use the channel "General" for communication and wiki pages or a OneNote Notebook for documentation.
+**#ProTip:** To have a good usability choose a tool that supports communication and documentation, e.g. a [Facebook Group](https://www.facebook.com/help/1629740080681586) or [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software). In a Facebook Group you can use the activity stream for communicating and [group docs](https://www.facebook.com/help/203003559734725) for documentation. In Microsoft Teams you can use the channel "General" for communication and wiki pages or a OneNote Notebook for documentation.
 
-## Week 0: Get Together & Sprint Planning
-When you are new to the circle you will get to know each other in week 0. You will plan the administrative stuff like when to meet, which tools to use, who is the facilitator etc. One of the major impediments for running a circle is discipline and time management. You should define the basic rules for running the circle until the end of week 0.
+# lernOS Canvas: Structure Your Thinking Visually
+A canvas is a visual structure that can be used to work through several building blocks in a systematic way. This way you use a canvas as a visual checklist. It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the building blocks have been changed to reflect the topics a circle works on during a sprint.
+
+**#ProTip:** The lernOS Canvas can be downloaded from the [lernOS Website](https://lernos.org) in different formats (e.g. PowerPoint, PDF, PNG). To be able to work with the canvas in an agile way one should NEVER write on a canvas ... that's why sticky notes (e.g. Post-it) were invented!
+
+![lernOS Canvas (lernos.org) by @simondueckert, CC BY 4.0](../../lernOS%20Canvas/en/lernOS-Canvas-en.png)
+
+The header of the canvas contains the creation date, the number of the sprint, and a motivation/mission statement (if you have one). In the building block "My Objectives & Key Results" the goals for the current sprint are documented. The building blocks "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people that can help you to achieve your objectives. Available resources (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
+
+**#ProTip:** all exercises that can be documented in the canvas are indicated by "lernOS Canvas: ..." in the exercise description.
+
+**#ProTip:** if you use the lernOS OneNote Circle Template you can take a photo of the current version of the canvas and upload so the other circle members can see it and give feedback.
+
+# Stop talking, start doing!
+If you read through this guide but are not practising yet you should do so NOW! To start with lernOS is really easy. These five steps will help to start smoothly:
+
+1. **Schedule Time:** define the quarter when you begin to use lernOS. Add the time-slots for  the weekly to your calendar. This regular meeting is of particular importance if you practice in a lernOS Circle.
+1. **Define Objectives and Key Results:** use week 0 to define the objectives and the measurable results for the sprint. Choose an objective you really, really care about.
+1. **Find a Circle:** look for 3-4 people who want to start a sprint in the same quarter. If someone has been in a circle before he can take the role of the "Circle Moderator".
+1. **Organize the Weekly Meeting:** if you don't know each other meet face-to-face in week 0. Use social networks or instant messengers to communicate between the meetings. Use video conferencing tools to organize virtual meetings.
+1. **Plan, Do, Learn, Repeat:** Use the last weekly meeting in week 12 to reflect the results and the collaboration in the circle. Decide if you want to run another sprint together.
+
+Keep Calm & Learn On! :-)
+
+# Appendix
+## lernOS Weekly Agendas
+### Week 0: Get Together & Sprint Planning
+When you are new to the circle you will get to know each other in week 0. You will plan when to meet, which tools to use and who is the moderator is.
 
 * **Check-in:** Welcome Everybody! _(5 minutes)_
 * **Get together:** Who are you? Introduce yourself. Five minute timebox per Circle member. _(25 minutes)_
 * **Sprint Planning** see below _(25 minutes)_
-* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+* **Check-out:** Confirm the next meeting. _(5 minutes)_
 
-Define a circle facilitator who cares for event and time management. The facilitator is not the "boss" of the circle but just a normal member that cares for the smooth operation. Define the day and time of your weekly circle meeting (suggestion: Friday, 11-12 am). Define if you meet face-to-face or virtually. If you go for virtual Weekly discuss if weeks 4, 7 and 12 might be done face-to-face. If you meet virtually define the tool you use for the web conference (e.g. Skype for Business, Zoom, appear.in). Decide if you use further tools for communication (e.g. WhatsApp, Threema, Telegram, WeChat) and documentation (e.g. OneNote, Evernote). Also talk about the topics from the lernOS Wheel (mindset, skillset, toolset) and if you want to improve of some of the areas listed there.
+Define a circle moderator who cares for event and time management. The moderator is not the "boss" of the circle but just a normal member that cares for smooth operation. Define the day and time of your weekly circle meeting. Define if you meet face-to-face or virtually . Define the tools you use for communication and documentation in the circle. Decide which exercises from the suggested agenda you plan to do in the circle. Also decide if you want to use the lernOS Canvas (see chapter lernOS Canvas) as supporting tool.
 
-* **Circle facilitator:** ...
-* **Day/time of weekly meeting:** ... (put it in your calendar NOW! :-)
+* **Circle moderator:** ...
+* **Day & time of weekly meeting:** ...
 * **Weekly meetings are:** face-to-face / virtual
-* **Tools used in circle:** ... (test if everybody is able to use the tools)
+* **Tools used in circle:** ...
+* **Exercises we plan to use:** all (WOL-style) / some (mixed mode) / none (OKR-style)
+* **Do we use the Canvas:** yes / no
 
-## Week 1: Your Sprint Objectives
-In this week you choose your objectives for this sprint (one or more, max. 5). The objectives might be refined until week 4 but not later in the sprint. You will also start to think about people who might help you with your objectives (remember: working alone is addition, working together is multiplication!).
+**#ProTip:** in a lot of circles the timebox for running an exercise in the Weekly is too short. You should use the method [inverted classroom](https://en.wikipedia.org/wiki/Flipped_classroom). Every circle member prepares the exercises as "homework" upfront so you will have more time to discuss results in the circle.
+
+### Week 1: Your Sprint Objectives
+In this week you choose your objectives for the sprint. The objectives might be refined until week 4 but not later. You will also start to think about people who might help you with your objectives (Working alone is addition, working together is multiplication!).
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Why Are You Here?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#why-are-you-here) _(10 minutes)_
-* **Exercise:** [My Objectives For The Next 12 weeks](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#my-objectives-for-the-next-12-weeks) _(25 minutes)_
-* **Exercise:** [People Related To Your Objective(s)](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#people-related-to-your-objectives) _(20 minutes)_
+* **Kata 1:** Why Are You Here? _(10 minutes)_
+* **Kata 2:** My Objectives For The Next 12 weeks _(25 minutes)_
+* **Kata 3:** People Related To Your Objective(s) _(20 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 2: Sharing Is Caring
+### Week 2: Sharing Is Caring
 In this week you will reflect on the quantity and quality of the relationships related to your objectives. You will also start to share attention, knowledge, experiences, and assets with your network to build trust and get support.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Strong Or Weak Ties?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#strong-or-weak-ties) _(5 minutes)_
-* **Exercise:** [Your First Sharing Experience](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-first-sharing-experience) _(40 minutes)_
+* **Kata 4:** Strong Or Weak Ties? _(5 minutes)_
+* **Kata 5:** Your First Sharing Experience _(40 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 3: Use The Network Effect
+### Week 3: Use The Network Effect
 In this week you will make sure that you have enough time for networking, sharing, and caring for your network. You will do this by making appointments with yourself. You will also think about how to use the intranet oder internet to reach more people.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [An Appointment With Yourself](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#an-appointment-with-yourself) _(15 minutes)_
-* **Exercise:** [Use Web-Scale Networking](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#use-web-scale-networking) _(15 minutes)_
-* **Exercise:** [Practice Social Praise](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#practice-social-praise) _(15 minutes)_
+* **Kata 6:** An Appointment With Yourself _(15 minutes)_
+* **Kata 7:** Use Web-Scale Networking _(15 minutes)_
+* **Kata 8:** Practice Social Praise _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 4: Pitstop 1
-In this week your objectives should be stable and you should have a clear idea which people in the network might help you to get your work done. Take this week for a short "pitstop" to reflect if everything works well for you and the circle. The next four weeks you will focus to work on the first iteration of your key results.
+### Week 4: Pitstop 1
+In this week your objectives should be stable and you should have a clear idea which people in the network might help you to get your things done. Take this week for a short "pitstop" to reflect if everything works well for you and the circle. The next four weeks you will focus to work on the first iteration of your key results.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Tone Of Voice In Online communication](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#tone-of-voice-in-online-communication) _(15 minutes)_
-* **Exercise:** [Sharing A Useful Resource](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#sharing-a-useful-resource) _(30 minutes)_
+* **Kata 9:** Tone Of Voice In Online communication _(15 minutes)_
+* **Kata 10:** Sharing A Useful Resource _(30 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 5: Who Am I?
+### Week 5: Who Am I?
 In this week the work on the first iteration of your key results should have started. The goal is to have a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (something that works and that you can show) by the end of week 8. You will also start to think about which facts and personal information might be relevant for your network.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [25 Random Facts About Me](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#25-random-facts-about-me) _(25 minutes)_
-* **Exercise:** [Contribute Your Self](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#contribute-your-self) _(20 minutes)_
+* **Kata 11:** 25 Random Facts About Me _(25 minutes)_
+* **Kata 12:** Contribute Your Self _(20 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 6: Update Your Digital Twin
-In this week you will look yourself up in the intranet or internet. If your digital twins (e.g. website, blog, profile) do not match your findings from last week you will go out and update your profiles.
+### Week 6: Update Your Digital Twin
+In this week you will look yourself up in the intranet or internet. If your digital twins like website, blog or profile do not match your findings from last week you will go out and update them.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Go Google Yourself!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#go-google-yourself) _(10 minutes)_
-* **Exercise:** [Update Your Digital Twin](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#update-your-digital-twin) _(20 minutes)_
-* **Exercise:** [Spend Time On Making Connections](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#spend-time-on-making-connections) _(15 minutes)_
+* **Kata 13:** Go Google Yourself! _(10 minutes)_
+* **Kata 14:** Update Your Digital Twin _(20 minutes)_
+* **Kata 15:** Spend Time On Making Connections _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 7: Your Vision Goes Digital
+### Week 7: Publish Your Vision
 In this week you will work on finishing the first iteration of your minimum viable product. You will also start to envision yourself in the future by writing a letter to your future self. And you will help your network to support you by making your vision and your objectives visible on your online profiles.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Write A Letter To Your Future Self](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#write-a-letter-to-your-future-self) _(35 minutes)_
-* **Exercise:** [Share Your Objectives](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#share-your-objectives) _(10 minutes)_
+* **Kata 16:** Write A Letter To Your Future Self _(35 minutes)_
+* **Kata 17:** Share Your Objectives _(10 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 8: Pitstop 2
-In this week the first iteration of your key results should be available. Talk about them or show them in the check-in. When you experienced that you procrastinated to work on your key results you will learn about some "procrastination counter measures".
+### Week 8: Pitstop 2
+In this week the first iteration of your key results should be available. Talk about them and show them in the check-in. When you experienced that you procrastinated to work on your key results you will learn about some "procrastination counter measures".
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Stop Procrastination!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#stop-procrastination) _(20 minutes)_
-* **Exercise:** [Create Your Own Burn Down Chart](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#create-your-own-burn-down-chart) _(10 minutes)_
-* **Exercise:** [Help Others To Connect](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#help-others-to-connect) _(15 minutes)_
+* **Kata 18:** Stop Procrastination! _(20 minutes)_
+* **Kata 19:** Create Your Own Burn Down Chart _(10 minutes)_
+* **Kata 20:** Help Others To Connect _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 9: Your Knowledge Assets
-In this week you will start working on the second iteration of your key results. In addition you will reflect on your top 10 knowledge assets and the knowledge domains that you can contribute to your network.
+### Week 9: Your Knowledge Assets
+In this week you will start working on the second iteration of your key results. In addition you will reflect on your top 10 knowledge assets that you can share in your network.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Your Top 10 Assets](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-top-10-assets) _(30 minutes)_
-* **Exercise:** [The Dinner Table University](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#the-dinner-table-university) _(15 minutes)_
+* **Kata 21:** Your Top 10 Assets _(30 minutes)_
+* **Kata 22:** The Dinner Table University _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 10: Networking And Sharing Time
-In this week you will use a checklist to find more assets that can be shared in the network. You will create a time management system that makes sure you have enough time for networking and sharing. And you will learn that sometimes listening is more important then sending.
+### Week 10: Networking And Sharing Time
+In this week you will use a checklist of potential resources that can be shared with your network. You will create a time management system that makes sure you have enough time for networking and sharing. And you will learn that sometimes listening is more important then talking.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [What Can I Contribute?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#what-can-i-contribute) _(20 minutes)_
-* **Exercise:** [My Networking And Sharing Time](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#my-networking-and-sharing-time) _(10 minutes)_
-* **Exercise:** [Try this crazy method called "asking"!](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#try-this-crazy-method-called-asking) _(15 minutes)_
+* **Kata 23:** What Can I Contribute? _(20 minutes)_
+* **Kata 24:** My Networking And Sharing Time _(10 minutes)_
+* **Kata 25:** Try this crazy method called "asking"! _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 11: The Power Of Communities
-In this week you will search for communities that are related to your objectives. You will learn to decode the DNA of communities. You will also think about starting an own community to support your objectives.
+### Week 11: The Power Of Communities
+In this week you will search for groups and communities that are related to your objectives. You will learn to decode the DNA of communities. You will also think about starting an own community to support your objectives.
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Find Communities Related To Your Objectives](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#find-communities-related-to-your-objectives) _(15 minutes)_
-* **Exercise:** [Who Are The First And Second Dancers?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#who-are-the-first-and-second-dancers) _(15 minutes)_
-* **Exercise:** [Do You Want To Start Your Own Community?](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#do-you-want-to-start-your-own-community) _(15 minutes)_
+* **Kata 26:** Find Communities Related To Your Objectives _(15 minutes)_
+* **Kata 27:** Who Are The First And Second Dancers? _(15 minutes)_
+* **Kata 28:** Do You Want To Start Your Own Community? _(15 minutes)_
 * **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
 
-## Week 12: Reflect And Celebrate
-In this week the final iteration of your key results should be available. Talk about them or show them in the check-in. You will reflect on the circle experience and think about how to sustain the process. After the weekly you should take some time and celebrate your success!
+### Week 12: Reflect And Celebrate
+In this week the final iteration of your key results should be available. Talk about them or show them in the check-in. You will reflect on the circle experience and talk about how to sustain the process. After the weekly you should take some time to celebrate your success!
 
 * **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
-* **Exercise:** [Your Eureka moment](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#your-eureka-moment) _(15 minutes)_
-* **Exercise:** [Create Your Time Capsule](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#create-your-time-capsule) _(15 minutes)_
-* **Exercise:** [Repetition Is The Key To Mastery](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md#repetition-is-the-key-to-mastery) _(15 minutes)_
-* **Check-out:** Party time! _(5 minutes)_
+* **Kata 29:** Your lernOS Moment _(15 minutes)_
+* **Kata 30:** Create Your Time Capsule _(15 minutes)_
+* **Kata 31:** Repetition Is The Key To Mastery _(15 minutes)_
+* **Check-out:** Celebration time! _(5 minutes)_
 
-# lernOS Kata Catalogue - Exercises To Upskill Yourself
-How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. The standard agenda for the weekly meeting reference some of the katas. Used this way one or more exercises can be practiced in a circle during a 12 week self-directed learning programme.
+## lernOS Kata Catalogue - Exercises To Upskill Yourself
+How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. The agenda for the weekly meeting reference some of the katas to learn new skills step by step from week to week.
 
-**ProTip:** in a lot of circles the timebox for running an exercise in the circle is too short. You can use the method [inverted classroom](https://en.wikipedia.org/wiki/Flipped_classroom): every circle member prepares the exercises as "homework" upfront so you will have more time to discuss results in the circle.
-
-## [Why Are You Here?](#why-are-you-here)
+### Kata 1: Why Are You Here?
 What is your motivation for joining this circle? Too often we try to change things by start using new methods and tools but the "Why" is unclear. Simon Sinek explained with his "golden circle" that we should start with the "Why" and then think about the "How" and the "What".
 
-![Why Are You Here?](images/lernOS-Kata-Why-Are-You-Here.png)
+![Why Are You Here?](images/lernOS-Kata-01.png)
 
 **Exercise (10 minutes):**
 
@@ -299,12 +313,12 @@ Share your reasons in the circle.
 
 * Video [How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) with Simon Sinek
 
-## [My Objectives For The Next 12 weeks](#my-objectives-for-the-next-12-weeks)
-What do you want to accomplish in the next 12 weeks? Pick an objective that you really care about and you can make progress towards in the sprint. The objective might be an open and explorative one like "I want to learn something about digital leadership". It might help you to use the SMART or FAST criteria to formulate your objective (see below). You can also use Google's OKR method to get measurable key results (see ProTip).
+### Kata 2: My Objectives For The Next 12 weeks
+What do you want to accomplish in the next 12 weeks? Pick one or more objectives that you really, really care about and you can make progress towards in the sprint. It can help to use the SMART or FAST criteria for objectives (see below). You can also use Google's OKR method to get measurable key results (see ProTip).
 
-![My Objectives For The Next 12 weeks](images/lernOS-Kata-My-Objectives-For-The-Next-12-Weeks.png)
+![My Objectives For The Next 12 weeks](images/lernOS-Kata-02.png)
 
-**SMART criteria (by George Doran):**
+**SMART criteria** (by George Doran):
 
 * **Specific:** target a specific area for improvement.
 * **Measurable:** quantify or at least suggest an indicator of progress.
@@ -312,7 +326,7 @@ What do you want to accomplish in the next 12 weeks? Pick an objective that you 
 * **Relevant:** motivate yourself by objectives you care about.
 * **Time-bound:** specify when the results can be achieved.
 
-**FAST criteria (by The Strategic Agility Project):**
+**FAST criteria** (by The Strategic Agility Project):
 
 * **Frequently discussed:** Goals should be embedded in ongoing discussions to review progress, allocate resources, prioritize initiatives, and provide feedback.
 * **Ambitious:** Objectives should be difficult but not impossible to achieve.
@@ -321,9 +335,9 @@ What do you want to accomplish in the next 12 weeks? Pick an objective that you 
 
 **Exercise (25 minutes):**
 
-Select an objective for the next 12 weeks. Use the questions "Do I really, really care?", "Can I achieve it in 12 weeks?", and "Can my network help me?" to test if the objective is appropriate for the sprint. If you have problems to find a good objective think about goals that support your roles, activities, or projects. If you want to help to make the world a better place you can also choose an objective that is related to the [United Nation's 17 sustainable development goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/).
+Select an objective for the next 12 weeks. Use the questions "Do I really, really care?", "Can I achieve it in 12 weeks?", and "Can my network help me?" to test if the objective is appropriate for the sprint. If you have problems to find a good objective think about goals that support your roles, activities, or projects. If you want to help to make the world a better place you can also choose an objective that is related to the [United Nation's 17 sustainable development goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals).
 
-**ProTip:** Use the principles from objective & key results (OKR) to specify your objective. Define an objective and write it down below. To help you to track progress define 2-4 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure to set yourself ambitious goals a completion rate of 0.7 is regarded as a success.
+**#ProTip:** Use the principles from objective & key results (OKR) to specify your objective. Define an objective and write it down below. To help you to track progress define 2-4 key results per objective. You should be able to measure the key results on a scale from 0.0-1.0. To make sure to set yourself ambitious goals a completion rate of 0.7 is regarded as a success.
 
 _I will (objective):_ ...
 
@@ -341,18 +355,18 @@ Share your objective(s) in the circle (10 minutes).
 **Further Information:**
 
 * Wikipedia Article [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria)
-* MIT Sloan Article [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/)
+* MIT Sloan Article [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart)
 * TED Talk [How We Can Make the World a Better Place by 2030](https://www.youtube.com/watch?v=o08ykAqLOxk)
 * Video [How Google Sets Goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) with Google ventures partner Rick Klau
 * Book [Introduction To OKRs](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) by Christina Wodtke
 * Book [The Beginner's Guide To OKR](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) by Felipe Castro
 
-## [People Related To Your Objectives](#people-related-to-your-objectives)
-Most tasks we do have been done by others before. Most of the mistakes we make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives by getting in touch with people inside and outside your organization. Strong relationships are based on trust, sharing, and caring. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) said "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you". So how do you get in touch with people related to your objectives and develop the relationship?
+### Kata 3: People Related To Your Objectives
+Most tasks we do have been done by others before. Most of the mistakes we make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives by getting in touch with experienced people inside and outside your organization. Strong relationships are based on trust, sharing, and caring. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) said "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you". So how do you get in touch with people related to your objectives and develop the relationship?
 
 **Exercise (20 minutes):**
 
-Create a list of at least ten people related to your objectives. If you don't know people by name you can also put roles or descriptions on the list (e.g. "Head of HR in company XY"). Use your contact lists or internal and external social networks you use to find more people.
+Create a list of at least ten people related to your objectives. If you don't know people by name you can also put roles or descriptions on the list (e.g. "best WoW player in wown", "a good camera man", "owner of company XY"). Use your contact lists or social networks find more people:
 
 1. ...
 1. ...
@@ -367,14 +381,14 @@ Create a list of at least ten people related to your objectives. If you don't kn
 
 Share your list in the circle and let others help to complete it (10 minutes).
 
-**lernOS Canvas:** collect people related to your objective in the building block "My Relationships". You can sort them by priority or internal/external if you like.
+**lernOS Canvas:** collect people related to your objective in the building block "My Relationships". You can sort them by priority if you like.
 
 **Further Information:**
 
 * Video [Social Networking In Plain English](https://www.youtube.com/watch?v=6a_KF7TYKVc)
 
-## [Strong Or Weak Ties?](#strong-or-weak-ties)
-How strong is the relationship to the people related to your objectives? The connection between people in a social network can be defined by the amount of time spent together, the emotional intensity, the level of intimacy and trust, and the reciprocal services (helping each other). There are three levels [interpersonal ties](https://en.wikipedia.org/wiki/Interpersonal_ties) can have:
+### Kata 4: Strong Or Weak Ties?
+How strong is the relationship to the people related to your objectives? The connection between people in a social network can be defined by the amount of time spent together, the emotional intensity, the level of intimacy and trust, and the reciprocal services. There are three levels [interpersonal ties](https://en.wikipedia.org/wiki/Interpersonal_ties) can have:
 
 1. **Absent:** you don't know each other
 1. **Weak:** you are somehow connected, you had interactions in the past
@@ -382,17 +396,17 @@ How strong is the relationship to the people related to your objectives? The con
 
 **Exercise (5 minutes):**
 
-Take your relationship list and grade every relationship as 1 (absent), 2 (weak), or 3 (strong) to get an idea which relationships should be deepened in the future. Mark the relationships that you want to deepen in the future.
+Take your relationship list and rate every relationship as 1 (absent), 2 (weak), or 3 (strong). Mark the relationships that you want to deepen in the future.
 
-**lernOS Canvas:** put grades (1-3) on the sticky notes in section "My Relationships".
+**lernOS Canvas:** put grades on the sticky notes in section "My Relationships".
 
 **Further Information:**
 
 * Video [Social Networks and Getting a Job](https://www.youtube.com/watch?v=g3bBajcR5fE) with Mark Granovetter
 * Article [The Strength Of Weak Ties](http://www.cs.umd.edu/~golbeck/INST633o/granovetterTies.pdf) by Mark Granovetter
 
-## [Your First Sharing Experience](#your-first-sharing-experience)
-Sharing is caring! In the digital world sharing is often seen as giving others access to files or digital content in an online space. But it can also be as simple as sharing your attention with another person by following him, liking his content or subscribing to his website. By sharing you deepen your relationships with every contribution you make and the people in your network will be more willing to support you with your objectives. Knowledge assets and digital assets have one thing in common: they are resources that increase through use! Hint: be careful of legal and data protection issues if you share knowledge or content from your organization with externals.
+### Kata 5: Your First Sharing Experience
+Sharing is caring! In the digital world sharing is often seen as giving others access to files or digital content. But it can also be as simple as sharing your attention with another person by following him, liking his content or subscribing to his website. By sharing you deepen your relationships with every contribution you make.
 
 **Exercise (40 minutes):**
 
@@ -406,10 +420,10 @@ Go through your relationship list and look for some kind of online presence for 
 
 Discuss your sharing experiences in the circle (20 minutes).
 
-**lernOS Canvas:** if you find people from your relationship list inside an internal or external social network list the network in the building block "My Social Networks".
+**lernOS Canvas:** if you find people from your relationship list inside a social network list the network in the building block "My Social Networks".
 
-## [An Appointment With Yourself](#an-appointment-with-yourself)
-Do you spend enough time for your personal development and for working on your personal objectives? A lot of people are busy with their daily tasks and do not care enough for their development and their well being. A good approach is to make an appointment with yourself and reserve that time in your calendar. A Friday afternoon or any other day with no regular events works well.
+### Kata 6: An Appointment With Yourself
+Do you spend enough time for your personal development and for working on your personal objectives? A lot of people are busy with their daily tasks and do not care enough for their development and their well-being. A good approach is to make an appointment with yourself and reserve that time for yourself in the calendar.
 
 **Exercise (15 minutes):**
 
@@ -421,14 +435,14 @@ Check your calendar and see when an appointment with yourself fits in. One hour 
 1. ...
 1. ...
 
-Discuss your approache in the circle.
+Discuss your approaches in the circle.
 
-## [Use Web-Scale Networking](#use-web-scale-networking)
-When you interact with individuals you grow your network over time. But when interacting with whole groups or communities you can scale your reach. You become visible to more and more people and your contributions bring value to the group. Examples of such groups are online communities, communities of practice, user groups, discussion forums, and regular meetups.
+### Kata 7: Use Web-Scale Networking
+When you interact with individuals you grow your network over time. But when interacting with whole groups or communities you can scale your reach. You become visible to more people and the value of your contributions scale. Examples of such groups are online communities, communities of practice, user groups, discussion forums, and regular meetups.
 
 **Exercise (15 minutes):**
 
-Search the internet (e.g. [LinkedIn Groups](https://www.linkedin.com/groups), [Facebook Groups](https://www.facebook.com/groups), [Xing Groups](https://www.xing.com/communities), [meetup.com](https://www.meetup.com), [reddit.com](https://www.reddit.com/reddits/)) or intranet (e.g. Enterprise Social Network, Social Intranet) to find at least five groups that are related to your objectives:
+Search the internet (e.g. [LinkedIn Groups](https://www.linkedin.com/groups), [Facebook Groups](https://www.facebook.com/groups), [Xing Groups](https://www.xing.com/communities), [meetup.com](https://www.meetup.com), [reddit.com](https://www.reddit.com/reddits)) or intranet (e.g. Enterprise Social Network, Social Intranet) to find at least five groups that are related to your objectives:
 
 1. ...
 1. ...
@@ -440,24 +454,24 @@ Discuss the lists of groups in the circle and get more suggestions. Make a small
 
 **lernOS Canvas:** use building block "My Social Networks" to list groups or communities related to your objective.
 
-## [Practice Social Praise](#practice-social-praise)
-How does it feel if someone uses your knowledge or your content and just says "thank you" afterwards? Almost everybody does appreciate this. So it's a good habit not to take any content or contribution for granted but be thankful and express your thankfulness at least from time to time.
+### Kata 8: Practice Social Praise
+How does it feel if someone uses your ideas or resources and just says "thank you" afterwards? Almost everybody does appreciate this. So it's a good habit not to take any content or contribution for granted but to be thankful and express your gratitude.
 
 **Exercise (15 minutes):**
 
-Think of two examples where knowledge or content from another person helped you to reach your objectives. Create a message (one private and one public) to express your thankfulness towards this person. This could be an private e-mail message or a comment in a blog or social profile:
+Think of two examples where ideas or knowledge assets from another person helped you to reach your objectives. Create a message (at least one public) to express your thankfulness towards this person. This can be a private e-mail message or a comment in a blog or social profile:
 
 1. ...
 1. ...
 
 **lernOS Canvas:** add two people who helped you before to the building block "My Relationships".
 
-## [Tone Of Voice In Online Communication](#tone-of-voice-in-online-communication)
-Do you have the same tone when you communicate online then you have in real life? Do you write emails with the same tone like you would talk to the person in a face-to-face meeting? Often the tone in online communication is tougher and more rude than it should be. This is true for emails, messages, discussion forums and blog comments. This is a barrier for developing trust and a supportive network.
+### Kata 9: Tone Of Voice In Online Communication
+Do you have the same tone when you communicate online in comparison to real life? Do you write emails with the same tone like you would talk to the person in a face-to-face meeting? Often the tone in online communication is tougher and more rude than it should be. This is true for emails, messages, discussion forums and blog comments. It is a barrier for developing trust and a supportive network.
 
 **Exercise (15 minutes):**
 
-Go through your email inbox or your messages in social networks. Which email show a lack of empathy or a wrong tone? Imagine that you are the sender. What kind of message would have increased the chance to get a valuable answer? Find at least five examples:
+Go through your email inbox or your messages in social networks. Which messages show a lack of empathy or a wrong tone? Imagine that you are the sender. What kind of message would have increased the chance to get a valuable answer? Find at least five examples:
 
 1. ...
 1. ...
@@ -471,8 +485,8 @@ Discuss the examples in the circle.
 
 * Video [Email In Real Life](https://www.youtube.com/watch?v=HTgYHHKs0Zw)
 
-## [Sharing A Useful Resource](#sharing-a-useful-resource)
-When was the last time you shared a valuable resource with a person or group without being asked for it? How could you present such a resource in a way to draw someone's attention to you?
+### Kata 10: Sharing A Useful Resource
+When was the last time you shared a valuable resource with a person or group without being asked for it? How could you present such a resource in a way to draw someone's attention?
 
 **Exercise (30 minutes):**
 
@@ -484,7 +498,7 @@ Think of resources that might be valuable for people on your relationship list. 
 1. ...
 1. ...
 
-Find at least three people on your relationship list that will be interested in the resource. Send a message to these people with the resource attached or a link to the resource. Explain the context and why you send the message and also why you think the resource might be valuable for the recipient.
+Find at least three people on your relationship list that might be interested in the resource. Send a message to these people with a link to the resource. Explain the context, why you send the message, and also why you think the resource might be valuable for the recipient.
 
 1. ...
 1. ...
@@ -494,8 +508,8 @@ Discuss the shared resources and how you shared it in the circle (10 minutes).
 
 **lernOS Canvas:** Collect five resources that might be valuable for people in your relationship list in the building block "My Knowledge Assets".
 
-## [25 Random Facts About Me](#25-random-facts-about-me)
-What are interesting facts about you that might help you to connect with other people? If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!"). Random things about yourself might include:
+### Kata 11: 25 Random Facts About Me
+What are interesting facts about you that might help to connect with other people? If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!"). Random things about yourself might include:
 
 * Life experiences
 * Your likes/dislikes
@@ -512,7 +526,7 @@ What are interesting facts about you that might help you to connect with other p
 
 **Exercise (25 minutes):**
 
-Create a list of 10 random facts about yourself. Then read the [Fuqua 25 random things do's and dont's](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts/) and expand your list to 25 things:
+Create a list of 10 random facts about yourself. Then read the [Fuqua 25 random things do's and dont's](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts) and expand your list to 25 things:
 
 1. ...
 1. ...
@@ -540,15 +554,15 @@ Create a list of 10 random facts about yourself. Then read the [Fuqua 25 random 
 1. ...
 1. ...
 
-Share the facts about you in the circle (10 minutes). You could do this by giving your list around and let other circle members write further relationships on it.
+Share the facts about you in the circle (10 minutes).
 
-**lernOS Canvas:** scan the list of facts about you. If any of the facts indicate knowledge domains or skills put them in the building block "My Knowledge & Skills".
+**lernOS Canvas:** If any of the facts indicate knowledge domains or skills put them in the building block "My Knowledge & Skills".
 
 **Further Information:**
 
 * YouTube-Search ["random facts about me"](https://www.youtube.com/results?search_query=random+facts+about+me)
 
-## [Contribute Your Self](#contribute-your-self)
+### Kata 12: Contribute Your Self
 Not all contributions in your network have to be about your objectives. Sometimes it's good to share something about yourself to make a personal connection. The list of facts about yourself might help to find interesting links to other people. Try to find these possible links and use them to make a connection.
 
 **Exercise (20 minutes):**
@@ -557,14 +571,14 @@ Go through your facts about you and find at least one fact that might be of inte
 
 1. ...
 
-## [Go Google Yourself!](#go-google-yourself)
-What do people see when they search for you on the internet or intranet? Do they get an idea of who and your objectives are and how they might help you? You can simulate that search by googling yourself (often called egosurfing, egosearching or vanity search).
+### Kata 13: Go Google Yourself!
+What do people see when they search for you online? Do they get an idea of who you are and how they might help you with your objectives? You can simulate that situation by googling yourself (often called egosurfing, egosearching or vanity search).
 
-![Go Google Yourself on google.com or in an intranet search engine](images/lernOS-Kata-Go-Google-Yourself.png)
+![Go Google Yourself on google.com or in an intranet search engine](images/lernOS-Kata-13.png)
 
 **Exercise (10 minutes):**
 
-Open your search engine of choice and enter your name. This could be internet search or also intranet search. Open at least the first 10 search results and check if your personality, your offerings and your objectives are represented in the way you want them to be and identify possible improvements:
+Open a search engine in the internet or intranet and enter your name. Open at least the first 10 search results and check if your personality and the facts about you are up-to-date. Identify possible improvements:
 
 1. ...
 1. ...
@@ -577,7 +591,7 @@ Open your search engine of choice and enter your name. This could be internet se
 1. ...
 1. ...
 
-Think about what your main online profile might be (e.g. LinkedIn profile, about.me profile or profile in your enterprise social network). This will be called your "digital twin" that represents you online:
+Think about what your main online profile might be (e.g. LinkedIn profile, about.me profile or profile in your enterprise social network). This will be called your "digital twin":
 
 *My main online profile (digital twin) is ...*
 
@@ -588,12 +602,12 @@ Think about what your main online profile might be (e.g. LinkedIn profile, about
 * Wikipedia Article [Egosurfing](https://en.wikipedia.org/wiki/Egosurfing)
 * Article [Google Yourself! Measuring the performance of personalized information resources](http://snurb.info/files/aoir2008/Google%20Yourself!%20Measuring%20the%20performance%20of%20personalized%20information%20resources%20%28AoIR%202008%29.pdf) by Thomas Nicolai and Lars Kirchhoff.
 
-## [Update Your Digital Twin](#update-your-digital-twin)
-Does your main online profile or your "digital twin" represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects, current interests, key knowledge domains, and objectives you need support for should be visible on that profile.
+### Kata 14: Update Your Digital Twin
+Does your main digital twin represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects and interests should be visible on that profile.
 
 **Exercise (20 minutes):**
 
-Go through the online profile and check if you have a nice image, a short description, and a slogan. Check if your objectives and your open questions are visible in the profile. List the improvements you made or want to make:
+Check in the online profile if you have a nice image, a short description, and a slogan. List the improvements you want to make:
 
 1. ...
 1. ...
@@ -608,42 +622,23 @@ Go through the online profile and check if you have a nice image, a short descri
 
 **lernOS Canvas:** mark the social network that contains your main online profile in the building block "My Social Networks".
 
-## [Spend Time On Making Connections](#spend-time-on-making-connections)
-How do you connect with other people on social networks? Of courcse there is a connect button or invite button in all the networks but to just use the default message is not a very polite way to connect with strangers. Most social networks provide features to customize the message when connecting. You should always use this option.
+### Kata 15: Spend Time On Making Connections
+How do you connect with other people on social networks? Of course there is a connect button or invite button in all the networks but to just use the default message is not a very polite way to connect with strangers. Most social networks provide features to customize the message when connecting. Use this option to be more successful with networking.
 
 **Exercise (10 minutes):**
 
-Go through your relationship list and find someone you don't know yet (level 1). Search that person in social networks on the internet or intranet. Connect with the person and write a customized message (add information like: Why do I connect? What do I appreciate? What do I have to offer?):
+Find someone in your relationship list you don't know yet (level 1). Search that person in social networks. Connect with the person and write a customized message. Add information like: Why do I connect? What do I appreciate? What do I have to offer?
 
 1. ...<br/><br/>
 
-## [Write A Letter To Your Future Self](#write-a-letter-to-your-future-self)
+### Kata 16: Write A Letter To Your Future Self
 The letter to your future self is a classic method in self motivation and visioning. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. With the letter in the back of your mind chances are that your wishes become a [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
 
 **Exercise (35 minutes):**
 
-Write a letter to your future self. Talk about who you are now (e.g. age, summary, fears, key values, beliefs, skills, abilities, goals, hopes). Then address your future self with the things you want to stop/continue/start doing. Give yourself advice and ask yourself questions. Seal the letter and store it in a safe place or use services like [futureme.org](https://futureme.org) to send it to your future self:
+Write a letter to your future self. Talk about who you are now (e.g. summary, fears, values, beliefs, skills, abilities, goals, hopes). Then address your future self with the things you want to stop/continue/start doing. Give yourself advice and ask yourself questions. Seal the letter and store it in a safe place or use services like [futureme.org](https://futureme.org) to send it to your future self automatically:
 
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
+![](images/lernOS-Kata-16.png)
 
 If you want to share the letter with your circle members just read it out loud afterwards (15 minutes).
 
@@ -652,8 +647,8 @@ If you want to share the letter with your circle members just read it out loud a
 * Video [A Letter To My Future Self](https://www.youtube.com/watch?v=XwN0tJlXF-0)
 * Article [How to Write a Letter to Your Future Self](https://www.wikihow.com/Write-a-Letter-to-Your-Future-Self)
 
-## [Share Your Objectives](#share-your-objectives)
-A good way to let other connect with you to help you with your objectives is to make your objectives visible openly. You can do this by putting them on your online profiles or writing a status update about it.
+### Kata 17: Share Your Objectives
+A good way to let others connect with you is to make your objectives visible openly. You can do this by putting them on your online profiles or writing a status update about it.
 
 **Exercise (10 minutes):**
 
@@ -665,8 +660,8 @@ Check your objectives to see which ones should be visible for others. Check the 
 1. ...
 1. ...
 
-## [Stop Procrastination!](#stop-procrastination)
-Do you sometimes feel like you voluntarily delay an intended course of action despite expecting to be worse off for the delay? That is the definition of [procrastination](https://en.wikipedia.org/wiki/Procrastination). Estimations are that more than 90% of the people procrastinate. To overcome procrastination there are some counter measures:
+### Kata 18: Stop Procrastination!
+Do you sometimes feel like you voluntarily delay an intended course of action despite expecting to be worse off for the delay? That is by definition [procrastination](https://en.wikipedia.org/wiki/Procrastination). Estimations are that more than 90% of the people procrastinate. To overcome procrastination there are some counter measures:
 
 * Be aware of habits and thoughts that lead to procrastinating.
 * Seek help for self-defeating problems such as fear, anxiety, difficulty in concentrating, poor time management, indecisiveness, and perfectionism.
@@ -698,36 +693,37 @@ Go through the list of procrastination counter measures and identify the ones th
 
 * Video and Infographic [15 Ways to Overcome Procrastination and Get Stuff Done](https://www.entrepreneur.com/article/240262)
 
-## [Create Your Own Burn Down Chart](#create-your-own-burn-down-chart)
-How do you see if you make progress towards your objectives? In agile project management [burn down charts](https://en.wikipedia.org/wiki/Burn_down_chart) are used to represent progress in a graphical way. On a burn down chart the completed tasks are tracked over time. You start with the sum of tasks and reach zero if any task is completed.
+### Kata 19: Create Your Own Burn Down Chart
+How do you see if you make progress towards your objectives? In project management [burn down charts](https://en.wikipedia.org/wiki/Burn_down_chart) are used to represent progress in a graphical way. On a burn down chart the completed tasks are tracked over time. You start with the sum of tasks and reach zero if any task is completed.
 
 **Exercise (10 minutes):**
 
-Think about how you can use a burn down chart to measure and visualize progress towards your objectives. This might be the measurable key results the tasks you need to do to create the results. You can use paper or pen or any software that supports task tracking in a visual way.
+Think about how you can use a burn down chart to measure and visualize progress towards your objectives. You can use paper or pen or any tool that supports task tracking in a visual way.
 
-**lernOS Canvas:** Mark finished key results as done in the building block "My Objectives & Key Results" on an ongoing basis.
+**lernOS Canvas:** Mark finished key results as done in the building block "My Objectives & Key Results" or stike them out.
 
 **Further Information:**
 * Video [How to use The Sprint Burndown](https://www.youtube.com/watch?v=GokN-50Jt4A)
 
-## [Help Others To Connect](#help-others-to-connect)
-Did you ever use social networks to connect people with each other? Most internal and external social networks support this feature. You can pick two profiles and use a function to introduce people to each other. You might do it directly or ask ther persons for permission upfront.
+### Kata 20: Help Others To Connect
+Did you ever use social networks to connect people with each other? Most social networks support this feature. You can pick two profiles and use the function to introduce people to each other. You might do it directly or ask for permission upfront.
 
 **Exercise (15 minutes):**
 
-Check the social networks you use to see if there is a function for introducing people (e.g. in LinkedIn it's called "Share Profile"). Check your relationship list to see who might profit from knowing each other. Decide if you want to ask for permission first or just introduce the selected persons. Draft a short email to connect two people from your relationship list:
+Check the social networks you use to see if there is a function to introduce people (e.g. in LinkedIn it's called "Share Profile"). Check your relationship list to see who might profit from knowing each other. Decide if you want to ask for permission first or just introduce the selected persons. Draft a short message to connect these people from your relationship list:
 
 _Hi ... and ..., I'd like you to introduce to each other because ..._
 
 **Further Information:**
+
 * Video [Social Networking in Plain English](https://www.youtube.com/watch?v=6a_KF7TYKVc)
 
-## [Your Top 10 Assets](#your-top-10-assets)
-What are the most valuable assets related to your objectives that you might share? An asset could be a book, a video, a link, a document, a checklist, a presentation etc. When you organize your assets in a way they are linkable and shareble it will be easy for you to contribute them to your network.
+### Kata 21: Your Top 10 Assets
+What are the most valuable resources related to your objectives that you can share? A resource could be a book, a video, a link, a document, a checklist, a presentation etc. When you organize your resources in a way that they are linkable and shareble it will be easy for you to contribute them to your network.
 
 **Exercise (30 minutes):**
 
-Chose one of your objectives and list at least ten related assets you find useful or interesting:
+Chose one of your objectives and list at least ten related resources you find useful or interesting:
 
 1. ...
 1. ...
@@ -740,12 +736,12 @@ Chose one of your objectives and list at least ten related assets you find usefu
 1. ...
 1. ...
 
-Present the top 10 list in the circle and let others help to extend it (10 minutes).
+Present the top 10 list in the circle and discuss it (10 minutes).
 
 **lernOS Canvas:** collect the valuable assets related to your objectives in the building block "My Knowledge Assets".
 
-## [The Dinner Table University](#the-dinner-table-university)
-Do you use informal situations to learn (e.g. lunch)? Leo Buscaglia called this the [Dinner Table University](http://unprovenpervert.blogspot.com/2008/05/our-dinner-table-university-by-leo.html). His father said "There is so much to learn. Though we're born stupid, only the stupid remain that way". After the dinner the father asked the children "Tell me what you learned today". This way every meal becomes a learning opportunity. In organizations you can practice this with methods like Lunch & Learn or Walk & Talk.
+### Kata 22: The Dinner Table University
+Do you use informal situations like lunch to learn? Leo Buscaglia called this the [Dinner Table University](http://unprovenpervert.blogspot.com/2008/05/our-dinner-table-university-by-leo.html). His father said "There is so much to learn. Though we're born stupid, only the stupid remain that way". After the dinner the father asked the children "Tell me what you learned today". This way every meal becomes a learning opportunity. In organizations you can practice this with methods like Lunch & Learn or Walk & Talk.
 
 **Exercise (15 minutes):**
 
@@ -757,26 +753,25 @@ Think about what you learned since the last weekly:
 1. ...
 1. ...
 
-Share the learnings in the circle. Discuss if you want continue this kind of informal learning.
+Share the learnings in the circle. Discuss if you want continue this kind of informal learning in the future.
 
 **lernOS Canvas:** collect knowledge domains and skills you learned in the building block "My Knowledge & Skills".
 
-## [What Can I Contribute?](#what-can-i-contribute)
-Do you have a clear idea what you can contribute to your network? Often we do not contriute because we don't know what to share or write. [Research shows](https://www.researchgate.net/publication/259390661_The_Contextual_Nature_of_Enterprise_Social_Networking_A_Multi_Case_Study_Comparison) that there are typical activities in social networks you could use as a checklist for your contributions:
+### Kata 23: What Can I Contribute?
+Do you have a clear idea what you can contribute to your network? Often we do not contriute because we don't know what to share or write. [Research shows](https://www.researchgate.net/publication/259390661_The_Contextual_Nature_of_Enterprise_Social_Networking_A_Multi_Case_Study_Comparison) that there are typical activities in social networks:
 
 * **Discussion and opinion:** Users discuss general matters, current affairs, politics, industryrelated news, etc. in social networks.
 * **Event notifications:** social networks are used to send information about upcoming events (workshops, webinars etc) that might be of interest to others.
-* **Idea generation:** As a part of the idea generation practice the social network is used to ask others for their input
-and ideas regarding a product or project.
+* **Idea generation:** As a part of the idea generation practice the social network is used to ask others for their input and ideas.
 * **Informal talk:** The social network also makes it possible to engage in informal, non-work related conversations (e.g. about sports events, hobbies and other general interests) or to post jokes and funny utterances.
 * **Information storage:** Sometimes the social network is used to store information for future reference for oneself or for others.
 * **Problem-solving:** Users frequently draw on the social network to ask others for help such as by outlining a specific problem or by asking others to find a resource necessary to solve a problem.
 * **Social praise:** In order to share success stories or acknowledge the achievements of people to the
-wider group, users also use the social network to thank others for doing something.
+  wider group, users also use the social network to thank others for doing something.
 * **Status updates:** Social networks on the public web are often used to report what someone is currently
-doing.
+  doing.
 * **Work coordination:** Sometimes the social network is used to delegate tasks to others, post requests for interest
-on tasks that need to be staffed, or ask for task assignments and offer spare capacity.
+  on tasks that need to be staffed, or ask for task assignments and offer spare capacity.
 
 **Exercise (20 minutes):**
 
@@ -792,9 +787,9 @@ For every item in the checklist above write down what your possible contribution
 1. ...
 
 
-Discuss your list in the circle and let the others support you to enhance the list.
+Discuss your list in the circle.
 
-## [My Networking And Sharing Time](#my-networking-and-sharing-time)
+### Kata 24: My Networking And Sharing Time
 Do you have a timeslot blocked in your calendar for networking with people and sharing in your network? Do you have a clear idea with whom to network when there is a sudden free slot in a full packed day? If you have clear timeslots and ideas what to share it will be much easier for you to make networking and sharing a habit.
 
 **Exercise (10 minutes):**
@@ -811,8 +806,8 @@ Check your calendar for the next weeks and block at least five time slots for ne
 
 * Article [Google Took Its 20% Back, But Other Companies Are Making Employee Side Projects Work For Them](https://www.fastcompany.com/3015963/google-took-its-20-back-but-other-companies-are-making-employee-side-projects-work-for-them)
 
-## [Try this crazy method called "asking"!](#try-this-crazy-method-called-asking)
-Do you sometimes have the feeling that you could use some information, advice, or experience from somebody else? Instead of waiting and hoping try this crazy method called "asking"! If you choose people you also supported in the past you normally get the support you need.
+### Kata 25: Try this crazy method called "asking"!
+Do you sometimes have the feeling that you could use some information, advice, or experience from somebody else? Instead of waiting and hoping try this crazy method called "asking"! If you choose people you supported in the past you normally get help.
 
 **Exercise (15 minutes):**
 
@@ -826,12 +821,12 @@ Find someone on your relationship list who could help you with your objectives. 
 
 Discuss the messages in the circle.
 
-## [Find Communities Related To Your Objectives](#find-communities-related-to-your-objectives)
-A tribe [according to Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead) is a group of people connected to one another, connected to a leader, and connected to an idea. Instead of tribe the term "community" or "community of practice" is also often used. A group needs only two things to be a tribe: a shared interest and a way to communicate. Tribes need leadership. Sometimes one person leads, sometimes more. People want connection and growth and something new. They want change. Which are the tribes connected to your objectives?
+### Kata 26: Find Communities Related To Your Objectives
+A tribe [according to Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead) is a group of people connected to one another, connected to a leader, and connected to an idea. Instead of tribe the term "community" or "community of practice" is also often used. A group needs only two things to be a tribe: a shared interest and a way to communicate. Tribes need leadership. Sometimes one person leads, sometimes more. Which are the communities related to your objectives?
 
 **Exercise (15 minutes):**
 
-Look for communities that are related to your objectives and find at least 10 (use e.g. [LinkedIn Groups](https://www.linkedin.com/groups), [Facebook Groups](https://www.facebook.com/groups), [Xing Groups](https://www.xing.com/communities) , [meetup.com](https://www.meetup.com), [reddit.com](https://www.reddit.com/reddits/)):
+Look for communities that are related to your objectives and find at least 10 (use e.g. [LinkedIn Groups](https://www.linkedin.com/groups), [Facebook Groups](https://www.facebook.com/groups), [Xing Groups](https://www.xing.com/communities) , [meetup.com](https://www.meetup.com), [reddit.com](https://www.reddit.com/reddits)):
 
 1. ...
 1. ...
@@ -846,12 +841,12 @@ Look for communities that are related to your objectives and find at least 10 (u
 
 Talk about your lists in the circle and let the others help you to complete your list.
 
-## [Who Are The First And Second Dancers?](#who-are-the-first-and-second-dancers)
-You can’t have a tribe without a leader - and you can’t be a leader without a tribe. Are you able to identify the leaders of the tribes related to your objectives? Who was the first person that started the movement? Which people were joining the tribe at an early stage?
+### Kata 27: Who Are The First And Second Dancers?
+According to Godin you can’t have a tribe without a leader. And you can’t be a leader without a tribe. Are you able to identify the key persons of the communities related to your objectives? Who was the first person that started the movement? Which people were joining the tribe at an early stage?
 
 **Exercise (15 minutes):**
 
-Now pick the community from your list that is most closely related to your objective:
+Pick the community from your list that is most closely related to your objective:
 
 _My community of choice is ..._
 
@@ -865,8 +860,8 @@ Watch the video [First Follower: Leadership Lessons from Dancing Guy](https://ww
 
 **lernOS Canvas:** add community leaders and core community members to your relationship list.
 
-## [Do You Want To Start Your Own Community?](#do-you-want-to-start-your-own-community)
-Can you imagine to start your own tribe or community? If you cannot find a community related to your objectives perhaps you have to start a new one. As you saw in examples you searched for it is possible to start your own if necessary. You will be the first dancer and have to think about the time and place where to start it.
+### Kata 28: Do You Want To Start Your Own Community?
+Can you imagine to start your own tribe or community? If you cannot find a community related to your objectives perhaps you have to start a new one? You will be the first dancer and have to think about the time and place to start it.
 
 **Exercise (15 minutes):**
 
@@ -899,69 +894,46 @@ Discuss the results in the circle.
 
 **Further Information:**
 
-* Article [Introduction to communities of practice](http://wenger-trayner.com/introduction-to-communities-of-practice/) by Etienne Wenger.
+* Article [Introduction to communities of practice](http://wenger-trayner.com/introduction-to-communities-of-practice) by Etienne Wenger.
 * Video [Situated Learning and Communities of Practice](https://www.youtube.com/watch?v=roKJbwCLNBs) with Etienne Wenger
 * Infographic [Cultivating Communities of Practice - A Quick Start-Up Guide](http://ec.europa.eu/employment_social/equal_consolidated/data/document/0709-cop-guide_en.pdf) by Etienne wenger
-* Website [The Community Roundtable](https://communityroundtable.com/)
+* Website [The Community Roundtable](https://communityroundtable.com)
 
-## [Your Eureka Moment](#your-eureka-moment)
-The [eureka moment](https://en.wikipedia.org/wiki/Eureka_effect) refers to the common human experience of suddenly understanding a previously incomprehensible problem or concept. When you think back to the first weeks of your circle, what changed since then? Why are you part of the movement? What insights did you gain with regard to your objectives, your values, your relationships and your work practices.
+### Kata 29: Your lernOS Moment
+The [eureka moment](https://en.wikipedia.org/wiki/Eureka_effect) refers to the common human experience of suddenly understanding a previously incomprehensible problem or concept. When you think back to the first weeks of your circle, what changed since then? Why are you part of the movement? What insights did you gain with regard to your objectives, your values, your relationships and your practices.
 
 **Exercise (15 minutes):**
 
-Think about your personal "why" you are part of a circle:
+Think about "why" you are part of the circle. Reflect the last 12 weeks and think about what your personal "lernOS moment" was. Describe it as short as possible:
 
-_I am part of the movement/circle because ..._
+![](images/lernOS-Kata-29.png)
 
-Reflect the last 12 weeks and think about what your "eureka moment" was. Describe it as short as possible:
+Talk about your lernOS moments in the circle.
 
-_My personal eureka moment was ..._
+**#ProTip:** you can cut your lernOS moment out and put it at your door or in your room to let others participate and learn from your insights.
 
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-
-Talk about your eureka moments in the circle.
-
-## [Create Your Time Capsule](#create-your-time-capsule)
+### Kata 30: Create Your Time Capsule
 A [time capsule](https://en.wikipedia.org/wiki/Time_capsule) is a cache of goods or information, usually intended as a method of communication with future people - like your future self. Like the letter to your future self a time capsule can be used to support the [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). What you put in the time capsule will become reality in the future.
 
 **Exercise (15 minutes):**
 
 
-Pick a time in a future future not too far away (e.g. some sprints ahead). Who do you want to be then? What skills do you want to have developed? What relationships do you want to have? Write it down:
+Pick a time in a future not too far away. Who do you want to be then? What skills do you want to have developed? What relationships do you want to have? Write it down:
 
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
-* ...
+![](images/lernOS-Kata-30.png)
 
-
-Put it in a physical time capsule or envelope and write the date to open in on the capsule. If you do it the digital way you can use services like [futureme.org](https://www.futureme.org/) or just put an event with the content in your calendar.
+Put it in a physical time capsule or envelope and write the date to open in on the capsule. If you do it the digital way you can use services like [futureme.org](https://www.futureme.org) or just put it in your digital calendar.
 
 **Further Information:**
 
 * Video [Top 10 Most Incredible Time Capsule Findings](https://www.youtube.com/watch?v=d9tNcboMwTE)
 
-## [Repetition Is The Key To Mastery](#repetition-is-the-key-to-mastery)
-Be honest: when you started your first sprint did you think something like "OMG 13 weeks ... so long"? But you were able to finish the sprint. To develop mastery in the digital connected knowledge society of the 21st century you have to continue to practice. To become an [expert](https://en.wikipedia.org/wiki/Expert) in a domain might take up to 10.000 hours or 10 years.
+### Kata 31: Repetition Is The Key To Mastery
+Be honest: when you started your first sprint did you think something like "OMG 13 weeks ... so long"? But you were able to finish the sprint. To develop mastery you have to continue to practice. To become an [expert](https://en.wikipedia.org/wiki/Expert) in a domain might take up to 10.000 hours or 10 years.
 
 **Exercise (15 minutes):**
 
-Reflect on the organization of the circle in this sprint (e.g. day & time of weekly, timeboxes, tools to use in the circle) and decide what you would continue to do or change in another sprint (please add ideas and improvements at [lernos.fider.io](https://lernos.fider.io/)):
+Reflect on the organization of the circle in this sprint (e.g. day & time of weekly, timeboxes, tools to use in the circle) and decide what you would continue to do or change in another sprint (please add ideas and improvements at [lernos.fider.io](https://lernos.fider.io)):
 
 * ...
 * ...
@@ -987,53 +959,8 @@ If you liked the circle experience: develop some ideas on how to spread the appr
 * ...
 * ...
 
-Celebrate the finished sprint e.g. by going out for lunch/dinner. You might also write a status update or blog post and post a selfie of your circle to let others know that you are a finisher! Keep Calm & Learn On!
+Celebrate the finished sprint e.g. by going out for lunch/dinner. You might also write a status update or blog post and post a selfie of your circle to let others know that you are a finisher!
 
 **Further Information:**
 
 * [Malcolm Gladwell on the 10,000 hour Rule](https://www.youtube.com/watch?v=XS5EsTc_-2Q)
-
-## [Your Future Backwards](#your-future-backwards)
-What is the big picture in your (work) life? Can you explain the purpose of your day-to-day activities in one sentence? A good exercise to get a clear picture is a combination of [The Future Backwards](http://cognitive-edge.com/methods/the-future-backwards/) by Dave Snowden and the [Golden Circle](https://www.youtube.com/watch?v=IPYeCltXpxw) by Simon Sinek. This can be done in a group (e.g. departement or project team) or on your own. In a very short timebox you look at your current state, your past, your desired future (vision), your anti-vision, and the major milestones towards your desired future.
-
-**Exercise:**
-
-1. Decide if you want to do the future backwards on operational level (1 sprint backward/forward), on tactical level (1 year backward/forward) or on strategic level (3-5 backward forward).
-1. Prepare a whiteboard or an A3 paper with a horizontal line (time axis, e.g. +/-1 year), desired future, and anti-future. You can use the shape of a "Y" turned 90 degrees clockwise.
-1. Take 5x5 minutes timeboxes to describe your current state, your past, your desired future (vision), your anti-vision, and your milestones or breakthrough goals towards the desired future in 3-5 bullet points each.
-1. Try to describe your purpose as a mission statement that helps you to focus in your day-to-day work. The mission statement should have an action part (what you do), a product or output part (what you deliver), and a customer or target group. An example phrase might be "I provide the best pizza to customers city-wide" (source: [Business Motivation Model](https://www.omg.org/spec/BMM/1.3/PDF), p.28).
-
-Talk about the results in the Circle.
-
-# lernOS Canvas - Use It As Checklist And To Tell Your Story
-A canvas is a visual structure that can be used to work through several topic areas in a systematic way (canvas as checklist). It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). This canvas is used to design a business model for an organization. Instead of writing a business plan in a linear document the canvas is used in a visual and agile way. The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the building blocks have been changed to reflect the topics a circle works on during a sprint.
-
-![lernOS Canvas](../../lernOS%20Canvas/lernOS-Canvas-en.png)
-
-The header of the canvas contains the creation date, the number of the sprint, and the mission statement from week 0. In the building block "My Objectives & Key Results" the goals for the current sprint are documented. The building blocks "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people inside and outside the organization who can help to achieve the objectives. Social networks can be internal (e.g. Enterprise Social Network, Jive, Yammer, Connections) or external (e.g. LinkedIn, Twitter, ResearchGate). Available knowledge asset (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
-
-The lernOS Canvas can be downloaded from the [lernOS Repository on github](https://github.com/simondueckert/lernos) in different formats (e.g. PowerPoint, PDF, PNG). To be able to work with the canvas in an agile way one should NEVER write on a canvas ... that's why sticky notes were invented!
-
-**ProTip:** if you use a lernOS Memex (e.g. OneNote) you can take a photo of the current version of the canvas and put it in the memex. This way the other circle members can see it as well.
-
-# lernOS Memex - Get Things Out Of Your Head And In A System You Trust
-According to David Allen our mind is good for having ideas not for holding them. Therefore we need a way to get things out of the head and into a system we trust. In his 1945 article [As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think) Vannevar Bush called such a system a "memex" (memory extender). Bush's version of the memex was a personal desk based on microfilm and mechanical controls. But his memex can also be seen as an early vision of hypertext and wiki systems.
-
-In the digital age tools like [Microsoft OneNote](https://products.office.com/en-US/onenote) can play the role of a personal memex. In contrast to the physical version OneNote can be used on a desktop computer but also mobile on a smartphone or tablet. OneNote can handle multiple notebooks at the same time. Information in a notebook can be organized in sections, pages, and subpages. With the wiki function pages can also be interlinked. The content on each page can be format freely and can also contain tables, images, audio, and video. A notebook can be shared with coworkers to work on it simultaneously. Content from the internet can be easily stored in OneNote with the [OneNote Web Clipper](https://www.onenote.com/clipper).
-
-![lernOS Memex (OneNote Version)](images/lernOS-Memex-OneNote.png)
-
-When using OneNote in a circle a section can be structured by the weekly meetings and the circle members. The page for each weekly meeting contains the agenda, the exercises, and the links to the exercises. Every completed agenda item can be marked as done by a checkbox. The pages for the circle members contain headings for all required documentation in the circle (e.g. goals, relationship list, social network, facts about me). This way all circle members can see the documentation of everybody else.
-
-**ProTip:** you can download a OneNote Template that can be used for lernOS Circles and WOL Circles [from the lernOS Repository on GitHub](https://github.com/simondueckert/lernos/raw/master/lernOS%20Templates/lernOS-Circle-Template.onepkg).
-
-# Stop talking, start doing!
-If you read through this guide but are not practising yet you should do so NOW! To start with lernOS is really easy. These five steps will help to start smoothly:
-
-1. **Schedule Time:** define the quarter when you begin to use lernOS. Add the time-slots for  the weekly to your calendar. This regular meeting is of particular importance if you practice in a lernOS circle.
-1. **Define Objectives and Key Results:** use week 0 to define the objectives and the measurable results for the sprint. If you practice lernOS beside your daily business just choose an additional goal you really, really care about.
-1. **Find a Circle:** look for 3-4 people who want to start a sprint in the same quarter. If someone has been in a circle before he can take the role of the "Circle Facilitator".
-1. **Organize the Weekly Check-In:** if you don't know each other in the circle meet face-to-face for the first weekly. Use social networks or instant messengers to communicate between the meetings. Use web conferencing tools to organize virtual meetings.
-1. **Plan, Do, Learn, Repeat:** Use the last meeting of the sprint to reflect the results and the collaboration in the circle. Decide if you want to run another sprint together.
-
-Keep Calm & Learn On! :-)

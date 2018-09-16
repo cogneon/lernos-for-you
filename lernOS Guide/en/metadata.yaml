@@ -1,12 +1,13 @@
 ---
-title: "The lernOS Guide"
-author: [Simon Dückert]
-date: "alpha version (2018-08-06)"
+title: "lernOS Guide (CC BY)"
+author: [Simon Dueckert]
+date: "Version 1.0 (2018-09-17)"
 titlepage: true
 titlepage-color: "ff6600"
 titlepage-text-color: "ffffff"
 titlepage-rule-color: "ffffff"
 links-as-notes: true
-lof: true
+lof: false
 toc: true
+toc-own-page: true
 ---
