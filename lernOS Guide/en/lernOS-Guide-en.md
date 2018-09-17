@@ -10,6 +10,69 @@ The adoption of lernOS is a matter of months or years not hours or days. So Keep
 
 @simondueckert
 
+ Acknowledgment
+===============
+
+lernOS is inspired by a multitude of sources and thought leaders and is
+thus [standing on the shoulders of
+giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
+An overview of the inspirations I have compiled [in the Lernos
+Wiki](https://github.com/simondueckert/lernos/wiki) under Roots&Inspirations.
+I would like to express my special thanks to these key
+people and organisations: Prof. Herbert Stoyan, Prof. Michael Müller and
+Dr. Raymond Bimazubute for the creation of the expert debriefing method
+at the end of the 1990s, which today forms the core of our approach to
+personal knowledge management (PKM). David Allen for the method [Getting Things Done](https://gettingthingsdone.com) (GTD), the key to personal
+productivity. Oliver Gassner who introduced me to GTD Barcamp Nuremberg 2006. Mike
+Williams and Mark Wallace, who have extended GTD for teenagers. Andy
+Grove for the development of the method [Objective & Key
+Results](https://en.wikipedia.org/wiki/OKR) (OKR) as a further
+development of Peter Drucker\'s management by objectives (MbO) at Intel in
+the 1980s. John Doer for bringing OKR to Google and Rick Klau from
+Google Ventures for his talk [How Google sets goals:
+OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc). The [OKR
+Forum](https://www.workpath.com/okr-forum) for the many events in
+Germany that make OKR accessible to a wide audience. Dave Viner For
+[Narrating Your
+Work](http://scripting.com/stories/2009/08/09/narrateYourWork.html)
+(2009), Brian Tull & Joe Crumpler for [Patterns of Observable
+Work](https://www.slideshare.net/btullis/in-the-flow-patterns-of-observable-work-e2conf-presentation)
+(2010) and Bryce Williams, who [in his
+blog](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon)
+2010 created the definition of "Working Out Loud = Observable Work + Narrating Your Work". Sheryl Sandberg who created with the LeanIn Circle [the blueprint for
+the WOL
+Circle](https://johnstepper.wordpress.com/2014/05/24/the-best-peer-support-group-for-your-career).
+John Stepper for the design of the 12-week WOL learning program and the publication of the [WOL
+Guides](https://workingoutloud.com/en/circle-guides). Alex Osterwalder for creating the [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) in 2010. Barbara Schmidt as guest
+[in my first Podcast on WOL](https://cogneon.de/2015/07/23/m2p017-working-out-loud-mit-barbara-schmidt) (2015). Katharina Krentz from Bosch for her many contributions to make WOL usable in companies. Jochen Adler for the launch of the
+[German-speaking WOL community](http://workingoutloud.de) at the beginning of 2015.
+All participants of the [founding meeting of this
+community](http://workingoutloud.de/gruendungstreffen-8-juni) at 8th of June 2015
+(Babara Koch, Barbara Schmidt, Cornelia Heinke, David Hirsch,
+Dirk ToetzJoachim HaydeckerKatharina Packer, Norbert Lind, Peter Schütt,
+Ragnar Heil, Stephanie Streibtim Mikša, Thomas Olsen), who contributed
+important experiences and insights at this early stage. The Working Out Loud Community of Practice
+consisting of large German companies that
+contribute a lot to spread WOL in Germany. The organizers and
+speakers of the Working Out Loud Camp 2017 around Sabine Kluge, Melanie
+Raßloff, Lukas Fütterer, Barbara Schmidt, Katharina Krentz, Petra Hock,
+Jasper-John Wendenburg, Sebastian Hollmann, Ilona Libal, Harald Schirmer,
+Claudia Mayer, Judith Braun and Andreas Schorn. Julia Weber for the
+presentation of the approach Working Out Loud for Leader as a reverse
+mentoring method at [KnowTouch 2018](https://cogneon.de/knt18).
+Harald Schirmer, Karlheinz Pape, Antje Röwe and Winfried Felser for
+participating in the open WOL Circle 2017 as part of the Corporate
+Learning MOOCathon. Nadine Schäffer and Rainer Bartl the moderators of
+the [WOL community on
+Xing](https://www.xing.com/communities/groups/working-out-loud-nummer-wol-fa1e-1099489).
+Magnus Rode for the operation of the open [WOL
+Wiki](http://wol.wiki). Martin Lindner as a sparring partner to make
+lernOS accessible to a broader audience via adult
+education centres. Karl Damke for the [first lernOS sketchnote](https://twitter.com/karlcdamke/status/1016620928120315905). Leonid
+Lezner and Till Moritz as participants of the first pilot circle based
+on the alpha version of the lernOS Guide. And of course the many others
+who support the movement and whom I have forgotten here.
+
 # Why lernOS?
 We are facing enormous challenges driven by globalization, digitization, and a fast rate of technological and scientific progress. At the same time those changes  provide us with a lot of new opportunities for development. The future is uncertain and we cannot predict it. So we need to be open and ready for it (Source: [Learning Framework 2030](http://www.oecd.org/education/2030)).
 
