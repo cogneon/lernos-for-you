@@ -6,29 +6,8 @@ lernos in **Esperanto** is the future tense of the verb "to learn" (mi lernos: I
 
 The **core of lernOS** is based on principles from Personal Knowledge Management, [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), [Working Out Loud](https://workingoutloud.com/en/circle-guides/), and [Scrum](http://scrumguides.org/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
 
-# lernOS News
-Follow [@lern_os](https://twitter.com/lern_os) on Twitter or join the open [lernOS User Goup](https://t.me/lernos) on Telegram to get the latest news and discuss with others.
-
-* Take part in survey [Your Experience with Working Out Loud](https://forms.office.com/Pages/ResponsePage.aspx?id=PGjhk_Rd_0aMWt5vYuGdXRSAz0xMR4xAqMImIIyMSRlUNTZRVzdRWVlBQUFNRU9SMldFWEZQNVIzUS4u) until 2018-08-30
-
 # Use lernOS
-## lernOS Guide
-| Language | Online | PDF | MS Word | eBook |
-|----------|--------|-----|---------|-------|
-| English (en) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/en/lernOS-Guide-en.epub) |
-| German (de) | [Online](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-de.md) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.pdf) | [DOCX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.docx) | [EPUB](https://github.com/simondueckert/lernos/raw/master/lernOS%20Guide/de/lernOS-Guide-de.epub) |
-
-## lernOS Canvas
-![The lernOS Canvas](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png)
-
-| Language | PDF | MS PowerPoint | PNG |
-|----------|-----|---------------|-----|
-| English (en) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pdf) | [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-en.pptx) | [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-en.png) |
-| German (de) | [PDF](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pdf) | [PPTX](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/lernOS-Canvas-de.pptx) | [PNG](https://raw.githubusercontent.com/simondueckert/lernos/master/lernOS%20Canvas/lernOS-Canvas-de.png) |
-
-## lernOS Tutorials
-
-* [How to the lernOS Canvas in WOL Circles](https://github.com/simondueckert/lernos/wiki/How-to-use-the-lernOS-Canvas-in-WOL-Circles) ([Video](https://youtu.be/7a1Vq7ism5Y))
+You find everything to use lernOS at [lernos.org](https://lernos.org).
 
 # Contribute to lernOS
 1. Use lernOS to get an idea of what it can do for you, for your network, and for your organization
