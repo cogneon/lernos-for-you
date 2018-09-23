@@ -49,8 +49,8 @@ Guides](https://workingoutloud.com/en/circle-guides). Alex Osterwalder for creat
 All participants of the [founding meeting of this
 community](http://workingoutloud.de/gruendungstreffen-8-juni) at 8th of June 2015
 (Babara Koch, Barbara Schmidt, Cornelia Heinke, David Hirsch,
-Dirk ToetzJoachim HaydeckerKatharina Packer, Norbert Lind, Peter Schütt,
-Ragnar Heil, Stephanie Streibtim Mikša, Thomas Olsen), who contributed
+Dirk Toetz, Joachim Haydecker, Katharina Packer, Norbert Lind, Peter Schütt,
+Ragnar Heil, Stephanie Streib, Tim Mikša, Thomas Olsen), who contributed
 important experiences and insights at this early stage. The Working Out Loud Community of Practice
 consisting of large German companies that
 contribute a lot to spread WOL in Germany. The organizers and
@@ -360,6 +360,8 @@ In this week the final iteration of your key results should be available. Talk a
 
 ## lernOS Kata Catalogue - Exercises To Upskill Yourself
 How do you become a great musician? It's good to know the theory and to understand the mechanics of your instrument. It also helps if you have talent. But real mastery comes from practicing, applying the theory over and over again, using feedback to get better every time. lernOS uses a catalogue of exercises called "Katas" to train new skills. The agenda for the weekly meeting reference some of the katas to learn new skills step by step from week to week.
+
+**Note:** the original idea for this great set of exercises came from [John Stepper](https://twitter.com/johnstepper) as described in the [WOL Circle Guides](https://workingoutloud.com/en/circle-guides). Since the WOL guides are published under a Creative Commons Attribution NonCommercial NoDerivatives license (CC BY NC ND) they could not be reused but had to be rewritten for this guide.
 
 ### Kata 1: Why Are You Here?
 What is your motivation for joining this circle? Too often we try to change things by start using new methods and tools but the "Why" is unclear. Simon Sinek explained with his "golden circle" that we should start with the "Why" and then think about the "How" and the "What".
