@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<hr />
+**lernOS Webcast Release 1.1:** Monday 2018-12-17, 4-5 PM CET ([join livesession](https://global.gotomeeting.com/join/299867381), [ical add to calendar](https://media.cogneon.de/index.php/s/tFXhCHAA8XlLy7E/download))
+<hr />
+
 _Translate: **en** | [ar](https://translate.google.com/translate?sl=en&tl=ar&u=https%3A%2F%2Flernos.org) | [bn](https://translate.google.com/translate?sl=en&tl=de&u=https%3A%2F%2Flernos.org) | [de](https://translate.google.com/translate?sl=en&tl=de&u=https%3A%2F%2Flernos.org) | [es](https://translate.google.com/translate?sl=en&tl=es&u=https%3A%2F%2Flernos.org) | [fa](https://translate.google.com/translate?sl=en&tl=fa&u=https%3A%2F%2Flernos.org) | [fr](https://translate.google.com/translate?sl=en&tl=fr&u=https%3A%2F%2Flernos.org) | [ha](https://translate.google.com/translate?sl=en&tl=ha&u=https%3A%2F%2Flernos.org) | [hi](https://translate.google.com/translate?sl=en&tl=hi&u=https%3A%2F%2Flernos.org) | [it](https://translate.google.com/translate?sl=en&tl=it&u=https%3A%2F%2Flernos.org) | [ja](https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Flernos.org) | [ms](https://translate.google.com/translate?sl=en&tl=ms&u=https%3A%2F%2Flernos.org) | [nl](https://translate.google.com/translate?sl=en&tl=nl&u=https%3A%2F%2Flernos.org) | [pa](https://translate.google.com/translate?sl=en&tl=pa&u=https%3A%2F%2Flernos.org) | [pt](https://translate.google.com/translate?sl=en&tl=pt&u=https%3A%2F%2Flernos.org) | [ru](https://translate.google.com/translate?sl=en&tl=ru&u=https%3A%2F%2Flernos.org) | [ur](https://translate.google.com/translate?sl=en&tl=ur&u=https%3A%2F%2Flernos.org) | [sw](https://translate.google.com/translate?sl=en&tl=sw&u=https%3A%2F%2Flernos.org) | [tr](https://translate.google.com/translate?sl=en&tl=tr&u=https%3A%2F%2Flernos.org) | [zh](https://translate.google.com/translate?sl=en&tl=zh-CN&u=https%3A%2F%2Flernos.org)_ (hint: if you translate the page the document links are not working)
 <hr />
 
