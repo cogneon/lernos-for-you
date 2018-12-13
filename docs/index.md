@@ -30,6 +30,7 @@ The lernOS content can be downloaded in different formats and languages. All the
 
 ![The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/en/lernOS-Canvas-en.png)
 
+
 # lernOS Webcast
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
 
@@ -37,6 +38,20 @@ The lernOS Webcast (lOScast) is a regular open webcast with information about le
 * **2018-09-17:** lOScast 03 - lernOS Version 1.0 Release ([Video](https://youtu.be/qD8cLcl8g3s), [Slides](https://media.cogneon.de/index.php/s/mfIh53jmYidgskZ/download))
 * **2018-08-13:** lOScast 02 - How to use Microsoft OneNote as a Tool in a Circle ([Video](https://www.youtube.com/watch?v=C4bpt4EJKFs), [Slides](https://media.cogneon.de/index.php/s/o7pyN23fmjXniLO/download), [Chat Protocol](https://media.cogneon.de/index.php/s/iUSvkhlDJc0MOkU/download))
 * **2018-07-09:** lOScast 01 - How to use the lernOS Canvas as a Tool in Working Out Loud Circles ([Video](https://www.youtube.com/watch?v=7a1Vq7ism5Y), [Slides](https://media.cogneon.de/index.php/s/j2CZijvAJm1t1so/download))
+
+# Release Notes
+**1.1** ([Feedback Version](https://docs.google.com/document/d/1emPcZpZ9X4YyIvBi709tUml30-_8Br3G-Zxl2MJBejU/edit?usp=sharing))
+* Renaming of lernOS Sprint/Circle, now Learning Sprint/Circle
+* Objective & Key Results (OKR) as default method for learning sprints
+* Introduction of learning paths for modularization of learning objectives/contents in a sprint (replaces "styles")
+* Introduction of the NOOB learning path with reduced kata set (11 katas)
+* MOBI added as eBook format (for Amazon Kindle app and devices) 
+
+**1.0.1**
+* Acknowledgement chapter added
+
+**1.0**
+* First Version of the lernOS Guide
 
 # License
 lernOS is provided as [free cultural work](https://creativecommons.org/share-your-work/public-domain/freeworks/) under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY). Following the [Open Definition](https://opendefinition.org/) you can freely access, use, modify, and share it for any purpose (private/business, commercial/non-commercial).
