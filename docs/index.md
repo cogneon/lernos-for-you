@@ -30,7 +30,7 @@ The lernOS content can be downloaded in different formats and languages. All the
 | English | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54019), [docx](https://cogneon.de/?smd_process_download=1&download_id=54022), [epub](https://cogneon.de/?smd_process_download=1&download_id=54035), [mobi](https://cogneon.de/?smd_process_download=1&download_id=54072) | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54053), [pptx](https://cogneon.de/?smd_process_download=1&download_id=54056), [svg](https://cogneon.de/?smd_process_download=1&download_id=54040) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54025) |
 | German | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54011), [docx](https://cogneon.de/?smd_process_download=1&download_id=54014), [epub](https://cogneon.de/?smd_process_download=1&download_id=54037), [mobi](https://cogneon.de/?smd_process_download=1&download_id=54074) | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54059), [pptx](https://cogneon.de/?smd_process_download=1&download_id=54062), [svg](https://cogneon.de/?smd_process_download=1&download_id=54045) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54032) |
 
-# lernOS Webcast
+# Webcast
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
 
 * **2018-12-17 (4-5 PM CET):** lOScast 04 - lernOS Version 1.1 Release ([join livesession](https://global.gotomeeting.com/join/299867381), [ical add to calendar](https://media.cogneon.de/index.php/s/tFXhCHAA8XlLy7E/download))
