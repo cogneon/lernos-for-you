@@ -6,23 +6,6 @@ lernos in **Esperanto** is the future tense of the verb "to learn" (mi lernos: I
 
 The **core of lernOS** is based on principles from Personal Knowledge Management, [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), [Working Out Loud](https://workingoutloud.com/en/circle-guides/), and [Scrum](http://scrumguides.org/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
 
-# Use lernOS
-You find everything to use lernOS at [lernos.org](https://lernos.org).
-
-# Release Notes
-**1.1** ([Feedback Version](https://docs.google.com/document/d/1emPcZpZ9X4YyIvBi709tUml30-_8Br3G-Zxl2MJBejU/edit?usp=sharing))
-* Renaming of lernOS Sprint/Circle, now Learning Sprint/Circle
-* Objective & Key Results (OKR) as default method for learning sprints
-* Introduction of learning paths for modularization of learning objectives/contents in a sprint (replaces "styles")
-* Introduction of the NOOB learning path with reduced kata set (11 katas)
-* MOBI added as eBook format (for Amazon Kindle app and devices) 
-
-**1.0.1**
-* Acknowledgement chapter added
-
-**1.0**
-* First Version of the lernOS Guide
-
 # Contribute to lernOS
 1. Use lernOS to get an idea of what it can do for you, for your network, and for your organization
 1. Spread the word in social networks like twitter or linkedin using hashtag #lernOS
