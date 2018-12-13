@@ -64,7 +64,7 @@ lernOS is in alpha state and under heavy construction. Structure and content mig
 ## Can I use and modify lernOS?
 Yes. You can and we want you to do it! That's why lernOS is released under a creative commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and follows the principles of the open definition. You can download, use, and modify it. You can use it in private and business contexts. You can create products and services with lernOS and provide support, training, coaching and professional services. You can also call yourself a lernOS coach, mentor, guide, trainer, circle facilitator etc.
 
-# Can I use the lernOS content to practice Working Out Loud?
+## Can I use the lernOS content to practice Working Out Loud?
 Yes. You can use the lernOS Canvas to document results from working with the [WOL Guide](https://workingoutloud.com/en/circle-guides/). You can also use the exercises in the [lernOS Guide](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-en.md) as an alternative to the WOL exercises. There is one alternative for each WOL exercise, e.g.
 
 | WOL exercise | lernOS exercise |
