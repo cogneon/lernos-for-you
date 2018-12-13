@@ -28,9 +28,6 @@ The lernOS content can be downloaded in different formats and languages. All the
 | English | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54019), [docx](https://cogneon.de/?smd_process_download=1&download_id=54022), [epub](https://cogneon.de/?smd_process_download=1&download_id=54035), [mobi](https://cogneon.de/?smd_process_download=1&download_id=54072) | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54053), [pptx](https://cogneon.de/?smd_process_download=1&download_id=54056), [svg](https://cogneon.de/?smd_process_download=1&download_id=54040) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54025) |
 | German | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54011), [docx](https://cogneon.de/?smd_process_download=1&download_id=54014), [epub](https://cogneon.de/?smd_process_download=1&download_id=54037), [mobi](https://cogneon.de/?smd_process_download=1&download_id=54074) | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54059), [pptx](https://cogneon.de/?smd_process_download=1&download_id=54062), [svg](https://cogneon.de/?smd_process_download=1&download_id=54045) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54032) |
 
-![The lernOS Canvas](https://github.com/simondueckert/lernos/raw/master/lernOS%20Canvas/en/lernOS-Canvas-en.png)
-
-
 # lernOS Webcast
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
 
@@ -60,7 +57,7 @@ lernOS is provided as [free cultural work](https://creativecommons.org/share-you
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-Frequently Asked Questions (FAQ)
+# Frequently Asked Questions (FAQ)
 ## What is the current state of lernOS?
 lernOS is in alpha state and under heavy construction. Structure and content might change frequently. The version 1.0 "Base" of the lernOS guide will be released at 2018-09-17. From then onwards lernOS will be [perpetual beta](https://en.wikipedia.org/wiki/Perpetual_beta) and grow with its users over time.
 
