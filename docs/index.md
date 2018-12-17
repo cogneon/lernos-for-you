@@ -25,10 +25,10 @@ The adoption of lernOS is a matter of months or years not hours or days. So Keep
 # Downloads
 The lernOS content can be downloaded in different formats and languages. All the content including sources of images can be found in the [lernOS github repository](https://github.com/simondueckert/lernos).
 
-| Language | lernOS Guide | lernOS Canvas | lernOS Circle Template |
-| -------- | ------------ | ------------- | ---------------------- |
-| English | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54019), [docx](https://cogneon.de/?smd_process_download=1&download_id=54022), [epub](https://cogneon.de/?smd_process_download=1&download_id=54035), [mobi](https://cogneon.de/?smd_process_download=1&download_id=54072) | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54053), [pptx](https://cogneon.de/?smd_process_download=1&download_id=54056), [svg](https://cogneon.de/?smd_process_download=1&download_id=54040) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54025) |
-| German | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54011), [docx](https://cogneon.de/?smd_process_download=1&download_id=54014), [epub](https://cogneon.de/?smd_process_download=1&download_id=54037), [mobi](https://cogneon.de/?smd_process_download=1&download_id=54074) | [pdf](https://cogneon.de/?smd_process_download=1&download_id=54059), [pptx](https://cogneon.de/?smd_process_download=1&download_id=54062), [svg](https://cogneon.de/?smd_process_download=1&download_id=54045) | [onepkg](https://cogneon.de/?smd_process_download=1&download_id=54032) |
+| Language | EN | DE |
+| -------- | ------------ | ------------- |
+| Version 1.1 | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54411) (16 MB) | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54408) (16 MB) |
+| Version 1.0 | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54618) (16 MB) | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54621) (17 MB) |
 
 # Webcast
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
