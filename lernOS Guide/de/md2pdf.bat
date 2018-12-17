@@ -1,1 +1,1 @@
-pandoc lernOS-Guide-de.md metadata.yaml -o lernOS-Guide-de.pdf --from markdown --template lernOS -V lang=de-de
+pandoc lernOS-Guide-de.md metadata.yaml -o lernOS-Guide-de.pdf --from markdown --template lernOS --number-sections -V lang=de-de

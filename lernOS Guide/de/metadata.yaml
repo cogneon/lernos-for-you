@@ -1,7 +1,7 @@
 ---
 title: "lernOS Leitfaden (CC BY)"
 author: [Simon Dückert]
-date: "Version 1.0.2 (23.09.2018)"
+date: "Version 1.1 (17.12.2018)"
 titlepage: true
 titlepage-color: "ff6600"
 titlepage-text-color: "ffffff"
@@ -10,4 +10,5 @@ links-as-notes: true
 lof: false
 toc: true
 toc-own-page: true
+toc-depth: 2
 ---
