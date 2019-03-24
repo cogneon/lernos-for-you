@@ -1,1 +1,0 @@
-pandoc -s -o lernOS-Guide-de.epub lernOS-Guide-de.md

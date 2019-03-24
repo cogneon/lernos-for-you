@@ -1,1 +1,0 @@
-pandoc lernOS-Guide-en.md metadata.yaml -o lernOS-Guide-en.pdf --from markdown --template lernOS --number-sections
