@@ -10,7 +10,7 @@ lernOS is a self-management method for people living and working in the 21st cen
 
 You can use lernOS on your own. But it's better to find 3-4 other people and become a peer support group called a lernOS Circle. The Circle meets for 13 weeks in a meeting called lernOS Weekly (15-60 Minutes each). The 13 weeks are called a lernOS Sprint. Week 0 is for sprint planning and weeks 1-12 for running the lernOS working & learning programme. This way four sprints per year build the basic framework for your livelong learning process.
 
-Download the lernOS Guide and additional material below and get started now! If you need support with finding circle members you can use the free [Circlefinder App](http://circlefinder.app/). If you are unsure or have any further questions you can join the [lernOS User Group](https://t.me/lernos) on Telegram or follow [@lern_os](https://twitter.com/lern_os) on Twitter.
+Download the lernOS Guide and additional material below and get started now! If you need support to find circle members you can ask your friends and network or use the free [Circlefinder App](http://circlefinder.app). If you have any further questions you can use the [lernOS category](https://community.cogneon.de/c/lernos) on [CONNECT](https://community.cogneon.de) or write with the [hashtag #lernOS on Twitter](https://twitter.com/search?q=%23lernOS). If you want to have an easy chat function for your circle you can use the personal messaging function on CONNECT and start a group chat.
 
 The adoption of lernOS is a matter of months or years not hours or days. So Keep Calm & Learn On!
 [@simondueckert](https://twitter.com/simondueckert)
