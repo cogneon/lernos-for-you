@@ -34,7 +34,7 @@ The lernOS Webcast (lOScast) is a regular open webcast with information about le
 * **2018-07-09:** lOScast 01 - How to use the lernOS Canvas as a Tool in Working Out Loud Circles ([Recording](https://www.youtube.com/watch?v=7a1Vq7ism5Y), [Slides](https://media.cogneon.de/index.php/s/j2CZijvAJm1t1so/download))
 
 # Release Notes
-**1.2**
+**1.2** ([Feedback/discussion on CONNECT](https://community.cogneon.de/t/lernos-guide-for-you-version-1-2-release-notes/1016/3))
 * Guideline renamed to „lernOS Guide for You“
 * lernOS logo added to cover page
 * Telegram User Group replaced by CONNECT
