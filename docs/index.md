@@ -27,7 +27,7 @@ The lernOS content can be downloaded in different formats and languages. All the
 # Events & Webcasts
 The lernOS Webcast (lOScast) is a regular open webcast with information about lernOS. Normally half of the webcast is input and the other half is discussion. You find planned webcasts and recordings from former webcasts below.
 
-* **2019-03-28 (03:30-04:15PM CET):** lOScast 05 - lernOS Version 1.2 Release as Session (in German) at the Corporate Learning Camp ([Zoom Link](https://zoom.us/j/9207790635), [Slides](https://media.cogneon.de/index.php/s/mMjw2aiMfFziD8Z/download))
+* **2019-03-28 (03:30-04:15PM CET):** lOScast 05 - lernOS Version 1.2 Release as Session (in German) at the Corporate Learning Camp ([Recording](https://www.youtube.com/watch?v=vrxdVwMOx7A), [Slides](https://media.cogneon.de/index.php/s/mMjw2aiMfFziD8Z/download))
 * **2018-12-17:** lOScast 04 - lernOS Version 1.1 Release ([Recording](https://youtu.be/mlY9BvqPnVs), [Slides](https://media.cogneon.de/index.php/s/yK8DdMh5GcoFtkB/download))
 * **2018-09-17:** lOScast 03 - lernOS Version 1.0 Release ([Recording](https://youtu.be/qD8cLcl8g3s), [Slides](https://media.cogneon.de/index.php/s/mfIh53jmYidgskZ/download))
 * **2018-08-13:** lOScast 02 - How to use Microsoft OneNote as a Tool in a Circle ([Recording](https://www.youtube.com/watch?v=C4bpt4EJKFs), [Slides](https://media.cogneon.de/index.php/s/o7pyN23fmjXniLO/download), [Chat Protocol](https://media.cogneon.de/index.php/s/iUSvkhlDJc0MOkU/download))
