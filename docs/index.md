@@ -20,7 +20,7 @@ The lernOS content can be downloaded in different formats and languages. All the
 
 | Language | EN | DE |
 | -------- | ------------ | ------------- |
-| Version 1.2 | [ZIP](https://github.com/simondueckert/lernos/archive/v1.2.zip), [Slideshare](https://www.slideshare.net/simon.dueckert/lernos-guide-for-you-cc-by-version-12) | [PDF](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de.pdf), [ZIP](https://github.com/simondueckert/lernos/archive/v1.2.zip), [Slideshare](https://www.slideshare.net/simon.dueckert/lernos-leitfaden-fr-dich-cc-by-version-12) | 
+| Version 1.2 | [PDF](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/en/lernOS-Guide-for-You-en.pdf), [ZIP](https://github.com/simondueckert/lernos/archive/v1.2.zip), [Slideshare](https://www.slideshare.net/simon.dueckert/lernos-guide-for-you-cc-by-version-12) | [PDF](https://github.com/simondueckert/lernos/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de.pdf), [ZIP](https://github.com/simondueckert/lernos/archive/v1.2.zip), [Slideshare](https://www.slideshare.net/simon.dueckert/lernos-leitfaden-fr-dich-cc-by-version-12) | 
 | Version 1.1 | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54411) (16 MB) | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54408) (16 MB) |
 | Version 1.0 | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54618) (16 MB) | [ZIP](https://cogneon.de/?smd_process_download=1&download_id=54621) (17 MB) |
 
