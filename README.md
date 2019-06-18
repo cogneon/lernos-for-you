@@ -3,7 +3,19 @@
 The lernOS Guide for You is part of [lernOS](https://lernos.org). The guide will help learners help to kick-start their self-directed lifelong learning process.
 
 # Release Notes
-**1.2** ([Feedback/discussion on CONNECT](https://community.cogneon.de/t/lernos-guide-for-you-version-1-2-release-notes/1016/3))
+**1.3**
+* New „high level structure“ for lernOS Guides applied
+* Order in introduction chapter changed (Sprint, Wheel, Circle)
+* Hashtags removed from „ProTips“
+* Placeholders for OKR and GTD learning paths added
+* Kata „Design Your Future Backwards“ added to week 0, Kata „Think visual with the lernOS Canvas“ moved to week 0
+* Skillset: table of skills expanded to act as self assessment tool
+* Number of circle support tools reduced based on WOL survey 2018
+* Standardized preface added
+* Content and structure in chapter acknowledgements improved
+* Standard orange backside cover added
+
+**1.2**
 * Guideline renamed to „lernOS Guide for You“
 * lernOS logo added to cover page
 * Telegram User Group replaced by CONNECT
