@@ -1,48 +1,35 @@
 # Vorwort
 
-lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21.
-Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man
-ständig lernen, sich organisieren und weiterentwickeln. Niemand
-sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum
-kümmern (selbstgesteuertes, lebenslanges Lernen).
+Das Verb "lernos" ist die Zukunftsform von "lernen" auf Esperanto (mi lernos = ich werde lernen, ni lernos = wir werden lernen). **lernOS** ist ein **Betriebssystem** für **Lebenslanges Lernen** und **Lernende Organisationen**. lernOS ist aber keine Software, sondern "Brainware". Es ist eine Art zu Denken und zu Handeln, um als Einzelperson, Team oder Organisation im 21. Jahrhundert erfolgreich zu sein. Das groß geschriebene "OS" im Namen unterstreicht die Bedeutung der Digitalisierung für unsere vernetzte Wissensgesellschaft.
 
-Wenn Du Dich entscheidest mit lernOS zu beginnen, schlage ich vor, dass
-Du 3-4 andere Personen findest und einen sog.
-learning circle als Peer-Support-Gruppe gründest. Lasst Euch dann von diesem Leitfaden durch eine
-13-wöchigen Lernreise leiten, die learning sprint genannt wird. Macht danach eine
-Retrospektive und entscheidet, ob Ihr einen weiteren Durchlauf
-machen wollt. Das kann mit den gleichen Leuten
-oder mit anderen sein.
+Zu lernOS gibt es **drei grundlegende Leitfäden** beschrieben, die den Ansatz auf **individueller Ebene** (lernOS für Dich), auf **Ebene von Teams** (lernOS für Teams) und auf **Ebene von Organisationen** (lernOS für Organisationen) beschreiben. Zusätzlich gibt es die **lernOS Toolbox**, die oft genutzte Methoden und Werkzeuge erklären (z.B. Podcast, Barcamp, Sketchnoting, Expert Debriefing). lernOS ist nicht auf der sprichwörtlichen grünen Wiese entstanden, sondern ist eine Zusammenstellung von bereits bestehenden und bewährten Methoden. Alle lernOS Leitfäden sind unter der **offenen Lizenz Creative Commons Attribution (CC BY)** auf der [lernOS Webseite](https://cogneon.de/lernos) verfügbar und können gerne an die eigenen Bedürfnisse angepasst werden.
 
-Wenn Du Unterstützung beim Finden von Mitstreitern benötigst, kannst Du bei Freunden und im eigenen Netzwerk fragen oder die kostenlose [Circlefinder App](https://circlefinder.app) verwenden. Wenn Du weitere Fragen hast, kannst du die [Kategorie lernOS](https://community.cogneon.de/c/lernos) auf [CONNECT](https://community.cogneon.de) verwenden oder oder mit dem [Hashtag \#lernOS auf
-Twitter](https://twitter.com/search?q=%23lernOS) schreiben.
+Wenn du **weitere Fragen** bezüglich lernOS hast, oder **Unterstützung von Gleichgesinnten** brauchst, kannst du die Community-Plattform [CONNECT](https://community.cogneon.de) nutzen oder mit [#lernOS](https://twitter.com/search?q=%23lernOS) auf Twitter schreiben. Beachte: Die Meisterschaft von lernOS ist eine Frage von Monaten oder Jahren, nicht Stunden oder Tagen. Also: **Keep Calm & Learn On!**
 
-Die Meisterschaft in lernOS ist eine Frage von Monaten oder Jahren, nicht
-von Stunden oder Tage. Also: Keep Calm & Learn On!
+Dein @simondueckert
 
-\@simondueckert
+# Danksagungen
 
-# Danksagung
+lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). Ein Überblick über die Wurzeln und Inspirationen habe ich [im lernOS Wiki](https://github.com/cogneon/lernos-core/wiki) zusammengestellt. Für diesen Leitfaden möchte ich besonders danken:
 
-lernOS ist von vielen Quellen und Meinungsführern inspiriert und steht daher [auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). Ein Überblick über die Inspirationen habe ich [im lernOS Wiki](https:/github.com/simondueckert/lernos/lernos/wiki) unter Roots & Inspirations zusammengestellt. Mein besonderer Dank gilt Hirotaka Takeuchi und Ikujiro Nonake für die Einführung des Begriffs Scrum für agile Entwicklungsmethoden im Jahr 1986. Jeff Sutherland und Ken Schwaber für die Erstellung der Definition von scrum in [The Scrum Guide](https://scrumguides.org) und die Bereitstellung es unter einer offenen Lizenz. David Allen für die Methode [Getting Things Done](https:/gettingthingsdone.com) (GTD), um den Weg zur Kunst der stressfreien Produktivität aufzuzeigen. Andy Grove für die Entwicklung der Methode [Objectives & Key Results](https://de.wikipedia.org/wiki/Objectives_and_Key_Results) (OKR) als Weiterentwicklung des Management by Objectives (MbO) von Peter Drucker bei Intel in den 80er Jahren. John Doer für die Einführung von OKR bei Google und Rick Klau von Google Ventures für seinen Vortrag [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc). Glyn Moody (2006) und Bryce Williams (2010) für das Aufbringen des Begriffs Working Out Loud und John Stepper für die Gestaltung des 12-wöchigen WOL-Lernprogramms, das in den [WOL Circle Guides](https:/workingoutloud.com/circle-guides) dokumentiert ist. Katharina Krentz für ihre vielen Beiträge, WOL und andere Methoden in Organisationen nutzbar zu machen, um eine Lernende Organisation zu entwickeln.
+* **Hirotaka Takeuchi** und **Ikujiro Nonaka** für die Einführung des Begriffs Scrum für agile Innovationsmethoden (1986).
+* **Jeff Sutherland** und **Ken Schwaber** für die Definition eines agilen Projektmanagements im [Scrum Guide](https://scrumguides.org) (2010).
+* **David Allen** für die Methode [Getting Things Done](https:/gettingthingsdone.com) (GTD), die den Weg zu stressfreier Produktivität von Wissensarbeiter*innen aufzeigt.
+* **Andy Grove** für die Entwicklung der Methode [Objectives & Key Results](https://de.wikipedia.org/wiki/Objectives_and_Key_Results) (OKR) als Weiterentwicklung des Management by Objectives (MbO) von Peter Drucker bei Intel (1980er). **John Doer** für die Einführung von OKR bei Google und **Rick Klau** von Google Ventures für seinen Vortrag [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) (2013).
+* **Glyn Moody** (2006) und **Bryce Williams** (2010) für den Begriff und die Definition von Working Out Loud als "Observable Work + Narrating Your Work". **John Stepper** für die Gestaltung des 12-wöchigen WOL-Lernprogramms, das in den [WOL Circle Guides](https:/workingoutloud.com/circle-guides) dokumentiert ist (2015). **Katharina Krentz** von Bosch für ihre vielen Beiträge, Working Out Loud in Organisationen nutzbar zu machen.
 
-# Einleitung
+# Grundlagen
 
 Wir stehen vor enormen Herausforderungen, die durch Globalisierung,
 Digitalisierung sowie schnelle technologische und wissenschaftliche
 Entwicklung angetrieben werden. Gleichzeitig bieten uns diese
 Veränderungen viele neue Entwicklungsmöglichkeiten. Die Zukunft ist
 ungewiss und wir können Sie nicht vorhersagen. Wir müssen also offen
-und bereit dafür sein (Quelle: [Learning Framework
-2030](https://www.oecd.org/education/2030)).
-
-Um durch die sogenannte
-[VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity)
--Welt des 21. Jahrhunderts voller Volatilität, Unsicherheit, Komplexität
-und Mehrdeutigkeit zu navigieren, müssen sich Teenager, Studenten, Fachleute, Manager und
+und bereit dafür sein und sie gemeinsam gestalten (Quelle: [Learning Framework
+2030](https://www.oecd.org/education/2030)). Um durch die sogenannte [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity)-Welt des 21. Jahrhunderts voller Volatilität, Unsicherheit, Komplexität und Mehrdeutigkeit zu navigieren, müssen sich Teenager, Studenten, Fachleute, Manager und
 Führungskräfte ständig weiterentwickeln. Jeder muss Fähigkeiten
 wie Kreativität, kritisches Denken, Kommunikation und Kollaboration
-erlernen. Digital Literacy ist die Kompetenz, mit Hilfe digitaler Tools lesen und schreiben, sowie an gemeinsamten Aktivitäten teilhaben zu können.
+erlernen. Digital Literacy ist die Kompetenz, mit Hilfe digitaler Tools lesen und schreiben, sowie an gemeinsamen Aktivitäten teilhaben zu können.
 Sie wichtig, um digitale Werkzeuge produktiv einsetzen zu können. Die Motivation für die
 persönliche Entwicklung sollte dabei mehr sein, als einen gut bezahlten Job zu bekommen
 oder Profit zu machen. Jeder sollte sich um das eigene Wohlergehen, aber auch das Wohl
@@ -52,18 +39,36 @@ Einstellungen, Werte, Methoden und Werkzeuge wir brauchen, um gemeinsam
 eine bessere Zukunft zu gestalten.
 
 lernOS kann Dir helfen, Dich fit für das 21. Jahrhundert zu machen.
-lernOS ist ein "Betriebssystem" für Lebenslanges Lernen und Lernende Organisationen.
-Der Satz "Mi lernos" bedeutet "Ich werde lernen" in Esperanto.
 lernOS hilft Dir, Deine Aktivitäten
 zu organisieren und bewusst aus jeder Aktion zu lernen. Es fördert außerdem die
 Vernetzung mit anderen Menschen, damit Du nicht jedes Rad neu
 erfinden und jeden Fehler wiederholen musst.
 
-Und das Beste ist: lernOS ist frei, offen und leicht zu verstehen. Da Inhalte und Arbeitshilfen unter derDu
-offenen Creative Commons Attribution 4.0 Lizenz (CC BY) stehen, kannst Du Dir alle Materialien
-herunterladen, sie verwenden und gemäß Deinen Wünsche anpassen. Starte heute damit!
+Und das Beste ist: lernOS ist frei, offen und leicht zu verstehen. Starte heute damit!
 
-# lernOS Wheel: Neues Mindset, Skillset und Toolset
+## lernOS Sprint: Eine 13-wöchige Selbstlernreise
+
+lernOS wird in Zeiträumen von 13 Wochen, die Learning Sprints genannt werden, praktiziert.
+Normalerweise laufen die Sprints jeweils in einem Quartal des Jahres.
+Der Rhythmus kann bei Bedarf angepasst werden. Die Woche 0 wird
+für die Planung des Sprints genutzt. Von Woche 1-11 schlägt ein Lernpfad Übungen vor, um neue Fähigkeiten und eine neue Haltung zu erlernen. In Woche 12 wird eine Retrospektive durchgeführt, um das Gelernte zu reflektieren.
+
+![lernOS Sprint von @simondueckert, CC BY 4.0](C:/Users/SimonD%C3%BCckert/OneDrive%20-%20Cogneon%20GmbH/Dokumente/GitHub/lernos-for-you/lernOS%20Guide/de/images/lernOS-Sprint.png)
+
+Das passiert in einem Learning Sprint:
+
+- **Woche 0:** die Sprint Planung. Versteht jeder den Vorgang? Wann
+  wird das wöchentliche Treffen stattfinden? Wird das Weekly
+  als persönliches Treffen oder virtuell stattfinden? Welche Tools
+  werden für die Kommunikation und Dokumentation verwendet? Ist jeder
+  in der Lage, die Tools zu verwenden? Welche Übungen werden für
+  die Wochen 1-11 ausgewählt?
+- **Wochen 1-11:**  die Circle-Mitglieder treffen sich wöchentlich im Weekly und
+  arbeiten im Sprint an Ihren Zielen und gewünschten Ergebnissen. Ein Lernpfad stellt den Circle-Mitgliedern Übungen bereit, die Katas genannt werden, um ein Netzwerk aufzubauen, das sie bei der Erreichung ihrer Ziele
+  unterstützt. Die beiden Boxenstopps in Woche 4 und Woche 8 helfen, zu sehen, ob noch alle auf dem richtigen Weg sind.
+- **Woche 12 mit der Retrospektive:** die Mitglieder des Circle zeigen ihre finalen Ergebnisse und reflektieren über den gesamten Prozess. Sie entscheiden außerdem, ob sie für einen weiteren Sprint zusammen bleiben wollen.
+
+## lernOS Wheel: Neues Mindset, Skillset und Toolset
 
 Die Beherrschung der VUCA-Welt des 21. Jahrhunderts erfordert Offenheit
 für Veränderungen und neue Ansätze. Es gibt eine Menge von Werkzeugen
@@ -85,7 +90,7 @@ persönlichen Entwicklungsprozess berücksichtigt werden.
 
 ![lernOS Wheel von @simondueckert, CC BY 4.0](images/lernOS-Wheel.png)
 
-## Mindset: Deine Weltanschauung
+### Mindset: Deine Weltanschauung
 
 Das Mindset kann als die Einstellung und die Werte beschrieben werden,
 die zu Handlungen und sichtbaren Ergebnissen führen. Diese Werte
@@ -103,7 +108,7 @@ VUCA-Welt sind diese fünf Werte besonders wichtig (Buhse 2014 & Petry, 2014):
 1.  **Partizipation** vor Ausgrenzung
 1.  **Agilität** vor Stabilität
 
-Es gibt keine Reihenfolge in den oben genannten Werten, aber für einige ist die
+Es gibt keine Reihenfolge in den oben genannten Werten, aber für mich persönlich ist die
 [Offenheit](https://en.wikipedia.org/wiki/Openness) der zentrale Wert
 für das Mindset des 21. Jahrhunderts. Damit ist die Offenheit für
 neue Erfahrungen, Wissen und Ideen, aber auch das offene Teilen von Wissen, Ideen und
@@ -115,12 +120,12 @@ First Manifest](http://innovationsbeirat.de/open-first) beschrieben:
 ![Open First (Innovationsbeirat.de/Open-First) by Innovations Beirat, CC
 BY SA 4.0](images/open-first-manifesto-v1.0.png)
 
-**\#ProTip:** Dein Mindset ist nicht in den sprichwörtlichen Stein gemeiselt, es kann mit der Zeit
+**ProTip:** Dein Mindset ist nicht in den sprichwörtlichen Stein gemeißelt, es kann mit der Zeit
 verändern. Schaue Dir das Video [Developing a
 Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) von Carol Dweck an,
 um mehr darüber zu erfahren.
 
-## Skillset: Deine Fähigkeiten
+### Skillset: Deine Fähigkeiten
 
 Seit den 1980er Jahren sind Fähigkeiten wie das Lösen von
 Problemen und der Austausch mit anderen für den eigenen Erfolg am wichtigsten. Dazu gehören insbesondere
@@ -131,38 +136,45 @@ Jahrhundert zu werden, solltest Du folgende fünf Fähigkeitsbereiche trainieren
 
 ![lernOS Skillset von @simondueckert, CC BY 4.0](images/lernOS-Skillset.png)
 
-| Fähigkeitsbereich | Fähigkeit |
-|---------------|-------|
-| **Kreativität & Innovation** | Kreativ denken |
-| | Kreativ mit anderen arbeiten |
-| | Innovationen umsetzen |
-| **Kritisches Denken & Problemlösen** | Ermittlung von Bedürfnissen und technologischen Möglichkeiten |
-| | Dingen effektiv auf den Grund gehen |
-| | Urteile und Entscheidungen treffen |
-| | Technische und nicht-technische Probleme lösen |
-| | Kreativ Technologien zur Lösung von Problemen einsetzen |
-| **Kommunikation** | Gedanken und Ideen klar und effektiv artikulieren |
-| | Effektiv zuhören und Bedeutung erkennen |
-| | Kommunikation nutzen, um zu informieren, zu unterrichten, zu motivieren und zu überzeugen |
-| | Vielfältige Medien und Technologien nutzen |
-| | Effektiv in verschiedenen Umgebungen kommunizieren |
-| **Kollaboration** | Effektiv und respektvoll in gemischten Teams arbeiten |
-| | Flexibilität und Bereitschaft zeigen sowie bei notwendigen Kompromissen unterstützen, um ein gemeinsames Ziel zu erreichen |
-| | Verantwortung für die gemeinsame Arbeit übernehmen und einzelne Beiträge wertschätzen |
-| | Mit digitalen Medien interagieren, sich beteiligen, austauschen und zusammenarbeiten |
-| | Digitale Identität verwalten |
-| **Digital Literacy** | Surfen, suchen, Daten, Informationen und digitale Inhalte filtern |
-| | Auswertung und Verwaltung von Daten, Informationen und digitalen Inhalten |
-| | Schutz digitaler Geräte und personenbezogener Daten |
-| | Entwicklung, Integration und Überarbeitung digitaler Inhalte |
-| | Umgang mit Urheberrechten und Lizenzen |
-| | Programmieren, Scripten und Kodieren |
+Du kannst die folgende Tabelle für eine Selbsteinschätzung am Anfang eines Learning Sprints nutzen. Wir nutzen die Stufen 1-5 aus dem [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) (1 = Novize, 2 = Fortgeschrittener Anfänger, 3 = Kompetent, 4 = Profi, 5 = Experte). Trage deine aktuelle Stufe in die Spalte "Ist" und deine angestrebte Stufe in die Spalte "Soll". Auf der Basis kannst du den Fokus für deine Lernaktivitäten bestimmen.
 
-**\#ProTip:** das Mozilla [Web Literacy
+| Fähigkeit | Ist | Soll |
+|------------------------------|----|----|
+| **Kreativität & Innovation** |  ||
+| Kreativ denken |  ||
+| Kreativ mit anderen arbeiten |  ||
+| Innovationen umsetzen |  ||
+| **Kritisches Denken & Problemlösen** |  ||
+| Ermittlung von Bedürfnissen und technologischen Möglichkeiten |  ||
+| Dingen effektiv auf den Grund gehen |  ||
+| Urteile und Entscheidungen treffen |  ||
+| Technische und nicht-technische Probleme lösen |  ||
+| Kreativ Technologien zur Lösung von Problemen einsetzen |  ||
+| **Kommunikation** |  ||
+| Gedanken und Ideen klar und effektiv artikulieren |  ||
+| Effektiv zuhören und Bedeutung erkennen |  ||
+| Kommunikation nutzen, um zu informieren, zu unterrichten, zu motivieren und zu überzeugen |  ||
+| Vielfältige Medien und Technologien nutzen |  ||
+| Effektiv in verschiedenen Umgebungen kommunizieren |  ||
+| **Kollaboration** |  ||
+| Effektiv und respektvoll in gemischten Teams arbeiten |  ||
+| Flexibilität und Bereitschaft zeigen sowie bei notwendigen Kompromissen unterstützen, um ein gemeinsames Ziel zu erreichen |  ||
+| Verantwortung für die gemeinsame Arbeit übernehmen und einzelne Beiträge wertschätzen |  ||
+| Mit digitalen Medien interagieren, sich beteiligen, austauschen und zusammenarbeiten |  ||
+| Digitale Identität verwalten |  ||
+| **Digital Literacy** |  ||
+| Surfen, suchen, Daten, Informationen und digitale Inhalte filtern |  ||
+| Auswertung und Verwaltung von Daten, Informationen und digitalen Inhalten |  ||
+| Schutz digitaler Geräte und personenbezogener Daten |  ||
+| Entwicklung, Integration und Überarbeitung digitaler Inhalte |  ||
+| Umgang mit Urheberrechten und Lizenzen |  ||
+| Programmieren, Scripten und Kodieren |  ||
+
+**ProTip:** das Mozilla [Web Literacy
 Framework](https://learning.mozilla.org/en-US/web-literacy) bietet
 Übungen zu Digital Literacy und Fähigkeiten des 21. Jahrhunderts.
 
-## Toolset: Digitale Tools, die Du verwendest
+### Toolset: Digitale Tools, die Du verwendest
 
 Das [Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) und
 die sozialen Medien gibt es seit 2005. Nicht jeder muss alle digitalen Tools
@@ -192,73 +204,11 @@ die für lernOS wichtigsten Tools:
 1.  **Weblogs & Wikis**, z.B. Confluence, DokuWiki, LinkedIn (Artikel), MediaWiki,
     Medium, Tumblr, Wikipedia, WordPress
 
-**\#ProTip:** Das [lernOS
-Wiki](https://github.com/simondueckert/lernOS/wiki) enthält eine Linkliste
+**ProTip:** Das [lernOS
+Wiki](https://github.com/cogneon/lernos-core/wiki) enthält eine Linkliste
 zu allen genannten Tools. In Zukunft wird es dort auch Tutorials zur Nutzung der Tools.
 
-# lernOS Canvas: Strukturiere Dein Denken visuell
-
-Ein Canvas ist eine visuelle Struktur, die für die strukturierte Bearbeitung
-mehrere Bereiche parallel verwendet werden kann. Auf diese Weise verwendet
-man einen Canvas als visuelle Checkliste. Er kann aber auch verwendet
-werden, um eine komplexe Geschichte zu erzählen. Die Idee kam ursprünglich von Alex
-Osterwalder, der den [Business Model
-Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) entwickelt hat. Der
-lernOS Canvas verwendet die gleiche Grundstruktur wie der
-Business Model Canvas. Doch die Benennungen der Bereiche wurden geändert, um
-die Arbeitsthemen des Circles abzudecken.
-
-Der lernOS Canvas kann von der [lernOS
-Webseite](https://lernOS.org) in verschiedenen Formaten heruntergeladen
-(z.B. PowerPoint, PDF, PNG) werden. Um mit dem Canvas flexibel arbeiten zu können,
-solltest Du nie darauf schreiben. Aus diesem Grund wurden
-Haftnotizen erfunden!
-
-![lernOS Canvas von @simondueckert, CC BY 4.0](../../lernOS%20Canvas/de/lernOS-Canvas-de.png)
-
-Der obere Teil des Canvas enthält
-Motivations- oder Mission Statement (wenn Du eines hast) und Nummer oder Datum des Sprints. Im
-Bereich "Meine Ziele & Schlüsselergebnisse" werden die Ziele für den
-aktuellen Sprint dokumentiert. Die Bereiche "Meine Rollen", "Meine
-Aktivitäten", "Meine Projekte" und "Mein Wissen & Meine Fähigkeiten" können
-genutzt werden, um mögliche Ziele zu identifizieren. Die Bereiche "Meine
-Beziehungen" und "Meine Sozialen Netzwerke" werden zur Identifikation von Personen verwendet,
-die bei der Zielerreichung
-unterstützen können. Vorhandene Ressourcen (z.B. Dokumente, Checklisten, Videos
-etc.) werden in "Meine WissensWerte" aufgeführt. Die bei "Meine
-Ablageorte" aufgeführten Ablagen werden genutzt, um wertvolle Ressourcen
-großzügig mit dem Netzwerk zu teilen. Alle Übungen, die im Canvas dokumentiert
-werden können, sind mit "lernOS Canvas: ..." in der Kata-Beschreibung
-markiert.
-
-**\#ProTip:** Wenn Du das lernOS OneNote Circle Template verwendest,
-kannst Du ein aktuelles Foto von Deinem Canvas machen und
-einfügen, damit die anderen Circle-Mitglieder es sehen und Feedback
-geben können.
-
-# Learning Sprint: Eine 13-wöchige Selbstlernreise
-
-lernOS wird in Zeiträumen von 13 Wochen, die Learning Sprints genannt werden, praktiziert.
-Normalerweise laufen die Sprints jeweils in einem Quartal des Jahres.
-Der Rhythmus kann bei Bedarf aber auch angepasst werden. Die Woche 0 wird
-für die Planung des Sprints genutzt. Von Woche 1-11 schlägt der Lernpfad Übungen vor, um etwas neues zu lernen. In Woche 12 wird eine Retrospektive durchgeführt, um das Gelernte zu reflektieren.
-
-![lernOS Sprint von @simondueckert, CC BY 4.0](images/lernOS-Sprint.png)
-
-Das passiert in einem learning sprint:
-
-* **Woche 0:** die Sprint Planung. Versteht jeder den Vorgang? Wann
-wird das wöchentliche Treffen stattfinden? Wird das Weekly
-als persönliches Treffen oder virtuell stattfinden? Welche Tools
-werden für die Kommunikation und Dokumentation verwendet? Ist jeder
-in der Lage, die Tools zu verwenden? Welche Übungen werden für
-die Wochen 1-11 ausgewählt?
-* **Wochen 1-11:**  die Circle-Mitglieder treffen sich wöchentlich im Weekly und
-arbeiten im Sprint an Ihren Zielen und gewünschten Ergebnissen. Ein Lernpfad stellt den Circle-Mitgliedern Übungen bereit, die Katas genannt werden, um ein Netzwerk aufzubauen, das sie bei der Erreichung ihrer Ziele
-unterstützt. Die beiden Boxenstopps in Woche 4 und Woche 8 helfen, zu sehen, ob noch alle auf dem richtigen Weg sind.
-* **Woche 12 mit der Retrospektive:** die Mitglieder des Circle zeigen ihre finalen Ergebnisse und reflektieren über den gesamten Prozess. Sie entscheiden außerdem, ob sie für einen weiteren Sprint zusammen bleiben wollen.
-
-# Learning Circle: Die Macht von "Peer Support"
+## lernOS Circle: Die Macht von "Peer Support"
 
 Wenn Du lernOS nicht alleine praktizieren möchtest, kannst Du Dich in einer Gruppe von 4-5
 Personen, die Learning Circle genannt wird, zusammenschließen. Ein Circle ist eine [Peer
@@ -266,7 +216,7 @@ Support](https://en.wikipedia.org/wiki/Peer_support) Gruppe, in der sich
 die Mitglieder gegenseitig mit Feedback, Erfahrung, Wissen und Reflexion
 helfen. Der Circle ist ein "Kreis des Vertrauens": was im Circle
 passiert, bleibt im Circle! Die Circle-Mitglieder treffen sich wöchentlich
-und folgen dabei einem vorgegebenen Ablauf, der den Lern-und
+und folgen dabei einem vorgegebenen Ablauf, der den Lern- und
 Entwicklung sprozess strukturiert.
 
 ![Learning Circle von @simondueckert, CC BY 4.0](images/lernOS-Circle.png)
@@ -277,59 +227,47 @@ einem vorgegebenen Ablauf (siehe Anhang) mit einem Check-in,
 das Weekly kann an die Bedürfnisse der Circle-Mitglieder angepasst
 werden, vorgeschlagene Zeitraum ist Freitag zwischen 11-12 Uhr.
 
-**\#ProTip:** Kata ist anderes Wort für Übung. Es kommt
+**ProTip:** Kata ist anderes Wort für Übung. Es kommt
 aus dem Bereich des Erlernens von Programmier-Fähigkeiten im Peer-Learning-Format.
 Lies mehr über dieses Format unter
 [codekata.com](http://codekata.com).
 
 Das Weekly kann als persönliches Treffen (face-2-face) oder virtuell
 stattfinden. Der Circle muss Tools für die Kommunikation und Dokumentation
-zwischen den Treffen definieren. Die folgende Tabelle
-schlägt in der Praxis erprobte Werkzeuge vor:
+zwischen den Treffen definieren. Die folgenden Anwendungen haben sich in der Praxis bewährt:
 
-| Tool A-Z | Kommunikation | Dokumentation |
-|----------|---------------|---------------|
-| Enterprise Social Network (ESN), z.b. IBM Connections, Jive, Yammer | **X** | **X** |
-| appear.in | X | |
-| E-mail | X | |
-| Evernote | X | |
-| Facebook Group | **X** | **X** |
-| Facebook Messenger | X | |
-| Google doc |  | X |
-| Google Hangout | X | |
-| Gotomeeting | X | |
-| Jitsi | X | |
-| Microsoft Teams | **X** | **X** |
-| Skype | X | |
-| Slack | X | |
-| Telegramm | X | |
-| Threema | X | |
-| Webex | X | |
-| WeChat | X | |
-| Whatsapp | X | |
-| Zoom | X | |
+- Microsoft Teams
+- OneNote
+- SharePoint
+- Skype
+- Skype for Business
+- Slack
+- WebEx
+- WhatsApp
+- Yammer
+- Zoom
 
-**\#ProTip:** Wählt für möglichst einfache Benutzbarkeit ein Tool, das
-Kommunikation und Dokumentation gleichzeitig unterstützt, z.B. eine [Facebook
-Gruppe](https://www.facebook.com/help/1629740080681586) oder [Microsoft
-Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software).
-In einer Facebook-Gruppe könnt Ihr den Aktivitätsstrom für
-die Kommunikation und
-[Gruppen-Dokumente](https://www.facebook.com/help/203003559734725) zur
-Dokumentation nutzen. In Microsoft Teams könnt Ihr den Kanal "Allgemein" für
-Kommunikation und Wiki-Seiten oder ein OneNote-Notizbuch zur
-Dokumentation nutzen.
+Wenn du in deiner Organisation ein Enterprise Social Network (ESN) wie z.B. Jive oder Connections hast, kann das für die Unterstützung von lernOS Circles auch eine gute Option sein.
 
-# NOOB Path: Der Sprint für lernOS Einsteiger*innen
+**ProTip:** Wählt für möglichst einfache Benutzbarkeit ein Tool, das Kommunikation und Dokumentation gleichzeitig unterstützt, z.B. [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software). In Microsoft Teams könnt Ihr den Kanal "Allgemein" für
+Kommunikation, die Audio-/Video-Konferenz-Funktion für virtuelle Meetings und ein OneNote-Notizbuch zur Dokumentation nutzen.
 
-Ein Lernpfad ist eine Folge von Aktivitäten und Übungen, um etwas Neues zu lernen. Ein Pfad kann ein oder mehrere Sprints dauern. Der NOOB Pfad ist ein Sprint für Lernende, die ihr eigenes Silo einreißen und einen offenen und vernetzten Arbeits- und Lebensstil annehmen wollen. Der NOOB Pfad besteht aus 11 Katas (Übungen), mit denen man lernt, wie mit Hilfe eines Netzwerks Ziele einfacher erreicht werden können. Es wird empfohlen, den Pfad mit 4-5 Personen in einem Sprint zu durchlaufen.
+# Lernpfade für Einsteiger*innen (NOOBs)
 
-**Hinweis:** Die Idee für diesen Sprint ist inspiriert von John Stepper‘s [Working Out Loud Circle Methode] (https:/workingoutloud.com/en/circle-guides) (WOL). Aufgrund eigener Erfahrungen in 12 WOL Circle und einer WOL Circle Umfrage im Jahr 2018 wurde die Anzahl der Übungen auf 11 reduziert, um einfacher in die 13 Wochen zu passen, ohne Aspekte der Kernidee von WOL zu verlieren.
+Ein Lernpfad ist eine Zusammenstellung von Aktivitäten und Übungen, mit denen du neue Fähigkeiten und eine neue Haltung erlernst. Ein Lernpfad kann in der Regel innerhalb eines lernOS Sprints durchlaufen werden. Für lernOS Einsteiger*innen (newbies oder noobs) schlagen ich vor, einen oder mehrere Learning Sprints zu verwenden, um mit den Grundlagen von lernOS vertraut zu werden. Aktuell sind dafür folgende Lernpfade verfügbar:
+
+1. **WOL Lernpfad:** Die Idee für diesen Lernpfad ist inspiriert von John Stepper's [Working Out Loud Circle Methode](https://workingoutloud.com/en/circle-guides) (WOL). Durch Erfahrungen und eine WOL Circle Umfrage im Jahr 2018 wurde die Anzahl der Übungen von 31 auf elf reduziert, ohne dabei die Kernidee von WOL zu verlieren.
+2. **OKR Lernpfad:** Wird beim [lernOS Rockstars Camp](https://cogneon.de/loscamp) am 25.06.2019 in München entworfen.
+3. **GTD Lernpfad:** Wird beim [lernOS Rockstars Camp](https://cogneon.de/loscamp) am 25.06.2019 in München entworfen.
+
+Als einzelner lernOS Anwender oder lernOS Circle könnt ihr entscheiden, mit welchem Lernpfad ihr beginnt und ob ihr mehr als einen Lernpfad machen wollt. Wenn du ein GTD Anwender bzw. ein OKR Anwender bist, oder schon einen WOL Circle abgeschlossen hast, kannst du einfach einen der anderen Lernpfade für den Start wählen.
+
+## WOL Lernpfad
 
 
-## Circle Moderator Checklist
+### Circle Moderator Checklist
 
-### Woche 0: Sprint Planung & Get Together
+**Woche 0: Sprint Planung & Get Together**
 
 Wenn Ihr Euch im Circle noch nicht kennt, lernt Euch in der Woche 0 kennen.
 Plant, wann Ihr Euch trefft, welche Tools Ihr
@@ -345,7 +283,7 @@ Definiert einen Circle-Moderator, der sich um Event- und
 Zeitmanagement kümmert. Eines der größten
 Hindernisse für erfolgreiche Circle ist Disziplin und Zeitmanagement. Der Moderator ist nicht der "Chef" des
 Circle, sondern ein normales Circle-Mitglied, das sich um einen
-reibungslosen Ablauf kümmert. Definiert Tag und Uhrzeit
+reibungslosen Ablauf kümmert. Legt fest, welchen Lernpfad ihr verwendet. Definiert Tag und Uhrzeit
 des wöchentlichen Treffens. Definiert, ob Ihr Euch
 persönlich oder virtuell trefft. Definiert die Tools, die Ihr
 für Kommunikation und Dokumentation im Circle verwendt. Entscheidet,
@@ -354,18 +292,21 @@ machen wollt. Entscheidet auch, ob Ihr den lernOS Canvas
 (siehe Kapitel lernOS Canvas) als unterstützendes Werkzeug verwenden möchtet.
 
 * **Circle-Moderator:** ...
+* **Lernpfad:** WOL / OKR / GTD
 * **Tag und Uhrzeit des Weekly:** ...
 * **Wöchentliche Treffen sind:** persönlich / virtuell
 * **Verwendete Tools (können alle sie nutzen?):** ...
 * **Benutzen wir den Canvas:** Ja / Nein
 
-**\#ProTip:** in vielen Fällem ist die Zeit für das Ausführen der
+**ProTip:** jeder sollte die Katas "Gestalte dein Future Backwards" und "Visuell denken mit dem lernOS Canvas" in Woche 0 machen, um die richtigen Ziele für den lernOS Sprint zu finden.
+
+**ProTip:** in vielen Fällem ist die Zeit für das Ausführen der
 Übungen im Weekly zu kurz. Verwendet daher die Methode [Flipped
 Classroom](https://en.wikipedia.org/wiki/Flipped_classroom): jedes
 Circle-Mitglied bereitet die Übungen als "Hausaufgabe" vor,
 so dass Ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen.
 
-### Woche 1: Mein Ziel für die nächsten 12 Wochen
+**Woche 1: Mein Ziel für die nächsten 12 Wochen**
 
 In dieser Woche wählst Du Dein Ziel für den Sprint. Das Ziel kann bis zur 4. Woche verfeinert werden, aber nicht danach.
 
@@ -376,7 +317,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 2: Menschen, die mit meinen Zielen zu tun haben
+**Woche 2: Menschen, die mit meinen Zielen zu tun haben**
 
 In dieser Woche wirst Du über Menschen nachdenken, die Dir bei Deinen Zielen helfen können (allein arbeiten ist Addition, zusammenarbeiten ist Multiplikation!).
 
@@ -387,7 +328,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 3: Deine erste Erfahrung des Teilens
+**Woche 3: Deine erste Erfahrung des Teilens**
 
 In dieser Woche wirst Du Aufmerksamkeit, Wissen, Erfahrungen und wertvolle Ressourcen mit Deinem Netzwerk teilen, um Vertrauen aufzubauen und Unterstützung zu erhalten.
 
@@ -398,7 +339,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 4: Ein Termin mit Dir selbst & Boxenstopp 1
+**Woche 4: Ein Termin mit Dir selbst & Boxenstopp 1**
 
 In dieser Woche wirst Du dafür sorgen, dass Du genügend Zeit hast, um Dich zu vernetzen, zu teilen und Dich um Dein Netzwerk zu kümmern. Du wirst dies tun, indem Du Termine mit Dir selbst vereinbarst. In dieser Woche sollte Dein Ziele stabil sein und Du solltest eine klare Vorstellung haben, welche Leute im Netzwerk Dir helfen könnten, Deine Dinge zu erledigen. Nehmt Euch diese Woche einen kurzen "Boxenstopp", um zu reflektieren, ob alles gut für Dich und den Circle funktioniert. In den nächsten vier Wochen wirst Du Dich darauf konzentrieren, an der ersten Iteration Deiner Key Results zu arbeiten.
 
@@ -409,7 +350,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 5: Google Dich selbst!
+**Woche 5: Google Dich selbst!**
 
 In dieser Woche beginnt die Arbeit an der ersten Iteration Deiner Key Results. Das Ziel ist, bis Ende der achten Woche ein [Minimal Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) zu haben. In dieser Woche wirst Du Dich außerdem selber im Intranet oder Internet suchen.
 
@@ -420,7 +361,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 6: 25 Fakten über mich
+**Woche 6: 25 Fakten über mich**
 
 In dieser Woche wirst Du Fakten und persönliche Informationen sammeln, die für Dein Netzwerk relevant sein könnten und Dir helfen, Dich zu vernetzen.
 
@@ -431,7 +372,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 7: Meine Top 10 WissensWerte
+**Woche 7: Meine Top 10 WissensWerte**
 
 In dieser Woche wirst Du daran arbeiten, die erste Iteration Deines Minimum Viable Product abzuschließen. Darüber hinaus wirst Du zu Deinen Top 10 Wissenswerte reflektieren, die Du in Deinem Netzwerk teilen kannst.
 
@@ -442,7 +383,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 8: Aktualisiere Deinen digitalen Zwilling & Boxenstopp 2
+**Woche 8: Aktualisiere Deinen digitalen Zwilling & Boxenstopp 2**
 
 In dieser Woche sollte die erste Iteration Deiner Key Results verfügbar sein. Sprecht darüber und zeigt diese im Check-in. Wenn Deine digitalen Zwillinge wie Website, Blog oder Profil nicht mit Deinen Erkenntnissen aus der letzten Woche übereinstimmen, wirst Du diese aktualisieren.
 
@@ -453,7 +394,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 9: Finde Communities, die mit Deinen Zielen in Verbindung stehen
+**Woche 9: Finde Communities, die mit Deinen Zielen in Verbindung stehen**
 
 In dieser Woche wirst Du mit der Arbeit an der zweiten Iteration Deiner Key Results beginnen. Darüber hinaus suchst Du nach Communities oder Gruppen, die Dir helfen können, Deine Ziele zu erreichen.
 
@@ -464,7 +405,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 10: Bringe Dein ICH ein
+**Woche 10: Bringe Dein ICH ein**
 
 In dieser Woche wirst Du die Fakten über Dich selbst nutzen, um eine persönliche Verbindung herzustellen. Du wirst lernen, dass Zuhören manchmal wichtiger ist als Reden.
 
@@ -475,7 +416,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 11: Ein Brief an mein zukünftiges Ich
+**Woche 11: Ein Brief an mein zukünftiges Ich**
 
 In dieser Woche wirst Du Dir Dich selbst in der Zukunft vorstellen, indem Du einen Brief an Dein zukünftiges ich schreibst. Und Du hilfst Deinem Netzwerk, Dich zu unterstützen, indem Du Deine Vision und Deine Ziele auf Deinen Online-Profilen sichtbar machst.
 
@@ -486,7 +427,7 @@ pro Circle-Mitglied. *(10 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox
 pro Circle-Mitglied. *(5 Minuten)*
 
-### Woche 12: Retrospektive & Feier
+**Woche 12: Retrospektive & Feier**
 
 In dieser Woche sollte die endgültige Iteration Deiner Key Results vorliegen. Sprecht darüber und zeigt Sie im Check-in. Ihr werdet über die Erfahrungen im Circle nachdenken und darüber sprechen, wie Ihr den Prozess aufrecht erhalten könnt. Nach dem Weekly solltet Ihr Euch etwas Zeit nehmen, um Euren Erfolg zu feiern!
 
@@ -497,11 +438,65 @@ pro Circle-Mitglied. *(15 Minuten)*
 * **Check-out:** Gibt es nächste Schritte? Bleibt ihr für einen weiteren Sprint zusammen?
 * **Party Time!** *(Die Dauer wählt ihr)*
 
-## Kata: Mein Ziel für die nächsten 12 Wochen
+### Kata: Gestalte dein Future Backwards
+
+*Gestalte deine Zukunft durch Reflexion von Gegenwart und Vergangenheit und den Entwurf einer persönlichen Vision (30 Minuten)*
+
+Diese Kata basiert auf der Methode [The Future, Backwards](https://cognitive-edge.com/methods/the-future-backwards/) von Dave Snowden. Mit der Kata erhält man eine gute Sicht auf die persönliche Gesamtsituation durch einen Blick in die Vergangenheit und auf mögliche Zukünfte. Die Perspektive der Kata kann kurzfristig (1-2 Jahre), mittelfristig (3-5 Jahre) oder langfristig (ganzes Leben) sein.
+
+**Anleitung:**
+
+1. Bereite deinen Future Backwards Canvas vor ([Beispiel](https://cognitive-edge.com/wp-content/uploads/2015/01/3---ChrisFl-IMG-0058-wpcf_300x225.jpg)). Das kann im einfachsten Fall ein Blatt Papier im Querformat mit einem um 90 Grad nach rechts gedrehten "Y" darauf sein, Das Y stellt die aktuelle Situation (current state), die Vergangenheit, die Vision (heaven), die Anti-Vision (hell) sowie den "Stairway to Heaven" dar. Definiere die Zeitspanne, die du in Vergangenheit und Zukunft schauen möchtest (kurz-/mittel-/langfristig) (5 Minuten)
+2. Beschreibe deine aktuelle Situation in in 3-5 kurzen Sätzen (5 Minuten)
+3. Beschreibe die 3-5 Schlüssel-Ereignisse in der Vergangenheit, die zur aktuellen Situation geführt haben (5 Minuten)
+4. Beschreibe deine Vision in 3-5 kurzen Sätzen (5 Minuten)
+5. Beschreibe deine Anti-Vision in 3-5 kurzen Sätzen (5 Minuten)
+6. Beschreibe die 3-5 Schlüssel-Aktivitäten oder -Projekte, die deine Vision Wirklichkeit werden lässt und die Anti-Vision verhindert (5 Minuten)
+
+**ProTip:** [Helmut Hönsch](https://twitter.com/GoodTransfer) hat ein [LearningSprintBooklet]() erstellt, das eine Vorlage für ein Future Backwards enthält.
+
+### Kata: Visuell denken mit dem lernOS Canvas
+
+Ein Canvas ist eine visuelle Struktur, die für die strukturierte Bearbeitung
+mehrere Bereiche parallel verwendet werden kann. Auf diese Weise verwendet
+man einen Canvas als visuelle Checkliste. Er kann aber auch für das Erzählen komplexer Geschichten verwendet werden. Die Idee kam ursprünglich von Alex
+Osterwalder, der den [Business Model
+Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) entwickelt hat. Der
+lernOS Canvas verwendet die gleiche Grundstruktur wie der
+Business Model Canvas. Doch die Benennungen der Bereiche wurden geändert, um
+die Arbeitsthemen von lernOS abzudecken.
+
+Der lernOS Canvas kann von der [lernOS
+Webseite](https://lernOS.org) in verschiedenen Formaten heruntergeladen
+(z.B. PowerPoint, PDF, PNG) werden. Um mit dem Canvas flexibel arbeiten zu können,
+solltest Du nie darauf schreiben. Aus diesem Grund wurden
+Haftnotizen erfunden!
+
+![lernOS Canvas von @simondueckert, CC BY 4.0](C:/Users/SimonD%C3%BCckert/OneDrive%20-%20Cogneon%20GmbH/Dokumente/GitHub/lernos-for-you/lernOS%20Canvas/de/lernOS-Canvas-de.png)
+
+Der obere Teil des Canvas enthält
+Motivations- oder Mission Statement (wenn Du eines hast) und Nummer oder Datum des Sprints. Im
+Bereich "Meine Ziele & Schlüsselergebnisse" werden die Ziele für den
+aktuellen Sprint dokumentiert. Die Bereiche "Meine Rollen", "Meine
+Aktivitäten", "Meine Projekte" und "Mein Wissen & Meine Fähigkeiten" können
+genutzt werden, um mögliche Ziele zu identifizieren. Die Bereiche "Meine
+Beziehungen" und "Meine Sozialen Netzwerke" werden zur Identifikation von Personen verwendet,
+die bei der Zielerreichung
+unterstützen können. Vorhandene Ressourcen (z.B. Dokumente, Checklisten, Videos
+etc.) werden in "Meine WissensWerte" aufgeführt. Die bei "Meine
+Ablageorte" aufgeführten Ablagen werden genutzt, um wertvolle Ressourcen
+großzügig mit dem Netzwerk zu teilen.
+
+**ProTip:** Wenn Du das lernOS OneNote Circle Template verwendest,
+kannst Du ein aktuelles Foto von Deinem Canvas machen und
+einfügen, damit die anderen Circle-Mitglieder es sehen und Feedback
+geben können.
+
+### Kata: Mein Ziel für die nächsten 12 Wochen
 
 Was willst Du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dich wirklich, wirklich wichtig ist und bei dem Du im Sprint Fortschritte machen kannst. Du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Für den NOOB Pfad ist es nicht erste Priorität, das Ziel zu erreichen. Im Fokus steht zu lernen, wie Du mit Hilfe eines offenen Arbeitsstils und der Entwicklung eines Netzwerks Ziele einfacher erreichst.
 
-![Meine Ziele für die nächsten 12 Wochen](images/lernOS-Kata-02.png)
+![Meine Ziele für die nächsten 12 Wochen](C:/Users/SimonD%C3%BCckert/OneDrive%20-%20Cogneon%20GmbH/Dokumente/GitHub/lernos-for-you/lernOS%20Guide/de/images/lernOS-Kata-02.png)
 
 **Übung (25 Minuten):**
 
@@ -526,28 +521,25 @@ von 0,7 als Erfolg.
 
 *gemessen an (Schlüsselergebnisse):*
 
-1.  ...
-1.  ...
-1.  ...
-1.  ...
+1. ...
+2. ...
+3. ...
+4. ...
 
 Teile Deine Ziele im Circle (10 Minuten).
 
-**lernOS Canvas:** Ziele im Bereich "Meine Ziele & Schlüsselergebnisse" dokumentieren. Du
-kannst weitere Haftnotizen für die Schlüsselergebnisse hinzufügen.
-
 **Weitere Informationen:**
 
-* Wikipedia Artikel [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria)
-* MIT Sloan Artikel [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart)
-* Ted Talk [How We Can Make the World a Better Place by 2030](https://www.youtube.com/watch?v=o08ykAqLOxk)
-* Video [How Google Sets Goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) mit Google
-Ventures Partner Rick Klau
-* Buch [ Introduction To OKRs](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) von Christina Wodtke
-* Buch [The Beginner’s Guide To OKR](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf)
-von Felipe Castro
+- Wikipedia Artikel [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria)
+- MIT Sloan Artikel [With Goals, FAST Beats SMART](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart)
+- Ted Talk [How We Can Make the World a Better Place by 2030](https://www.youtube.com/watch?v=o08ykAqLOxk)
+- Video [How Google Sets Goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) mit Google
+  Ventures Partner Rick Klau
+- Buch [ Introduction To OKRs](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) von Christina Wodtke
+- Buch [The Beginner’s Guide To OKR](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf)
+  von Felipe Castro
 
-## Kata: Menschen, die mit meinem Ziel zu tun haben
+### Kata: Menschen, die mit meinem Ziel zu tun haben
 
 Die meisten unserer Aufgaben haben andere schon früher
 erledigt. Die meisten unserer Fehler, sind schon in der
@@ -585,14 +577,11 @@ soziale Netzwerke, um mehr Personen zu finden:
 Teile Deine Liste im Circle und helft Euch gegenseitig, sie zu
 vervollständigen (10 Minuten).
 
-**lernOS Canvas:** Sammle die mit Deinen Zielen verbundenen Personen,
-im Bereich "Meine Beziehungen". Du kannst sie z.B. nach Priorität sortieren.
-
 **Weitere Informationen:**
 
 * Video [Social Networking In Plain English](https://www.youtube.com/watch?v=6a_KF7TYKVc)
 
-## Kata: Deine erste Erfahrung des Teilens
+### Kata: Deine erste Erfahrung des Teilens
 
 Sharing is caring! In der digitalen Welt wird das Teilen oft als Bereitstellen
 von Dateien oder digitalen Inhalten gesehen. Aber es
@@ -617,11 +606,7 @@ Kontaktformular sein. Mache mindestens fünf Erfahrungen, Aufmerksamkeit zu teil
 
 Besprecht Eure Erfahrungen im Circle (20 Minuten).
 
-**lernOS Canvas:** Wenn Du Personen aus Deiner Beziehungsliste in einem
-sozialen Netzwerk findest, liste das Netzwerk im
-Bereich "Meine sozialen Netzwerke" auf.
-
-## Kata: Ein Termin mit Dir selbst
+### Kata: Ein Termin mit Dir selbst
 
 Nimmst Du Dir ausreichend Zeit für Deine persönliche Entwicklung und für
 die Arbeit an Deinen Zielen? Viele Menschen sind mit ihren
@@ -646,7 +631,7 @@ diese Zeit für Dich zur Gewohnheit wird. Finde mindestens fünf Termine:
 
 Besprecht Eure Ansätze im Circle.
 
-## Kata: Google Dich selbst!
+### Kata: Google Dich selbst!
 
 Was sehen Menschen, die Dich im Netz
 suchen? Bekommen sie eine Vorstellung davon, wer Du bist und wie sie
@@ -681,15 +666,12 @@ Der digitale Zwilling repräsentiert Dich im Netz:
 
 *Mein zentrales Online-Profil (Digital Twin) ist ...*
 
-**lernOS Canvas:** füge die sozialen Netzwerke mit Profilen von
-Dir im Bereich "Meine Sozialen Netzwerke" hinzu.
-
 **Weitere Informationen:**
 
 * Wikipedia Artikel [Egosurfing](https://en.wikipedia.org/wiki/Egosurfing)
 * Artikel [Google Yourself! Measuring the performance of personalized information resources](https://snurb.info/files/aoir2008/Google%20Yourself!%20Measuring%20the%20performance%20of%20personalized%20information%20resources%20%28AoIR%202008%29.pdf) von Thomas Nicolai und Lars Kirchhoff.
 
-## Kata: 25 Fakten über mich
+### Kata: 25 Fakten über mich
 
 Welche interessanten Fakten über Dich können Dir helfen, Dich mit
 anderen Menschen zu vernetzen? Wenn Du Dich für ein Studium an der
@@ -748,14 +730,11 @@ und erweitere Deine Liste auf 25 Fakten:
 
 Teile Deine Fakten über Dich im Circle (10 Minuten).
 
-**lernOS Canvas:** Wenn einige der Fakten auf Wissensgebiete oder Fähigkeiten hindeutet, dokumentiere
-sie im Bereich "Mein Wissen & Meine Fähigkeiten".
-
 **Weitere Informationen:**
 
 * YouTube-Suche ["random facts about me"](https://www.youtube.com/results?search_query=random+facts+about+me)
 
-## Kata: Meine Top 10 WissensWerte
+### Kata: Meine Top 10 WissensWerte
 
 Was sind die wichtigsten Ressourcen im Zusammenhang mit Deinen Zielen,
 die Du teilen kannst? Eine Ressource kann ein
@@ -781,9 +760,7 @@ Ressourcen auf, die dafür nützlich oder interessant sind:
 
 Stelle Deine Top 10 Liste im Circle vor und besprecht sie (10 Minuten).
 
-**lernOS Canvas:** Sammele die WissensWerte im Bereich "Mein WissensWerte".
-
-## Kata: Aktualisiere Deinen digitalen Zwilling
+### Kata: Aktualisiere Deinen digitalen Zwilling
 
 Stellt Dein digitaler Zwilling Dich so dar, wie Du es möchtest? Viele
 Menschen melden sich in einem sozialen Netzwerk an und
@@ -809,10 +786,7 @@ Liste Verbesserungsideen auf, die Du umsetzen möchtest:
 9.  ...
 10. ...
 
-**lernOS Canvas:** Markiere das soziale Netzwerk mit Deinem
-zentralen Online-Profil im Bereich "Meine Sozialen Netzwerke".
-
-## Kata: Finde Communities, die mit Deinem Ziel in Verbindung stehen
+### Kata: Finde Communities, die mit Deinem Ziel in Verbindung stehen
 
 Ein "Tribe" ist [laut Seth
 Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead)
@@ -847,7 +821,7 @@ Groups](https://www.xing.com/communities) ,
 
 Sprich über die Liste im Circle und helft Euch gegenseitig beim Vervollständigen.
 
-## Kata: Bringe Dein ICH ein
+### Kata: Bringe Dein ICH ein
 
 Nicht alle Beiträge in Deinem Netzwerk müssen zu Deinen Zielen sein.
 Manchmal teilt man besser etwas über sich selbst, um eine
@@ -864,7 +838,7 @@ die Beziehung anhand dieses Fakts zu vertiefen:
 
 1.  ...
 
-## Kata: Ein Brief an mein zukünftiges Ich
+### Kata: Ein Brief an mein zukünftiges Ich
 
 Der Brief an Dein zukünftiges Ich ist eine klassische Methode zur
 Selbstmotivation. Du reflektierst Deine aktuelle
@@ -895,6 +869,14 @@ ihn anschließend laut vor (15 Minuten).
 
 * Video [A Letter To My Future Self](https://www.youtube.com/watch?v=XwN0tJlXF-0)
 * Artikel [How to Write a Letter to Your Future Self](https://www.wikihow.com/Write-a-Letter-to-Your-Future-Self)
+
+## OKR Lernpfad
+
+Wird beim [lernOS Rockstars Camp](https://cogneon.de/loscamp) am 25.06.2019 in München entworfen.
+
+## GTD Lernpfad
+
+Wird beim [lernOS Rockstars Camp](https://cogneon.de/loscamp) am 25.06.2019 in München entworfen.
 
 # Stop talking, start doing!
 
@@ -927,8 +909,9 @@ Keep Calm & Learn On! :-)
 
 # Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
-|---------|----------------|-----------------------|-------|
+|-----|----------------|----------------------------------------------|-------|
 | 1.0 | Simon Dückert | Erste Version des lernOS Leitfadens | 17.09.2018 |
 | 1.0.1 | Simon Dückert | Kapitel Danksagung hinzugefügt | 17.09.2018 |
 | 1.1 | Simon Dückert | OKRs as default method for learning sprints, introduction noob path with reduced kata set, renaming of lernOS Sprint/Circle, Introduction of learning paths | 17.12.2018 |
 | 1.2 | Simon Dückert | Leitfaden in "lernOS Leitfaden für Dich" umbenannt, lernOS Logo in die Titelseite eingefügt, Telegram als User Group durch CONNECT ersetzt, Mobi-Version (Amazon) zu Ausgabeformaten hinzugefügt, Erzeugung aller Ausgabedateien über make.bat automatisiert, Inhaltsverzeichnis (TOC) zur HTML-Version hinzugefügt | 25.03.2019 |
+| 1.3 | Simon Dückert | Neue "High Level Structure" für lernOS Guides angewendet, Reihenfolge im Grundlagen-Kapitel geändert (Sprint, Wheel, Circle), Hashtags von "ProTips" entfernt, Platzhalter für OKR und GTD Lernpfade eingefügt, Kata "Gestalte dein Future Backwards" zu Woche 0 hinzugefügt, Kata "Visuell denken mit dem lernOS Canvas" in Woche 0 verschoben, Skillset: Tabelle der Fähigkeiten für Selbsteinschätzung erweitert, Anzahl der Anwendungen zur Unterstützung von Circles auf Basis WOL Umfrage 2018 reduziert, Standardisiertes Vorwort eingefügt, Inhalt und Struktur des Kapitels Danksagungen verbessert, Standardisierte orange Rückseite eingefügt | 17.06.2019 |
