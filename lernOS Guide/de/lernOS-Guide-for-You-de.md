@@ -494,7 +494,7 @@ geben können.
 
 ### Kata: Mein Ziel für die nächsten 12 Wochen
 
-Was willst Du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dich wirklich, wirklich wichtig ist und bei dem Du im Sprint Fortschritte machen kannst. Du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Für den NOOB Pfad ist es nicht erste Priorität, das Ziel zu erreichen. Im Fokus steht zu lernen, wie Du mit Hilfe eines offenen Arbeitsstils und der Entwicklung eines Netzwerks Ziele einfacher erreichst.
+Was willst Du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dir wirklich, wirklich wichtig ist und bei dem Du im Sprint Fortschritte machen kannst. Du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Für den NOOB Pfad ist es nicht erste Priorität, das Ziel zu erreichen. Im Fokus steht zu lernen, wie Du mit Hilfe eines offenen Arbeitsstils und der Entwicklung eines Netzwerks Ziele einfacher erreichst.
 
 ![Meine Ziele für die nächsten 12 Wochen](C:/Users/SimonD%C3%BCckert/OneDrive%20-%20Cogneon%20GmbH/Dokumente/GitHub/lernos-for-you/lernOS%20Guide/de/images/lernOS-Kata-02.png)
 
