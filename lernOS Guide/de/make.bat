@@ -26,7 +26,9 @@ pandoc %filename%.md metadata/metadata.yaml -o %filename%.pdf --from markdown --
 
 REM Create eBook Versions (epub, mobi)
 magick -density 300 %filename%.pdf[0] images/ebook-cover.png
-pandoc -s --epub-cover-image=images/ebook-cover.png -o %filename%.epub %filename%.md
+magick mogrify -size 2500x2500 -resize 2500x2500 images/ebook-cover.jpg
+magick mogrify -crop 1563x2500+102+0 images/ebook-cover.jpg
+pandoc metadata/metadata.yaml -s --epub-cover-image=images/ebook-cover.png -o %filename%.epub %filename%.md
 ebook-convert %filename%.epub %filename%.mobi
 
 pause
