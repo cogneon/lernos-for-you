@@ -8,8 +8,7 @@ If you have **further questions** regarding lernOS or need **peer support** you 
 
 Yours @simondueckert
 
- Acknowledgments
-================
+# Acknowledgments
 
 lernOS is inspired by many of sources and thought leaders and is thus [standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). An overview of the roots & inspirations I have compiled [in the lernos Wiki](https://github.com/cogneon/lernos-core/wiki). For this guide I would especially like to thank:
 
@@ -200,11 +199,11 @@ The header of the canvas contains the creation date, the number of the sprint, a
 
 ### Kata: My Objective For The Next 12 weeks
 
+_**Duration:** 25 minutes_
+
 What do you want to accomplish in the next 12 weeks? Pick an objective that you really, really care about and you can make progress towards in the sprint. You will use Google's OKR method to define that objective. For the NOOB path it's not prio 1 to achieve the objective. Core is to learn how to achieve objectives more easy with the help of an open workstyle and the development of a network.
 
 ![My Objectives For The Next 12 weeks](images/lernOS-Kata-02.png)
-
-**Exercise (25 minutes):**
 
 Select an objective for the next 12 weeks. Use the questions "Do I really, really care?", "Can I achieve it in 12 weeks?", and "Can my network help me?" to test if the objective is appropriate for the sprint. If you have problems to find a good objective think about goals that support your roles, activities, or projects. If you want to help to make the world a better place you can also choose an objective that is related to the [United Nation's 17 sustainable development goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals).
 
@@ -272,9 +271,9 @@ Go through your relationship list and look for some kind of online presence for 
 Discuss your sharing experiences in the circle (20 minutes).
 
 ### Kata: An Appointment With Yourself
-Do you spend enough time for your personal development and for working on your personal objectives? A lot of people are busy with their daily tasks and do not care enough for their development and their well-being. A good approach is to make an appointment with yourself and reserve that time for yourself in the calendar.
+_**Duration:** 15 minutes_
 
-**Exercise (15 minutes):**
+Do you spend enough time for your personal development and for working on your personal objectives? A lot of people are busy with their daily tasks and do not care enough for their development and their well-being. A good approach is to make an appointment with yourself and reserve that time for yourself in the calendar.
 
 Check your calendar and see when an appointment with yourself fits in. One hour or even 30 minutes a week is a good starting point. Put an appointment with yourself in the calendar. If possible make it a recurring event so taking time for yourself can become a habit. Make at least five appointments:
 
@@ -287,11 +286,11 @@ Check your calendar and see when an appointment with yourself fits in. One hour 
 Discuss your approaches in the circle.
 
 ### Kata: Go Google Yourself!
+_**Duration:** 10 minutes_
+
 What do people see when they search for you online? Do they get an idea of who you are and how they might help you with your objectives? You can simulate that situation by googling yourself (often called egosurfing, egosearching or vanity search).
 
 ![Go Google Yourself on google.com or in an intranet search engine](images/lernOS-Kata-13.png)
-
-**Exercise (10 minutes):**
 
 Open a search engine in the internet or intranet and enter your name. Open at least the first 10 search results and check if your personality and the facts about you are up-to-date. Identify possible improvements:
 
@@ -316,6 +315,8 @@ Think about what your main online profile might be (e.g. LinkedIn profile, about
 * Article [Google Yourself! Measuring the performance of personalized information resources](http://snurb.info/files/aoir2008/Google%20Yourself!%20Measuring%20the%20performance%20of%20personalized%20information%20resources%20%28AoIR%202008%29.pdf) by Thomas Nicolai and Lars Kirchhoff.
 
 ### Kata: 25 Facts About Me
+_**Duration:** 25 minutes_
+
 What are interesting facts about you that might help to connect with other people? If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!"). Random things about yourself might include:
 
 * Life experiences
@@ -330,8 +331,6 @@ What are interesting facts about you that might help to connect with other peopl
 * Achievements
 * Fun facts
 * Anything that helps to understand what makes you who YOU are
-
-**Exercise (25 minutes):**
 
 Create a list of 10 random facts about yourself. Then read the [Fuqua 25 random things do's and dont's](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts) and expand your list to 25 things:
 
@@ -368,9 +367,9 @@ Share the facts about you in the circle (10 minutes).
 * YouTube-Search ["random facts about me"](https://www.youtube.com/results?search_query=random+facts+about+me)
 
 ### Kata: Your Top 10 Assets
-What are the most valuable resources related to your objectives that you can share? A resource could be a book, a video, a link, a document, a checklist, a presentation etc. When you organize your resources in a way that they are linkable and shareble it will be easy for you to contribute them to your network.
+_**Duration:** 30 minutes_
 
-**Exercise (30 minutes):**
+What are the most valuable resources related to your objectives that you can share? A resource could be a book, a video, a link, a document, a checklist, a presentation etc. When you organize your resources in a way that they are linkable and shareble it will be easy for you to contribute them to your network.
 
 Chose one of your objectives and list at least ten related resources you find useful or interesting:
 
@@ -388,9 +387,9 @@ Chose one of your objectives and list at least ten related resources you find us
 Present the top 10 list in the circle and discuss it (10 minutes).
 
 ### Kata: Update Your Digital Twin
-Does your main digital twin represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects and interests should be visible on that profile.
+_**Duration:** 20 minutes_
 
-**Exercise (20 minutes):**
+Does your main digital twin represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects and interests should be visible on that profile.
 
 Check in the online profile if you have a nice image, a short description, and a slogan. List the improvements you want to make:
 
@@ -406,9 +405,9 @@ Check in the online profile if you have a nice image, a short description, and a
 1. ...
 
 ### Kata: Find Communities Related To Your Objectives
-A tribe [according to Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead) is a group of people connected to one another, connected to a leader, and connected to an idea. Instead of tribe the term "community" or "community of practice" is also often used. A group needs only two things to be a tribe: a shared interest and a way to communicate. Tribes need leadership. Sometimes one person leads, sometimes more. Which are the communities related to your objectives?
+_**Duration:** 15 minutes_
 
-**Exercise (15 minutes):**
+A tribe [according to Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead) is a group of people connected to one another, connected to a leader, and connected to an idea. Instead of tribe the term "community" or "community of practice" is also often used. A group needs only two things to be a tribe: a shared interest and a way to communicate. Tribes need leadership. Sometimes one person leads, sometimes more. Which are the communities related to your objectives?
 
 Look for communities that are related to your objectives and find at least 10 (use e.g. [LinkedIn Groups](https://www.linkedin.com/groups), [Facebook Groups](https://www.facebook.com/groups), [Xing Groups](https://www.xing.com/communities) , [meetup.com](https://www.meetup.com), [reddit.com](https://www.reddit.com/reddits)):
 
@@ -426,6 +425,8 @@ Look for communities that are related to your objectives and find at least 10 (u
 Talk about your lists in the circle and let the others help you to complete your list.
 
 ### Kata: Contribute Your Self
+_**Duration:** 35 minutes_
+
 Not all contributions in your network have to be about your objectives. Sometimes it's good to share something about yourself to make a personal connection. The list of facts about yourself might help to find interesting links to other people. Try to find these possible links and use them to make a connection.
 
 **Exercise (20 minutes):**
@@ -435,9 +436,10 @@ Go through your facts about you and find at least one fact that might be of inte
 1. ...
 
 ### Kata: Write A Letter To Your Future Self
-The letter to your future self is a classic method in self motivation and visioning. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. With the letter in the back of your mind chances are that your wishes become a [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
 
-**Exercise (35 minutes):**
+_**Duration:** 35 minutes_
+
+The letter to your future self is a classic method in self motivation and visioning. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. With the letter in the back of your mind chances are that your wishes become a [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
 
 Write a letter to your future self. Talk about who you are now (e.g. summary, fears, values, beliefs, skills, abilities, goals, hopes). Then address your future self with the things you want to stop/continue/start doing. Give yourself advice and ask yourself questions. Seal the letter and store it in a safe place or use services like [futureme.org](https://futureme.org) to send it to your future self automatically:
 
@@ -484,7 +486,7 @@ for yourself.
 **Learn about the history and basics of Objectives & Key Results
 (OKRs).**
 
-***Duration:** 60 minutes*
+_**Duration:** 60 minutes_
 
 The history of OKRs goes back several decades. In 1975, John Doerr took
 part in a training course at Intel in which Andy Grove explained the
@@ -547,7 +549,7 @@ following list and learn the basics of OKRs:
 
 **Plan time and space for your OKR process.**
 
-***Duration:** 30 minutes*
+_**Duration:** 30 minutes_
 
 It doesn\'t take much for your personal OKR environment. You need to
 schedule check-in time in the calendar each week (e.g. Monday
@@ -568,7 +570,7 @@ Define your OKR environment now:
 **Write down your objective and key results for this sprint in OKR
 format.**
 
-***Duration:** 30 minutes*
+_**Duration:** 30 minutes_
 
 In the last kata you (hopefully) learned a lot about the formulation of
 OKRs. Now you can apply this to the planning for the running
@@ -615,7 +617,7 @@ the OKRs in the Circle and give each other feedback.
 
 **Check your OKRs for the sprint and freeze it.**
 
-***Duration:** 30 minutes*
+_**Duration:** 30 minutes_
 
 You\'ve had a few nights to rethink your OKRs. Do you feel comfortable
 and motivated by it? Do the objectives feel demanding? Do you see a
@@ -631,7 +633,7 @@ different the approaches of the different people can be.
 
 **Start with a short OKR Weekly Check-In each week**
 
-***Duration:** 30 minutes*
+_**Duration:** 30 minutes_
 
 With the OKR Weekly Check-in you can see your goals and the current
 state on a weekly basis. This helps you not to lose focus and to identify and remove obstacles early.
@@ -658,7 +660,7 @@ organize your weeklys and what experiences you have with the process.
 
 **Learn about some tools for OKRs.**
 
-***Duration:** 15 minutes*
+_**Duration:** 15 minutes_
 
 David Allen often describes Getting Things Done (GTD) as
 \"tool-agnostic\". This means that you can practice GTD independently of
@@ -687,7 +689,7 @@ experiences with your OKR environments and try out other tools.
 **Understand the difference between \"scoring\" and \"measuring\" and
 choose your path.**
 
-***Duration:** 15 minutes*
+_**Duration:** 15 minutes_
 
 Google recommends that OKRs to measure key results always on a scale of
 0-1.0. In his [Beginners Guide to OKR,](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) Felipe Castro describes some of the drawbacks of this approach under the heading \"Forget Scoring\":
@@ -713,7 +715,7 @@ following weeks you can talk about the effects and experiences again.
 
 **Learn the meaning of \"Strech Goals\" for setting challenging goals.**
 
-***Duration:** 15 minutes*
+_**Duration:** 15 minutes_
 
 Strech Goals or Moonshot OKRs (derived from Kennedy\'s Moonshot Goal
 1962) are objectives that seem impossible to achieve. For exampleinstead of asking yourself \"How do I get 10% better/faster?\" ask \"How do I
@@ -732,7 +734,7 @@ ideas and opinions about Moonshot OKRs.
 
 **How sure are you that you will reach your OKRs?**
 
-***Duration:** 15 minutes*
+_**Duration:** 15 minutes_
 
 According to Henrik-Jan van der Pol by perdoo the [OKR Confidence
 Level](https://www.perdoo.com/blog/okr-confidence-levels/) shows how much you believe that the OKR is (still) achievable. Henrik-Jan proposes
@@ -752,7 +754,7 @@ decisions about the OKR confidence levels.
 **Get to know the interaction of OKRs at the levels of the individual,
 the team and the organization.**
 
-***Duration:** 30 minutes*
+_**Duration:** 30 minutes_
 
 As well described in Rick Klau\'s [How Google sets goals:
 OKRs](https://youtu.be/mJB83EZtAjc?t=1061) video, OKRs are not only defined at the individual level, but also at the level of teams,
@@ -776,7 +778,7 @@ other.
 
 **Was your OKR cycle successful and what topics are for the next one?**
 
-***Duration:** 60 minutes*
+_**Duration:** 60 minutes_
 
 In Scrum, the [Sprint Review](https://www.scrumguides.org/scrum-guide.html#events-review) is used to check the results (increments) at the end of the sprint
 (Inspect) and adjust them for the next sprint (Adapt) if necessary. In
@@ -797,34 +799,20 @@ If you make the OKR learning path in a Circle, discuss your review results.
 
 ## GTD Learning Path
 
-Organizing and
-[optimizing](https://lexikon.stangl.eu/19425/selbstoptimierung/)
-yourself and your way of working can be very motivating. Many people
-today face the problem of sinking into the hamster wheel of dayand
-routine work and not having time for value-adding things, let alone
-thinking about where they want to develop in the medium to long term.
+Organizing and optimizing yourself and your way of working can be very motivating. Many people today face the problem of being in the hamster wheel of daily and
+routine activities not having time for value-adding things, let alone thinking about where they want to develop in the medium or long term.
 
-All elements of GTD have been used successfully for a long time. David
-Allen has compiled and combined some of these methods in such a way that
-the effect is greater than the sum of his parts.
+All elements of GTD have been used successfully for a long time. David Allen has compiled and combined some of these methods in a way that the sum is greater than the parts.
 
-GTD is a way to create the space in our [VUCA
-world](https://de.wikipedia.org/wiki/VUCA) to make us fit for the
-future.
+GTD is a way to create the space in our VUCA world to make us fit for the future.
 
-**The challenge:** You must have read the
-[book](https://www.amazon.de/gp/product/3492307205/ref=as_li_tl) to
-really understand it.
+**The challenge:** You must have read the [book](https://www.amazon.de/gp/product/3492307205/ref=as_li_tl) to really understand GTD.
 
-**The solution:** By gradually appropriating the rules and principles,
-as well as their practice (KATA) within the next 12 weeks, you
-understand the overall context and gradually build up your individual
-**GTD system.**
+**The solution:** By gradually understanding the rules and principles, as well as practicing it (Katas) within the next 13 weeks, you understand the overall context and build up your individual GTD-system.
 
 ### Get to know the basics (Kata)
 
-***Duration:** 2-3 hours depending on reading speed, reading depth and
-available/missing materials*
+_**Duration:** 120-180 minutes depending on reading speed, reading depth and available/missing materials_
 
 The basics of GTD are documentary in many places on the Internet & in
 literature. Get acquainted with the basics of GTD this week and create
@@ -832,144 +820,122 @@ an environment that puts you in an optimal situation. This environment
 is based on the three pillars of time, location and tools.
 ThePillarTimetreatwe later.
 
--   Read Chapters 1, 2 & 4 in David Allen\'s book [\"How to Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
+-   Read Chapters 1, 2 & 4 in David Allen\'s book \"How to Get Things
+    Done\"
 
--   Carry together your work material (storage baskets, pens, folders,
-    sticky note slips, etc.)
+-   Put your work material like storage baskets, pens, folders,
+    sticky note slips together
 
--   Reposition your /your workspace(s) (Office / Home / \...)
+-   Reposition your workspace(s) (Office, Home etc.)
 
-**ProTip:**
+**ProTip:** Minimize the number of your inbound baskets; 1x Office, 1x Home, 1x
+electronic (e-mail).
 
--   Minimize the number of your inbound baskets; 1x Office, 1x Home, 1x
-    electronic (eMail)
+**ProTip:** e-mails generally remain: in the e-mail system and are managed
+digitally there.
 
--   e-mails generally remain: in the e-mail system and are managed
-    digitally there
+**ProTip:** Forward and manage all other electronic inputs to the e-mail system.
 
--   Forward and manage all other electronic inputs to the e-mail system
+**ProTip: **Often throwingsomething away.
 
--   Often throwingsomething away
-
--   Active deactivation of newsletters, mail distributors, mailing
-    stations, etc.
+**ProTip:** Active deactivation of newsletters, mail distributors, mailing
+stations etc.
 
 ### Collect - Mind Sweep (Kata)
 
-***Duration:** 1-2 hours depending on reading speed & number of \"loose
-ends\" in the head*
+_**Duration:** 60-120 minutes depending on reading speed and number of \"loose ends\" in the head_
 
-You\'re probably carrying a lot of things around with you in your head,
-and new ones are coming in all the time. All these loose ends strain
+You\'re probably carrying a lot of things around with you in your head
+and new items are coming in all the time. All these loose ends lower
 your ability to focus and get things done. The following exercise will
-help you rid your head of it without anything being forgotten.
+help you to get free your head without loosing anything.
 
--   Read Chapter 5 in David Allen\'s book [\"How to Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
+-   Read Chapter 5 in David Allen\'s book \"How to Get Things
+    Done\".
 
 -   Now write down **everything** that goes through your mind. What to
-    do now & soon? What needs to be donenow? Who is to call \.....
+    do now & soon? What needs to be donenow? Who is to call?
 
--   One page per idea or task (the heading is sufficient)
+-   One page per idea or task (heading is sufficient).
 
--   Put each sheet in your inbox
+-   Put each sheet in your inbox.
 
-In this exercise, the mass counts. Don\'t stop until nothing comes.
+In this exercise, the mass counts. Don\'t stop until no more items are coming.
 
 ### Processing - The 2 minute rule (Kata)
 
-***Duration:** 1 - 1.5 hours depending on reading speed and number of
-small items*
+_**Duration:** 60-90 minutes depending on reading speed and number of small items_
 
-This week you will work your entrance and consistently apply the
-2-minute rule (everything that has to be done in less than 2 minutes is
-done immediately). You apply the rule both when working through your
-inbox, as well as
+This week you will work your inbox and consistently apply the
+2-minute rule: everything that can be done in less than 2 minutes is
+done immediately.
 
--   Read Chapter 6 in David Allen\'s book [\"How to Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
+-   Read Chapter 6 in David Allen\'s book \"How to Get Things Done".
+    
+-   Take 10-15 minutes a day for \"small stuff\".
 
--   Take 10-15 minutes a day for \"small stuff\"
+-   Work focused on everything from answering emails, appointments, tweets,
+    likes, feedback, calls etc.
 
--   Work focuses on everything from answer emails, appointments, tweets,
-    likes, feedback, callbacks, etc.
-
--   Unimportant is disposed of
-    immediately[(TimeTimer](https://www.timetimer.com/) helps with
-    timeboxing)
+-   Unimportant stuff can be immediatly disposed (a Timer helps with
+    timeboxing).
 
 ### Organize - Build Lists & Contexts (Kata)
 
-***Duration:** 1-2 hours depending on reading speed and deepening urge*
+_**Duration:** 60-120 hours depending on reading speed and deepening urge_
 
-When organizing your tasks with GTD, you have the greatest degree of
-individuality. Here you can organize a lot, but also a minimum set of
-lists & contexts will support you very much to keep track.
+When organizing your tasks with GTD you have a lot of possibilities to 
+individualize. But also a minimal set of lists and contexts will support you to keep the overview.
 
--   Read Chapter 7 in David Allen\'s book [\"How to Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
+-   Read Chapter 7 in David Allen\'s book \"How to Get Things
+    Done\".
 
 -   Choose the list types you want to use (minimum: project list, action
     list, calendar and wait-for list). Important but non-essential lists
-    (reference material, one-day/maybe, support material for actions,
-    support material for projects)
+    are reference material, one-day/maybe, support material for actions,
+    support material for projects.
 
--   Define the contexts you want to use in the future (e.g.: \@Home,
+-   Define the contexts you want to use (e.g.: \@Home,
     \@Work, \@Unterwegs, \@Besorgungen, \@Internet, \@Anruf, next
-    action, \@Lesen \...)
-
-No matter which subset of lists and contexts you work with, it will help
-you keep track.
+    action, \@Lesen).
 
 An example: Do you commute regularly by train to work and back? Then you
-can easily \@Unterwegs all your tasks according to the contexts, filter
-\@Lesen and only get those that make sense when commuting.
+can easily filter by contexts \@travel and \@read and only get those tasks that make sense when commuting.
 
-**ProTip:** At the beginning, less is more. Start with a few but
-essential things. In the iteration phases (from week 8) the things you
-are missing are automatically added.
-
-Context lists do not really serve productivity directly, but the
-**systematic postponement of things that are important but not
-urgent.**Postponing is a sensible tactic to do important things later,
-because you can\'t do it right now.
+**ProTip:** At the beginning, less is more. Start with a few but essential things. In the iteration phases (from week 8) the things you are missing are automatically added.
 
 ### Review - The Weekly Review (Kata)
 
-***Duration:** 1-2 hours depending on reading speed and deepening urge*
+_**Duration:** 60-120 minutes depending on reading speed and deepening urge_
 
-The browse phase in GTD has a slightly different character than the
-previous phases. It is mainly used to keep your system in tune and is
+The review phase in GTD has a slightly different character than the
+previous phases. It is mainly used to keep your system up to date and is
 therefore the heart of the system. You will only be able to rely on your
-system if you go through this phase regularly & promptly
-
-In addition to regular brief views of your system, the weekly review is
+system if you go through this phase regularly. In addition to regular brief views of your system, the weekly review is
 at the heart of this phase.
 
--   Read Chapter 8 in David Allen\'s book [\"How to Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
+-   Read Chapter 8 in David Allen\'s book \"How to Get Things Done\".
+    
+-   Find a suitable date for the weekly review and enter it as a repeating
+    event in your calendar (1-2 hours should be already).
 
--   Find a suitable date for the weekly review & enter it as a repeating
-    appointment in your calendar (1-2 hours should be already)
+-   Run through the weekly review once for the last week
 
--   Play the weekly review once for the last week
+    1.  **Everything** in the inbox which you haven\'t put there until
+        then
 
-    1.  **Everything** in the inbox (which you haven\'t put there until
-        then)
-
-    2.  Empty the entrance
+    2.  Empty the inbox
 
     3.  **See** through next steps
 
-    4.  Browse through the dates (Did ToDo\'s come out of it for you?)
+    4.  Browse through the dates (did To-Do\'s come out of it ?)
 
-    5.  See through upcoming dates (Are ToDo\'s included for you in
+    5.  See through upcoming dates (are To-Do\'s included for you in
         preparation for the appointment?)
 
-    6.  **Wait-on-browse list**
+    6.  Check the **Waiting-for-list**
 
-    7.  Browse the list of projects
+    7.  Browse the **list of projects**
 
     8.  **Mind Sweeping**
 
@@ -977,103 +943,85 @@ at the heart of this phase.
 it to things that are pleasant and fun for you. For example, your
 favorite drink, favorite place, favorite music or your favorite time.
 
-A special feature for you is that you achieve the same goal with your
-current learningOS Circlers. Find a partner, because together a lot goes
-a lot more simple.
+### Doing (Kata)
 
-### Done (Kata)
-
-***Duration:** 2-4 hours depending on reading speed*
+_**Duration:** 2-4 hours depending on reading speed_
 
 At this stage, we choose what to do. Two basic principles will support
-you in this. AThird partieslearnsyou know in week 10.
+you in this.
 
--   **Four criteria for completing tasks**. Filtering tasks (by
-    context/time/energy/priority)
+-   **Four criteria for completing tasks**. Filtering tasks by
+    context/time/energy/priority.
 
--   **The three-stage model for evaluating daily work**. Subdivision
-    into the three types of work (define tasks / predefined tasks /
-    unplanned tasks)
+-   **The three-stage model for evaluating daily work**. Division
+    into the three types of work (define tasks, predefined tasks,
+    unplanned tasks).
 
--   Read Chapter 9 (Without the 6-step model) in David Allen\'s book
-    [\"How to Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
+-   Read Chapter 9 in David Allen\'s book \"How to Get Things Done\" (without the 6-step model) 
+    
+-   Choose the day that you want to consciously work on the complete phase
 
--   Choose a day that you want to consciously work on the Complete phase
-
--   Consider all three types of work for your**scheduling**
+-   Consider all three types of work for your scheduling
 
     -   Plan time for several daily reviews (overview)
 
-    -   Schedule time for \"Organize & Process\"
+    -   Schedule time for \"Organize and Process\"
 
     -   Schedule time for completing scheduled tasks (enter appointments
-        with yourself in the calendar - blocker)
+        with yourself in the calendar)
 
-    -   Schedule time for completing unplanned tasks (leave air in the
+    -   Schedule time for completing unplanned tasks (leave room in the
         calendar)
 
 -   Your day is planned - Then get an overview of the upcoming tasks and
-    let go
+    get going
 
 **ProTip:** Your calendar day should NEVER be fully planned. 20% buffer
-for unplanned tasks is a good guideline
+for unplanned tasks is a good rule of thumb.
 
-When you make appointments with others, they always plan **5 minutes
-shorter** (e.g.: 25\' instead of 30\' or 55\' instead of 60\' )
+**ProTip:** When you make appointments with others always plan **5 minutes
+less** (e.g.: 25 instead of 30 minutes or 55 instead of 60 minutes)-
 
 ### Projects - Become like the kids (Kata)
 
-***Duration:** 1-3 hours depending on reading speed, number of projects
-& project size*
+_**Duration:** 60-180 minutes depending on reading speed, number of projects & project size_
 
-Projects have their own narrow definition in GTD. Anything that takes
-**more than one step** to be completed AND done within a year is called
-a project. In the process, projects are somewhat more complex tasks, one
-after the other and/or in parallel. Therefore, it is important to get an
-idea of the target state and to go through the \"whole\" project at the
+Projects have their own definition in GTD. Anything that takes
+**more than one step** to be completed AND that can be done within a year is called
+a project. Projects are more complex tasks that run in sequence or in parallel. Therefore it is important to get an idea of the target state and to go through the whole project at the
 beginning.
 
--   Read Chapter 3 &10 in David Allen\'s book [\"How to Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
-
--   Watch the video [\"If you don\'t become like the
-    children\"](https://youtu.be/qkDWzHJZtHs) by Dr. Joachim
-    Schlosser.[BlogArticles.](https://www.schlosser.info/5-schritte-zu-natuerlicher-projektplanung-nach-gtd/)
-
+-   Read Chapter 3 und10 in David Allen\'s book \"How to Get Things Done\".
+    
 -   Work through a new or existing project according to these rules and
-    transfer the results to your GTD system
+    transfer the results to your GTD system.
+    
 
-As promised in the past, we are devoting time to the Pillar at this
-point. In preparation for the following weeks, please schedule these
-dates & appointment series firmly in your calendar:
+In preparation for the following weeks, please schedule these
+dates and appointment series in your calendar:
 
--   One-time: 2-3 hours for Kata 08 - Desk-Sweep
+-   Once: 2-3 hours for Kata - Desk-Sweep
 
--   1-2 daily very short appointments (05-15 minutes) for \"Process &
+-   1-2 daily very short appointments (5-15 minutes) for \"Process and
     Organize\"
 
--   1 appointment weekly review (90-120 minutes) -\> If not already done
-    in Kata 05
+-   1 appointment weekly review (90-120 minutes), if not already done
+    in the respective Kata
 
--   Collecting is a passant or is part of the weekly review
-
-**ProTip**: As a rule, 80% of projects consist of the Results & Next
-Steps steps, 15% of projects from the Brainstorming & Results & Next
-Steps steps, and 5% of projects from steps 1-5.
+-   Collecting is done continuously or is part of the weekly review
 
 ### Work through the 5 phases (Kata)
 
-***Duration:** 2-4 hours*
+_**Duration:** 120-240 minutes_
 
 You have dealt intensively with the individual 5 phases of GTD in the
 last 7 weeks. You\'ve got all the necessary materials, set up your
 workplace, set up your individual system, prepared lists & contexts and
-practiced the weekly review and know how to identify the next step
+practiced the weekly review. And you know how to identify the next action.
 
-Now, in theory, you know everything you need to know to get the **whole
+Now in theory, you know everything you need to know to get the **whole
 process going.** Every single phase in itself is important, but only as
-a closed circuit will the process unfold its full potential for you.
+a closed cycle the process will unfold its full potential for you.
 
 You\'re ready! Starting this week, we\'ll get the whole system up and
 running. Continue to work through the 5 phases of GTD this week.
@@ -1082,7 +1030,7 @@ running. Continue to work through the 5 phases of GTD this week.
 
 -   Now you start to put everything around your workplace to a very
     simple exam. Take EVERY thing in your hand and ask The One Question:
-    Can this go away?
+    Can this be eliminated?
 
 -   If so, dispose of it immediately, otherwise put it in your inbox.
 
@@ -1097,28 +1045,23 @@ Then go through phases 1-5 iteratively again and again.
 
 ### The Power of the Next Step (Kata)
 
-***Duration:** 2-3 hours depending on reading speed & number of
-projects*
+_**Duration:** 120-180 minutes depending on reading speed & number of projects_
 
-In David Allen\'s estimation, the question is **\"What is the next
-step?\"**the essential key question to generate measurable improvements
-in the process. This question forces clarity, competence, productivity
-and increased competence.
+According to David Allen the question "What is the next step?\"** is essential to generate measurable improvements in the process. This question forces clarity, responsibility, productivity and increased competence.
 
--   Read Chapters 11, 12 & 13 in David Allen\'s book [\"How to Get
-    Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
+-   Read Chapters 11, 12 and 13 in David Allen\'s book \"How to Get Things
+    Done\".
+    
+-   To all the tasks that need to be done next in your lists add the context
+    \@NextAction.
 
--   Verse all the tasks to be done next in your lists with the context
-    \"NextAction\"
+-   Ad the question **\"What is the next step?\" **into your daily
+    routine.
 
--   Ask the question **\"What is the next step?\"**into your daily
-    routines
+Iterate the 5 phases again this week. If it works, keep going. If
+it doesn\'t work, adapt your system.
 
-Iterate the 5 phases again this week -\> If it works, keep doing it. If
-it doesn\'t work, customize your system.
-
-**ProTip: Consider whether you always want to** add additional
+**ProTip:** Consider whether you always want to add additional
 attributes when creating a new task. E.g. time required or energy
 required. This will help you decide in Phase 5 what is important NOW.
 
@@ -1128,106 +1071,86 @@ accepted\", \"The board has decided X or Y\".
 
 ### The 6-horizon model (Kata)
 
-***Duration:** 1-3 hours depending on reading speed & altitude*
+_**Duration:** 60-180 minutes depending on reading speed & altitude_
 
 A third model, besides the **\"Four Criteria\"** and the **\"Three
 Steps\"** from the Kata \"Complete\", can help us to reflect our own
-work even better. Assuming that we have a firm grip on levels 0-2
+work even better. Assuming that we are proficient on levels 0-2
 (actions, projects and areas of responsibility) through the consistent
-application of our GTD system, we will focus on levels 3-5 (future
+application of our GTD system. We will focus now on levels 3-5 (future
 factors, orientations and intentions).
 
-We should do this reperated, but at least once a year.
+We should do this regularly, but at least once a year.
 
--   Read Chapter 9 (The 6-Step Model) in David Allen\'s book [\"How to
-    Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
-
--   Check out Claudia Schramm\'s leaflet on the metaphor of altitude
-
+-   Read Chapter 9 (The 6-Step Model) in David Allen\'s book \"How to Get Things Done\".
+    
 -   Start thinking about what goals you want to set for the next 1-2
-    years. WriteeachIdeaauf a leaf
+    years. Write each idea down.
 
 -   Then focus on a time horizon that is 3-5 years in the future. Where
-    do you want to be, where will your company be, what external
-    influences will directly or indirectly affect you. WriteeachIdeaon a
-    Blatt
-
--   Finally, consider what sense your existence had and should have had
-    in a time much further than 5 years in the future. WriteeachIdeaon a
-    sheet.
-
+    do you want to be then? Where will your company be? What external
+    influences will directly or indirectly affect you? Write each idea down.
+    
+-   Finally consider what purpose your existence had and should have had
+    in a time much further than 5 years in the future. Write each idea down.
+    
 -   Process the notes and decide if there\'s something you really,
-    really want to get going. Ifnot, disposalthe idea.
+    really want to get going. If not, dispose all ideas.
 
 -   Decide on the ideas that are left over, what you want to do with it.
-    Such as.
-
-    -   Create a new project
-
-    -   On the list One day / Maybe put
-
-    -   Work out even more ideas for the future (with a partner or
+    Such as
+-   Create a new project
+    
+-   Put on the list Some day / Maybe
+    
+-   Work out even more ideas for the future (with a partner or
         friend)
-
-    -   Ask ideas with other parts & for feedback
-
-    -   Get professional help (coach)
-
--   Set up an appointment in your calendar (\<= 12 months) on which you
+    
+-   Share ideas with others and ask for feedback
+    
+-   Get professional help (e.g. coach)
+    
+-   Set up an appointment in your calendar (\< 12 months) on which you
     want to repeat this exercise
 
-Iterate the 5 phases again this week -\> If it works, keep doing it. If
-it doesn\'t work, customize your system
+**ProTip:** For this exercise, look for a place where nothing doesn\'t bother you.
 
-**ProTip:** For this exercise, look for a place where nothing doesn\'t
-bother you.
+**ProTip:** Choose a time at which you have a lot of energy.
 
-**ProTip:** Choose a time when you\'re still fit in your head.
-
-**ProTip:** Make sure you don\'t have a follow-up date to this exercise
-right away.
-
-**ProTip:** The [OKR learning
-path](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de-OKR.pdf)
-is a very good help to help you develop & formulate goals.
+**ProTip:** Make sure you don\'t have a follow-up event to this exercise.
 
 ### Continuous Improvement - The Road to Mastery (Kata)
 
-***Duration:** 1-3 hours depending on reading speed & number of ideas*
+_**Duration:** 1-3 hours depending on reading speed & number of ideas_
 
-We have already got to know and practicetwo of the three stages on the
-way to the championship in the last 10 weeks. Apply ingpah & the
-6-horizon model. For experts, focus, orientation & creativity are still
-on the agenda. It is simply a matter of using the time freed up to
-*endlessly* optimize the experience.
+We have already got to know and practice two of the three stages on the
+way to the mastery in the last weeks. Applying the basics and the
+6-horizon model. For experts focus, orientation and creativity are still
+on the agenda. It is simply a matter of using the gained time to
+endlessly optimize the experience.
 
--   Read Chapter 15 in David Allen\'s book [\"How to Get Things
-    Done\"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1)
+-   Read Chapter 15 in David Allen\'s book \"How to Get Things Done\".
+    
+-   Choose 1-3 ideas from the last Kata.
 
--   Choose 1-3 ideas from Kata 10
+-   Continue to work out these ideas for concrete projects and tasks.
 
--   Continue to work out these ideas for concrete projects & tasks.
-
-    -   What needs to be started now to fulfill the ideas & wishes in
+    -   What needs to be started now to fulfill the ideas and wishes in
         2-5 years?
 
-    -   Discuss these ideas with people whose advice you value
+    -   Discuss these ideas with people whose advice you value.
 
-    -   Build a network of new contacts that can help you achieve your
-        goals
+    -   Develop a network of new contacts that can help you achieve your
+        goals.
 
--   Stock more and more \"thinking\" to create new values
+-   Outsource more and more \"thinking\" to your GTD System
 
-    -   Find an area you haven\'t captured in your GTD system yet
+    -   Find an area you haven\'t captured in your GTD system yet.
 
-    -   Integrate these areas into your GTD routines
+    -   Integrate these areas into your GTD routines.
 
--   Set up an appointment in your calendar (\<= 3 months) on which you
-    want to repeat this exercise
-
-Iterate the 5 phases again this week -\> If it works, keep doing it. If
-it doesn\'t work, customize your system
+-   Set up an appointment in your calendar (\< 3 months) on which you
+    want to repeat this exercise.
 
 **ProTip:** The WOL Learning Path is the ideal support to help you build
 a network of contacts that can help you achieve your goals.

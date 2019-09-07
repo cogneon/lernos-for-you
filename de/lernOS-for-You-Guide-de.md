@@ -275,7 +275,9 @@ Dieser Lernpfad ist eine auf 11 Übungen verkürzte Version der Circle Methode v
 
 ### Gestalte dein Future Backwards (Kata)
 
-*Gestalte deine Zukunft durch Reflexion von Gegenwart und Vergangenheit und den Entwurf einer persönlichen Vision (30 Minuten)*
+**Gestalte deine Zukunft durch Reflexion von Gegenwart und Vergangenheit und den Entwurf einer persönlichen Vision**
+
+_**Dauer:** 30 Minuten_
 
 Diese Kata basiert auf der Methode [The Future, Backwards](https://cognitive-edge.com/methods/the-future-backwards/) von Dave Snowden. Mit der Kata erhält man eine gute Sicht auf die persönliche Gesamtsituation durch einen Blick in die Vergangenheit und auf mögliche Zukünfte. Die Perspektive der Kata kann kurzfristig (1-2 Jahre), mittelfristig (3-5 Jahre) oder langfristig (ganzes Leben) sein.
 
@@ -329,11 +331,11 @@ geben können.
 
 ### Mein Ziel für die nächsten 12 Wochen (Kata)
 
+_**Dauer:** 25 Minuten_
+
 Was willst du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dich wirklich, wirklich wichtig ist und bei dem du im Sprint Fortschritte machen kannst. du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Für den NOOB Pfad ist es nicht erste Priorität, das Ziel zu erreichen. Im Fokus steht zu lernen, wie du mit Hilfe eines offenen Arbeitsstils und der Entwicklung eines Netzwerks Ziele einfacher erreichst.
 
 ![Meine Ziele für die nächsten 12 Wochen](images/lernOS-Kata-02.png)
-
-**Übung (25 Minuten):**
 
 Wähle ein Ziel für die nächsten 12 Wochen. Verwende die Fragen
 "Ist es mir wirklich, wirklich wichtig?", "Kann ich es in 12 Wochen
@@ -376,6 +378,8 @@ Teile deine Ziele im Circle (10 Minuten).
 
 ### Menschen, die mit meinem Ziel zu tun haben (Kata)
 
+_**Dauer:** 20 Minuten_
+
 Die meisten unserer Aufgaben haben andere schon früher
 erledigt. Die meisten unserer Fehler, sind schon in der
 Vergangenheit gemacht worden. Du kannst Zugang zu diesem Wissen und
@@ -388,8 +392,6 @@ Menschen interessieren, als wenn Sie zwei Jahre versuchen, andere Menschen
 für sich zu interessieren". Wie kommst du also mit Menschen in
 Kontakt, die mit deinen Zielen in Verbindung stehen und wie kannst du eine Beziehung
 mit ihnen aufbauen?
-
-**Übung (20 Minuten):**
 
 Erstelle eine Liste von mindestens zehn Personen, die mit Deinen
 Zielen in Zusammenhang stehen. Wenn du die Leute nicht namentlich
@@ -418,14 +420,14 @@ vervollständigen (10 Minuten).
 
 ### Deine erste Erfahrung des Teilens (Kata)
 
+_**Dauer:** 40 Minuten_
+
 Sharing is caring! In der digitalen Welt wird das Teilen oft als Bereitstellen
 von Dateien oder digitalen Inhalten gesehen. Aber es
 geht auch viel einfacher: Teile deine Aufmerksamkeit mit einer anderen
 Person, z.B. indem du ihr folgst, ihre Inhalte "likest" oder dir ihre
 Website abonnierst. Indem du Aufmerksamkeit teilst, vertiefst du Deine
 Beziehungen mit jedem Beitrag, den du machst.
-
-**Übung (40 Minuten):**
 
 Suche nach einer Online-Präsenz für jede Person in Deiner Beziehungsliste (z.b. Website, Blog, Profil im sozialen
 Netzwerk). Suche nach Möglichkeiten, Aufmerksamkeit zu
@@ -443,14 +445,14 @@ Besprecht Eure Erfahrungen im Circle (20 Minuten).
 
 ### Ein Termin mit dir selbst (Kata)
 
+_**Dauer:** 15 Minuten_
+
 Nimmst du dir ausreichend Zeit für deine persönliche Entwicklung und für
 die Arbeit an deinen Zielen? Viele Menschen sind mit ihren
 täglichen Aufgaben beschäftigt und kümmern sich nicht genug um Ihre
 Entwicklung und Ihr Wohlbefinden. Ein guter Ansatz ist es, einen Termin
 mit sich selbst zu vereinbaren und sich diese Zeit im Kalender zu
 reservieren.
-
-**Übung (15 Minuten):**
 
 Überprüfe deinen Kalender und suche nach möglichen Terminen mit Dir
 selbst. Eine Stunde oder sogar 30 Minuten pro Woche ist ein guter
@@ -468,6 +470,8 @@ Besprecht Eure Ansätze im Circle.
 
 ### Google Dich selbst! (Kata)
 
+_**Dauer:** 10 Minuten_
+
 Was sehen Menschen, die Dich im Netz
 suchen? Bekommen sie eine Vorstellung davon, wer du bist und wie sie
 Dir bei deinen Zielen helfen können? Du kannst diese Situation
@@ -475,8 +479,6 @@ simulieren, indem du Dich selbst googelst (oft als egosurfing, egosearch
 oder vanity search bezeichnet).
 
 ![](images/lernOS-Kata-13.png)
-
-**Übung (10 Minuten):**
 
 Öffne eine Suchmaschine im Netz und gebe
 Deinen Namen ein. Öffne mindestens die ersten zehn Suchergebnisse und
@@ -508,6 +510,8 @@ Der digitale Zwilling repräsentiert Dich im Netz:
 
 ### 25 Fakten über mich (Kata)
 
+_**Dauer:** 25 Minuten_
+
 Welche interessanten Fakten über Dich können dir helfen, Dich mit
 anderen Menschen zu vernetzen? Wenn du Dich für ein Studium an der
 Fuqua Business School bewerben willst, musst du einen Aufsatz mit einer Liste
@@ -530,8 +534,6 @@ studiert!"). Fakten über Dich selbst sind beispielsweise:
 * Leistungen
 * Lustige Fakten
 * Alles, was hilft zu verstehen, was Dich ausmacht und wer du bist
-
-**Übung (25 Minuten):**
 
 Erstelle eine Liste von zehn Fakten über Dich selbst. Dann
 lies die ["Fuqua 25 random things do’s and dont’s"](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts)
@@ -571,13 +573,13 @@ Teile deine Fakten über Dich im Circle (10 Minuten).
 
 ### Meine Top 10 WissensWerte (Kata)
 
+_**Dauer:** 30 Minuten_
+
 Was sind die wichtigsten Ressourcen im Zusammenhang mit deinen Zielen,
 die du teilen kannst? Eine Ressource kann ein
 Buch, ein Video, ein Link, ein Dokument, eine Checkliste, eine
 Präsentation etc. sein. Wenn deine Ressourcen einfach
 per Link teilbar sind, kannst du sie unkompliziert im Netzwerk teilen.
-
-**Übung (30 Minuten):**
 
 Wähle eines Deiner Ziele und schreibe mindestens zehn
 Ressourcen auf, die dafür nützlich oder interessant sind:
@@ -597,6 +599,8 @@ Stelle deine Top 10 Liste im Circle vor und besprecht sie (10 Minuten).
 
 ### Aktualisiere deinen digitalen Zwilling (Kata)
 
+_**Dauer:** 20 Minuten_
+
 Stellt dein digitaler Zwilling Dich so dar, wie du es möchtest? Viele
 Menschen melden sich in einem sozialen Netzwerk an und
 aktualisieren Ihr Profil nie mehr. Du solltest dein Profil
@@ -604,8 +608,6 @@ auf dem neuesten Stand halten und regelmäßig überprüfen (z.B.
 wiederkehrende Aufgabe alle drei Monate). Die Fakten über Dich, aktuelle
 Projekte und aktuelle Interessen sollten auf dem Profil
 sichtbar sein.
-
-**Übung (20 Minuten):**
 
 Überprüfe im Online-Profil, ob du ein ansprechendes Bild, eine kurze Beschreibung und einen Slogan hast.
 Liste Verbesserungsideen auf, die du umsetzen möchtest:
@@ -623,8 +625,9 @@ Liste Verbesserungsideen auf, die du umsetzen möchtest:
 
 ### Finde Communities, die mit Deinem Ziel in Verbindung stehen (Kata)
 
-Ein "Tribe" ist [laut Seth
-Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead)
+_**Dauer:** 15 Minuten_
+
+Ein "Tribe" ist [laut Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead)
 eine Gruppe von Menschen, die mit einem Anführer und einer Idee verbunden ist.
 Anstelle von Tribe wird oft auch
 der Begriff "Community" oder "Community of Practice" (Praxisgemeinschaft) verwendet.
@@ -632,8 +635,6 @@ Eine Gruppe braucht zwei Dinge zur Interaktion: ein
 gemeinsames Interesse und eine Möglichkeit zu kommunizieren. Communities brauchen
 Führung. Manchmal führt eine Person, manchmal mehrere. Welches sind die
 Communities, die mit deinen Zielen in Zusammenhang stehen?
-
-**Übung (15 Minuten):**
 
 Suche nach Communities, die mit deinen Zielen in Zusammenhang
 stehen, und finde mindestens zehn (verwende z.B.
@@ -658,13 +659,13 @@ Sprecht über die Liste im Circle und helft Euch gegenseitig beim Vervollständi
 
 ### Bringe dein ICH ein (Kata)
 
+_**Dauer:** 20 Minuten_
+
 Nicht alle Beiträge in Deinem Netzwerk müssen mit deinen Zielen im Zusammenhang stehen.
 Manchmal teilt man besser etwas über sich selbst, um eine
 persönliche Verbindung herzustellen. Die Liste der Fakten über Dich
 kann helfen, interessante Querbeziehungen zu anderen Menschen zu finden.
 Versuche solche zu finden und verwende sie, um eine Verbindung herzustellen.
-
-**Übung (20 Minuten):**
 
 Gehe durch die Fakten über Dich und finde mindestens ein
 Fakt, das für eine Person auf Deiner Beziehungsliste interessant
@@ -675,6 +676,8 @@ die Beziehung anhand dieses Fakts zu vertiefen:
 
 ### Ein Brief an mein zukünftiges Ich (Kata)
 
+_**Dauer:** 35 Minuten_
+
 Der Brief an dein zukünftiges Ich ist eine klassische Methode zur
 Selbstmotivation. Du reflektierst deine aktuelle
 Situation und gibst Deinem zukünftigen Ich einen Rat. Du schreibst den
@@ -682,8 +685,6 @@ Brief, adressierst ihn an Dich selbst und öffnest ihn in der
 Zukunft. Mit dem Brief im Hinterkopf erhöht sich die Wahrscheinlichkeit, dass deine Wünsche
 eine [sich selbst erfüllende
 Prophezeiung](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy) werden.
-
-**Übung (35 Minuten):**
 
 Schreibe einen Brief an dein zukünftiges Ich. Sprich
 darüber, wer du jetzt bist (z.B. Zusammenfassung, Ängste,
@@ -892,158 +893,150 @@ Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Review-Ergebnis
 
 ## GTD Lernpfad
 
-Sich selbst und seine Arbeitsweise zu organisieren und zu [optimieren](https://lexikon.stangl.eu/19425/selbstoptimierung/) kann sehr motivierend sein. Viele Menschen stehen heute vor dem Problem im Hamsterrad der Tages- und Routinearbeiten zu versinken und keine Zeit für wertschöpfende Dinge zu haben, geschweigen denn sich Gedanken darüber zu machen, wohin sie sich mittel- bis langfristig entwickeln wollen. 
+Sich selbst und seine Arbeitsweise zu organisieren und zu optimieren kann sehr motivierend sein. Viele Menschen stehen heute vor dem Problem, im Hamsterrad der Tages- und Routinetätigkeiten zu versinken und keine Zeit für wertschöpfende Dinge zu haben, geschweigen denn sich Gedanken darüber zu machen, wohin sie sich mittel- bis langfristig entwickeln wollen. 
 
 Alle Elemente von GTD werden schon lange erfolgreich eingesetzt. David Allen hat einige dieser Methoden so zusammengestellt und kombiniert, das die Wirkung größer ist als die Summe seiner Teile.
 
-GTD ist eine Möglichkeit sich in unserer [VUCA-Welt](https://de.wikipedia.org/wiki/VUCA) die Freiräume zu schaffen, um uns fit für die Zukunft zu machen. 
+GTD ist eine Möglichkeit sich in unserer VUCA-Welt die Freiräume zu schaffen, um uns fit für die Zukunft zu machen. 
 
-**Die Herausforderung:** Man muss das [Buch](https://www.amazon.de/gp/product/3492307205/ref=as_li_tl) eigentlich schon gelesen haben, um es wirklich zu verstehen. 
+**Die Herausforderung:** Man muss das [Buch](https://www.amazon.de/gp/product/3492307205/ref=as_li_tl) eigentlich schon gelesen haben, um GTD wirklich zu verstehen. 
 
-**Die Lösung:** Durch das etappenweise Aneignen der Regeln und Prinzipien, sowie dessen Einübung (KATA) innerhalb der nächsten 12 Wochen verstehst du den übergeordneten Gesamtzusammenhang und baust dir nach und nach dein **individuelles GTD-System** auf.
+**Die Lösung:** Durch das etappenweise Aneignen der Regeln und Prinzipien, sowie deren Einübung (Katas) innerhalb der nächsten 13 Wochen verstehst du den übergeordneten Gesamtzusammenhang und baust dir nach und nach dein eigenes GTD-System auf.
 
 ### Mach Dich mit den Grundlagen vertraut (Kata)
 
-_**Dauer:** 2-3 Stunden je nach Lesegeschwindigkeit, Lesetiefe und vorhandenen / fehlenden Materialien_
+_**Dauer:** 120-180 Minuten je nach Lesegeschwindigkeit, Lesetiefe und vorhandenen bzw. fehlenden Materialien_
 
 Die Grundlagen von GTD sind an vielen Stellen im Internet & in der Literatur dokumentier. Mach dich in dieser Woche mit den Grundlagen von GTD vertraut und schaffst dir ein Umfeld, welches Dich in eine optimale Situation versetzt. Dieses Umfeld basiert auf den drei Säulen Zeit, Ort und Werkzeug. Die Säule Zeit behandeln wir später.
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) die Kapitel 1, 2 & 4
-- Trage dein Arbeitsmaterial (Ablagekörbe, Stifte, Mappen, Haftnotizzettel, u.v.m.) zusammen 
-- Stelle deinen / deine Arbeitsbereich(e) um (Office / Home / ...)
+- Lies in David Allens Buch "Wie ich die Dinge geregelt kriege" die Kapitel 1, 2 & 4
+- Trage dein Arbeitsmaterial wie Ablagekörbe, Stifte, Mappen, Haftnotizzettel, etc. zusammen 
+- Stelle deine(n) Arbeitsbereich(e) (Office, Home etc.)
 
-**ProTip:**
+**ProTip:** Minimiere die Anzahl Deiner Eingangskörbe; 1x Office, 1x Home, 1x elektronisch (eMail).
 
-- Minimiere die Anzahl Deiner Eingangskörbe; 1x Office, 1x Home, 1x elektronisch (eMail)
-- eMails bleiben i.d.R: im eMailsystem und werden dort digital verwaltet
-- Alle anderen elektronischen Eingänge in das eMail-System weiterleiten und dort verwalten
-- Öfter mal etwas direkt wegschmeißen
-- Aktive Deaktivierung von Newslettern, Mailverteilern, Postverteilern, usw.
+**ProTip:** eMails bleiben i.d.R: im E-Mail-System und werden dort digital verwaltet.
+
+**ProTip:** Alle anderen elektronischen Eingänge in das E-Mail-System weiterleiten und dort verwalten.
+
+**ProTip:** Öfter mal etwas direkt wegschmeißen.
+
+**ProTip:** Aktive Deaktivierung von Newslettern, Mailverteilern, Postverteilern etc.
 
 ### Sammeln - Mind-Sweep (Kata)
 
-_**Dauer:** 1-2 Stunden je nach Lesegeschwindigkeit & Anzahl "loser Enden" im Kopf_
+_**Dauer:** 60-120 Minuten je nach Lesegeschwindigkeit und Anzahl "loser Enden" im Kopf_
 
-Wahrscheinlich trägst du eine Menge von Dingen in Deinem Kopf mit dir herum, und laufend kommen neuen hinzu. Diese ganzen losen Enden belasten deine Fähigkeit Dich zu fokussieren und die Dinge fertig zu bringen. Die Folgende Übung hilft dir deinen Kopf davon zu befreien, ohne das etwas in Vergessenheit gerät.
+Wahrscheinlich trägst du eine Menge von Dingen in Deinem Kopf mit dir herum und laufend kommen neuen hinzu. Diese ganzen losen Enden belasten deine Fähigkeit Dich zu fokussieren und die Dinge fertig zu bringen. Die folgende Übung hilft dir, deinen Kopf davon zu befreien, ohne das etwas in Vergessenheit gerät.
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 5
-- Schreibe nun **alles** auf, was dir durch den Kopf geht. Was ist jetzt & demnächst zu erledigen? Was muss jetzt angestoßen werden? Wer ist anzurufen .....
-- Pro Idee oder Aufgabe eine Seite (Die Überschrift reicht aus)
-- Lege jedes Blatt in deinen Eingangskorb
+- Lies das Kapitel 5 in David Allens Buch "Wie ich die Dinge geregelt kriege".
+- Schreibe nun **alles** auf, was dir durch den Kopf geht. Was ist jetzt und demnächst zu erledigen? Was muss jetzt angestoßen werden? Wer ist anzurufen?
+- Pro Idee oder Aufgabe eine Seite (Überschrift reicht aus).
+- Lege jedes Blatt in deinen Eingangskorb.
 
 Bei dieser Übung zählt die Masse. Höre erst auf, wenn nichts mehr kommt.
 
 ### Verarbeiten - Die 2 Minuten Regel (Kata)
 
-_**Dauer:** 1 - 1,5 Stunden je nach Lesegeschwindigkeit und Anzahl an Kleinzeugs_
+_**Dauer:** 60-90 Minuten je nach Lesegeschwindigkeit und Anzahl an Kleinzeugs_
 
-In dieser Woche verarbeitest du deinen Eingang und wendest konsequent die 2-Minuten Regel (Alles was in weniger als 2 Minuten zu erledigen ist, wird sofort erledigt) an. Du wendest die Regel sowohl bei der Durcharbeit Deines Eingangskorbs, als auch 
+In dieser Woche verarbeitest du deine Inbox und wendest konsequent die 2-Minuten Regel  an: Alles, was in weniger als 2 Minuten erledigt ist, wird sofort erledigt.
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 6
+- Lies das Kapitel 6 in David Allens Buch "Wie ich die Dinge geregelt kriege".
 
-- Nimm dir täglich 10-15 Minuten für “Kleinzeugs”
-- Arbeite fokussiert alles ab z. B. Antwortmails, Terminannahmen, Tweets, Likes, Feedback, Rückrufe, usw.
-- Unwichtiges wird gleich entsorgt ([TimeTimer](https://www.timetimer.com/) hilft beim Timeboxing)
+- Nimm dir täglich 10-15 Minuten für “Kleinzeugs”.
+- Arbeite fokussiert alles ab z. B. Antwortmails, Terminannahmen, Tweets, Likes, Feedback, Rückrufe etc.
+- Unwichtiges wird gleich entsorgt (eine Stoppuhr hilft beim Timeboxing).
 
 ### Organisieren - Listen & Kontexte aufbauen (Kata)
 
-_**Dauer:** 1-2 Stunden je nach Lesegeschwindigkeit und Vertiefungsdrang_
+_**Dauer:** 60-120 Minuten je nach Lesegeschwindigkeit und Vertiefungsdrang_
 
-Beim organisieren Deiner Aufgaben mit GTD hast du den größten Individualitätsgrad. Hier kannst du eine ganze Menge organisieren, aber auch schon ein Mindestset an Listen & Kontexten wird Dich sehr stark unterstützen den Überblick zu behalten.
+Beim Organisieren deiner Aufgaben mit GTD hast viele Möglichkeiten zu Individualisieren. Aber auch schon ein Mindestmaß an Listen und Kontexten wird dich unterstützen, den Überblick zu behalten.
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 7
-- Entscheide Dich für die Listentypen, die du verwenden willst (Mindestens: Projektliste, Aktionsliste, Kalender und Warten-auf Liste). Wichtige, aber nicht essentielle Listen (Referenzmaterial, Eines-Tages/Vielleicht, Unterstützungsmaterial für Aktionen, Unterstützungsmaterial für Projekte)
-- Definiere die Kontexte die du zukünftig verwenden willst (Z.B.: @Home, @Work, @Unterwegs, @Besorgungen, @Internet, @Anruf, @NächsteAktion, @Lesen ...)
+- Lies das Kapitel 7 in David Allens Buch "Wie ich die Dinge geregelt kriege".
+- Entscheide Dich für die Listentypen, die du verwenden willst (Mindestens: Projektliste, Aktionsliste, Kalender und Warten-auf Liste). Wichtige, aber nicht essentielle Listen sind Referenzmaterial, Eines-Tages/Vielleicht, Unterstützungsmaterial für Aktionen, Unterstützungsmaterial für Projekte.
+- Definiere die Kontexte, die du verwenden möchtest (z.B.: @Home, @Work, @Unterwegs, @Besorgungen, @Internet, @Anruf, @NächsteAktion, @Lesen).
 
-Egal, mit welchem Subset von Listen und Kontexten du arbeitest, es wird dir helfen die Übersicht zu behalten. 
+Ein Beispiel: Du pendelst regelmäßig mit der Bahn zur Arbeit und zurück? Dann kannst du ganz einfach alle deine Aufgaben nach den Kontexten @Unterwegs und @Lesen filtern und bekommst nur die angezeigt, die beim Pendeln auch Sinn machen. 
 
-Ein Beispiel: Du pendelst regelmäßig mit der Bahn zur Arbeit und zurück? Dann kannst du ganz einfach alle deine Aufgaben nach den Kontexten @Unterwegs, @Lesen filtern und bekommst nur die angezeigt, die beim Pendeln auch Sinn machen. 
-
-**ProTip:** Zu Beginn ist weniger mehr. Beginne zunächst mit einigen wenigen, aber wesentlichen Dingen. In den Iterationsphasen (Ab Woche 8) kommen die Dinge die dir noch fehlen automatisch dazu. 
-
-Kontextlisten dienen eigentlich nicht unmittelbar der Produktivität, sondern dem **systematischen Aufschieben der Dinge, die wichtig aber nicht dringend sind.** Aufschieben ist eine sinnvolle Taktik um wichtige Dinge später zu tun, weil man sie jetzt gerade nicht tun kann. 
+**ProTip:** Zu Beginn ist weniger mehr. Beginne zunächst mit einigen wenigen, aber wesentlichen Dingen. In den Iterationsphasen (ab Woche 8) kommen die Dinge, die dir noch fehlen, automatisch dazu. 
 
 ### Durchsehen - Der Wochenrückblick (Kata)
 
-_**Dauer:** 1-2 Stunden je nach Lesegeschwindigkeit und Vertiefungsdrang_
+_**Dauer:** 60-120 Minuten je nach Lesegeschwindigkeit und Vertiefungsdrang_
 
-Die Phase Durchsehen in GTD hat einen etwas anderen Charakter als die Vorgängerphasen. Sie dient hauptsächlich dazu, das dein System in Takt bleibt und ist damit das Herzstück des Systems. Du wirst Dich nur auf dein System verlassen können, wenn du diese Phase regelmäßig & zeitnah durchläufts 
+Die Phase Durchsehen in GTD hat einen etwas anderen Charakter als die Vorgängerphasen. Sie dient hauptsächlich dazu, dass dein System in aufgeräumt bleibt und ist damit das Herzstück des Systems. Du wirst dich nur auf dein System verlassen können, wenn du diese Phase regelmäßig durchläufst. Neben regelmäßigen kurzen Durchsichten deines Systems bildet der Wochenrückblick das Kernstück dieser Phase.
 
-Neben regelmäßigen kurzen Durchsichten Deines Systems bildet der Wochenrückblick das Kernstück dieser Phase.
-
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 8
-- Finde einen passenden Termin für den Wochenrückblick & trage Ihn dir als wiederholenden Termin in deinen Kalender ein (1-2 Stunden sollten es schon sein)
+- Lies das Kapitel 8 in David Allens Buch "Wie ich die Dinge geregelt kriege".
+- Finde einen passenden Termin für den Wochenrückblick und trage Ihn dir als wiederholenden Termin in deinen Kalender ein (1-2 Stunden sollten es schon sein).
 - Spiele den Wochenrückblick einmal für die letzte Woche durch
-  1. **Alles** in den Eingangskorb (was du bis dahin noch nicht dort abgelegt hast) 
+  1. **Alles** in den Eingangskorb, was du bis dahin noch nicht dort abgelegt hast 
   2. Den Eingang leeren
   3. **Nächste Schritte** durchsehen
-  4. Durchgeführte Termine durchsehen (Sind daraus ToDo's für Dich entstanden?)
-  5. Anstehende Termine durchsehen (Sind ToDo's zur Vorbereitung auf den Termin für Dich enthalten?)
+  4. Durchgeführte Termine durchsehen (sind daraus ToDo's für dich entstanden?)
+  5. Anstehende Termine durchsehen (sind ToDo's zur Vorbereitung auf den Termin für Dich enthalten?)
   6. **Warten-auf-Liste** durchsehen
   7. **Projekte-Liste** durchsehen
   8. **Mind-Sweepen**
 
 **ProTip:** Um den Wochenrückblick so angenehm wie möglich zu machen, verbinde Ihn mit Dingen die dir angenehm sind und Spaß machen. Z.B. dein Lieblingsgetränk, Lieblingsort, Lieblingsmusik oder deine Lieblingsuhrzeit.
 
-Eine Besonderheit für Dich ist, dass du mit deinen aktuellen lernOS Circlern das gleiche Ziel verfolgst. Suche dir einen Partner, denn gemeinsam geht vieles viel einfachen. 
-
 ### Erledigen (Kata)
 
-_**Dauer:** 2-4  Stunden je nach Lesegeschwindigkeit Arbeitsaufkommen_
+_**Dauer:** 120-240 Minuten je nach Lesegeschwindigkeit Arbeitsaufkommen_
 
-In dieser Phase wählen wir aus, was zu erledigen ist. Zwei Grundprinzipien werden Dich dabei unterstützen. Eine Dritte lernst du in Woche 10 kennen.
+In dieser Phase wählen wir aus, was zu erledigen ist. Zwei Grundprinzipien werden dich dabei unterstützen.
 
-- **Vier Kriterien zur Erledigung von Aufgaben**.  Filtern der Aufgaben (Nach Kontext/Zeit/Energie/ *Priorität* )
-- **Das Dreistufenmodell zur Bewertung der täglichen Arbeit**. Unterteilung in die drei Arten der Arbeit (Aufgaben definieren / Vordefinierte Aufgaben / Ungeplante Aufgaben)
+- **Vier Kriterien zur Erledigung von Aufgaben**. Filtern der Aufgaben nach Kontext/Zeit/Energie/*Priorität*.
+- **Das Dreistufenmodell zur Bewertung der täglichen Arbeit**. Unterteilung in die drei Arten der Arbeit (Aufgaben definieren, Vordefinierte Aufgaben, Ungeplante Aufgaben).
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 9 (Ohne das 6-Stufen-Modell)
-- Wähle einen Tag aus, an dem du bewusst an der Phase Erledigen arbeiten willst
-- Berücksichtige alle drei Arten von Arbeit für deine Zeit**planung**
+- Lies das Kapitel 9 in David Allens Buch "Wie ich die Dinge geregelt kriege" (Ohne das 6-Stufen-Modell).
+- Wähle einen Tag aus, an dem du bewusst an der Phase Erledigen arbeiten willst.
+- Berücksichtige alle drei Arten von Arbeit für deine Zeitplanung
   - Plane Zeit für mehrere tägliche Reviews ein (Überblick)
-  - Plane Zeit für "Organisieren & Verarbeiten" ein 
-  - Plane Zeit für die Erledigung geplanter Aufgaben ein (Termine mit dir selbst im Kalender eintragen - Blocker)
+  - Plane Zeit für "Organisieren und Verarbeiten" ein 
+  - Plane Zeit für die Erledigung geplanter Aufgaben ein (Termine mit dir selbst im Kalender eintragen)
   - Plane Zeit für die Erledigung ungeplanter Aufgaben ein (Luft im Kalender lassen)
 - Dein Tag ist geplant - Dann verschaffe dir einen Überblick der anstehenden Aufgaben und leg los
 
-**ProTip:** Dein Kalendertag sollte NIE ganz ausgeplant sein. 20% Puffer für ungeplante Aufgaben sind ein guter Richtwert
+**ProTip:** Dein Kalendertag sollte NIE ganz ausgeplant sein. 20% Puffer für ungeplante Aufgaben sind eine gute Daumenregel.
 
-Wenn du Termine mit anderen machst, plane diese immer **5 Minuten kürzer** (z.B: 25'  anstatt 30'  oder 55' anstatt 60' )
+**ProTip:** Wenn du Termine mit anderen machst, plane diese immer **5 Minuten kürzer** (z.B: 25 statt 30 Minuten oder 55 statt 60 Minuten).
 
 ### Projekte - Werdet wie die Kinder (Kata)
 
-_**Dauer:** 1-3  Stunden je nach Lesegeschwindigkeit, Projektanzahl & Projektgröße_
+_**Dauer:** 60-180 Minuten je nach Lesegeschwindigkeit, Projektanzahl & Projektgröße_
 
-Projekte haben in GTD eine eigene, enge Definition. Alles **was mehr als einen Arbeitsschritt** benötigt um vollendet zu werden UND innerhalb eines Jahres zu erledigen ist, wird als Projekt bezeichnet. I.d.R. sind Projekte etwas komplexere, nacheinander und/oder parallel ablaufender Aufgaben. Daher ist es wichtig sich ein Bild vom Zielzustand zu machen und das "ganze" Projekt zu Beginn einmal grob durchzugehen.  
+Projekte haben in GTD eine eigene Definition. Alles **was mehr als einen Arbeitsschritt** benötigt UND innerhalb eines Jahres zu erledigen ist, wird als Projekt bezeichnet. Projekte sind komplexere Aufgaben, die nacheinander oder parallel ablaufen. Daher ist es wichtig sich ein Bild vom Zielzustand zu machen und das ganze Projekt zu Beginn einmal grob durchzugehen.  
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 3 &10
+- Lies das Kapitel 3 und10 in David Allens Buch "Wie ich die Dinge geregelt kriege".
 
-- Schau dir das Video ["Wenn ihr nicht werdet wie die Kinder"](https://youtu.be/qkDWzHJZtHs) von Dr. Joachim Schlosser an. [Blog-Artikel.](https://www.schlosser.info/5-schritte-zu-natuerlicher-projektplanung-nach-gtd/)
+- Schau dir das Video ["Wenn ihr nicht werdet wie die Kinder"](https://youtu.be/qkDWzHJZtHs) von Dr. Joachim Schlosser an ([Blog-Artikel](https://www.schlosser.info/5-schritte-zu-natuerlicher-projektplanung-nach-gtd/)).
 
-- Arbeite ein Neue(s) oder bestehende(s) Projekte nach diesen Regeln durch und übertrage die Ergebnisse in dein GTD-System
+- Arbeite ein neue(s) oder bestehende(s) Projekte nach diesen Regeln durch und übertrage die Ergebnisse in dein GTD-System.
 
 
-Wie in zuvor versprochen, widmen wir uns der Säule Zeit an dieser Stelle. In Vorbereitung auf die folgenden Wochen planst du bitte diese Termine & Terminserien fest in Deinem Kalender ein: 
+In Vorbereitung auf die folgenden Wochen planst du bitte diese Termine und Terminserien in Deinem Kalender ein: 
 
-- Einmalig: 2-3 Stunden für Kata 08 - Desk-Sweep
-- 1-2 tägliche sehr kurze Termine (05-15 Minuten) für "Verarbeiten & Organisieren"  
-- 1 Termin Wochenrückblick (90-120 Minuten) -> Falls nicht in Kata 05 schon erledigt
-- Sammeln läuft i.d.R. en passant mit oder ist Teil des Wochenrückblicks
-
-**ProTip**: In der Regel bestehen 80% der Projekte  aus den Schritten Ergebnisse & Nächste Schritte, 15% der Projekte aus den Schritten  Brainstorming & Ergebnisse & Nächste Schritte und 5% der Projekte aus den Schritte 1-5.
+- Einmalig: 2-3 Stunden für die Kata - Desk-Sweep
+- 1-2 tägliche sehr kurze Termine (5-15 Minuten) für "Verarbeiten und Organisieren"  
+- 1 Termin Wochenrückblick (90-120 Minuten), falls nicht in der entsprechenden Kata schon erledigt
+- Sammeln läuft i.d.R. immer mit oder ist Teil des Wochenrückblicks
 
 ### Arbeite die 5 Phasen durch (Kata)
 
-_**Dauer:** 2-4 Stunden_
+_**Dauer:** 120-240 Minuten_
 
-Du hast Dich in den letzten 7 Wochen intensiv mit den einzelnen 5 Phasen von GTD auseinandergesetzt. Du hast dir alle notwendigen Materialien besorgt, deinen Arbeitsplatz eingerichtet, dein individuelles System aufgesetzt, Listen & Kontexte vorbereitet und den Wochenrückblick geübt und weißt, wie du den nächsten Schritt identifizierst
+Du hast Dich in den letzten 7 Wochen intensiv mit den einzelnen 5 Phasen von GTD auseinandergesetzt. Du hast dir alle notwendigen Materialien besorgt, deinen Arbeitsplatz eingerichtet, dein individuelles System aufgesetzt, Listen und Kontexte vorbereitet und den Wochenrückblick geübt. Und du weißt, wie du den nächsten Schritt identifizierst.
 
-Jetzt weißt du theoretisch alles, was du wissen musst, um den **Gesamtprozess in Gang zu** setzten. Jede einzelne Phase für sich ist wichtig, aber nur als geschlossener Kreislauf wird der Prozess sein ganzes Potential für Dich entfalten. 
+Jetzt weißt du theoretisch alles, was du wissen musst, um den **Gesamtprozess in Gang zu** setzten. Jede einzelne Phase für sich ist wichtig, aber nur als geschlossener Kreislauf wird der Prozess sein ganzes Potential für dich entfalten. 
 
 Du bist soweit! Ab dieser Woche bringen wir das Gesamtsystem zum laufen. Arbeite in dieser Woche kontinuierlich die 5 Phasen von GTD durch.
 
 **Initial - Desk-Sweep**
 
-* Jetzt beginnst du um deinen Arbeitsplatz herum alles einer sehr einfachen Prüfung zu unterziehen. Nimm JEDE Ding in die Hand und stelle Die die eine Frage:  Kann das weg? 
+* Jetzt beginnst du um deinen Arbeitsplatz herum alles einer sehr einfachen Prüfung zu unterziehen. Nimm JEDES Ding in die Hand und stelle Die die eine Frage:  Kann das weg? 
 * Wenn ja, entsorge es sofort, ansonsten lege es in deinen Eingangskorb. 
 * Wiederhole diesen Vorgang, bis alles durch deine Hänge gegangen ist. Mehr ist nicht zu tun.
 * Tipp: Beginne lokal (am Platz) und weite deine Suchen nach Zeug & Dingen konzentrisch weiter aus (Schreibtischoberfläche, Schubladen, Abstellflächen, Schränke, Fußböden & Regale etc.).
@@ -1052,71 +1045,64 @@ Dann die Phasen 1-5 iterativ immer wieder durchlaufen.
 
 ### Die Macht des nächsten Schritts (Kata)
 
-_**Dauer:** 2-3 Stunde je nach Lesegeschwindigkeit & Projektanzahl_
+_**Dauer:** 120-180 Minuten je nach Lesegeschwindigkeit & Projektanzahl_
 
 Nach David Allens Einschätzung ist die Frage **"Was ist der nächste Schritt?"** die essentielle Leitfrage um messbare Leistunsgverbesserungen zu erzeugen. Denn diese Frage erzwingt Klarheit, Zuständigkeit, Produktivität und gesteigerte Kompetenz.
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 11, 12 & 13
-- Versehe alle Aufgaben die als nächsten zu tun sind in deinen Listen mit dem Kontext @NächsteAktion
-- Baue die Frage **"Was ist der nächste Schritt?"** in deine Alltagsroutinen ein
+- Lies das Kapitel 11, 12 und 13 in David Allens Buch "Wie ich die Dinge geregelt kriege".
+- Versehe alle Aufgaben die als nächsten zu tun sind in deinen Listen mit dem Kontext \@NächsteAktion.
+- Baue die Frage **"Was ist der nächste Schritt?"** in deine Alltagsroutinen ein.
 
-Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe dein System an.
+Iteriere in dieser Woche wieder die 5 Phasen. Wenn es funktioniert, mach es weiter so. Wenn es nicht funktioniert, passe dein System an.
 
-**ProTip:** Überlege ob du ab jetzt auch immer bei der Anlage einer neuen Aufgabe gleich weitere Attribute mit anlegen willst. Z.B. Benötigte Zeit oder benötigte Energie. Dies hilft dir beim Entscheiden in Phase 5 zu entscheiden, was JETZT wichtig ist. 
+**ProTip:** Überlege, ob du ab jetzt auch immer bei der Anlage einer neuen Aufgabe gleich weitere Attribute mit anlegen willst. Z.B. Benötigte Zeit oder benötigte Energie. Dies hilft dir in Phase 5 zu entscheiden, was JETZT wichtig ist. 
 
-**ProTip:** Formuliere deine (Projekt)-Aufgaben möglichst immer vom Ergebnis her: "Die Auto-Inspektion ist durchgeführt", "Der Projekt ist abgenommen", "Der Vorstand hat X oder Y entschieden".
+**ProTip:** Formuliere deine (Projekt-)Aufgaben möglichst immer vom Ergebnis her: "Die Auto-Inspektion ist durchgeführt", "Der Projekt ist abgenommen", "Der Vorstand hat X oder Y entschieden".
 
 ### Das 6-Horizonte-Modell (Kata)
 
-_**Dauer:** 1-3 Stunde je nach Lesegeschwindigkeit & Flughöhe_
+_**Dauer:** 60-180 Minuten je nach Lesegeschwindigkeit und Flughöhe_
 
-Ein drittes Modell, neben den **"Vier Kriteren"** und den **"Drei Schritten"**  aus der Kata "Erledigen" kann uns helfen, die eigene Arbeit noch besser zu reflektieren. Gehen wir davon aus das wir durch die konsequente Anwendung unseres GTD-Systems die Stufen 0-2 (Handlungen, Projekte und Verantwortungsbereiche) fest im Griff haben, widmen wir uns hier den Stufen 3-5 (Zukunftsfaktoren, Ausrichtungen und Absichten). 
+Ein drittes Modell, neben den **"Vier Kriteren"** und den **"Drei Schritten"**  aus der Kata "Erledigen" kann helfen, die eigene Arbeit noch besser zu reflektieren. Gehe davon aus, dass du durch die konsequente Anwendung des GTD-Systems die Stufen 0-2 (Handlungen, Projekte und Verantwortungsbereiche) fest im Griff hast. Jetzt widmen wir uns hier den Stufen 3-5 Zukunftsfaktoren, Ausrichtungen und Absichten.
 
-Dies sollten wir regelässig, mindestens jedoch einmal im Jahr tun. 
+Dies sollten wir regelmässig tun, mindestens jedoch einmal im Jahr. 
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 9 (Das 6-Stufen-Modell)
-- Schau dir Claudia Schramm's Merkblatt zur Metapher Flughöhe an
-- Beginne zu überlegen welche Ziele du dir für die nächsten 1-2 Jahre vornehmen willst. Schreibe jede Idee auf ein Blatt
-- Konzentriere Dich dann auf einen Zeithorizont der 3-5 Jahre in der Zukunft liegt. Wo willst du dann stehen, wo wird deine Firma dann stehen, welche externen Einflüsse werden auf Dich direkt oder indirekt einwirken. Schreibe jede Idee auf ein Blatt
-- Überlege dir als letztes welchen Sinn dein Dasein in einer Zeit viel weiter als 5 Jahre in der Zukunft gehabt und haben soll. Schreibe jede Idee auf ein Blatt.
+- Lies das Kapitel 9 in David Allens Buch "Wie ich die Dinge geregelt kriege" (Das 6-Stufen-Modell).
+- Beginne zu überlegen, welche Ziele du dir für die nächsten 1-2 Jahre vornehmen willst. Schreibe jede Idee auf ein Blatt.
+- Konzentriere Dich dann auf einen Zeithorizont der 3-5 Jahre in der Zukunft liegt. Wo willst du dann stehen? Wo wird deine Firma dann stehen? Welche externen Einflüsse werden auf Dich direkt oder indirekt einwirken? Schreibe jede Idee auf ein Blatt.
+- Überlege dir als letztes, welchen Sinn dein Dasein in einer Zeit viel weiter als 5 Jahre in der Zukunft gehabt haben und haben soll. Schreibe jede Idee auf ein Blatt.
 - Verarbeite die Notizen und entscheide, ob etwas dabei ist, was du wirklich, wirklich in Gang bringen willst. Wenn nicht, entsorge die Idee.
-- Entscheide für die Ideen, die übrig geblieben sind, was du damit machen möchtest. z.B.
+- Entscheide für die Ideen, die übrig geblieben sind, was du damit machen möchtest, z.B.
   - Ein neues Projekt anlegen
   - Auf die Liste Eines Tages / Vielleicht setzen
-  - Noch mehr Zukunftsideen (Mit einem Partner oder Freund) ausarbeiten
-  - Die Ideen mit anderen Teilen & um Feedback bitten   
-  - Professionelle Hilfe (Coach) einholen
+  - Noch mehr Zukunftsideen (mit einem Partner oder Freund) ausarbeiten
+  - Die Ideen mit anderen Teilen und um Feedback bitten   
+  - Professionelle Hilfe (z.B. Coach) einholen
 
-- Stell dir einen Termin in Deinem Kalender ein, (<= 12 Monate) an dem du diese Übung wiederholen willst
+- Stell dir einen Termin in Deinem Kalender ein (< 12 Monate), an dem du diese Übung wiederholen willst
 
-Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe dein System an
+**ProTip:** Such dir für diese Übung einen Ort, an dem du durch nichts gestört werden kannst. 
 
-**ProTip:** Such dir für diese Übung einen Ort, an dem du durch nichts nicht gestört werden kannst. 
-
-**ProTip:** Wähle eine Uhrzeit, in der du noch fit im Kopf bist.
+**ProTip:** Wähle eine Uhrzeit, zu der du viel Energie hast.
 
 **ProTip:** Sorge dafür, dass du nicht gleich einen Anschlusstermin an diese Übung hast. 
 
-**ProTip:** Der [OKR-Lernpfad](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de-OKR.pdf) ist eine sehr gute Hilfe,  Dich  bei der Erarbeitung & Formulierung von Zielen zu unterstützen.
-
 ### Kontinuierliche Verbesserung - Der Weg zur Meisterschaft (Kata)
 
-_**Dauer:** 1-3 Stunde je nach Lesegeschwindigkeit & Anzahl der Ideen_
+_**Dauer:** 60-180 Minuten je nach Lesegeschwindigkeit und Anzahl der Ideen_
 
-Zwei der drei Stufen auf dem Weg zur Meisterschaft haben wir in den letzten 10 Wochen bereits kennengelernt und geübt. Anwendung der Grundlagen & das 6-Horizonte-Modell. Für Experten stehen nun noch Fokus, Ausrichtung & Kreativität auf dem Plan. Es geht schlicht darum, die frei gewordene Zeit zu benutzen, um die Erfahrungen *unendlich* zu optimieren.
+Zwei der drei Stufen auf dem Weg zur Meisterschaft haben wir in den letzten 10 Wochen bereits kennengelernt und geübt. Anwendung der Grundlagen und das 6-Horizonte-Modell. Für Experten stehen nun noch Fokus, Ausrichtung und Kreativität auf dem Plan. Es geht darum, die frei gewordene Zeit zu benutzen, um die Erfahrungen unendlich zu optimieren.
 
-- Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 15 
-- Wähle 1-3 Ideen aus Kata 10 aus
-- Arbeite diese Ideen weiter zu konkreten Projekten & Aufgaben aus. 
-  - Was muss jetzt gestartet  werden, damit sich die Ideen & Wünsche in 2-5 Jahren erfüllen?
-  - Besprich diese Ideen mit Personen, dessen Rat du schätzt  
-  - Baue dir ein Netzwerk von neuen Kontakten auf, die dir helfen können deine Ziele zu erreichen
-- Lagere immer mehr "Denken" aus, um neue Werte zu schaffen
-  - Suche dir einen Bereich den du noch nicht in Deinem GTD-System erfasst hast
-  - Integriere auch diese Bereiche in deine GTD-Routinen
--  Stell dir einen Termin in Deinem Kalender ein, (<= 3 Monate) an dem du diese Übung wiederholen willst
-
-Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe dein System an
+- Lies das Kapitel 15 in David Allens Buch "Wie ich die Dinge geregelt kriege".
+- Wähle 1-3 Ideen aus der letzten Kata aus.
+- Arbeite diese Ideen weiter zu konkreten Projekten und Aufgaben aus. 
+  - Was muss jetzt gestartet  werden, damit sich die Ideen und Wünsche in 2-5 Jahren erfüllen?
+  - Besprich diese Ideen mit Personen, deren Rat du schätzt.  
+  - Baue dir ein Netzwerk von neuen Kontakten auf, die dir helfen können deine Ziele zu erreichen.
+- Lagere immer mehr "Denken" in dein GTD-System aus
+  - Suche dir einen Bereich, den du noch nicht in Deinem GTD-System erfasst hast.
+  - Integriere auch diese Bereiche in deine GTD-Routinen.
+-  Stell dir einen Termin in Deinem Kalender ein, (< 3 Monate) an dem du diese Übung wiederholen willst.
 
 **ProTip:** Der WOL Lernpfad ist die ideale Unterstützung dir ein Netzwerk von Kontakten aufzubauen, die dir dabei helfen können, deine Ziele zu erreichen.
 
