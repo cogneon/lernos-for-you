@@ -2,7 +2,7 @@
 
 Das Verb "lernos" ist die Zukunftsform von "lernen" auf Esperanto (mi lernos = ich werde lernen, ni lernos = wir werden lernen). **lernOS** ist ein **Betriebssystem** für **Lebenslanges Lernen** und **Lernende Organisationen**. lernOS ist aber keine Software, sondern "Brainware". Es ist eine Art zu Denken und zu Handeln, um als Einzelperson, Team oder Organisation im 21. Jahrhundert erfolgreich zu sein. Das groß geschriebene "OS" im Namen unterstreicht die Bedeutung der Digitalisierung für unsere vernetzte Wissensgesellschaft.
 
-Zu lernOS gibt es **drei grundlegende Leitfäden** beschrieben, die den Ansatz auf **individueller Ebene** (lernOS für Dich), auf **Ebene von Teams** (lernOS für Teams) und auf **Ebene von Organisationen** (lernOS für Organisationen) beschreiben. Zusätzlich gibt es die **lernOS Toolbox**, die oft genutzte Methoden und Werkzeuge erklären (z.B. Podcast, Barcamp, Sketchnoting, Expert Debriefing). lernOS ist nicht auf der sprichwörtlichen grünen Wiese entstanden, sondern ist eine Zusammenstellung von bereits bestehenden und bewährten Methoden. Alle lernOS Leitfäden sind unter der **offenen Lizenz Creative Commons Attribution (CC BY)** auf der [lernOS Webseite](https://cogneon.de/lernos) verfügbar und können gerne an die eigenen Bedürfnisse angepasst werden.
+Zu lernOS gibt es **drei grundlegende Leitfäden**, die den Ansatz auf **individueller Ebene** (lernOS für Dich), auf **Ebene von Teams** (lernOS für Teams) und auf **Ebene von Organisationen** (lernOS für Organisationen) beschreiben. Zusätzlich gibt es die **lernOS Toolbox**, die oft genutzte Methoden und Werkzeuge erklärt (z.B. Podcast, Barcamp, Sketchnoting, Expert Debriefing). lernOS ist nicht auf der sprichwörtlichen grünen Wiese entstanden, sondern ist eine Zusammenstellung von bereits bestehenden und bewährten Methoden. Alle lernOS Leitfäden sind unter der **offenen Lizenz Creative Commons Attribution (CC BY)** auf der [lernOS Webseite](https://cogneon.de/lernos) verfügbar und können gerne an die eigenen Bedürfnisse angepasst werden.
 
 Wenn du **weitere Fragen** bezüglich lernOS hast, oder **Unterstützung von Gleichgesinnten** brauchst, kannst du die Community-Plattform [CONNECT](https://community.cogneon.de) nutzen oder mit [#lernOS](https://twitter.com/search?q=%23lernOS) auf Twitter schreiben. Beachte: Die Meisterschaft von lernOS ist eine Frage von Monaten oder Jahren, nicht Stunden oder Tagen. Also: **Keep Calm & Learn On!**
 
@@ -41,7 +41,7 @@ eine bessere Zukunft zu gestalten.
 lernOS kann Dir helfen, Dich fit für das 21. Jahrhundert zu machen.
 lernOS hilft Dir, Deine Aktivitäten
 zu organisieren und bewusst aus jeder Aktion zu lernen. Es fördert außerdem die
-Vernetzung mit anderen Menschen, damit Du nicht jedes Rad neu
+Vernetzung mit anderen Menschen, damit du nicht jedes Rad neu
 erfinden und jeden Fehler wiederholen musst.
 
 Und das Beste ist: lernOS ist frei, offen und leicht zu verstehen. Starte heute damit!
@@ -72,7 +72,7 @@ Das passiert in einem Learning Sprint:
 
 Die Beherrschung der VUCA-Welt des 21. Jahrhunderts erfordert Offenheit
 für Veränderungen und neue Ansätze. Es gibt eine Menge von Werkzeugen
-und Methoden. Aber wenn Du nicht offen bist, sie auszuprobieren, zu
+und Methoden. Aber wenn du nicht offen bist, sie auszuprobieren, zu
 experimentieren und zu scheitern, wird der Erfolg ausbleiben. Wie die
 Leute mit den "quadratischen Rädern" im Bild unten sind wir oft zu
 beschäftigt, um die neuen Chancen zu sehen.
@@ -131,7 +131,7 @@ Seit den 1980er Jahren sind Fähigkeiten wie das Lösen von
 Problemen und der Austausch mit anderen für den eigenen Erfolg am wichtigsten. Dazu gehören insbesondere
 Fähigkeiten, die in Zukunft nicht einfach durch Automatisierung und
 künstliche Intelligenz ersetzt werden können. Um fit für das 21.
-Jahrhundert zu werden, solltest Du folgende fünf Fähigkeitsbereiche trainieren
+Jahrhundert zu werden, solltest du folgende fünf Fähigkeitsbereiche trainieren
 ([Framework for 21st Century Learning](http://www.p21.org/our-work/p21-framework), [DigiComp 2.1 Framework](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use)):
 
 ![lernOS Skillset von @simondueckert, CC BY 4.0](images/lernOS-Skillset.png)
@@ -174,7 +174,7 @@ Du kannst die folgende Tabelle für eine Selbsteinschätzung am Anfang eines Lea
 Framework](https://learning.mozilla.org/en-US/web-literacy) bietet
 Übungen zu Digital Literacy und Fähigkeiten des 21. Jahrhunderts.
 
-### Toolset: Digitale Tools, die Du verwendest
+### Toolset: Digitale Tools, die du verwendest
 
 Das [Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) und
 die sozialen Medien gibt es seit 2005. Nicht jeder muss alle digitalen Tools
@@ -210,7 +210,7 @@ zu allen genannten Tools. In Zukunft wird es dort auch Tutorials zur Nutzung der
 
 ## lernOS Circle: Die Macht von "Peer Support"
 
-Wenn Du lernOS nicht alleine praktizieren möchtest, kannst Du Dich in einer Gruppe von 4-5
+Wenn du lernOS nicht alleine praktizieren möchtest, kannst du Dich in einer Gruppe von 4-5
 Personen, die Learning Circle genannt wird, zusammenschließen. Ein Circle ist eine [Peer
 Support](https://en.wikipedia.org/wiki/Peer_support) Gruppe, in der sich
 die Mitglieder gegenseitig mit Feedback, Erfahrung, Wissen und Reflexion
@@ -304,13 +304,13 @@ die Arbeitsthemen von lernOS abzudecken.
 Der lernOS Canvas kann von der [lernOS
 Webseite](https://lernOS.org) in verschiedenen Formaten heruntergeladen
 (z.B. PowerPoint, PDF, PNG) werden. Um mit dem Canvas flexibel arbeiten zu können,
-solltest Du nie darauf schreiben. Aus diesem Grund wurden
+solltest du nie darauf schreiben. Aus diesem Grund wurden
 Haftnotizen erfunden!
 
 ![lernOS Canvas von @simondueckert, CC BY 4.0](images/lernOS-Canvas-de.png)
 
 Der obere Teil des Canvas enthält
-Motivations- oder Mission Statement (wenn Du eines hast) und Nummer oder Datum des Sprints. Im
+Motivations- oder Mission Statement (wenn du eines hast) und Nummer oder Datum des Sprints. Im
 Bereich "Meine Ziele & Schlüsselergebnisse" werden die Ziele für den
 aktuellen Sprint dokumentiert. Die Bereiche "Meine Rollen", "Meine
 Aktivitäten", "Meine Projekte" und "Mein Wissen & Meine Fähigkeiten" können
@@ -322,14 +322,14 @@ etc.) werden in "Meine WissensWerte" aufgeführt. Die bei "Meine
 Ablageorte" aufgeführten Ablagen werden genutzt, um wertvolle Ressourcen
 großzügig mit dem Netzwerk zu teilen.
 
-**ProTip:** Wenn Du das lernOS OneNote Circle Template verwendest,
-kannst Du ein aktuelles Foto von Deinem Canvas machen und
+**ProTip:** Wenn du das lernOS OneNote Circle Template verwendest,
+kannst du ein aktuelles Foto von Deinem Canvas machen und
 einfügen, damit die anderen Circle-Mitglieder es sehen und Feedback
 geben können.
 
 ### Mein Ziel für die nächsten 12 Wochen (Kata)
 
-Was willst Du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dich wirklich, wirklich wichtig ist und bei dem Du im Sprint Fortschritte machen kannst. Du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Für den NOOB Pfad ist es nicht erste Priorität, das Ziel zu erreichen. Im Fokus steht zu lernen, wie Du mit Hilfe eines offenen Arbeitsstils und der Entwicklung eines Netzwerks Ziele einfacher erreichst.
+Was willst du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dich wirklich, wirklich wichtig ist und bei dem du im Sprint Fortschritte machen kannst. du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Für den NOOB Pfad ist es nicht erste Priorität, das Ziel zu erreichen. Im Fokus steht zu lernen, wie du mit Hilfe eines offenen Arbeitsstils und der Entwicklung eines Netzwerks Ziele einfacher erreichst.
 
 ![Meine Ziele für die nächsten 12 Wochen](images/lernOS-Kata-02.png)
 
@@ -338,10 +338,10 @@ Was willst Du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dic
 Wähle ein Ziel für die nächsten 12 Wochen. Verwende die Fragen
 "Ist es mir wirklich, wirklich wichtig?", "Kann ich es in 12 Wochen
 erreichen?", und "Kann mein Netzwerk helfen?", um zu testen, ob
-das Ziel für den Sprint geeignet ist. Wenn Du Probleme hast, ein gutes
+das Ziel für den Sprint geeignet ist. Wenn du Probleme hast, ein gutes
 Ziel zu finden, denke an Ziele zu Deine Rollen, Aktivitäten oder
-Projekten. Wenn Du dazu beitragen möchstes, die Welt zu einem
-besseren Ort zu machen, kannst Du Dir auch ein Ziel wählen aus dem Bereich der [17
+Projekten. Wenn du dazu beitragen möchstes, die Welt zu einem
+besseren Ort zu machen, kannst du Dir auch ein Ziel wählen aus dem Bereich der [17
 Ziele für nachhaltige Entwicklung der Vereinten
 Nationen](https://www.un.org/sustainabledevelopment/sustainable-development-goals) wählen.
 
@@ -379,21 +379,21 @@ Teile Deine Ziele im Circle (10 Minuten).
 Die meisten unserer Aufgaben haben andere schon früher
 erledigt. Die meisten unserer Fehler, sind schon in der
 Vergangenheit gemacht worden. Du kannst Zugang zu diesem Wissen und
-diesen Erfahrungen erhalten, indem Du mit
+diesen Erfahrungen erhalten, indem du mit
 erfahrenen Menschen in Kontakt trittst.
 Starke Beziehungen basieren auf Vertrauen, Teilen und Fürsorge. [Dale
 Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) sagte: "Sie
 können mehr Freunde in zwei Monaten gewinnen, indem Sie sich für andere
 Menschen interessen, als wenn Sie zwei Jahre versuchen, andere Menschen
-für sich zu interessieren". Wie kommst Du also mit Menschen in
-Kontakt, die mit Deinen Zielen in Verbindung stehen und wie kannst Du eine Beziehung
+für sich zu interessieren". Wie kommst du also mit Menschen in
+Kontakt, die mit Deinen Zielen in Verbindung stehen und wie kannst du eine Beziehung
 mit ihnen aufbauen?
 
 **Übung (20 Minuten):**
 
 Erstelle eine Liste von mindestens zehn Personen, die mit Deinen
-Zielen in Zusammenhang stehen. Wenn Du die Leute nicht namentlich
-kennst, kannst Du auch Rollen oder Beschreibungen auf die Liste setzen
+Zielen in Zusammenhang stehen. Wenn du die Leute nicht namentlich
+kennst, kannst du auch Rollen oder Beschreibungen auf die Liste setzen
 (z.b. "Bester WoW-Spieler in der Stadt", "Ein guter Kameramann",
 "Besitzer der Firma XY"). Nutze Deine Kontaktlisten oder
 soziale Netzwerke, um mehr Personen zu finden:
@@ -421,9 +421,9 @@ vervollständigen (10 Minuten).
 Sharing is caring! In der digitalen Welt wird das Teilen oft als Bereitstellen
 von Dateien oder digitalen Inhalten gesehen. Aber es
 geht auch viel einfacher: teile Deine Aufmerksamkeit mit einer anderen
-Person, z.B. indem Du ihr folgst, ihre Inhalt "likest" oder Dir ihre
-Website abonnierst. Indem Du Aufmerksamkeit teilst, vertiefst Du Deine
-Beziehungen mit jedem Beitrag, den Du machst.
+Person, z.B. indem du ihr folgst, ihre Inhalt "likest" oder Dir ihre
+Website abonnierst. Indem du Aufmerksamkeit teilst, vertiefst du Deine
+Beziehungen mit jedem Beitrag, den du machst.
 
 **Übung (40 Minuten):**
 
@@ -443,7 +443,7 @@ Besprecht Eure Erfahrungen im Circle (20 Minuten).
 
 ### Ein Termin mit Dir selbst (Kata)
 
-Nimmst Du Dir ausreichend Zeit für Deine persönliche Entwicklung und für
+Nimmst du Dir ausreichend Zeit für Deine persönliche Entwicklung und für
 die Arbeit an Deinen Zielen? Viele Menschen sind mit ihren
 täglichen Aufgaben beschäftigt und kümmern sich nicht genug um Ihre
 Entwicklung und Ihr Wohlbefinden. Ein guter Ansatz ist es, einen Termin
@@ -469,9 +469,9 @@ Besprecht Eure Ansätze im Circle.
 ### Google Dich selbst! (Kata)
 
 Was sehen Menschen, die Dich im Netz
-suchen? Bekommen sie eine Vorstellung davon, wer Du bist und wie sie
+suchen? Bekommen sie eine Vorstellung davon, wer du bist und wie sie
 Dir bei Deinen Zielen helfen können? Du kannst diese Situation
-simulieren, indem Du Dich selbst googelst (oft als egosurfing, egosearch
+simulieren, indem du Dich selbst googelst (oft als egosurfing, egosearch
 oder vanity search bezeichnet).
 
 ![](images/lernOS-Kata-13.png)
@@ -509,10 +509,10 @@ Der digitale Zwilling repräsentiert Dich im Netz:
 ### 25 Fakten über mich (Kata)
 
 Welche interessanten Fakten über Dich können Dir helfen, Dich mit
-anderen Menschen zu vernetzen? Wenn Du Dich für ein Studium an der
-Fuqua Business School bewerben willst, musst Du einen Aufsatz mit einer Liste
+anderen Menschen zu vernetzen? Wenn du Dich für ein Studium an der
+Fuqua Business School bewerben willst, musst du einen Aufsatz mit einer Liste
 von 25 zufälligen Dingen über Dich selbst schreiben, damit das
-Bewerbungsteam Dich besser kennenlernt. Wenn Du die Fakten über dich selbst
+Bewerbungsteam Dich besser kennenlernt. Wenn du die Fakten über dich selbst
 aufschreibst, sammele Informationen, die Dir helfen könnten, neue
 Beziehungen zu knüpfen, die auf ähnlichen Interessen und Hintergründen
 basieren (z.B. "Wir haben vor 20 Jahren am gleichen Ort
@@ -520,7 +520,7 @@ studiert!"). Fakten über Dich selbst sind beispielsweise:
 
 * Lebenserfahrungen
 * Deine Vorlieben/Abneigungen
-* Wo Du geboren wurdest/lebst
+* Wo du geboren wurdest/lebst
 * Familie, Kinder, Eltern
 * Schulen, Universitäten
 * Arbeitsplätze in der Vergangenheit
@@ -572,10 +572,10 @@ Teile Deine Fakten über Dich im Circle (10 Minuten).
 ### Meine Top 10 WissensWerte (Kata)
 
 Was sind die wichtigsten Ressourcen im Zusammenhang mit Deinen Zielen,
-die Du teilen kannst? Eine Ressource kann ein
+die du teilen kannst? Eine Ressource kann ein
 Buch, ein Video, ein Link, ein Dokument, eine Checkliste, eine
 Präsentation etc. sein. Wenn Deine Ressourcen einfach
-per Link teilbar sind, kannst Du sie unkompliziert im Netzwerk zu teilen.
+per Link teilbar sind, kannst du sie unkompliziert im Netzwerk zu teilen.
 
 **Übung (30 Minuten):**
 
@@ -597,7 +597,7 @@ Stelle Deine Top 10 Liste im Circle vor und besprecht sie (10 Minuten).
 
 ### Aktualisiere Deinen digitalen Zwilling (Kata)
 
-Stellt Dein digitaler Zwilling Dich so dar, wie Du es möchtest? Viele
+Stellt Dein digitaler Zwilling Dich so dar, wie du es möchtest? Viele
 Menschen melden sich in einem sozialen Netzwerk an und
 aktualisieren Ihr Profil nie mehr. Du solltest Dein Profil
 auf dem neuesten Stand halten und regelmäßig überprüfen (z.B.
@@ -607,8 +607,8 @@ sichtbar sein.
 
 **Übung (20 Minuten):**
 
-Überprüfe im Online-Profil, ob Du ein ansprechendes Bild, eine kurze Beschreibung und einen Slogan hast.
-Liste Verbesserungsideen auf, die Du umsetzen möchtest:
+Überprüfe im Online-Profil, ob du ein ansprechendes Bild, eine kurze Beschreibung und einen Slogan hast.
+Liste Verbesserungsideen auf, die du umsetzen möchtest:
 
 1.  ...
 2.  ...
@@ -686,10 +686,10 @@ Prophezeiung](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy) werden.
 **Übung (35 Minuten):**
 
 Schreibe einen Brief an Dein zukünftiges Ich. Sprich
-darüber, wer Du jetzt bist (z.b. Zusammenfassung, Ängste,
+darüber, wer du jetzt bist (z.b. Zusammenfassung, Ängste,
 Werte, Überzeugungen, Fähigkeiten, Fertigkeiten, Ziele,
 Hoffnungen). Dann erläutere Deinem zukünftigen Ich die Dinge,
-die Du stoppen/weitermachen/anfangen möchtest. Gib ihm
+die du stoppen/weitermachen/anfangen möchtest. Gib ihm
 Ratschläge und stelle ihm Fragen. Verschließe den Brief und
 verwahre ihn an einem sicheren Ort oder nutze Online-Dienste
 wie [futureme.org](https://futureme.org) um ihn automatisch an Dein
@@ -697,7 +697,7 @@ zukünftiges selbst zu senden:
 
 ![](images/lernOS-Kata-16.png)
 
-Wenn Du den Brief mit Deinen Circle-Mitgliedern teilen möchten, lies
+Wenn du den Brief mit Deinen Circle-Mitgliedern teilen möchten, lies
 ihn anschließend laut vor (15 Minuten).
 
 **Weitere Informationen:**
@@ -900,7 +900,7 @@ GTD ist eine Möglichkeit sich in unserer [VUCA-Welt](https://de.wikipedia.org/w
 
 **Die Herausforderung:** Man muss das [Buch](https://www.amazon.de/gp/product/3492307205/ref=as_li_tl) eigentlich schon gelesen haben, um es wirklich zu verstehen. 
 
-**Die Lösung:** Durch das etappenweise Aneignen der Regeln und Prinzipien, sowie dessen Einübung (KATA)  innerhalb der nächsten 12 Wochen verstehst Du den übergeordneten Gesamtzusammenhang und baust  Dir nach und nach Dein **individuelles GTD-System** auf.   
+**Die Lösung:** Durch das etappenweise Aneignen der Regeln und Prinzipien, sowie dessen Einübung (KATA)  innerhalb der nächsten 12 Wochen verstehst du den übergeordneten Gesamtzusammenhang und baust  Dir nach und nach Dein **individuelles GTD-System** auf.   
 
 ### Mach Dich mit den Grundlagen vertraut (Kata)
 
@@ -932,7 +932,7 @@ _**Kategorie:** Grundlagen_
 
 _**Schwierigkeits-Level:** Beginner_
 
-Wahrscheinlich trägst Du eine Menge von Dingen in Deinem Kopf mit Dir herum, und laufend kommen neuen hinzu. Diese ganzen losen Enden belasten Deine Fähigkeit Dich zu fokussieren und die Dinge fertig zu bringen. Die Folgende Übung hilft Dir Deinen Kopf davon zu befreien, ohne das etwas in Vergessenheit gerät.
+Wahrscheinlich trägst du eine Menge von Dingen in Deinem Kopf mit Dir herum, und laufend kommen neuen hinzu. Diese ganzen losen Enden belasten Deine Fähigkeit Dich zu fokussieren und die Dinge fertig zu bringen. Die Folgende Übung hilft Dir Deinen Kopf davon zu befreien, ohne das etwas in Vergessenheit gerät.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 5
 - Schreibe nun  **alles** auf, was Dir durch den Kopf geht. Was ist jetzt & demnächst zu erledigen? Was muss jetzt angestoßen werden? Wer ist anzurufen .....
@@ -949,7 +949,7 @@ _**Kategorie:** Grundlagen_
 
 _**Schwierigkeits-Level:** Beginner_
 
-In dieser Woche verarbeitest Du Deinen Eingang und wendest konsequent die 2-Minuten Regel (Alles was in weniger als 2 Minuten zu erledigen ist, wird sofort  erledigt) an. Du wendest die Regel sowohl bei der Durcharbeit Deines Eingangskorbs, als auch 
+In dieser Woche verarbeitest du Deinen Eingang und wendest konsequent die 2-Minuten Regel (Alles was in weniger als 2 Minuten zu erledigen ist, wird sofort  erledigt) an. Du wendest die Regel sowohl bei der Durcharbeit Deines Eingangskorbs, als auch 
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 6
 
@@ -965,15 +965,15 @@ _**Kategorie:** Grundlagen_
 
 _**Schwierigkeits-Level:** Beginner_
 
-Beim organisieren Deiner Aufgaben mit GTD hast Du den größten Individualitätsgrad. Hier kannst Du eine ganze Menge organisieren, aber auch schon ein Mindestset an  Listen & Kontexten wird Dich sehr stark unterstützen den Überblick zu behalten.
+Beim organisieren Deiner Aufgaben mit GTD hast du den größten Individualitätsgrad. Hier kannst du eine ganze Menge organisieren, aber auch schon ein Mindestset an  Listen & Kontexten wird Dich sehr stark unterstützen den Überblick zu behalten.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 7
-- Entscheide Dich für die Listentypen, die Du verwenden willst (Mindestens: Projektliste, Aktionsliste, Kalender und Warten-auf Liste). Wichtige, aber nicht essentielle Listen (Referenzmaterial, Eines-Tages/Vielleicht, Unterstützungsmaterial für Aktionen, Unterstützungsmaterial für Projekte)
-- Definiere die Kontexte die Du zukünftig verwenden willst (Z.B.: @Home, @Work, @Unterwegs, @Besorgungen, @Internet, @Anruf, @NächsteAktion, @Lesen ...)
+- Entscheide Dich für die Listentypen, die du verwenden willst (Mindestens: Projektliste, Aktionsliste, Kalender und Warten-auf Liste). Wichtige, aber nicht essentielle Listen (Referenzmaterial, Eines-Tages/Vielleicht, Unterstützungsmaterial für Aktionen, Unterstützungsmaterial für Projekte)
+- Definiere die Kontexte die du zukünftig verwenden willst (Z.B.: @Home, @Work, @Unterwegs, @Besorgungen, @Internet, @Anruf, @NächsteAktion, @Lesen ...)
 
-Egal, mit welchem Subset von Listen und Kontexten Du arbeitest, es wird Dir helfen die Übersicht zu behalten. 
+Egal, mit welchem Subset von Listen und Kontexten du arbeitest, es wird Dir helfen die Übersicht zu behalten. 
 
-Ein Beispiel: Du pendelst regelmäßig mit der Bahn zur Arbeit und zurück? Dann kannst Du ganz einfach alle Deine Aufgaben nach den Kontexten @Unterwegs, @Lesen filtern und bekommst nur die angezeigt, die beim Pendeln auch Sinn machen. 
+Ein Beispiel: Du pendelst regelmäßig mit der Bahn zur Arbeit und zurück? Dann kannst du ganz einfach alle Deine Aufgaben nach den Kontexten @Unterwegs, @Lesen filtern und bekommst nur die angezeigt, die beim Pendeln auch Sinn machen. 
 
 **ProTip:** Zu Beginn ist weniger mehr. Beginne zunächst mit einigen wenigen, aber wesentlichen Dingen. In den Iterationsphasen (Ab Woche 8) kommen die Dinge die Dir noch fehlen automatisch dazu. 
 
@@ -987,14 +987,14 @@ _**Kategorie:** Grundlagen_
 
 _**Schwierigkeits-Level:** Beginner_
 
-Die Phase Durchsehen in GTD hat einen etwas anderen Charakter als die Vorgängerphasen. Sie dient hauptsächlich dazu, das Dein System in Takt bleibt und ist damit das Herzstück des Systems. Du wirst Dich nur auf Dein System verlassen können, wenn Du diese Phase regelmäßig & zeitnah durchläufts 
+Die Phase Durchsehen in GTD hat einen etwas anderen Charakter als die Vorgängerphasen. Sie dient hauptsächlich dazu, das Dein System in Takt bleibt und ist damit das Herzstück des Systems. Du wirst Dich nur auf Dein System verlassen können, wenn du diese Phase regelmäßig & zeitnah durchläufts 
 
 Neben regelmäßigen kurzen Durchsichten Deines Systems bildet der Wochenrückblick das Kernstück dieser Phase.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 8
 - Finde einen passenden Termin für den Wochenrückblick & trage Ihn Dir als wiederholenden Termin in Deinen Kalender ein (1-2 Stunden sollten es schon sein)
 - Spiele den Wochenrückblick einmal für die letzte Woche durch
-  1. **Alles** in den Eingangskorb (was Du bis dahin noch nicht dort abgelegt hast) 
+  1. **Alles** in den Eingangskorb (was du bis dahin noch nicht dort abgelegt hast) 
   2. Den Eingang leeren
   3. **Nächste Schritte** durchsehen
   4. Durchgeführte Termine durchsehen (Sind daraus ToDo's für Dich entstanden?)
@@ -1005,7 +1005,7 @@ Neben regelmäßigen kurzen Durchsichten Deines Systems bildet der Wochenrückbl
 
 **ProTip:** Um den Wochenrückblick so angenehm wie möglich zu machen, verbinde Ihn mit Dingen die Dir angenehm sind und Spaß machen. Z.B. Dein Lieblingsgetränk, Lieblingsort, Lieblingsmusik oder Deine Lieblingsuhrzeit.
 
-Eine Besonderheit für Dich ist, dass Du mit Deinen aktuellen lernOS Circlern das gleiche Ziel verfolgst. Suche Dir einen Partner, denn gemeinsam geht vieles viel einfachen. 
+Eine Besonderheit für Dich ist, dass du mit Deinen aktuellen lernOS Circlern das gleiche Ziel verfolgst. Suche Dir einen Partner, denn gemeinsam geht vieles viel einfachen. 
 
 ### Erledigen (Kata)
 
@@ -1015,13 +1015,13 @@ _**Kategorie:** Grundlagen_
 
 _**Schwierigkeits-Level:** Beginner_
 
-In dieser Phase wählen wir aus, was zu erledigen ist. Zwei Grundprinzipien werden Dich dabei unterstützen. Eine Dritte lernst Du in Woche 10 kennen.
+In dieser Phase wählen wir aus, was zu erledigen ist. Zwei Grundprinzipien werden Dich dabei unterstützen. Eine Dritte lernst du in Woche 10 kennen.
 
 - **Vier Kriterien zur Erledigung von Aufgaben**.  Filtern der Aufgaben (Nach Kontext/Zeit/Energie/ *Priorität* )
 - **Das Dreistufenmodell zur Bewertung der täglichen Arbeit**. Unterteilung in die drei Arten der Arbeit (Aufgaben definieren / Vordefinierte Aufgaben / Ungeplante Aufgaben)
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 9 (Ohne das 6-Stufen-Modell)
-- Wähle einen Tag aus, an dem Du bewusst an der Phase Erledigen arbeiten willst
+- Wähle einen Tag aus, an dem du bewusst an der Phase Erledigen arbeiten willst
 - Berücksichtige alle drei Arten von Arbeit für Deine Zeit**planung**
   - Plane Zeit für mehrere tägliche Reviews ein (Überblick)
   - Plane Zeit für "Organisieren & Verarbeiten" ein 
@@ -1031,7 +1031,7 @@ In dieser Phase wählen wir aus, was zu erledigen ist. Zwei Grundprinzipien werd
 
 **ProTip:** Dein Kalendertag sollte NIE ganz ausgeplant sein. 20% Puffer für ungeplante Aufgaben sind ein guter Richtwert
 
-Wenn Du Termine mit anderen machst, plane diese immer **5 Minuten kürzer** (z.B: 25'  anstatt 30'  oder 55' anstatt 60' )
+Wenn du Termine mit anderen machst, plane diese immer **5 Minuten kürzer** (z.B: 25'  anstatt 30'  oder 55' anstatt 60' )
 
 ### Projekte - Werdet wie die Kinder (Kata)
 
@@ -1050,7 +1050,7 @@ Projekte haben in GTD eine eigene, enge Definition. Alles **was mehr als einen A
 - Arbeite ein Neue(s) oder bestehende(s) Projekte nach diesen Regeln durch und übertrage die Ergebnisse in Dein GTD-System
 
 
-Wie in zuvor versprochen, widmen wir uns der Säule Zeit an dieser Stelle. In Vorbereitung auf die folgenden Wochen planst Du bitte diese Termine & Terminserien fest in Deinem Kalender ein: 
+Wie in zuvor versprochen, widmen wir uns der Säule Zeit an dieser Stelle. In Vorbereitung auf die folgenden Wochen planst du bitte diese Termine & Terminserien fest in Deinem Kalender ein: 
 
 - Einmalig: 2-3 Stunden für Kata 08 - Desk-Sweep
 - 1-2 tägliche sehr kurze Termine (05-15 Minuten) für "Verarbeiten & Organisieren"  
@@ -1067,9 +1067,9 @@ _**Kategorie:** Grundlagen_
 
 _**Schwierigkeits-Level:** Intermediate_
 
-Du hast Dich in den letzten 7 Wochen intensiv mit den einzelnen 5 Phasen von GTD auseinandergesetzt. Du hast Dir alle notwendigen Materialien besorgt,  Deinen Arbeitsplatz eingerichtet, Dein individuelles System aufgesetzt, Listen & Kontexte vorbereitet und den Wochenrückblick geübt und weißt, wie Du den nächsten Schritt identifizierst
+Du hast Dich in den letzten 7 Wochen intensiv mit den einzelnen 5 Phasen von GTD auseinandergesetzt. Du hast Dir alle notwendigen Materialien besorgt,  Deinen Arbeitsplatz eingerichtet, Dein individuelles System aufgesetzt, Listen & Kontexte vorbereitet und den Wochenrückblick geübt und weißt, wie du den nächsten Schritt identifizierst
 
-Jetzt weißt Du theoretisch alles, was Du wissen musst, um den **Gesamtprozess in Gang zu** setzten. Jede einzelne Phase für sich ist wichtig, aber nur als geschlossener Kreislauf wird der Prozess sein ganzes Potential für Dich entfalten. 
+Jetzt weißt du theoretisch alles, was du wissen musst, um den **Gesamtprozess in Gang zu** setzten. Jede einzelne Phase für sich ist wichtig, aber nur als geschlossener Kreislauf wird der Prozess sein ganzes Potential für Dich entfalten. 
 
 Du bist soweit! Ab dieser Woche bringen wir das Gesamtsystem zum laufen.
 
@@ -1077,7 +1077,7 @@ Du bist soweit! Ab dieser Woche bringen wir das Gesamtsystem zum laufen.
 
   > *Initial - Desk-Sweep*
   >
-  > - Jetzt beginnst Du um Deinen Arbeitsplatz herum alles einer sehr einfachen Prüfung zu unterziehen. Nimm JEDE Ding in die Hand und stelle Die die eine Frage:  Kann das weg? 
+  > - Jetzt beginnst du um Deinen Arbeitsplatz herum alles einer sehr einfachen Prüfung zu unterziehen. Nimm JEDE Ding in die Hand und stelle Die die eine Frage:  Kann das weg? 
   > - Wenn ja, entsorge es sofort, ansonsten lege es in Deinen Eingangskorb. 
   > - Wiederhole diesen Vorgang, bis alles durch Deine Hänge gegangen ist. Mehr ist nicht zu tun.
   > - Tipp: Beginne lokal (am Platz) und weite Deine Suchen nach Zeug & Dingen konzentrisch weiter aus. 
@@ -1086,7 +1086,7 @@ Du bist soweit! Ab dieser Woche bringen wir das Gesamtsystem zum laufen.
   >   3. Abstellflächen
   >   4. Schränke
   >   5. Fußböden & Regale
-  >   6. Bis nach Hause (Falls Du das magst)
+  >   6. Bis nach Hause (Falls du das magst)
 
 - Dann die Phasen 1-5 iterativ immer wieder durchlaufen
 
@@ -1106,7 +1106,7 @@ Nach David Allens Einschätzung ist die Frage **"Was ist der nächste Schritt?"*
 
 Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe Dein System an.
 
-**ProTip:** Überlege ob Du ab jetzt auch immer bei der Anlage einer neuen Aufgabe gleich weitere Attribute mit anlegen willst. Z.B. Benötigte Zeit oder benötigte Energie. Dies hilft Dir beim Entscheiden in Phase 5 zu entscheiden, was JETZT wichtig ist. 
+**ProTip:** Überlege ob du ab jetzt auch immer bei der Anlage einer neuen Aufgabe gleich weitere Attribute mit anlegen willst. Z.B. Benötigte Zeit oder benötigte Energie. Dies hilft Dir beim Entscheiden in Phase 5 zu entscheiden, was JETZT wichtig ist. 
 
 **ProTip:** Formuliere Deine (Projekt)-Aufgaben möglichst immer vom Ergebnis her: "Die Auto-Inspektion ist durchgeführt", "Der Projekt ist abgenommen", "Der Vorstand hat X oder Y entschieden"  
 
@@ -1124,26 +1124,26 @@ Dies sollten wir regelässig, mindestens jedoch einmal im Jahr tun.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 9 (Das 6-Stufen-Modell)
 - Schau Dir Claudia Schramm's Merkblatt zur Metapher Flughöhe an
-- Beginne zu überlegen welche Ziele Du Dir für die nächsten 1-2 Jahre vornehmen willst. Schreibe jede Idee auf ein Blatt
-- Konzentriere Dich dann auf einen Zeithorizont der 3-5 Jahre in der Zukunft liegt. Wo willst Du dann stehen, wo wird Deine Firma dann stehen, welche externen Einflüsse werden auf Dich direkt oder indirekt einwirken. Schreibe jede Idee auf ein Blatt
+- Beginne zu überlegen welche Ziele du Dir für die nächsten 1-2 Jahre vornehmen willst. Schreibe jede Idee auf ein Blatt
+- Konzentriere Dich dann auf einen Zeithorizont der 3-5 Jahre in der Zukunft liegt. Wo willst du dann stehen, wo wird Deine Firma dann stehen, welche externen Einflüsse werden auf Dich direkt oder indirekt einwirken. Schreibe jede Idee auf ein Blatt
 - Überlege Dir als letztes welchen Sinn Dein Dasein in einer Zeit viel weiter als 5 Jahre in der Zukunft gehabt und haben soll. Schreibe jede Idee auf ein Blatt.
-- Verarbeite die Notizen und entscheide, ob etwas dabei ist, was Du wirklich, wirklich in Gang bringen willst. Wenn nicht, entsorge die Idee.
-- Entscheide für die Ideen, die übrig geblieben sind, was Du damit machen möchtest. z.B.
+- Verarbeite die Notizen und entscheide, ob etwas dabei ist, was du wirklich, wirklich in Gang bringen willst. Wenn nicht, entsorge die Idee.
+- Entscheide für die Ideen, die übrig geblieben sind, was du damit machen möchtest. z.B.
   - Ein neues Projekt anlegen
   - Auf die Liste Eines Tages / Vielleicht setzen
   - Noch mehr Zukunftsideen (Mit einem Partner oder Freund) ausarbeiten
   - Die Ideen mit anderen Teilen & um Feedback bitten   
   - Professionelle Hilfe (Coach) einholen
 
-- Stell Dir einen Termin in Deinem Kalender ein, (<= 12 Monate) an dem Du diese Übung wiederholen willst
+- Stell Dir einen Termin in Deinem Kalender ein, (<= 12 Monate) an dem du diese Übung wiederholen willst
 
 Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe Dein System an
 
-**Pro-Tip:** Such Dir für diese Übung einen Ort, an dem Du durch nichts nicht gestört werden kannst. 
+**Pro-Tip:** Such Dir für diese Übung einen Ort, an dem du durch nichts nicht gestört werden kannst. 
 
-**Pro-Tip:** Wähle eine Uhrzeit, in der Du noch fit im Kopf bist.
+**Pro-Tip:** Wähle eine Uhrzeit, in der du noch fit im Kopf bist.
 
-**Pro-Tip:** Sorge dafür, dass Du nicht gleich einen Anschlusstermin an diese Übung hast. 
+**Pro-Tip:** Sorge dafür, dass du nicht gleich einen Anschlusstermin an diese Übung hast. 
 
 **Pro-Tip:** Der [OKR-Lernpfad](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de-OKR.pdf) ist eine sehr gute Hilfe,  Dich  bei der Erarbeitung & Formulierung von Zielen zu unterstützen.
 
@@ -1161,12 +1161,12 @@ Zwei der drei Stufen auf dem Weg zur Meisterschaft haben wir in den letzten 10 W
 - Wähle 1-3 Ideen aus Kata 10 aus
 - Arbeite diese Ideen weiter zu konkreten Projekten & Aufgaben aus. 
   - Was muss jetzt gestartet  werden, damit sich die Ideen & Wünsche in 2-5 Jahren erfüllen?
-  - Besprich diese Ideen mit Personen, dessen Rat Du schätzt  
+  - Besprich diese Ideen mit Personen, dessen Rat du schätzt  
   - Baue Dir ein Netzwerk von neuen Kontakten auf, die Dir helfen können Deine Ziele zu erreichen
 - Lagere immer mehr "Denken" aus, um neue Werte zu schaffen
-  - Suche Dir einen Bereich den Du noch nicht in Deinem GTD-System erfasst hast
+  - Suche Dir einen Bereich den du noch nicht in Deinem GTD-System erfasst hast
   - Integriere auch diese Bereiche in Deine GTD-Routinen
--  Stell Dir einen Termin in Deinem Kalender ein, (<= 3 Monate) an dem Du diese Übung wiederholen willst
+-  Stell Dir einen Termin in Deinem Kalender ein, (<= 3 Monate) an dem du diese Übung wiederholen willst
 
 Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe Dein System an
 
@@ -1194,14 +1194,14 @@ Nach dem Weekly solltet Ihr Euch etwas Zeit nehmen, um Euren Erfolg zu feiern
 
 # Stop talking, start doing!
 
-Wenn Du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt,
-solltest Du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach.
+Wenn du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt,
+solltest du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach.
 Diese fünf Schritte werden Dir beim reibungslosen Start helfen:
 
-1.  **Zeit einplanen:** definiere das Quartal, in dem Du mit lernOS
+1.  **Zeit einplanen:** definiere das Quartal, in dem du mit lernOS
 starten möchtest. Trage Dir die Zeiten für das
 Weekly in den Kalender ein. Dieser regelmäßige Termin ist
-besonders wichtig, wenn Du lernOS in einem Circle
+besonders wichtig, wenn du lernOS in einem Circle
 praktizierst.
 1.  **Ziele und Schlüsselergebnisse definieren:** nutze Woche
 0, um Deine Ziele und messbare Ergebnisse für den Sprint
