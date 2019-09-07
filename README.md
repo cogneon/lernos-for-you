@@ -1,4 +1,4 @@
-![lernOS Logo](https://github.com/simondueckert/lernos/raw/master/images/lernOS-logo-400px.png)
+![lernOS Logo](https://github.com/simondueckert/lernos-core/raw/master/images/lernOS-logo-400px.png)
 # What is lernOS?
 **lernOS** is an **operating system** for **livelong learning** and **learning organizations**. It can be used by individuals, teams, and organizations. lernOS fosters the right **mindset**, trains the right **skills** and provides the right **tools** for the **digital connected knowledge society of the 21st century**.
 
