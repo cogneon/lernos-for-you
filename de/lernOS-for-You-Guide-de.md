@@ -10,7 +10,7 @@ Dein @simondueckert
 
 # Danksagungen
 
-lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). Ein Überblick über die Wurzeln und Inspirationen habe ich [im lernOS Wiki](https://github.com/cogneon/lernos-core/wiki) zusammengestellt. Für diesen Leitfaden möchte ich besonders danken:
+lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). Einen Überblick über die Wurzeln und Inspirationen habe ich [im lernOS Wiki](https://github.com/cogneon/lernos-core/wiki) zusammengestellt. Für diesen Leitfaden möchte ich besonders danken:
 
 * **Hirotaka Takeuchi** und **Ikujiro Nonaka** für die Einführung des Begriffs Scrum für agile Innovationsmethoden (1986).
 * **Jeff Sutherland** und **Ken Schwaber** für die Definition eines agilen Projektmanagements im [Scrum Guide](https://scrumguides.org) (2010).
@@ -30,7 +30,7 @@ und bereit dafür sein und sie gemeinsam gestalten (Quelle: [Learning Framework
 Führungskräfte ständig weiterentwickeln. Jeder muss Fähigkeiten
 wie Kreativität, kritisches Denken, Kommunikation und Kollaboration
 erlernen. Digital Literacy ist die Kompetenz, mit Hilfe digitaler Tools lesen und schreiben, sowie an gemeinsamen Aktivitäten teilhaben zu können.
-Sie wichtig, um digitale Werkzeuge produktiv einsetzen zu können. Die Motivation für die
+Sie ist wichtig, um digitale Werkzeuge produktiv einsetzen zu können. Die Motivation für die
 persönliche Entwicklung sollte dabei mehr sein, als einen gut bezahlten Job zu bekommen
 oder Profit zu machen. Jeder sollte sich um das eigene Wohlergehen, aber auch das Wohl
 seiner Freunde und Familie, seiner Communities und der Gesellschaft
@@ -38,8 +38,8 @@ kümmern. Wir müssen lernen, welches Wissen, Fähigkeiten, Denkweisen,
 Einstellungen, Werte, Methoden und Werkzeuge wir brauchen, um gemeinsam
 eine bessere Zukunft zu gestalten.
 
-lernOS kann Dir helfen, Dich fit für das 21. Jahrhundert zu machen.
-lernOS hilft Dir, Deine Aktivitäten
+lernOS kann dir helfen, Dich fit für das 21. Jahrhundert zu machen.
+lernOS hilft Dir, deine Aktivitäten
 zu organisieren und bewusst aus jeder Aktion zu lernen. Es fördert außerdem die
 Vernetzung mit anderen Menschen, damit du nicht jedes Rad neu
 erfinden und jeden Fehler wiederholen musst.
@@ -57,16 +57,16 @@ für die Planung des Sprints genutzt. Von Woche 1-11 schlägt ein Lernpfad Übun
 
 Das passiert in einem Learning Sprint:
 
-- **Woche 0:** die Sprint Planung. Versteht jeder den Vorgang? Wann
+- **Woche 0:** Die Sprint Planung. Versteht jeder den Vorgang? Wann
   wird das wöchentliche Treffen stattfinden? Wird das Weekly
   als persönliches Treffen oder virtuell stattfinden? Welche Tools
   werden für die Kommunikation und Dokumentation verwendet? Ist jeder
   in der Lage, die Tools zu verwenden? Welche Übungen werden für
   die Wochen 1-11 ausgewählt?
-- **Wochen 1-11:**  die Circle-Mitglieder treffen sich wöchentlich im Weekly und
+- **Wochen 1-11:** Die Circle-Mitglieder treffen sich wöchentlich im Weekly und
   arbeiten im Sprint an Ihren Zielen und gewünschten Ergebnissen. Ein Lernpfad stellt den Circle-Mitgliedern Übungen bereit, die Katas genannt werden, um ein Netzwerk aufzubauen, das sie bei der Erreichung ihrer Ziele
-  unterstützt. Die beiden Boxenstopps in Woche 4 und Woche 8 helfen, zu sehen, ob noch alle auf dem richtigen Weg sind.
-- **Woche 12 mit der Retrospektive:** die Mitglieder des Circle zeigen ihre finalen Ergebnisse und reflektieren über den gesamten Prozess. Sie entscheiden außerdem, ob sie für einen weiteren Sprint zusammen bleiben wollen.
+  unterstützt. Die beiden Boxenstopps in Woche 4 und Woche 8 helfen zu sehen, ob noch alle auf dem richtigen Weg sind.
+- **Woche 12 mit der Retrospektive:** Die Mitglieder des Circles zeigen ihre finalen Ergebnisse und reflektieren über den gesamten Prozess. Sie entscheiden außerdem, ob sie für einen weiteren Sprint zusammen bleiben wollen.
 
 ## lernOS Wheel: Neues Mindset, Skillset und Toolset
 
@@ -74,7 +74,7 @@ Die Beherrschung der VUCA-Welt des 21. Jahrhunderts erfordert Offenheit
 für Veränderungen und neue Ansätze. Es gibt eine Menge von Werkzeugen
 und Methoden. Aber wenn du nicht offen bist, sie auszuprobieren, zu
 experimentieren und zu scheitern, wird der Erfolg ausbleiben. Wie die
-Leute mit den "quadratischen Rädern" im Bild unten sind wir oft zu
+Leute mit den "quadratischen Rädern" im Bild unten, sind wir oft zu
 beschäftigt, um die neuen Chancen zu sehen.
 
 ![lernOS Wheel People von @simondueckert, CC BY 4.0](images/lernOS-Wheel-People.png)
@@ -82,9 +82,9 @@ beschäftigt, um die neuen Chancen zu sehen.
 Bei der Anwendung neuer Handlungsweisen im Privatleben, in der Schule oder in der
 Arbeit geht es nicht nur um die Verwendung digitaler Tools.
 Um von "quadratischen Rädern" auf "runde Räder" umzusteigen, musst Du
-auch Deine Einstellung, Deine Werte und Deine Fähigkeiten
+auch deine Einstellung, deine Werte und deine Fähigkeiten
 in die Überlegungen einbeziehen. lernOS nennt diese drei Dimensionen Mindset,
-Skillset und Toolset. Sich nur auf einige Dimensionen zu konzentrieren,
+Skillset und Toolset. Sich nur auf ein oder zwei Dimensionen zu konzentrieren,
 kann schon helfen. Doch für die besten Ergebnisse sollten alle drei Dimensionen im
 persönlichen Entwicklungsprozess berücksichtigt werden.
 
@@ -102,11 +102,11 @@ leiten ([Boisot,
 2004](https://www.rrojasdatabank.info/thermo/20388.pdf)). Für den Erfolg in der
 VUCA-Welt sind diese fünf Werte besonders wichtig (Buhse 2014 & Petry, 2014):
 
-1.  **Vernetzung** vor Isolation
-1.  **Vertrauen** vor Misstrauen
-1.  **Offenheit** vor Silos
-1.  **Partizipation** vor Ausgrenzung
-1.  **Agilität** vor Stabilität
+1. **Vernetzung** vor Isolation
+2. **Vertrauen** vor Misstrauen
+3. **Offenheit** vor Silos
+4. **Partizipation** vor Ausgrenzung
+5. **Agilität** vor Stabilität
 
 Es gibt keine Reihenfolge in den oben genannten Werten, aber für mich persönlich ist die
 [Offenheit](https://en.wikipedia.org/wiki/Openness) der zentrale Wert
@@ -120,15 +120,15 @@ First Manifest](http://innovationsbeirat.de/open-first) beschrieben:
 ![Open First (Innovationsbeirat.de/Open-First) by Innovations Beirat, CC
 BY SA 4.0](images/open-first-manifesto-v1.0.png)
 
-**ProTip:** Dein Mindset ist nicht in den sprichwörtlichen Stein gemeißelt, es kann mit der Zeit
-verändern. Schaue Dir das Video [Developing a
+**ProTip:** Dein Mindset ist nicht in den sprichwörtlichen Stein gemeißelt, es kann sich mit der Zeit
+verändern. Schaue dir das Video [Developing a
 Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) von Carol Dweck an,
 um mehr darüber zu erfahren.
 
 ### Skillset: Deine Fähigkeiten
 
-Seit den 1980er Jahren sind Fähigkeiten wie das Lösen von
-Problemen und der Austausch mit anderen für den eigenen Erfolg am wichtigsten. Dazu gehören insbesondere
+Seit den 1980er Jahren sind Fähigkeiten, wie das Lösen von
+Problemen und der Austausch mit anderen, für den eigenen Erfolg am wichtigsten. Dazu gehören insbesondere
 Fähigkeiten, die in Zukunft nicht einfach durch Automatisierung und
 künstliche Intelligenz ersetzt werden können. Um fit für das 21.
 Jahrhundert zu werden, solltest du folgende fünf Fähigkeitsbereiche trainieren
@@ -170,7 +170,7 @@ Du kannst die folgende Tabelle für eine Selbsteinschätzung am Anfang eines Lea
 | Umgang mit Urheberrechten und Lizenzen |  ||
 | Programmieren, Scripten und Kodieren |  ||
 
-**ProTip:** das Mozilla [Web Literacy
+**ProTip:** Das Mozilla [Web Literacy
 Framework](https://learning.mozilla.org/en-US/web-literacy) bietet
 Übungen zu Digital Literacy und Fähigkeiten des 21. Jahrhunderts.
 
@@ -206,7 +206,7 @@ die für lernOS wichtigsten Tools:
 
 **ProTip:** Das [lernOS
 Wiki](https://github.com/cogneon/lernos-core/wiki) enthält eine Linkliste
-zu allen genannten Tools. In Zukunft wird es dort auch Tutorials zur Nutzung der Tools.
+zu allen genannten Tools. In Zukunft wird es dort auch Tutorials zur Nutzung der Tools geben.
 
 ## lernOS Circle: Die Macht von "Peer Support"
 
@@ -217,15 +217,15 @@ die Mitglieder gegenseitig mit Feedback, Erfahrung, Wissen und Reflexion
 helfen. Der Circle ist ein "Kreis des Vertrauens": was im Circle
 passiert, bleibt im Circle! Die Circle-Mitglieder treffen sich wöchentlich
 und folgen dabei einem vorgegebenen Ablauf, der den Lern- und
-Entwicklung sprozess strukturiert.
+Entwicklungsprozess strukturiert.
 
 ![Learning Circle von @simondueckert, CC BY 4.0](images/lernOS-Circle.png)
 
 Einmal pro Woche trifft sich der Learning Circle. Jedes Treffen folgt
 einem vorgegebenen Ablauf (siehe Anhang) mit einem Check-in,
-Übungen (Katas siehe Anhang) und einem Check-out. Der Zeitraum für
+Übungen (Katas) und einem Check-out. Der Zeitraum für
 das Weekly kann an die Bedürfnisse der Circle-Mitglieder angepasst
-werden, vorgeschlagene Zeitraum ist Freitag zwischen 11-12 Uhr.
+werden. Der vorgeschlagene Zeitraum ist Freitag zwischen 11-12 Uhr.
 
 **ProTip:** Kata ist anderes Wort für Übung. Es kommt
 aus dem Bereich des Erlernens von Programmier-Fähigkeiten im Peer-Learning-Format.
@@ -339,15 +339,15 @@ Wähle ein Ziel für die nächsten 12 Wochen. Verwende die Fragen
 "Ist es mir wirklich, wirklich wichtig?", "Kann ich es in 12 Wochen
 erreichen?", und "Kann mein Netzwerk helfen?", um zu testen, ob
 das Ziel für den Sprint geeignet ist. Wenn du Probleme hast, ein gutes
-Ziel zu finden, denke an Ziele zu Deine Rollen, Aktivitäten oder
-Projekten. Wenn du dazu beitragen möchstes, die Welt zu einem
-besseren Ort zu machen, kannst du Dir auch ein Ziel wählen aus dem Bereich der [17
+Ziel zu finden, denke an Ziele zu deine Rollen, Aktivitäten oder
+Projekten. Wenn du dazu beitragen möchtes, die Welt zu einem
+besseren Ort zu machen, kannst du dir auch ein Ziel aus dem Bereich der [17
 Ziele für nachhaltige Entwicklung der Vereinten
 Nationen](https://www.un.org/sustainabledevelopment/sustainable-development-goals) wählen.
 
 Verwende die Methode Objective & Key Results
-(OKR), um Dein Ziel genauer zu beschreiben. Schreibe unten Dein Ziel auf.
-Definiere 2-4 Schlüsselergebnisse pro Ziel, um Dir bei der Fortschrittkontrolle zu helfen.
+(OKR), um dein Ziel genauer zu beschreiben. Schreibe unten dein Ziel auf.
+Definiere 2-4 Schlüsselergebnisse pro Ziel, um dir bei der Fortschrittkontrolle zu helfen.
 Du solltest die Schlüsselergebnisse auf einer Skala von 0,0-1,0
 messen können. Um sich ehrgeizige Ziele zu setzen, gilt eine Fertigstellungsrate
 von 0,7 als Erfolg.
@@ -361,7 +361,7 @@ von 0,7 als Erfolg.
 3. ...
 4. ...
 
-Teile Deine Ziele im Circle (10 Minuten).
+Teile deine Ziele im Circle (10 Minuten).
 
 **Weitere Informationen:**
 
@@ -384,9 +384,9 @@ erfahrenen Menschen in Kontakt trittst.
 Starke Beziehungen basieren auf Vertrauen, Teilen und Fürsorge. [Dale
 Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) sagte: "Sie
 können mehr Freunde in zwei Monaten gewinnen, indem Sie sich für andere
-Menschen interessen, als wenn Sie zwei Jahre versuchen, andere Menschen
+Menschen interessieren, als wenn Sie zwei Jahre versuchen, andere Menschen
 für sich zu interessieren". Wie kommst du also mit Menschen in
-Kontakt, die mit Deinen Zielen in Verbindung stehen und wie kannst du eine Beziehung
+Kontakt, die mit deinen Zielen in Verbindung stehen und wie kannst du eine Beziehung
 mit ihnen aufbauen?
 
 **Übung (20 Minuten):**
@@ -394,8 +394,8 @@ mit ihnen aufbauen?
 Erstelle eine Liste von mindestens zehn Personen, die mit Deinen
 Zielen in Zusammenhang stehen. Wenn du die Leute nicht namentlich
 kennst, kannst du auch Rollen oder Beschreibungen auf die Liste setzen
-(z.b. "Bester WoW-Spieler in der Stadt", "Ein guter Kameramann",
-"Besitzer der Firma XY"). Nutze Deine Kontaktlisten oder
+(z.B. "Bester WoW-Spieler in der Stadt", "Ein guter Kameramann",
+"Besitzer der Firma XY"). Nutze deine Kontaktlisten oder
 soziale Netzwerke, um mehr Personen zu finden:
 
 1.  ...
@@ -409,7 +409,7 @@ soziale Netzwerke, um mehr Personen zu finden:
 1.  ...
 1. ...
 
-Teile Deine Liste im Circle und helft Euch gegenseitig, sie zu
+Teile deine Liste im Circle und helft Euch gegenseitig, sie zu
 vervollständigen (10 Minuten).
 
 **Weitere Informationen:**
@@ -420,8 +420,8 @@ vervollständigen (10 Minuten).
 
 Sharing is caring! In der digitalen Welt wird das Teilen oft als Bereitstellen
 von Dateien oder digitalen Inhalten gesehen. Aber es
-geht auch viel einfacher: teile Deine Aufmerksamkeit mit einer anderen
-Person, z.B. indem du ihr folgst, ihre Inhalt "likest" oder Dir ihre
+geht auch viel einfacher: Teile deine Aufmerksamkeit mit einer anderen
+Person, z.B. indem du ihr folgst, ihre Inhalte "likest" oder dir ihre
 Website abonnierst. Indem du Aufmerksamkeit teilst, vertiefst du Deine
 Beziehungen mit jedem Beitrag, den du machst.
 
@@ -441,10 +441,10 @@ Kontaktformular sein. Mache mindestens fünf Erfahrungen, Aufmerksamkeit zu teil
 
 Besprecht Eure Erfahrungen im Circle (20 Minuten).
 
-### Ein Termin mit Dir selbst (Kata)
+### Ein Termin mit dir selbst (Kata)
 
-Nimmst du Dir ausreichend Zeit für Deine persönliche Entwicklung und für
-die Arbeit an Deinen Zielen? Viele Menschen sind mit ihren
+Nimmst du dir ausreichend Zeit für deine persönliche Entwicklung und für
+die Arbeit an deinen Zielen? Viele Menschen sind mit ihren
 täglichen Aufgaben beschäftigt und kümmern sich nicht genug um Ihre
 Entwicklung und Ihr Wohlbefinden. Ein guter Ansatz ist es, einen Termin
 mit sich selbst zu vereinbaren und sich diese Zeit im Kalender zu
@@ -452,9 +452,9 @@ reservieren.
 
 **Übung (15 Minuten):**
 
-Überprüfe Deinen Kalender und suche nach möglichen Terminen mit Dir
+Überprüfe deinen Kalender und suche nach möglichen Terminen mit Dir
 selbst. Eine Stunde oder sogar 30 Minuten pro Woche ist ein guter
-Ausgangspunkt. Trage Dir einen Termin mit Dir selbst in den Kalender ein.
+Ausgangspunkt. Trage dir einen Termin mit dir selbst in den Kalender ein.
 Mache ihn nach Möglichkeit zu einem wiederkehrenden Termin, damit
 diese Zeit für Dich zur Gewohnheit wird. Finde mindestens fünf Termine:
 
@@ -470,7 +470,7 @@ Besprecht Eure Ansätze im Circle.
 
 Was sehen Menschen, die Dich im Netz
 suchen? Bekommen sie eine Vorstellung davon, wer du bist und wie sie
-Dir bei Deinen Zielen helfen können? Du kannst diese Situation
+Dir bei deinen Zielen helfen können? Du kannst diese Situation
 simulieren, indem du Dich selbst googelst (oft als egosurfing, egosearch
 oder vanity search bezeichnet).
 
@@ -480,7 +480,7 @@ oder vanity search bezeichnet).
 
 Öffne eine Suchmaschine im Netz und gebe
 Deinen Namen ein. Öffne mindestens die ersten zehn Suchergebnisse und
-prüfe, ob Deine Persönlichkeit und die Fakten über Dich auf dem
+prüfe, ob deine Persönlichkeit und die Fakten über Dich auf dem
 neuesten Stand sind. Identifiziere mögliche Verbesserungsmaßnahmen:
 
 1.  ...
@@ -494,9 +494,9 @@ neuesten Stand sind. Identifiziere mögliche Verbesserungsmaßnahmen:
 9.  ...
 10. ...
 
-Denke darüber nach, was Dein zentrales Online-Profil sein könnte
+Denke darüber nach, was dein zentrales Online-Profil sein könnte
 (z.B. LinkedIn-Profil, about.me-Profil oder Profil im Enterprise
-Social Network). Dieses Profil wird im Folgenden Dein "digitaler Zwilling" genannt.
+Social Network). Dieses Profil wird im Folgenden dein "digitaler Zwilling" genannt.
 Der digitale Zwilling repräsentiert Dich im Netz:
 
 *Mein zentrales Online-Profil (Digital Twin) ist ...*
@@ -508,12 +508,12 @@ Der digitale Zwilling repräsentiert Dich im Netz:
 
 ### 25 Fakten über mich (Kata)
 
-Welche interessanten Fakten über Dich können Dir helfen, Dich mit
+Welche interessanten Fakten über Dich können dir helfen, Dich mit
 anderen Menschen zu vernetzen? Wenn du Dich für ein Studium an der
 Fuqua Business School bewerben willst, musst du einen Aufsatz mit einer Liste
 von 25 zufälligen Dingen über Dich selbst schreiben, damit das
 Bewerbungsteam Dich besser kennenlernt. Wenn du die Fakten über dich selbst
-aufschreibst, sammele Informationen, die Dir helfen könnten, neue
+aufschreibst, sammele Informationen, die dir helfen könnten, neue
 Beziehungen zu knüpfen, die auf ähnlichen Interessen und Hintergründen
 basieren (z.B. "Wir haben vor 20 Jahren am gleichen Ort
 studiert!"). Fakten über Dich selbst sind beispielsweise:
@@ -525,7 +525,7 @@ studiert!"). Fakten über Dich selbst sind beispielsweise:
 * Schulen, Universitäten
 * Arbeitsplätze in der Vergangenheit
 * Berufliche Herausforderungen
-* Urlaub
+* Urlaube
 * Hobbys
 * Leistungen
 * Lustige Fakten
@@ -535,7 +535,7 @@ studiert!"). Fakten über Dich selbst sind beispielsweise:
 
 Erstelle eine Liste von zehn Fakten über Dich selbst. Dann
 lies die ["Fuqua 25 random things do’s and dont’s"](https://stratusadmissionscounseling.com/duke-fuqua-25-random-things-dos-donts)
-und erweitere Deine Liste auf 25 Fakten:
+und erweitere deine Liste auf 25 Fakten:
 
 1.  ...
 2.  ...
@@ -563,7 +563,7 @@ und erweitere Deine Liste auf 25 Fakten:
 24. ...
 25. ...
 
-Teile Deine Fakten über Dich im Circle (10 Minuten).
+Teile deine Fakten über Dich im Circle (10 Minuten).
 
 **Weitere Informationen:**
 
@@ -571,11 +571,11 @@ Teile Deine Fakten über Dich im Circle (10 Minuten).
 
 ### Meine Top 10 WissensWerte (Kata)
 
-Was sind die wichtigsten Ressourcen im Zusammenhang mit Deinen Zielen,
+Was sind die wichtigsten Ressourcen im Zusammenhang mit deinen Zielen,
 die du teilen kannst? Eine Ressource kann ein
 Buch, ein Video, ein Link, ein Dokument, eine Checkliste, eine
-Präsentation etc. sein. Wenn Deine Ressourcen einfach
-per Link teilbar sind, kannst du sie unkompliziert im Netzwerk zu teilen.
+Präsentation etc. sein. Wenn deine Ressourcen einfach
+per Link teilbar sind, kannst du sie unkompliziert im Netzwerk teilen.
 
 **Übung (30 Minuten):**
 
@@ -593,13 +593,13 @@ Ressourcen auf, die dafür nützlich oder interessant sind:
 9.  ...
 10. ...
 
-Stelle Deine Top 10 Liste im Circle vor und besprecht sie (10 Minuten).
+Stelle deine Top 10 Liste im Circle vor und besprecht sie (10 Minuten).
 
-### Aktualisiere Deinen digitalen Zwilling (Kata)
+### Aktualisiere deinen digitalen Zwilling (Kata)
 
-Stellt Dein digitaler Zwilling Dich so dar, wie du es möchtest? Viele
+Stellt dein digitaler Zwilling Dich so dar, wie du es möchtest? Viele
 Menschen melden sich in einem sozialen Netzwerk an und
-aktualisieren Ihr Profil nie mehr. Du solltest Dein Profil
+aktualisieren Ihr Profil nie mehr. Du solltest dein Profil
 auf dem neuesten Stand halten und regelmäßig überprüfen (z.B.
 wiederkehrende Aufgabe alle drei Monate). Die Fakten über Dich, aktuelle
 Projekte und aktuelle Interessen sollten auf dem Profil
@@ -631,11 +631,11 @@ der Begriff "Community" oder "Community of Practice" (Praxisgemeinschaft) verwen
 Eine Gruppe braucht zwei Dinge zur Interaktion: ein
 gemeinsames Interesse und eine Möglichkeit zu kommunizieren. Communities brauchen
 Führung. Manchmal führt eine Person, manchmal mehrere. Welches sind die
-Communities, die mit Deinen Zielen in Zusammenhang stehen?
+Communities, die mit deinen Zielen in Zusammenhang stehen?
 
 **Übung (15 Minuten):**
 
-Suche nach Communities, die mit Deinen Zielen in Zusammenhang
+Suche nach Communities, die mit deinen Zielen in Zusammenhang
 stehen, und finde mindestens zehn (verwende z.B.
 [LinkedIn-Gruppen](https://www.linkedin.com/groups), [Facebook
 Groups](https://www.facebook.com/groups), [XING
@@ -654,11 +654,11 @@ Groups](https://www.xing.com/communities) ,
 9.  ...
 10. ...
 
-Sprich über die Liste im Circle und helft Euch gegenseitig beim Vervollständigen.
+Sprecht über die Liste im Circle und helft Euch gegenseitig beim Vervollständigen.
 
-### Bringe Dein ICH ein (Kata)
+### Bringe dein ICH ein (Kata)
 
-Nicht alle Beiträge in Deinem Netzwerk müssen zu Deinen Zielen sein.
+Nicht alle Beiträge in Deinem Netzwerk müssen mit deinen Zielen im Zusammenhang stehen.
 Manchmal teilt man besser etwas über sich selbst, um eine
 persönliche Verbindung herzustellen. Die Liste der Fakten über Dich
 kann helfen, interessante Querbeziehungen zu anderen Menschen zu finden.
@@ -675,29 +675,29 @@ die Beziehung anhand dieses Fakts zu vertiefen:
 
 ### Ein Brief an mein zukünftiges Ich (Kata)
 
-Der Brief an Dein zukünftiges Ich ist eine klassische Methode zur
-Selbstmotivation. Du reflektierst Deine aktuelle
+Der Brief an dein zukünftiges Ich ist eine klassische Methode zur
+Selbstmotivation. Du reflektierst deine aktuelle
 Situation und gibst Deinem zukünftigen Ich einen Rat. Du schreibst den
 Brief, adressierst ihn an Dich selbst und öffnest ihn in der
-Zukunft. Mit dem Brief im Hinterkopf erhöht sich die Wahrscheinlichkeit, dass Deine Wünsche
+Zukunft. Mit dem Brief im Hinterkopf erhöht sich die Wahrscheinlichkeit, dass deine Wünsche
 eine [sich selbst erfüllende
 Prophezeiung](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy) werden.
 
 **Übung (35 Minuten):**
 
-Schreibe einen Brief an Dein zukünftiges Ich. Sprich
-darüber, wer du jetzt bist (z.b. Zusammenfassung, Ängste,
+Schreibe einen Brief an dein zukünftiges Ich. Sprich
+darüber, wer du jetzt bist (z.B. Zusammenfassung, Ängste,
 Werte, Überzeugungen, Fähigkeiten, Fertigkeiten, Ziele,
 Hoffnungen). Dann erläutere Deinem zukünftigen Ich die Dinge,
 die du stoppen/weitermachen/anfangen möchtest. Gib ihm
 Ratschläge und stelle ihm Fragen. Verschließe den Brief und
 verwahre ihn an einem sicheren Ort oder nutze Online-Dienste
 wie [futureme.org](https://futureme.org) um ihn automatisch an Dein
-zukünftiges selbst zu senden:
+zukünftiges Selbst zu senden:
 
 ![](images/lernOS-Kata-16.png)
 
-Wenn du den Brief mit Deinen Circle-Mitgliedern teilen möchten, lies
+Wenn du den Brief mit deinen Circle-Mitgliedern teilen möchten, lies
 ihn anschließend laut vor (15 Minuten).
 
 **Weitere Informationen:**
@@ -754,13 +754,13 @@ Lege jetzt deine OKR-Umgebung fest:
 * **OKR Weekly Check-in (Wochentag, Uhrzeit):** ...
 * **OKR Dokumentation:** ...
 
-### Entwerfe OKRs für deinen Sprint (Kata)
+### Definiere OKRs für deinen Sprint (Kata)
 
 **Schreibe dein Ziel (Objective) und die Schlüsselergebnisse (Key Results) für diesen Sprint im OKR-Format auf.**
 
 _**Dauer:** 30 Minuten_
 
-In der letzten Woche hast du (hoffentlich) einiges über die Formulierung von OKRs gelernt. Jetzt kannst du das auf die Zielplanung für den laufenden Sprint anwenden. Verwende dazu die OKR-Formel von John Doer, um dein Ziel zu formulieren:
+In der letzten Kata hast du (hoffentlich) einiges über die Formulierung von OKRs gelernt. Jetzt kannst du das auf die Zielplanung für den laufenden Sprint anwenden. Verwende dazu die OKR-Formel von John Doer, um dein Ziel zu formulieren:
 
 _Ich will (Objective): .......... gemessen an .......... (Key Results):_
 
@@ -777,7 +777,7 @@ _Ich will (Objective): .......... gemessen an .......... (Key Results):_
 * Die Key Results drücken messbare Meilensteine aus, die einen bei Erreichung dem Ziel näher bringen.
 * Die Key Results sind messbar und können auf einer Skala von 0,0 - 1,0 (oder 0 - 100%) gemessen werden.
 * Die Key Results drücken Ergebnisse, nicht Tätigkeiten aus. Die Formulierung eines Key Results sollte keine Wörter wie "beraten", "helfen", "analysieren" oder "teilnehmen" enthalten.
-* Messbare Meilensteine sollten den Nachweis der Fertigstellung beinhalten, und diese Nachweise sollten sichtbar, glaubwürdig und leicht nachvollziehbar sein.
+* Messbare Meilensteine sollten den Nachweis der Fertigstellung beinhalten. Und diese Nachweise sollten sichtbar, glaubwürdig und leicht nachvollziehbar sein.
 
 Wenn du den OKR-Lernpfad in einem lernOS Circle machst, dann diskutiert die OKRs im Circle und gebt euch gegenseitig Feedback.
 
@@ -786,16 +786,16 @@ Wenn du den OKR-Lernpfad in einem lernOS Circle machst, dann diskutiert die OKRs
 
 _**Dauer:** 30 Minuten_
 
-Du hattest jetzt einige Nächte, um deine OKRs nochmal zu überdenken. Fühlst du dich wohl und motiviert damit? Fühlen sich die Objectives anspruchsvoll an? Siehst du eine realistische Chance die Key Results zu 60-70% erreichen zu können. Überdenke deine OKRs nochmal und lege dich für diesen lernOS Sprint fest. Dokumentiere die OKRs dann in der OKR-Umgebung, wie du sie vorab festgelegt hast.
+Du hattest jetzt einige Nächte, um deine OKRs nochmal zu überdenken. Fühlst du dich wohl und motiviert damit? Fühlen sich die Objectives anspruchsvoll an? Siehst du eine realistische Chance die Key Results zu 60-70% erreichen zu können. Überdenke deine OKRs nochmal und lege dich für diesen Sprint fest. Dokumentiere die OKRs dann in deiner OKR-Umgebung.
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, stellt euch die finalen OKRs gegenseitig vor und sprecht über Wege der Zielerreichung. So wird sichtbar, wie unterschiedlich die Herangehensweisen der unterschiedlichen Personen sein können.
+Wenn du den OKR-Lernpfad in einem Circle machst, stellt euch die finalen OKRs gegenseitig vor und sprecht über Wege der Zielerreichung. So wird sichtbar, wie unterschiedlich die Herangehensweisen der unterschiedlichen Personen sein können.
 
 ### Führe dein Weekly Check-In durch (Kata)
 **Starte mit einem kurzen OKR Weekly Check-In in jede Woche**
 
 _**Dauer:** 30 Minuten_
 
-Mit dem OKR Weekly Check-in kannst du dir deine Ziele und den aktuellen Stand wöchentlich vor Augen führen. Das hilft dir, deine Ziele nicht aus den Augen zu verlieren und Hindernisse frühzeitig zu erkennen und aus dem Weg zu räumen.
+Mit dem OKR Weekly Check-in kannst du dir deine Ziele und den aktuellen Stand wöchentlich vor Augen führen. Das hilft dir, nicht den Fokus zu verlieren und Hindernisse frühzeitig zu erkennen und aus dem Weg zu räumen.
 
 Den Zeitpunkt deines Check-in hast du ja bereits festgelegt und als Regeltermin im Kalender stehen. Verwende folgende Fragen für das OKR Weekly Check-in:
 
@@ -806,7 +806,7 @@ Den Zeitpunkt deines Check-in hast du ja bereits festgelegt und als Regeltermin 
 
 Verwende die kommenden vier Wochen, um das Check-in zu einer wöchentlichen Routine zu machen. In jeder Woche lernst du in kleinen Lernhäppchen von 15 Minuten zusätzliche Themen rund um OKRs kennen.
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, tauscht euch aus, wie ihr eure Weeklys organisiert und welche Erfahrungen ihr mit dem Prozess macht.
+Wenn du den OKR-Lernpfad in einem Circle machst, tauscht euch aus, wie ihr eure Weeklys organisiert und welche Erfahrungen ihr mit dem Prozess macht.
 
 ### Tools für OKRs (Kata)
 **Lerne einige Tools für OKRs kennen.**
@@ -822,7 +822,7 @@ David Allen beschreibt Getting Things Done (GTD) oft als "tool-agnostic". D.h. m
 * **Wikis**, z.B. Mediawiki, Confluence, TiddlyWiki, Etherpad
 * **Enterprise OKR-Tools**, z.B. 7Geese, WeekDone, Workpath
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, tauscht euch die Erfahrungen mit euren OKR-Umgebungen und mögliche weitere Tools zum ausprobieren aus.
+Wenn du den OKR-Lernpfad in einem Circle machst, tauscht euch die Erfahrungen mit euren OKR-Umgebungen und probiert weitere Tools aus.
 
 ### Scoring vs. Measuring Key Results (Kata)
 **Verstehe den Unterschied zwischen "Scoring" und "Measuring" und entscheide dich für deinen Weg.**
@@ -834,11 +834,11 @@ Google empfiehlt für OKRs die Key Results immer auf einer Skala von 0 - 1,0 mes
 * Die Bewertung auf der Skala von 0 - 1,0 ist sehr subjektiv
 * Wenn man im Vorfeld pro Key Result festlegen will, was 0,3, 0,7 etc. bedeutet, steigt die Komplexität des Prozesses
 
-Daher empfiehlt Felipe in dem Kapitel die Key Results nicht auf der Skala von 0 - 1,0 zu "scoren", sondern Wert-basierte Key Results zu verwenden und die einfach zu messen. Seiner Meinung nach vereinfacht das den Prozess der Definition von OKRs für einen selber und auch für Teams.
+Daher empfiehlt Felipe die Key Results nicht auf der Skala von 0 - 1,0 zu "scoren", sondern Wert-basierte Key Results zu verwenden und die einfach zu messen. Seiner Meinung nach vereinfacht das den Prozess der Definition von OKRs für einen selber und auch für Teams.
 
 Schaue dir deine Key Results an und überlege, ob sich der Prozess für dich durch einfaches Messen statt der Bewertung auf der Skala von 0 - 1,0 vereinfachen würde. Entscheide dich für eine Vorgehensweise und passe deine Key Results ggf. an.
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, tauscht euch aus, wer welchen Weg aus welchen Gründen gewählt hat. In den folgenden Wochen könnt ihr dann immer mal wieder über die Auswirkungen und Erfahrungen sprechen.
+Wenn du den OKR-Lernpfad in einem Circle machst, tauscht euch aus, wer welchen Weg aus welchen Gründen gewählt hat. In den folgenden Wochen könnt ihr dann immer mal wieder über die Auswirkungen und Erfahrungen sprechen.
 
 ### Stretch Goals and Moonshots (Kata)
 **Lerne die Bedeutung von "Strech Goals" für das Stecken anspruchsvoller Ziele kennen.**
@@ -849,7 +849,7 @@ Mit Strech Goals oder Moonshot OKRs (abgeleitet von Kennedy's Moonshot Goal 1962
 
 Schaue dir deine Objectives an und überlege, aus welchen du Moonshot OKRs machen könntest und welche Konsequenzen das für dich hätte. Wenn du Moonshot OKRs ausprobieren möchtest, entscheide, ob du die OKRs noch für diesen oder einen folgenden Sprint anpassen möchtest.
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, diskutiert eure Ideen und Einschätzungen zu Moonshot OKRs.
+Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Ideen und Einschätzungen zu Moonshot OKRs.
 
 ### What is your Confidence Level? (Kata)
 **Wie sicher bist du dir, dass du deine OKRs erreichen wirst?**
@@ -860,7 +860,7 @@ Nach Henrik-Jan van der Pol von perdoo zeigt der [OKR Confidence Level](https://
 
 Schaue dir die beiden Quellen an und entscheide, ob du für deine OKRs auch Confidence Level schätzen möchtest. Wenn ja, überlege, wo und wann du diese in deiner Dokumentation pflegst.
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, diskutiert eure Entscheidungen zu den OKR Confidence Leveln.
+Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Entscheidungen zu den OKR Confidence Leveln.
 
 ### Individual vs. Team/Organizational OKRs (Kata)
 **Lerne das Zusammenspiel von OKRs auf den Ebenen Individuum, Team und Organisation kennen.**
@@ -871,7 +871,7 @@ Wie im Video [How Google sets goals: OKRs](https://youtu.be/mJB83EZtAjc?t=1061) 
 
 Überlege, ob du neben deinen persönlichen OKRs die Methode auch in deinem Umfeld, wie beispielsweise deinem Team oder deiner Abteilung einsetzen kannst. Überlege dir mindestens eine Maßnahme, um zu testen, ob dein Umfeld offen für OKRs ist und wie man das dort umsetzen könnte.
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, diskutiert eure Ansätze zur Verbreitung von OKRs in der Organisation und lernt voneinander.
+Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Ansätze zur Verbreitung von OKRs in der Organisation und lernt voneinander.
 
 ### OKR Review (Kata)
 **War dein OKR Zyklus erfolgreich und welche Themen ergeben sich für den nächsen?**
@@ -888,33 +888,29 @@ Franziska Schneider von Workpath [schlägt in einem Blog vor](https://www.workpa
 
 Führe jetzt ein OKR Review für den aktuellen Sprint durch und dokumentiere die Ergebnisse.
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, diskutiert eure Review-Ergebnisse.
+Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Review-Ergebnisse.
 
 ## GTD Lernpfad
 
-Sich selbst und seine Arbeitsweise zu organisieren und zu [optimieren](https://lexikon.stangl.eu/19425/selbstoptimierung/) kann sehr motivierend sein. Viele Menschen stehen heute vor dem Problem im Hamsterrad der Tages- und Routinearbeiten zu versinken und  keine Zeit für wertschöpfende Dinge zu haben, geschweigen denn sich Gedanken darüber zu machen, wohin sie sich mittel- bis langfristig entwickeln wollen. 
+Sich selbst und seine Arbeitsweise zu organisieren und zu [optimieren](https://lexikon.stangl.eu/19425/selbstoptimierung/) kann sehr motivierend sein. Viele Menschen stehen heute vor dem Problem im Hamsterrad der Tages- und Routinearbeiten zu versinken und keine Zeit für wertschöpfende Dinge zu haben, geschweigen denn sich Gedanken darüber zu machen, wohin sie sich mittel- bis langfristig entwickeln wollen. 
 
-Alle Elemente von GTD werden schon lange erfolgreich eingesetzt. David Allen hat einige dieser Methoden so zusammengestellt und  kombiniert, das die Wirkung größer ist als die Summe seiner Teile.
+Alle Elemente von GTD werden schon lange erfolgreich eingesetzt. David Allen hat einige dieser Methoden so zusammengestellt und kombiniert, das die Wirkung größer ist als die Summe seiner Teile.
 
 GTD ist eine Möglichkeit sich in unserer [VUCA-Welt](https://de.wikipedia.org/wiki/VUCA) die Freiräume zu schaffen, um uns fit für die Zukunft zu machen. 
 
 **Die Herausforderung:** Man muss das [Buch](https://www.amazon.de/gp/product/3492307205/ref=as_li_tl) eigentlich schon gelesen haben, um es wirklich zu verstehen. 
 
-**Die Lösung:** Durch das etappenweise Aneignen der Regeln und Prinzipien, sowie dessen Einübung (KATA)  innerhalb der nächsten 12 Wochen verstehst du den übergeordneten Gesamtzusammenhang und baust  Dir nach und nach Dein **individuelles GTD-System** auf.   
+**Die Lösung:** Durch das etappenweise Aneignen der Regeln und Prinzipien, sowie dessen Einübung (KATA) innerhalb der nächsten 12 Wochen verstehst du den übergeordneten Gesamtzusammenhang und baust dir nach und nach dein **individuelles GTD-System** auf.
 
 ### Mach Dich mit den Grundlagen vertraut (Kata)
 
 _**Dauer:** 2-3 Stunden je nach Lesegeschwindigkeit, Lesetiefe und vorhandenen / fehlenden Materialien_
 
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Beginner_
-
-Die Grundlagen von GTD sind an vielen Stellen im Internet & in der Literatur dokumentier.  Mach dich in dieser Woche mit den Grundlagen von GTD vertraut und schaffst Dir ein Umfeld, welches Dich in eine optimale Situation versetzt. Dieses Umfeld basiert auf den drei Säulen Zeit, Ort und Werkzeug. Die Säule Zeit behandeln wir später.
+Die Grundlagen von GTD sind an vielen Stellen im Internet & in der Literatur dokumentier. Mach dich in dieser Woche mit den Grundlagen von GTD vertraut und schaffst dir ein Umfeld, welches Dich in eine optimale Situation versetzt. Dieses Umfeld basiert auf den drei Säulen Zeit, Ort und Werkzeug. Die Säule Zeit behandeln wir später.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) die Kapitel 1, 2 & 4
-- Trage Dein Arbeitsmaterial (Ablagekörbe, Stifte, Mappen, Haftnotizzettel, u.v.m.) zusammen 
-- Stelle Deinen / Deine  Arbeitsbereich(e) um (Office / Home / ...)
+- Trage dein Arbeitsmaterial (Ablagekörbe, Stifte, Mappen, Haftnotizzettel, u.v.m.) zusammen 
+- Stelle deinen / deine Arbeitsbereich(e) um (Office / Home / ...)
 
 **ProTip:**
 
@@ -928,16 +924,12 @@ Die Grundlagen von GTD sind an vielen Stellen im Internet & in der Literatur dok
 
 _**Dauer:** 1-2 Stunden je nach Lesegeschwindigkeit & Anzahl "loser Enden" im Kopf_
 
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Beginner_
-
-Wahrscheinlich trägst du eine Menge von Dingen in Deinem Kopf mit Dir herum, und laufend kommen neuen hinzu. Diese ganzen losen Enden belasten Deine Fähigkeit Dich zu fokussieren und die Dinge fertig zu bringen. Die Folgende Übung hilft Dir Deinen Kopf davon zu befreien, ohne das etwas in Vergessenheit gerät.
+Wahrscheinlich trägst du eine Menge von Dingen in Deinem Kopf mit dir herum, und laufend kommen neuen hinzu. Diese ganzen losen Enden belasten deine Fähigkeit Dich zu fokussieren und die Dinge fertig zu bringen. Die Folgende Übung hilft dir deinen Kopf davon zu befreien, ohne das etwas in Vergessenheit gerät.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 5
-- Schreibe nun  **alles** auf, was Dir durch den Kopf geht. Was ist jetzt & demnächst zu erledigen? Was muss jetzt angestoßen werden? Wer ist anzurufen .....
+- Schreibe nun **alles** auf, was dir durch den Kopf geht. Was ist jetzt & demnächst zu erledigen? Was muss jetzt angestoßen werden? Wer ist anzurufen .....
 - Pro Idee oder Aufgabe eine Seite (Die Überschrift reicht aus)
-- Lege jedes Blatt in Deinen Eingangskorb
+- Lege jedes Blatt in deinen Eingangskorb
 
 Bei dieser Übung zählt die Masse. Höre erst auf, wenn nichts mehr kommt.
 
@@ -945,54 +937,42 @@ Bei dieser Übung zählt die Masse. Höre erst auf, wenn nichts mehr kommt.
 
 _**Dauer:** 1 - 1,5 Stunden je nach Lesegeschwindigkeit und Anzahl an Kleinzeugs_
 
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Beginner_
-
-In dieser Woche verarbeitest du Deinen Eingang und wendest konsequent die 2-Minuten Regel (Alles was in weniger als 2 Minuten zu erledigen ist, wird sofort  erledigt) an. Du wendest die Regel sowohl bei der Durcharbeit Deines Eingangskorbs, als auch 
+In dieser Woche verarbeitest du deinen Eingang und wendest konsequent die 2-Minuten Regel (Alles was in weniger als 2 Minuten zu erledigen ist, wird sofort erledigt) an. Du wendest die Regel sowohl bei der Durcharbeit Deines Eingangskorbs, als auch 
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 6
 
-- Nimm Dir täglich 10-15 Minuten für “Kleinzeugs”
+- Nimm dir täglich 10-15 Minuten für “Kleinzeugs”
 - Arbeite fokussiert alles ab z. B. Antwortmails, Terminannahmen, Tweets, Likes, Feedback, Rückrufe, usw.
 - Unwichtiges wird gleich entsorgt ([TimeTimer](https://www.timetimer.com/) hilft beim Timeboxing)
 
 ### Organisieren - Listen & Kontexte aufbauen (Kata)
 
-_**Dauer:** 1-2  Stunden je nach Lesegeschwindigkeit und Vertiefungsdrang_
+_**Dauer:** 1-2 Stunden je nach Lesegeschwindigkeit und Vertiefungsdrang_
 
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Beginner_
-
-Beim organisieren Deiner Aufgaben mit GTD hast du den größten Individualitätsgrad. Hier kannst du eine ganze Menge organisieren, aber auch schon ein Mindestset an  Listen & Kontexten wird Dich sehr stark unterstützen den Überblick zu behalten.
+Beim organisieren Deiner Aufgaben mit GTD hast du den größten Individualitätsgrad. Hier kannst du eine ganze Menge organisieren, aber auch schon ein Mindestset an Listen & Kontexten wird Dich sehr stark unterstützen den Überblick zu behalten.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 7
 - Entscheide Dich für die Listentypen, die du verwenden willst (Mindestens: Projektliste, Aktionsliste, Kalender und Warten-auf Liste). Wichtige, aber nicht essentielle Listen (Referenzmaterial, Eines-Tages/Vielleicht, Unterstützungsmaterial für Aktionen, Unterstützungsmaterial für Projekte)
 - Definiere die Kontexte die du zukünftig verwenden willst (Z.B.: @Home, @Work, @Unterwegs, @Besorgungen, @Internet, @Anruf, @NächsteAktion, @Lesen ...)
 
-Egal, mit welchem Subset von Listen und Kontexten du arbeitest, es wird Dir helfen die Übersicht zu behalten. 
+Egal, mit welchem Subset von Listen und Kontexten du arbeitest, es wird dir helfen die Übersicht zu behalten. 
 
-Ein Beispiel: Du pendelst regelmäßig mit der Bahn zur Arbeit und zurück? Dann kannst du ganz einfach alle Deine Aufgaben nach den Kontexten @Unterwegs, @Lesen filtern und bekommst nur die angezeigt, die beim Pendeln auch Sinn machen. 
+Ein Beispiel: Du pendelst regelmäßig mit der Bahn zur Arbeit und zurück? Dann kannst du ganz einfach alle deine Aufgaben nach den Kontexten @Unterwegs, @Lesen filtern und bekommst nur die angezeigt, die beim Pendeln auch Sinn machen. 
 
-**ProTip:** Zu Beginn ist weniger mehr. Beginne zunächst mit einigen wenigen, aber wesentlichen Dingen. In den Iterationsphasen (Ab Woche 8) kommen die Dinge die Dir noch fehlen automatisch dazu. 
+**ProTip:** Zu Beginn ist weniger mehr. Beginne zunächst mit einigen wenigen, aber wesentlichen Dingen. In den Iterationsphasen (Ab Woche 8) kommen die Dinge die dir noch fehlen automatisch dazu. 
 
 Kontextlisten dienen eigentlich nicht unmittelbar der Produktivität, sondern dem **systematischen Aufschieben der Dinge, die wichtig aber nicht dringend sind.** Aufschieben ist eine sinnvolle Taktik um wichtige Dinge später zu tun, weil man sie jetzt gerade nicht tun kann. 
 
 ### Durchsehen - Der Wochenrückblick (Kata)
 
-_**Dauer:** 1-2  Stunden je nach Lesegeschwindigkeit und Vertiefungsdrang_
+_**Dauer:** 1-2 Stunden je nach Lesegeschwindigkeit und Vertiefungsdrang_
 
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Beginner_
-
-Die Phase Durchsehen in GTD hat einen etwas anderen Charakter als die Vorgängerphasen. Sie dient hauptsächlich dazu, das Dein System in Takt bleibt und ist damit das Herzstück des Systems. Du wirst Dich nur auf Dein System verlassen können, wenn du diese Phase regelmäßig & zeitnah durchläufts 
+Die Phase Durchsehen in GTD hat einen etwas anderen Charakter als die Vorgängerphasen. Sie dient hauptsächlich dazu, das dein System in Takt bleibt und ist damit das Herzstück des Systems. Du wirst Dich nur auf dein System verlassen können, wenn du diese Phase regelmäßig & zeitnah durchläufts 
 
 Neben regelmäßigen kurzen Durchsichten Deines Systems bildet der Wochenrückblick das Kernstück dieser Phase.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 8
-- Finde einen passenden Termin für den Wochenrückblick & trage Ihn Dir als wiederholenden Termin in Deinen Kalender ein (1-2 Stunden sollten es schon sein)
+- Finde einen passenden Termin für den Wochenrückblick & trage Ihn dir als wiederholenden Termin in deinen Kalender ein (1-2 Stunden sollten es schon sein)
 - Spiele den Wochenrückblick einmal für die letzte Woche durch
   1. **Alles** in den Eingangskorb (was du bis dahin noch nicht dort abgelegt hast) 
   2. Den Eingang leeren
@@ -1003,17 +983,13 @@ Neben regelmäßigen kurzen Durchsichten Deines Systems bildet der Wochenrückbl
   7. **Projekte-Liste** durchsehen
   8. **Mind-Sweepen**
 
-**ProTip:** Um den Wochenrückblick so angenehm wie möglich zu machen, verbinde Ihn mit Dingen die Dir angenehm sind und Spaß machen. Z.B. Dein Lieblingsgetränk, Lieblingsort, Lieblingsmusik oder Deine Lieblingsuhrzeit.
+**ProTip:** Um den Wochenrückblick so angenehm wie möglich zu machen, verbinde Ihn mit Dingen die dir angenehm sind und Spaß machen. Z.B. dein Lieblingsgetränk, Lieblingsort, Lieblingsmusik oder deine Lieblingsuhrzeit.
 
-Eine Besonderheit für Dich ist, dass du mit Deinen aktuellen lernOS Circlern das gleiche Ziel verfolgst. Suche Dir einen Partner, denn gemeinsam geht vieles viel einfachen. 
+Eine Besonderheit für Dich ist, dass du mit deinen aktuellen lernOS Circlern das gleiche Ziel verfolgst. Suche dir einen Partner, denn gemeinsam geht vieles viel einfachen. 
 
 ### Erledigen (Kata)
 
 _**Dauer:** 2-4  Stunden je nach Lesegeschwindigkeit Arbeitsaufkommen_
-
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Beginner_
 
 In dieser Phase wählen wir aus, was zu erledigen ist. Zwei Grundprinzipien werden Dich dabei unterstützen. Eine Dritte lernst du in Woche 10 kennen.
 
@@ -1022,12 +998,12 @@ In dieser Phase wählen wir aus, was zu erledigen ist. Zwei Grundprinzipien werd
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 9 (Ohne das 6-Stufen-Modell)
 - Wähle einen Tag aus, an dem du bewusst an der Phase Erledigen arbeiten willst
-- Berücksichtige alle drei Arten von Arbeit für Deine Zeit**planung**
+- Berücksichtige alle drei Arten von Arbeit für deine Zeit**planung**
   - Plane Zeit für mehrere tägliche Reviews ein (Überblick)
   - Plane Zeit für "Organisieren & Verarbeiten" ein 
-  - Plane Zeit für die Erledigung geplanter Aufgaben ein (Termine mit Dir selbst im Kalender eintragen - Blocker)
+  - Plane Zeit für die Erledigung geplanter Aufgaben ein (Termine mit dir selbst im Kalender eintragen - Blocker)
   - Plane Zeit für die Erledigung ungeplanter Aufgaben ein (Luft im Kalender lassen)
-- Dein Tag ist geplant - Dann verschaffe Dir einen Überblick der anstehenden Aufgaben und leg los
+- Dein Tag ist geplant - Dann verschaffe dir einen Überblick der anstehenden Aufgaben und leg los
 
 **ProTip:** Dein Kalendertag sollte NIE ganz ausgeplant sein. 20% Puffer für ungeplante Aufgaben sind ein guter Richtwert
 
@@ -1037,17 +1013,13 @@ Wenn du Termine mit anderen machst, plane diese immer **5 Minuten kürzer** (z.B
 
 _**Dauer:** 1-3  Stunden je nach Lesegeschwindigkeit, Projektanzahl & Projektgröße_
 
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Intermediate_
-
 Projekte haben in GTD eine eigene, enge Definition. Alles **was mehr als einen Arbeitsschritt** benötigt um vollendet zu werden UND innerhalb eines Jahres zu erledigen ist, wird als Projekt bezeichnet. I.d.R. sind Projekte etwas komplexere, nacheinander und/oder parallel ablaufender Aufgaben. Daher ist es wichtig sich ein Bild vom Zielzustand zu machen und das "ganze" Projekt zu Beginn einmal grob durchzugehen.  
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 3 &10
 
-- Schau Dir das Video ["Wenn ihr nicht werdet wie die Kinder"](https://youtu.be/qkDWzHJZtHs) von Dr. Joachim Schlosser an. [Blog-Artikel.](https://www.schlosser.info/5-schritte-zu-natuerlicher-projektplanung-nach-gtd/)
+- Schau dir das Video ["Wenn ihr nicht werdet wie die Kinder"](https://youtu.be/qkDWzHJZtHs) von Dr. Joachim Schlosser an. [Blog-Artikel.](https://www.schlosser.info/5-schritte-zu-natuerlicher-projektplanung-nach-gtd/)
 
-- Arbeite ein Neue(s) oder bestehende(s) Projekte nach diesen Regeln durch und übertrage die Ergebnisse in Dein GTD-System
+- Arbeite ein Neue(s) oder bestehende(s) Projekte nach diesen Regeln durch und übertrage die Ergebnisse in dein GTD-System
 
 
 Wie in zuvor versprochen, widmen wir uns der Säule Zeit an dieser Stelle. In Vorbereitung auf die folgenden Wochen planst du bitte diese Termine & Terminserien fest in Deinem Kalender ein: 
@@ -1063,70 +1035,50 @@ Wie in zuvor versprochen, widmen wir uns der Säule Zeit an dieser Stelle. In Vo
 
 _**Dauer:** 2-4 Stunden_
 
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Intermediate_
-
-Du hast Dich in den letzten 7 Wochen intensiv mit den einzelnen 5 Phasen von GTD auseinandergesetzt. Du hast Dir alle notwendigen Materialien besorgt,  Deinen Arbeitsplatz eingerichtet, Dein individuelles System aufgesetzt, Listen & Kontexte vorbereitet und den Wochenrückblick geübt und weißt, wie du den nächsten Schritt identifizierst
+Du hast Dich in den letzten 7 Wochen intensiv mit den einzelnen 5 Phasen von GTD auseinandergesetzt. Du hast dir alle notwendigen Materialien besorgt, deinen Arbeitsplatz eingerichtet, dein individuelles System aufgesetzt, Listen & Kontexte vorbereitet und den Wochenrückblick geübt und weißt, wie du den nächsten Schritt identifizierst
 
 Jetzt weißt du theoretisch alles, was du wissen musst, um den **Gesamtprozess in Gang zu** setzten. Jede einzelne Phase für sich ist wichtig, aber nur als geschlossener Kreislauf wird der Prozess sein ganzes Potential für Dich entfalten. 
 
-Du bist soweit! Ab dieser Woche bringen wir das Gesamtsystem zum laufen.
+Du bist soweit! Ab dieser Woche bringen wir das Gesamtsystem zum laufen. Arbeite in dieser Woche kontinuierlich die 5 Phasen von GTD durch.
 
-- Arbeite in dieser Woche kontinuierlich die 5 Phasen von GTD durch.
+**Initial - Desk-Sweep**
 
-  > *Initial - Desk-Sweep*
-  >
-  > - Jetzt beginnst du um Deinen Arbeitsplatz herum alles einer sehr einfachen Prüfung zu unterziehen. Nimm JEDE Ding in die Hand und stelle Die die eine Frage:  Kann das weg? 
-  > - Wenn ja, entsorge es sofort, ansonsten lege es in Deinen Eingangskorb. 
-  > - Wiederhole diesen Vorgang, bis alles durch Deine Hänge gegangen ist. Mehr ist nicht zu tun.
-  > - Tipp: Beginne lokal (am Platz) und weite Deine Suchen nach Zeug & Dingen konzentrisch weiter aus. 
-  >   1. Schreibtischoberfläche
-  >   2. Schubladen
-  >   3. Abstellflächen
-  >   4. Schränke
-  >   5. Fußböden & Regale
-  >   6. Bis nach Hause (Falls du das magst)
+* Jetzt beginnst du um deinen Arbeitsplatz herum alles einer sehr einfachen Prüfung zu unterziehen. Nimm JEDE Ding in die Hand und stelle Die die eine Frage:  Kann das weg? 
+* Wenn ja, entsorge es sofort, ansonsten lege es in deinen Eingangskorb. 
+* Wiederhole diesen Vorgang, bis alles durch deine Hänge gegangen ist. Mehr ist nicht zu tun.
+* Tipp: Beginne lokal (am Platz) und weite deine Suchen nach Zeug & Dingen konzentrisch weiter aus (Schreibtischoberfläche, Schubladen, Abstellflächen, Schränke, Fußböden & Regale etc.).
 
-- Dann die Phasen 1-5 iterativ immer wieder durchlaufen
+Dann die Phasen 1-5 iterativ immer wieder durchlaufen.
 
 ### Die Macht des nächsten Schritts (Kata)
 
 _**Dauer:** 2-3 Stunde je nach Lesegeschwindigkeit & Projektanzahl_
 
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Intermediate_
-
 Nach David Allens Einschätzung ist die Frage **"Was ist der nächste Schritt?"** die essentielle Leitfrage um messbare Leistunsgverbesserungen zu erzeugen. Denn diese Frage erzwingt Klarheit, Zuständigkeit, Produktivität und gesteigerte Kompetenz.
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 11, 12 & 13
-- Versehe alle Aufgaben die als nächsten zu tun sind in Deinen Listen mit dem Kontext @NächsteAktion
-- Baue die Frage **"Was ist der nächste Schritt?"** in Deine Alltagsroutinen ein
+- Versehe alle Aufgaben die als nächsten zu tun sind in deinen Listen mit dem Kontext @NächsteAktion
+- Baue die Frage **"Was ist der nächste Schritt?"** in deine Alltagsroutinen ein
 
-Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe Dein System an.
+Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe dein System an.
 
-**ProTip:** Überlege ob du ab jetzt auch immer bei der Anlage einer neuen Aufgabe gleich weitere Attribute mit anlegen willst. Z.B. Benötigte Zeit oder benötigte Energie. Dies hilft Dir beim Entscheiden in Phase 5 zu entscheiden, was JETZT wichtig ist. 
+**ProTip:** Überlege ob du ab jetzt auch immer bei der Anlage einer neuen Aufgabe gleich weitere Attribute mit anlegen willst. Z.B. Benötigte Zeit oder benötigte Energie. Dies hilft dir beim Entscheiden in Phase 5 zu entscheiden, was JETZT wichtig ist. 
 
-**ProTip:** Formuliere Deine (Projekt)-Aufgaben möglichst immer vom Ergebnis her: "Die Auto-Inspektion ist durchgeführt", "Der Projekt ist abgenommen", "Der Vorstand hat X oder Y entschieden"  
+**ProTip:** Formuliere deine (Projekt)-Aufgaben möglichst immer vom Ergebnis her: "Die Auto-Inspektion ist durchgeführt", "Der Projekt ist abgenommen", "Der Vorstand hat X oder Y entschieden".
 
 ### Das 6-Horizonte-Modell (Kata)
 
 _**Dauer:** 1-3 Stunde je nach Lesegeschwindigkeit & Flughöhe_
-
-_**Kategorie:** Erweiterte Grundlagen_
-
-_**Schwierigkeits-Level:** Advanced_
 
 Ein drittes Modell, neben den **"Vier Kriteren"** und den **"Drei Schritten"**  aus der Kata "Erledigen" kann uns helfen, die eigene Arbeit noch besser zu reflektieren. Gehen wir davon aus das wir durch die konsequente Anwendung unseres GTD-Systems die Stufen 0-2 (Handlungen, Projekte und Verantwortungsbereiche) fest im Griff haben, widmen wir uns hier den Stufen 3-5 (Zukunftsfaktoren, Ausrichtungen und Absichten). 
 
 Dies sollten wir regelässig, mindestens jedoch einmal im Jahr tun. 
 
 - Lies in David Allens Buch ["Wie ich die Dinge geregelt kriege"](https://www.amazon.de/Dinge-geregelt-kriege-Selbstmanagement-Überarbeitete/dp/3492307205/ref=sr_1_1) das Kapitel 9 (Das 6-Stufen-Modell)
-- Schau Dir Claudia Schramm's Merkblatt zur Metapher Flughöhe an
-- Beginne zu überlegen welche Ziele du Dir für die nächsten 1-2 Jahre vornehmen willst. Schreibe jede Idee auf ein Blatt
-- Konzentriere Dich dann auf einen Zeithorizont der 3-5 Jahre in der Zukunft liegt. Wo willst du dann stehen, wo wird Deine Firma dann stehen, welche externen Einflüsse werden auf Dich direkt oder indirekt einwirken. Schreibe jede Idee auf ein Blatt
-- Überlege Dir als letztes welchen Sinn Dein Dasein in einer Zeit viel weiter als 5 Jahre in der Zukunft gehabt und haben soll. Schreibe jede Idee auf ein Blatt.
+- Schau dir Claudia Schramm's Merkblatt zur Metapher Flughöhe an
+- Beginne zu überlegen welche Ziele du dir für die nächsten 1-2 Jahre vornehmen willst. Schreibe jede Idee auf ein Blatt
+- Konzentriere Dich dann auf einen Zeithorizont der 3-5 Jahre in der Zukunft liegt. Wo willst du dann stehen, wo wird deine Firma dann stehen, welche externen Einflüsse werden auf Dich direkt oder indirekt einwirken. Schreibe jede Idee auf ein Blatt
+- Überlege dir als letztes welchen Sinn dein Dasein in einer Zeit viel weiter als 5 Jahre in der Zukunft gehabt und haben soll. Schreibe jede Idee auf ein Blatt.
 - Verarbeite die Notizen und entscheide, ob etwas dabei ist, was du wirklich, wirklich in Gang bringen willst. Wenn nicht, entsorge die Idee.
 - Entscheide für die Ideen, die übrig geblieben sind, was du damit machen möchtest. z.B.
   - Ein neues Projekt anlegen
@@ -1135,25 +1087,21 @@ Dies sollten wir regelässig, mindestens jedoch einmal im Jahr tun.
   - Die Ideen mit anderen Teilen & um Feedback bitten   
   - Professionelle Hilfe (Coach) einholen
 
-- Stell Dir einen Termin in Deinem Kalender ein, (<= 12 Monate) an dem du diese Übung wiederholen willst
+- Stell dir einen Termin in Deinem Kalender ein, (<= 12 Monate) an dem du diese Übung wiederholen willst
 
-Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe Dein System an
+Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe dein System an
 
-**Pro-Tip:** Such Dir für diese Übung einen Ort, an dem du durch nichts nicht gestört werden kannst. 
+**ProTip:** Such dir für diese Übung einen Ort, an dem du durch nichts nicht gestört werden kannst. 
 
-**Pro-Tip:** Wähle eine Uhrzeit, in der du noch fit im Kopf bist.
+**ProTip:** Wähle eine Uhrzeit, in der du noch fit im Kopf bist.
 
-**Pro-Tip:** Sorge dafür, dass du nicht gleich einen Anschlusstermin an diese Übung hast. 
+**ProTip:** Sorge dafür, dass du nicht gleich einen Anschlusstermin an diese Übung hast. 
 
-**Pro-Tip:** Der [OKR-Lernpfad](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de-OKR.pdf) ist eine sehr gute Hilfe,  Dich  bei der Erarbeitung & Formulierung von Zielen zu unterstützen.
+**ProTip:** Der [OKR-Lernpfad](https://github.com/cogneon/lernos-for-you/blob/master/lernOS%20Guide/de/lernOS-Guide-for-You-de-OKR.pdf) ist eine sehr gute Hilfe,  Dich  bei der Erarbeitung & Formulierung von Zielen zu unterstützen.
 
 ### Kontinuierliche Verbesserung - Der Weg zur Meisterschaft (Kata)
 
 _**Dauer:** 1-3 Stunde je nach Lesegeschwindigkeit & Anzahl der Ideen_
-
-_**Kategorie:** Erweiterte Grundlagen_
-
-_**Schwierigkeits-Level:** Advanced_
 
 Zwei der drei Stufen auf dem Weg zur Meisterschaft haben wir in den letzten 10 Wochen bereits kennengelernt und geübt. Anwendung der Grundlagen & das 6-Horizonte-Modell. Für Experten stehen nun noch Fokus, Ausrichtung & Kreativität auf dem Plan. Es geht schlicht darum, die frei gewordene Zeit zu benutzen, um die Erfahrungen *unendlich* zu optimieren.
 
@@ -1162,54 +1110,34 @@ Zwei der drei Stufen auf dem Weg zur Meisterschaft haben wir in den letzten 10 W
 - Arbeite diese Ideen weiter zu konkreten Projekten & Aufgaben aus. 
   - Was muss jetzt gestartet  werden, damit sich die Ideen & Wünsche in 2-5 Jahren erfüllen?
   - Besprich diese Ideen mit Personen, dessen Rat du schätzt  
-  - Baue Dir ein Netzwerk von neuen Kontakten auf, die Dir helfen können Deine Ziele zu erreichen
+  - Baue dir ein Netzwerk von neuen Kontakten auf, die dir helfen können deine Ziele zu erreichen
 - Lagere immer mehr "Denken" aus, um neue Werte zu schaffen
-  - Suche Dir einen Bereich den du noch nicht in Deinem GTD-System erfasst hast
-  - Integriere auch diese Bereiche in Deine GTD-Routinen
--  Stell Dir einen Termin in Deinem Kalender ein, (<= 3 Monate) an dem du diese Übung wiederholen willst
+  - Suche dir einen Bereich den du noch nicht in Deinem GTD-System erfasst hast
+  - Integriere auch diese Bereiche in deine GTD-Routinen
+-  Stell dir einen Termin in Deinem Kalender ein, (<= 3 Monate) an dem du diese Übung wiederholen willst
 
-Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe Dein System an
+Iteriere in dieser Woche wieder die 5 Phasen -> Wenn es funktioniert, mach‘ weiter so. Wenn es nicht funktioniert, passe dein System an
 
-**ProTip:** Der WOL Lernpfad ist die ideale Unterstützung Dir ein Netzwerk von Kontakten aufzubauen, die Dir dabei helfen können, Deine Ziele zu erreichen.
-
-### Retrospektive & Feier (Kata)
-
-_**Dauer:** 1 Stunde_
-
-_**Kategorie:** Grundlagen_
-
-_**Schwierigkeits-Level:** Beginner_
-
-In dieser Woche sollte das endgültige Ergebnis Deines Objectives vorliegen. Sprecht im Circle darüber und zeigt Sie Euch gegenseitig im Check-in. 
-
-Ihr werdet über die **Erfahrungen** **im** **Circle** **nachdenken** und darüber sprechen, wie Ihr den **Prozess** **aufrecht** **erhalten** könnt. 
-
-Nach dem Weekly solltet Ihr Euch etwas Zeit nehmen, um Euren Erfolg zu feiern
-
-- **Check-in:** Was habe ich seit dem letzten Check-in getan? Zeigt die finale Iteration der Key Results. Drei-Minuten-Timebox pro Circle-Mitglied. (15 Minuten)
-- **Your** **Learning Moments:** Sprecht über die Momente im Sprint, die für euch besonders waren. Was sind eure “key learnings”? (20 minutes)
-- **After Action Review:** Was war der Plan für den Sprint? Was ist passiert? Gab es eine Abweichung? Was kann man daraus lernen? (20 minutes)
-- **Check-out:** Gibt es nächste Schritte? Bleibt ihr für einen weiteren Sprint zusammen?
-- **Party Time! (Die Dauer wählt ihr)**
+**ProTip:** Der WOL Lernpfad ist die ideale Unterstützung dir ein Netzwerk von Kontakten aufzubauen, die dir dabei helfen können, deine Ziele zu erreichen.
 
 # Stop talking, start doing!
 
 Wenn du diesen Leitfaden gelesen hast, lernOS aber noch nicht aktiv umsetzt,
 solltest du jetzt damit beginnen! Mit lernOS zu starten ist wirklich einfach.
-Diese fünf Schritte werden Dir beim reibungslosen Start helfen:
+Diese fünf Schritte werden dir beim reibungslosen Start helfen:
 
-1.  **Zeit einplanen:** definiere das Quartal, in dem du mit lernOS
-starten möchtest. Trage Dir die Zeiten für das
+1.  **Zeit einplanen:** Definiere das Quartal, in dem du mit lernOS
+starten möchtest. Trage dir die Zeiten für das
 Weekly in den Kalender ein. Dieser regelmäßige Termin ist
 besonders wichtig, wenn du lernOS in einem Circle
 praktizierst.
-1.  **Ziele und Schlüsselergebnisse definieren:** nutze Woche
-0, um Deine Ziele und messbare Ergebnisse für den Sprint
-festzulegen. Wähle ein Ziel, das Dir wirklich, wirklich am Herzen liegt.
-1.  **Einen Circle gründen:** suche nach 3-4 Mitstreitern, die im selben
+1.  **Ziele und Schlüsselergebnisse definieren:** Nutze Woche
+0, um deine Ziele und messbare Ergebnisse für den Sprint
+festzulegen. Wähle ein Ziel, das dir wirklich, wirklich am Herzen liegt.
+1.  **Einen Circle gründen:** Suche nach 3-4 Mitstreitern, die im selben
 Quartal einen Sprint starten wollen. Wenn jemand schon in einem anderen Circle
 war, kann er die Rolle des Circle-Moderator übernehmen.
-1.  **Organisiere das Weekly:** wenn Ihr Euch im Circle nicht kennt,
+1.  **Organisiere das Weekly:** Wenn Ihr Euch im Circle nicht kennt,
 trefft Euch in Woche 0 am besten persönlich. Nutzt
 soziale Netzwerke oder Messenger, um zwischen den Treffen zu
 kommunizieren. Nutzt Videokonferenzen, um virtuelle
@@ -1229,4 +1157,4 @@ Keep Calm & Learn On! :-)
 | 1.1 | Simon Dückert | OKRs as default method for learning sprints, introduction noob path with reduced kata set, renaming of lernOS Sprint/Circle, Introduction of learning paths | 17.12.2018 |
 | 1.2 | Simon Dückert | Leitfaden in "lernOS Leitfaden für Dich" umbenannt, lernOS Logo in die Titelseite eingefügt, Telegram als User Group durch CONNECT ersetzt, Mobi-Version (Amazon) zu Ausgabeformaten hinzugefügt, Erzeugung aller Ausgabedateien über make.bat automatisiert, Inhaltsverzeichnis (TOC) zur HTML-Version hinzugefügt | 25.03.2019 |
 | 1.3 | Simon Dückert | Neue "High Level Structure" für lernOS Guides angewendet, Reihenfolge im Grundlagen-Kapitel geändert (Sprint, Wheel, Circle), Hashtags von "ProTips" entfernt, Platzhalter für OKR und GTD Lernpfade eingefügt, Kata "Gestalte dein Future Backwards" zu Woche 0 hinzugefügt, Kata "Visuell denken mit dem lernOS Canvas" in Woche 0 verschoben, Skillset: Tabelle der Fähigkeiten für Selbsteinschätzung erweitert, Anzahl der Anwendungen zur Unterstützung von Circles auf Basis WOL Umfrage 2018 reduziert, Standardisiertes Vorwort eingefügt, Inhalt und Struktur des Kapitels Danksagungen verbessert, Standardisierte orange Rückseite eingefügt | 17.06.2019 |
-| 1.4 | Simon Dückert, Alexander Rose | OKR und GTD Lernpfade eingefügt, ... | 17.06.2019 |
+| 1.4 | Simon Dückert | OKR und GTD Lernpfade eingefügt, ... | 16.09.2019 |
