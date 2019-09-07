@@ -150,15 +150,24 @@ If you have an Enterprise Social Network (ESN) like Jive or Connections in your 
 
 # Learning Paths for Newbies (NOOBs)
 
-A learning path is a set of activities and exercises to learn something new. A learning path normally lasts for one lernOS Sprint. For learnOS beginners (newbies or noobs) we suggest to run on or more learning paths to get you in touch with the basic concepts of lernOS. Currently these learning paths are available:
+A learning path is a set of activities and exercises to learn something new. A learning path normally lasts for one lernOS Sprint. For learnOS beginners (newbies or noobs) we suggest to run on or more learning paths to get you in touch with the basic concepts of lernOS. Currently these learning paths are available which can be run through in one sprint each:
 
 1. **WOL Learning Path:** The idea for this learning path is inspired by John Stepper's [Working Out Loud circle method](https://workingoutloud.com/en/circle-guides) (WOL). Due to experience and a WOL circle survey ran in 2018 the number of exercises has been reduced to 11 to fit more easy in the 13 weeks without loosing aspects of the core idea of WOL.
-2. **OKR Learning Path:** Will be drafted at the [lernOS Rockstars Camp](https://cogneon.de/loscamp) at 2019-06-25 in Munich.
-3. **GTD Learning Path:** Will be drafted at the [lernOS Rockstars Camp](https://cogneon.de/loscamp) at 2019-06-25 in Munich.
+2. **OKR Lernpfad:** In this learning path you learn how to set your goals for a sprint with th method [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (OKR) and how to check the goals systematically every week.
+3. **GTD Lernpfad:** In this learning path you get to know the method [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) (GTD) by David Allen. GTD helps you to not lose control in an environment with a lot of tasks and information.
 
 As an individual lernOS Practitioner or lernOS Circle you can decide with which learning path you start and if you want to do more than one learning path. If you are already a GTD practitioner, OKR practitioner or if you already have finished a WOL Circle you can can skip that and choose one of the other learning paths to start with.
 
 ## WOL Learning Path
+
+Sharing your knowledge openly and profiting from the knowledge of others helps that not everyone has to reinvent the wheel over and over again. According to the [Working Out Loud method](https://workingoutloud.com/en/circle-guides) by John Stepper, you can
+
+1. Learn To set your own learning goal for the sprint.
+2. Identify people and communities that are related to your goal.
+3. Publish contributions and show appreciation to build a network in a systematic and goal-oriented way.
+4. Use the support of your new network to achieve your goals faster and easier.
+
+This learning path is a shortened to 11 exercises version of the circle method by John Stepper (31 exercises). However, the basic idea "Working Out Loud = Observable Work + Narrating Your Work" [by Bryce Williams](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/) remains.
 
 ### Kata: Design Your Future Backwards
 

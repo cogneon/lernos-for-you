@@ -254,15 +254,24 @@ Kommunikation, die Audio-/Video-Konferenz-Funktion für virtuelle Meetings und e
 
 # Lernpfade für Einsteiger*innen (NOOBs)
 
-Ein Lernpfad ist eine Zusammenstellung von Aktivitäten und Übungen, mit denen du neue Fähigkeiten und eine neue Haltung erlernst. Ein Lernpfad kann in der Regel innerhalb eines lernOS Sprints durchlaufen werden. Für lernOS Einsteiger*innen (newbies oder noobs) schlagen ich vor, einen oder mehrere Learning Sprints zu verwenden, um mit den Grundlagen von lernOS vertraut zu werden. Aktuell sind dafür folgende Lernpfade verfügbar:
+Ein Lernpfad ist eine Zusammenstellung von Aktivitäten und Übungen, mit denen du neue Fähigkeiten und eine neue Haltung erlernst. Ein Lernpfad kann in der Regel innerhalb eines lernOS Sprints durchlaufen werden. Für lernOS Einsteiger*innen (newbies oder noobs) schlagen ich vor, einen oder mehrere Learning Sprints zu verwenden, um mit den Grundlagen von lernOS vertraut zu werden. Aktuell sind dafür folgende Lernpfade verfügbar, die in jeweils einem Sprint durchlaufen werden können:
 
-1. **WOL Lernpfad:** Die Idee für diesen Lernpfad ist inspiriert von John Stepper's [Working Out Loud Circle Methode](https://workingoutloud.com/en/circle-guides) (WOL). Durch Erfahrungen und eine WOL Circle Umfrage im Jahr 2018 wurde die Anzahl der Übungen von 31 auf elf reduziert, ohne dabei die Kernidee von WOL zu verlieren.
-2. **OKR Lernpfad:** Wird beim [lernOS Rockstars Camp](https://cogneon.de/loscamp) am 25.06.2019 in München entworfen.
-3. **GTD Lernpfad:** Wird beim [lernOS Rockstars Camp](https://cogneon.de/loscamp) am 25.06.2019 in München entworfen.
+1. **WOL Lernpfad:** Die Idee für diesen Lernpfad ist inspiriert von John Stepper's [Working Out Loud](https://workingoutloud.com/en/circle-guides) (WOL) Circle Methode. Durch Erfahrungen und eine WOL Circle Umfrage im Jahr 2018 wurde die Anzahl der Übungen von 31 auf elf reduziert, ohne dabei die Kernidee von WOL zu verlieren.
+2. **OKR Lernpfad:** In diesem Lernpfad lernst du, dir für einen Sprint Ziele mit der Methode [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (OKR) zu stecken und diese in einem wöchentlichen Rhytmus nachzuverfolgen.
+3. **GTD Lernpfad:** In diesem Lernpfad lernst du die Methode [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) (GTD) von David Allen kennen. Sie hilft dir, bei der Menge von Aufgaben und Informationen nicht den Überblick zu verlieren.
 
 Als einzelner lernOS Anwender oder lernOS Circle könnt ihr entscheiden, mit welchem Lernpfad ihr beginnt und ob ihr mehr als einen Lernpfad machen wollt. Wenn du ein GTD Anwender bzw. ein OKR Anwender bist, oder schon einen WOL Circle abgeschlossen hast, kannst du einfach einen der anderen Lernpfade für den Start wählen.
 
 ## WOL Lernpfad
+
+Sein Wissen mit anderen offen zu teilen und von dem Wissen anderer zu profitieren hilft, dass nicht alle das Rad immer wieder neu erfinden müssen. Gemäß der [Working Out Loud Methode](https://workingoutloud.com/en/circle-guides) von John Stepper kannst du, lernen
+
+1. Dir ein eigenes Lernziel für den Sprint zu stecken.
+2. Menschen und Communities identifizieren, die mit deinem Ziel zu tun haben.
+3. Beiträge veröffentlichen und Wertschätzung zeigen, um dir systematisch und zielorientiert ein Netzwerk aufzubauen.
+4. Die Unterstützung deines neuen Netzwerks nutzen, um deine Ziele schneller und einfacher zu erreichen.
+
+Dieser Lernpfad ist eine auf 11 Übungen verkürzte Version der Circle Methode von John Stepper (31 Übungen). Die Grundidee "Working Out Loud = Observable Work + Narrating Your Work" [von Bryce Williams](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/) bleibt dabei jedoch erhalten.
 
 ### Gestalte dein Future Backwards (Kata)
 
