@@ -168,7 +168,7 @@ Sharing your knowledge openly and profiting from the knowledge of others helps t
 
 This learning path is a shortened to 11 exercises version of the circle method by John Stepper (31 exercises). However, the basic idea "Working Out Loud = Observable Work + Narrating Your Work" [by Bryce Williams](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/) remains.
 
-### Kata: Design Your Future Backwards
+### Design Your Future Backwards (Kata)
 
 **Design your future by reflecting on present and past and creating your personal vision (30 Minutes)**
 
@@ -185,7 +185,7 @@ This kata is based on the method [The Future, Backwards](https://cognitive-edge.
 
 **ProTip:** Helmut Hoensch ([@GoodTransfer](https://twitter.com/GoodTransfer)) created a [LearningSprintBooklet]() (German only) that contains a template for a future backwards.
 
-### Kata: Think visual with the lernOS Canvas
+### Think visual with the lernOS Canvas (Kata)
 
 A canvas is a visual structure that can be used to work through several building blocks in a systematic way. This way you use a canvas as a visual checklist. It can also be used to tell a complex story. The idea came from Alex Osterwalder who invented the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas). The lernOS Canvas uses the same basic structure as the business model canvas. But the names of the building blocks have been changed to reflect the topics a circle works on during a sprint.
 
@@ -197,7 +197,7 @@ The header of the canvas contains the creation date, the number of the sprint, a
 
 **ProTip:** if you use the lernOS OneNote Circle Template you can take a photo of the current version of the canvas and upload so the other circle members can see it and give feedback.
 
-### Kata: My Objective For The Next 12 weeks
+### My Objective For The Next 12 weeks (Kata)
 
 _**Duration:** 25 minutes_
 
@@ -270,7 +270,7 @@ Go through your relationship list and look for some kind of online presence for 
 
 Discuss your sharing experiences in the circle (20 minutes).
 
-### Kata: An Appointment With Yourself
+### An Appointment With Yourself (Kata)
 _**Duration:** 15 minutes_
 
 Do you spend enough time for your personal development and for working on your personal objectives? A lot of people are busy with their daily tasks and do not care enough for their development and their well-being. A good approach is to make an appointment with yourself and reserve that time for yourself in the calendar.
@@ -285,7 +285,7 @@ Check your calendar and see when an appointment with yourself fits in. One hour 
 
 Discuss your approaches in the circle.
 
-### Kata: Go Google Yourself!
+### Go Google Yourself! (Kata)
 _**Duration:** 10 minutes_
 
 What do people see when they search for you online? Do they get an idea of who you are and how they might help you with your objectives? You can simulate that situation by googling yourself (often called egosurfing, egosearching or vanity search).
@@ -314,7 +314,7 @@ Think about what your main online profile might be (e.g. LinkedIn profile, about
 * Wikipedia Article [Egosurfing](https://en.wikipedia.org/wiki/Egosurfing)
 * Article [Google Yourself! Measuring the performance of personalized information resources](http://snurb.info/files/aoir2008/Google%20Yourself!%20Measuring%20the%20performance%20of%20personalized%20information%20resources%20%28AoIR%202008%29.pdf) by Thomas Nicolai and Lars Kirchhoff.
 
-### Kata: 25 Facts About Me
+### 25 Facts About Me (Kata)
 _**Duration:** 25 minutes_
 
 What are interesting facts about you that might help to connect with other people? If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!"). Random things about yourself might include:
@@ -366,7 +366,8 @@ Share the facts about you in the circle (10 minutes).
 
 * YouTube-Search ["random facts about me"](https://www.youtube.com/results?search_query=random+facts+about+me)
 
-### Kata: Your Top 10 Assets
+### Your Top 10 Assets (Kata)
+
 _**Duration:** 30 minutes_
 
 What are the most valuable resources related to your objectives that you can share? A resource could be a book, a video, a link, a document, a checklist, a presentation etc. When you organize your resources in a way that they are linkable and shareble it will be easy for you to contribute them to your network.
@@ -386,7 +387,7 @@ Chose one of your objectives and list at least ten related resources you find us
 
 Present the top 10 list in the circle and discuss it (10 minutes).
 
-### Kata: Update Your Digital Twin
+### Update Your Digital Twin (Kata)
 _**Duration:** 20 minutes_
 
 Does your main digital twin represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects and interests should be visible on that profile.
@@ -404,7 +405,7 @@ Check in the online profile if you have a nice image, a short description, and a
 1. ...
 1. ...
 
-### Kata: Find Communities Related To Your Objectives
+### Find Communities Related To Your Objectives (Kata)
 _**Duration:** 15 minutes_
 
 A tribe [according to Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead) is a group of people connected to one another, connected to a leader, and connected to an idea. Instead of tribe the term "community" or "community of practice" is also often used. A group needs only two things to be a tribe: a shared interest and a way to communicate. Tribes need leadership. Sometimes one person leads, sometimes more. Which are the communities related to your objectives?
@@ -424,7 +425,7 @@ Look for communities that are related to your objectives and find at least 10 (u
 
 Talk about your lists in the circle and let the others help you to complete your list.
 
-### Kata: Contribute Your Self
+### Contribute Your Self (Kata)
 _**Duration:** 35 minutes_
 
 Not all contributions in your network have to be about your objectives. Sometimes it's good to share something about yourself to make a personal connection. The list of facts about yourself might help to find interesting links to other people. Try to find these possible links and use them to make a connection.
@@ -435,7 +436,7 @@ Go through your facts about you and find at least one fact that might be of inte
 
 1. ...
 
-### Kata: Write A Letter To Your Future Self
+### Write A Letter To Your Future Self (Kata)
 
 _**Duration:** 35 minutes_
 
