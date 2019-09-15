@@ -1,0 +1,17 @@
+---
+title: "lernOS für Dich Leitfaden (CC BY)"
+subtitle: "Die Kunst des lebenslangen, selbstgesteuerten Lernens"
+author: [Simon Dückert]
+date: "Version 1.4 (16.09.2019)"
+titlepage: true
+titlepage-color: "ff6600"
+titlepage-text-color: "ffffff"
+titlepage-rule-color: "ffffff"
+links-as-notes: true
+lof: false
+toc: true
+toc-own-page: true
+toc-depth: 3
+logo: images/lernOS-logo-white-4000px.png
+logo-width: 300
+---

@@ -3,6 +3,13 @@
 The lernOS Guide for You is part of [lernOS](https://lernos.org). The guide will help learners help to kick-start their self-directed lifelong learning process.
 
 # Release Notes
+**1.4**
+* New learning paths for OKR and GTD added
+* Link to lernOS CircleFinder added to preface
+* Moderator checklist removed from learning path (separate markdown document now)
+* lernOS Canvas and OneNote template moved to lernOS Core repository
+* Improved metadata creation for E-Book versions
+
 **1.3**
 * New „high level structure“ for lernOS Guides applied
 * Order in introduction chapter changed (Sprint, Wheel, Circle)
