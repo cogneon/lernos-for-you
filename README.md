@@ -4,7 +4,6 @@ The lernOS Guide for You is part of [lernOS](https://lernos.org). The guide will
 
 # Release Notes
 **1.4**
-
 * New learning paths for OKR and GTD added
 * Link to lernOS CircleFinder added to preface
 * Moderator checklist removed from learning path (separate markdown document now)
@@ -12,7 +11,6 @@ The lernOS Guide for You is part of [lernOS](https://lernos.org). The guide will
 * Improved metadata creation for E-Book versions
 
 **1.3**
-
 * New „high level structure“ for lernOS Guides applied
 * Order in introduction chapter changed (Sprint, Wheel, Circle)
 * Hashtags removed from „ProTips“
@@ -43,5 +41,4 @@ The lernOS Guide for You is part of [lernOS](https://lernos.org). The guide will
 * Acknowledgement chapter added
 
 **1.0**
-
 * First Version of the lernOS Guide
