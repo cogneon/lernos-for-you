@@ -4,7 +4,7 @@ The verb "lernos" is the future tense of "learning" in the Esperanto language (m
 
 There are **three guides** that describe the approach on the **individual level** (lernOS for You), the **team level** (lernOS for Teams), and the **organizational level** (lernOS for Organizations).  Additionally there is the **lernOS Toolbox** describing commonly used methods and tools (e.g. Podcasting, Expert Debriefing, Barcamps, Sketchnoting). lernOS is not invented on the green field but a compilation of existing and tested methods. All guides are available under the **open Creative Commons Attribution (CC BY) license** on the [lernOS Website](https://lernos.org). 
 
-If you have **further questions** regarding lernOS or need **peer support** you can freely join the community platform [CONNECT](https://community.cogneon.de) or write with [#lernOS](https://twitter.com/search?q=%23lernOS) on Twitter. The mastery of lernOS is a matter of months or years not hours or days. So **Keep Calm & Learn On!**
+If you have **further questions** regarding lernOS or need **peer support** you can freely join the community platform [CONNECT](https://community.cogneon.de) and the [lernOS CircleFinder](https://community.cogneon.de/c/lernos/lernos-circlefinder) or write with [#lernOS](https://twitter.com/search?q=%23lernOS) on Twitter. The mastery of lernOS is a matter of months or years not hours or days. So **Keep Calm & Learn On!**
 
 Yours @simondueckert
 
@@ -17,6 +17,7 @@ lernOS is inspired by many of sources and thought leaders and is thus [standing 
 * **David Allen** for the method [Getting Things Done](https://gettingthingsdone.com) (GTD) to show the path towards the art of stress-free productivity (2001).
 * **Andy Grove** for the development of the method [Objective & Key Results](https://en.wikipedia.org/wiki/OKR) (OKR) as a further development of Peter Drucker\'s management by objectives (MbO) at Intel (1980s). **John Doer** for bringing OKR to Google and **Rick Klau** from Google Ventures for his talk [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) (2013).
 * **Glyn Moody** (2006) and **Bryce Williams** (2010) for coining and defining the term Working Out Loud. **John Stepper** for the design of the 12-week WOL learning program documented in the [WOL Circle Guides](https://workingoutloud.com/en/circle-guides) (2015). **Katharina Krentz** from Bosch for her many contributions to make WOL usable in organizations to develop a learning organization.
+* **Johannes Müller** and **Tobias Müller-Zielke** for the talks on OKRs and GTD at the lernOS Rockstars Camp 2019 and **Alexander Rose** for compiling the GTD learning path.
 
 
 # Introduction
@@ -229,7 +230,7 @@ Share your objective(s) in the circle (10 minutes).
 * Book [Introduction To OKRs](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) by Christina Wodtke
 * Book [The Beginner's Guide To OKR](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) by Felipe Castro
 
-Kata: People Related To Your Objective
+### Kata: People Related To Your Objective
 
 Most tasks we do have been done by others before. Most of the mistakes we make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives by getting in touch with experienced people inside and outside your organization. Strong relationships are based on trust, sharing, and caring. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) said "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you". So how do you get in touch with people related to your objectives and develop the relationship?
 
@@ -254,7 +255,7 @@ Share your list in the circle and let others help to complete it (10 minutes).
 
 * Video [Social Networking In Plain English](https://www.youtube.com/watch?v=6a_KF7TYKVc)
 
-Kata: Your First Sharing Experience
+### Kata: Your First Sharing Experience
 
 Sharing is caring! In the digital world sharing is often seen as giving others access to files or digital content. But it can also be as simple as sharing your attention with another person by following him, liking his content or subscribing to his website. By sharing you deepen your relationships with every contribution you make.
 
@@ -1176,4 +1177,4 @@ Keep Calm & Learn On! :-)
 | 1.1 | Simon Dueckert | OKRs als Standard-Methode für Learning Sprints, Einführung NOOB Path mit reduziertem Kata-Set, Umbenennung lernOS Sprint/Circle, Einführung von Lernpfaden | 2018-12-17 |
 | 1.2 | Simon Dueckert | Guideline renamed to "lernOS Guide for You", lernOS logo added to cover page, Telegram User Group replaced by CONNECT, Mobi version (Amazon) added to output formats, generation of all output files via make.bat, Table of Contents (TOC) added to html version | 2019-03-25 |
 | 1.3 | Simon Dückert | New "high level structure" for lernOS Guides applied, Order in introduction chapter changed (Sprint, Wheel, Circle), Hashtags removed from "ProTips", Placeholders for OKR and GTD learning paths added, Kata "Design Your Future Backwards" added to week 0, Kata "Think visual with the lernOS Canvas" moved to week 0, Skillset: table of skills expanded to act as self assessment tool, Number of circle support tools reduced based on WOL survey 2018, Standardized preface added, Content and structure in chapter acknowledgements improved, Standard orange backside cover added | 2019-06-17 |
-| 1.4 | Simon Düclert | ... | 2019-09-16 |
+| 1.4 | Simon Düclert | New learning paths for OKR and GTD added, Link to lernOS CircleFinder added to preface, Moderator checklist removed from learning path (separate markdown document now), lernOS Canvas and OneNote template moved to lernOS Core repository, Improved metadata creation for E-Book versions | 2019-09-16 |

@@ -4,7 +4,7 @@ Das Verb "lernos" ist die Zukunftsform von "lernen" auf Esperanto (mi lernos = i
 
 Zu lernOS gibt es **drei grundlegende Leitfäden**, die den Ansatz auf **individueller Ebene** (lernOS für Dich), auf **Ebene von Teams** (lernOS für Teams) und auf **Ebene von Organisationen** (lernOS für Organisationen) beschreiben. Zusätzlich gibt es die **lernOS Toolbox**, die oft genutzte Methoden und Werkzeuge erklärt (z.B. Podcast, Barcamp, Sketchnoting, Expert Debriefing). lernOS ist nicht auf der sprichwörtlichen grünen Wiese entstanden, sondern ist eine Zusammenstellung von bereits bestehenden und bewährten Methoden. Alle lernOS Leitfäden sind unter der **offenen Lizenz Creative Commons Attribution (CC BY)** auf der [lernOS Webseite](https://cogneon.de/lernos) verfügbar und können gerne an die eigenen Bedürfnisse angepasst werden.
 
-Wenn du **weitere Fragen** bezüglich lernOS hast, oder **Unterstützung von Gleichgesinnten** brauchst, kannst du die Community-Plattform [CONNECT](https://community.cogneon.de) nutzen oder mit [#lernOS](https://twitter.com/search?q=%23lernOS) auf Twitter schreiben. Beachte: Die Meisterschaft von lernOS ist eine Frage von Monaten oder Jahren, nicht Stunden oder Tagen. Also: **Keep Calm & Learn On!**
+Wenn du **weitere Fragen** bezüglich lernOS hast, oder **Unterstützung von Gleichgesinnten** brauchst, kannst du die Community-Plattform [CONNECT](https://community.cogneon.de) und den [lernOS CircleFinder](https://community.cogneon.de/c/lernos/lernos-circlefinder) nutzen oder mit [#lernOS](https://twitter.com/search?q=%23lernOS) auf Twitter schreiben. Beachte: Die Meisterschaft von lernOS ist eine Frage von Monaten oder Jahren, nicht Stunden oder Tagen. Also: **Keep Calm & Learn On!**
 
 Dein @simondueckert
 
@@ -17,6 +17,7 @@ lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den S
 * **David Allen** für die Methode [Getting Things Done](https:/gettingthingsdone.com) (GTD), die den Weg zu stressfreier Produktivität von Wissensarbeiter*innen aufzeigt.
 * **Andy Grove** für die Entwicklung der Methode [Objectives & Key Results](https://de.wikipedia.org/wiki/Objectives_and_Key_Results) (OKR) als Weiterentwicklung des Management by Objectives (MbO) von Peter Drucker bei Intel (1980er). **John Doer** für die Einführung von OKR bei Google und **Rick Klau** von Google Ventures für seinen Vortrag [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) (2013).
 * **Glyn Moody** (2006) und **Bryce Williams** (2010) für den Begriff und die Definition von Working Out Loud als "Observable Work + Narrating Your Work". **John Stepper** für die Gestaltung des 12-wöchigen WOL-Lernprogramms, das in den [WOL Circle Guides](https:/workingoutloud.com/circle-guides) dokumentiert ist (2015). **Katharina Krentz** von Bosch für ihre vielen Beiträge, Working Out Loud in Organisationen nutzbar zu machen.
+* **Johannes Müller** und **Tobias Müller-Zielke** für die Vorträge zu OKRs und GTD auf dem lernOS Rockstars Camp 2019 und **Alexander Rose** für die Zusammenstellung des GTD Lernpfads.
 
 # Grundlagen
 
@@ -1020,7 +1021,7 @@ Projekte haben in GTD eine eigene Definition. Alles **was mehr als einen Arbeits
 In Vorbereitung auf die folgenden Wochen planst du bitte diese Termine und Terminserien in Deinem Kalender ein: 
 
 - Einmalig: 2-3 Stunden für die Kata - Desk-Sweep
-- 1-2 tägliche sehr kurze Termine (5-15 Minuten) für "Verarbeiten und Organisieren"  
+- 1-2 tägliche sehr kurze Termine (5-15 Minuten) für "Verarbeiten und Organisieren"
 - 1 Termin Wochenrückblick (90-120 Minuten), falls nicht in der entsprechenden Kata schon erledigt
 - Sammeln läuft i.d.R. immer mit oder ist Teil des Wochenrückblicks
 
@@ -1076,7 +1077,7 @@ Dies sollten wir regelmässig tun, mindestens jedoch einmal im Jahr.
   - Ein neues Projekt anlegen
   - Auf die Liste Eines Tages / Vielleicht setzen
   - Noch mehr Zukunftsideen (mit einem Partner oder Freund) ausarbeiten
-  - Die Ideen mit anderen Teilen und um Feedback bitten   
+  - Die Ideen mit anderen Teilen und um Feedback bitten
   - Professionelle Hilfe (z.B. Coach) einholen
 
 - Stell dir einen Termin in Deinem Kalender ein (< 12 Monate), an dem du diese Übung wiederholen willst
@@ -1097,7 +1098,7 @@ Zwei der drei Stufen auf dem Weg zur Meisterschaft haben wir in den letzten 10 W
 - Wähle 1-3 Ideen aus der letzten Kata aus.
 - Arbeite diese Ideen weiter zu konkreten Projekten und Aufgaben aus. 
   - Was muss jetzt gestartet  werden, damit sich die Ideen und Wünsche in 2-5 Jahren erfüllen?
-  - Besprich diese Ideen mit Personen, deren Rat du schätzt.  
+  - Besprich diese Ideen mit Personen, deren Rat du schätzt.
   - Baue dir ein Netzwerk von neuen Kontakten auf, die dir helfen können deine Ziele zu erreichen.
 - Lagere immer mehr "Denken" in dein GTD-System aus
   - Suche dir einen Bereich, den du noch nicht in Deinem GTD-System erfasst hast.
@@ -1143,4 +1144,4 @@ Keep Calm & Learn On! :-)
 | 1.1 | Simon Dückert | OKRs as default method for learning sprints, introduction noob path with reduced kata set, renaming of lernOS Sprint/Circle, Introduction of learning paths | 17.12.2018 |
 | 1.2 | Simon Dückert | Leitfaden in "lernOS Leitfaden für Dich" umbenannt, lernOS Logo in die Titelseite eingefügt, Telegram als User Group durch CONNECT ersetzt, Mobi-Version (Amazon) zu Ausgabeformaten hinzugefügt, Erzeugung aller Ausgabedateien über make.bat automatisiert, Inhaltsverzeichnis (TOC) zur HTML-Version hinzugefügt | 25.03.2019 |
 | 1.3 | Simon Dückert | Neue "High Level Structure" für lernOS Guides angewendet, Reihenfolge im Grundlagen-Kapitel geändert (Sprint, Wheel, Circle), Hashtags von "ProTips" entfernt, Platzhalter für OKR und GTD Lernpfade eingefügt, Kata "Gestalte dein Future Backwards" zu Woche 0 hinzugefügt, Kata "Visuell denken mit dem lernOS Canvas" in Woche 0 verschoben, Skillset: Tabelle der Fähigkeiten für Selbsteinschätzung erweitert, Anzahl der Anwendungen zur Unterstützung von Circles auf Basis WOL Umfrage 2018 reduziert, Standardisiertes Vorwort eingefügt, Inhalt und Struktur des Kapitels Danksagungen verbessert, Standardisierte orange Rückseite eingefügt | 17.06.2019 |
-| 1.4 | Simon Dückert | OKR und GTD Lernpfade eingefügt, ... | 16.09.2019 |
+| 1.4 | Simon Dückert | Neue Lernpfade für OKR und GTD hinzugefügt, Link zum lernoS CircleFinder zum Vorwort hinzugefügt, Moderatoren Checkliste vom Lernpfad entfernt (ist jetzt ein extra Markdown-Dokument), lernOS Canvas und OneNote Vorlage ins lernOS Core Repository verschoben, Metadaten-Erstellung für E-Book-Versionen verbessert | 16.09.2019 |

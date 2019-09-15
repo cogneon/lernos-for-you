@@ -1,12 +1,47 @@
 ![lernOS Logo](https://github.com/simondueckert/lernos-core/raw/master/images/lernOS-logo-400px.png)
-# What is lernOS?
-**lernOS** is an **operating system** for **livelong learning** and **learning organizations**. It can be used by individuals, teams, and organizations. lernOS fosters the right **mindset**, trains the right **skills** and provides the right **tools** for the **digital connected knowledge society of the 21st century**.
 
-lernos in **Esperanto** is the future tense of the verb "to learn" (mi lernos: I will learn, ni lernos: WE will learn). The uppercase "OS" stands for **"operating system"** like iOS, MacOS and CentOS. Simply put **lernOS is a framework to unleash the potential learning for individuals, teams and organizations** (profit and non-profit).
+The lernOS Guide for You is part of [lernOS](https://lernos.org). The guide will help learners help to kick-start their self-directed lifelong learning process.
 
-The **core of lernOS** is based on principles from Personal Knowledge Management, [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done), [Objective Key Results](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf), [Working Out Loud](https://workingoutloud.com/en/circle-guides/), and [Scrum](http://scrumguides.org/). If you practice one of these methods separately you can use the **lernOS Canvas** for **visual documentation**, **storytelling**, and to **expand your approach** over time.
+# Release Notes
+**1.4**
 
-# Contribute to lernOS
-1. Use lernOS to get an idea of what it can do for you, for your network, and for your organization
-1. Spread the word in social networks like twitter or linkedin using hashtag #lernOS
-1. Contribute your feedback and ideas for further development at https://lernos.fider.io
+* New learning paths for OKR and GTD added
+* Link to lernOS CircleFinder added to preface
+* Moderator checklist removed from learning path (separate markdown document now)
+* lernOS Canvas and OneNote template moved to lernOS Core repository
+* Improved metadata creation for E-Book versions
+
+**1.3**
+
+* New „high level structure“ for lernOS Guides applied
+* Order in introduction chapter changed (Sprint, Wheel, Circle)
+* Hashtags removed from „ProTips“
+* Placeholders for OKR and GTD learning paths added
+* Kata „Design Your Future Backwards“ added to week 0, Kata „Think visual with the lernOS Canvas“ moved to week 0
+* Skillset: table of skills expanded to act as self assessment tool
+* Number of circle support tools reduced based on WOL survey 2018
+* Standardized preface added
+* Content and structure in chapter acknowledgements improved
+* Standard orange backside cover added
+
+**1.2**
+* Guideline renamed to „lernOS Guide for You“
+* lernOS logo added to cover page
+* Telegram User Group replaced by CONNECT
+* Mobi version (Amazon) added to output formats
+* Generation of all output files via make.bat
+* Table of Contents (TOC) added to html version
+
+**1.1**
+* Renaming of lernOS Sprint/Circle, now Learning Sprint/Circle
+* Objective & Key Results (OKR) as default method for learning sprints
+* Introduction of learning paths for modularization of learning objectives/contents in a sprint (replaces "styles")
+* Introduction of the NOOB learning path with reduced kata set (11 katas)
+* MOBI added as eBook format (for Amazon Kindle app and devices) 
+
+**1.0.1**
+* Acknowledgement chapter added
+
+**1.0**
+
+* First Version of the lernOS Guide
