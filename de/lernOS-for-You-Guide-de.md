@@ -1123,6 +1123,8 @@ Keep Calm & Learn On! :-)
 
 ## Circle Moderator*innen Checkliste
 
+**ProTip:** wenn ihr euren Circle in OneNote dokumentieren wollt oder Microsoft Teams für den Circle nutzt, schaut euch mal das [lernOS Circle Template](https://github.com/cogneon/lernos-core/tree/master/lernOS%20Circle%20Template) (verfügbar in Deutsch und Englisch) an. Darin findet ihr eine Vorlage für die Dokumentation im Circle.
+
 **WOCHE 0 - Sprint Planung & Get Together**
 
 Wenn Ihr Euch im Circle noch nicht kennt, lernt Euch in der Woche 0 kennen.

@@ -1161,6 +1161,8 @@ Keep Calm & Learn On! :-)
 
 ## Circle Moderator  Checklist
 
+**ProTip:** if you want to use OneNote or Microsoft Teams in the circle, you can have a look at the [lernOS Circle Template](https://github.com/cogneon/lernos-core/tree/master/lernOS%20Circle%20Template) (available in German and English). The template can be used to document the circle.
+
 **WEEK 0 - Sprint Planning & Get Together**
 
 When you are new to the circle you will get to know each other in week 0. You will plan when to meet, which tools to use and who is the moderator is.
