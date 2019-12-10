@@ -40,7 +40,7 @@ And the best thing is: lernOS is free, open, and easy to understand. Start using
 
 lernOS is practiced in timeboxes of 13 weeks called learning sprints. Normally sprints run along the quarters of a year but the rhythm can be changed if necessary. The week 0 is used for the planning of the sprint. From week 1-11 a learning path suggests exercises called katas to learn something new. In week 12 a retrospective is done to reflect on the learnings.
 
-![lernOS Sprint by @simondueckert, CC BY 4.0](images/lernOS-Sprint.png)
+![lernOS Sprint](images/lernOS-Sprint.png)
 
 This is what happens during a learning sprint:
 
@@ -52,11 +52,11 @@ This is what happens during a learning sprint:
 
 Mastering the VUCA world of the 21st century requires to be open for change and new approaches. There are a lot of tools and methods out there. But when one is not open to give it a try, experiment, and fail there will be no success. Like the people with the "square wheels" in the image below we are often too busy to see new opportunities.
 
-![lernOS Wheel People by @simondueckert, CC BY 4.0](images/lernOS-Wheel-People.png)
+![lernOS Wheel People](images/lernOS-Wheel-People.png)
 
 Adopting new practices in life, school, or work is not only about using digital tools. To switch from "square wheels" to "round wheels" the personal attitude, values, and skills have also to be taken into account. lernOS calls these three dimensions mindset, skillset, and toolset. To focus only on some dimensions might help. But for the best results all three should be considered in the personal development process.
 
-![lernOS Wheel by @simondueckert, CC BY 4.0](images/lernOS-Wheel.png)
+![lernOS Wheel](images/lernOS-Wheel.png)
 
 ### Mindset: Your Attitude and Values
 
@@ -70,7 +70,7 @@ The mindset can be described as the attitudes and values that lead to actions an
 
 There is no ranking in the values above but for some people [openness](https://en.wikipedia.org/wiki/Openness) seems to be the core value for a 21st century mindset. It means being open to new experiences, knowledge, and ideas as well as sharing knowledge, ideas, and content openly (see also the [Open Definition](https://opendefinition.org)). You should develop an "open first mindset" over time as described in the [Open First Manifesto](http://innovationsbeirat.de/open-first):
 
-![Open First (innovationsbeirat.de/open-first) by innovationsbeirat, CC BY SA 4.0](images/open-first-manifesto-v1.0.png)
+![Open First Manifesto](images/open-first-manifesto-v1.0.png)
 
 **ProTip:** your mindset is not fixed it can grow over time. Watch Carol Dweck's video on [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) to learn more about it.
 
@@ -78,7 +78,7 @@ There is no ranking in the values above but for some people [openness](https://e
 
 Since the 1980s skills like solving problems and interacting with others in creative ways became most important to be successful. These are also skills that can't be easily replaced by automation and artificial intelligence in the future. To get fit for the 21st century you have to train the following skills ([Framework for 21st Century Learning](http://www.p21.org/our-work/p21-framework), [DigiComp 2.1 Framework](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use)):
 
-![lernOS Skillset by @simondueckert, CC BY 4.0](images/lernOS-Skillset.png)You can use this table to do a self assessment at the beginning of a lernOS Sprint. The levels 1-5 are according to the [Dreyfus model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) (1 = Novice, 2 = Advanced Beginner, 3 = Competence, 4 = Proficient, 5 = Expert). Just put your current skill level in the "As-Is" column and your desired skill level in the "To-Be" column. You can then set a focus for your learning activities.
+![lernOS Skillset](images/lernOS-Skillset.png)You can use this table to do a self assessment at the beginning of a lernOS Sprint. The levels 1-5 are according to the [Dreyfus model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) (1 = Novice, 2 = Advanced Beginner, 3 = Competence, 4 = Proficient, 5 = Expert). Just put your current skill level in the "As-Is" column and your desired skill level in the "To-Be" column. You can then set a focus for your learning activities.
 
 | Skill | As-Is | To-Be |
 |------------------------------|----|----|
@@ -132,7 +132,7 @@ For a beginner 28 categories and dozens of tools might be overwhelming. Therefor
 ## lernOS Circle: The Power Of Peer Support
 If you do not want to practice lernOS on your own you can do it in a group of 4-5 people called a learning circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The circle is a circle of trust: what happens in the circle stays in the circle! The circle members will have a weekly meeting with a standard agenda to structure the learning and development process.
 
-![Learning Circle by @simondueckert, CC BY 4.0](images/lernOS-Circle.png)
+![Learning Circle](images/lernOS-Circle.png)
 
 A learning circle meets once a week. Each meeting has a standardized agenda with a check-in, suggested exercises called lernOS Katas (see appendix for the weekly agendas and the exercise descriptions), and a check-out. The timebox for the weekly can be adopted to the needs of the circle members, suggested timeslot is Friday between 11-12am.
 
@@ -199,7 +199,7 @@ A canvas is a visual structure that can be used to work through several building
 
 The lernOS Canvas can be downloaded from the [lernOS Website](https://lernos.org) in different formats (e.g. PowerPoint, PDF, PNG). To be able to work with the canvas in an agile way one should NEVER write on a canvas ... that's why sticky notes were invented!
 
-![lernOS Canvas by @simondueckert, CC BY 4.0](images/lernOS-Canvas-en.png)
+![lernOS Canvas](images/lernOS-Canvas-en.png)
 
 The header of the canvas contains the creation date, the number of the sprint, and a motivation/mission statement (if you have one). In the building block "My Objectives & Key Results" the goals for the current sprint are documented. The building blocks "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people that can help you to achieve your objectives. Available resources (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
 
@@ -211,7 +211,7 @@ _**Duration:** 25 minutes_
 
 What do you want to accomplish in the next 12 weeks? Pick an objective that you really, really care about and you can make progress towards in the sprint. You will use Google's OKR method to define that objective. For the NOOB path it's not prio 1 to achieve the objective. Core is to learn how to achieve objectives more easy with the help of an open workstyle and the development of a network.
 
-![My Objectives For The Next 12 weeks](images/lernOS-Kata-02.png)
+![](images/lernOS-Kata-My-Objective-For-The-Next-12-Weeks.png)
 
 Select an objective for the next 12 weeks. Use the questions "Do I really, really care?", "Can I achieve it in 12 weeks?", and "Can my network help me?" to test if the objective is appropriate for the sprint. If you have problems to find a good objective think about goals that support your roles, activities, or projects. If you want to help to make the world a better place you can also choose an objective that is related to the [United Nation's 17 sustainable development goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals).
 
@@ -300,7 +300,7 @@ _**Duration:** 10 minutes_
 
 What do people see when they search for you online? Do they get an idea of who you are and how they might help you with your objectives? You can simulate that situation by googling yourself (often called egosurfing, egosearching or vanity search).
 
-![Go Google Yourself on google.com or in an intranet search engine](images/lernOS-Kata-13.png)
+![](images/lernOS-Kata-Go-Google-Yourself.png)
 
 Open a search engine in the internet or intranet and enter your name. Open at least the first 10 search results and check if your personality and the facts about you are up-to-date. Identify possible improvements:
 
@@ -464,7 +464,7 @@ The letter to your future self is a classic method in self motivation and vision
 
 Write a letter to your future self. Talk about who you are now (e.g. summary, fears, values, beliefs, skills, abilities, goals, hopes). Then address your future self with the things you want to stop/continue/start doing. Give yourself advice and ask yourself questions. Seal the letter and store it in a safe place or use services like [futureme.org](https://futureme.org) to send it to your future self automatically:
 
-![](images/lernOS-Kata-16.png)
+![](images/lernOS-Kata-A-Letter-To-You-Future-Self.png)
 
 **Further Information:**
 
@@ -1279,7 +1279,7 @@ Define a circle moderator who cares for event and time management. The moderator
 In this week the final iteration of your key results should be available. Talk about them and show them in the check-in. You will reflect on the circle experience and talk about how to sustain the process. After the weekly you should take some time to celebrate your success!
 
 * **Check-in:** What happened since the last check-in? Show the final iteration of the key results. 3 minute timebox per circle member. _(15 minutes)_
-* **Your Learning Moments:** Talk about the moments in the sprint that where special for your. What are your key learnings? _(20 minutes)_
+* **Your Learning Moments:** Talk about the moments in the sprint that where special for your. What are your key learnings? Discuss if you want to publish them as [lernOS Story](https://docs.google.com/forms/d/e/1FAIpQLSc9KrufUD9Mu9wstGv8ojfChRwPlq2dVi_kAUB04MuymmzUSg/viewform) for other practitioners. _(20 minutes)_
 * **After Action Review:** What was the plan for the sprint? What did happened? Is there any deviation? What can you learn from it? _(20 minutes)_
 * **Check-out:** Are there any next steps? Will you stay together for another sprint?
 * **Celebration time!** _(timebox is up to you)_

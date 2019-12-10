@@ -2,7 +2,7 @@
 
 Das Verb "lernos" ist die Zukunftsform von "lernen" auf Esperanto (mi lernos = ich werde lernen, ni lernos = wir werden lernen). **lernOS** ist ein **Betriebssystem** für **Lebenslanges Lernen** und **Lernende Organisationen**. lernOS ist aber keine Software, sondern "Brainware". Es ist eine Art zu Denken und zu Handeln, um als Einzelperson, Team oder Organisation im 21. Jahrhundert erfolgreich zu sein. Das groß geschriebene "OS" im Namen unterstreicht die Bedeutung der Digitalisierung für unsere vernetzte Wissensgesellschaft.
 
-Zu lernOS gibt es **drei grundlegende Leitfäden**, die den Ansatz auf **individueller Ebene** (lernOS für Dich), auf **Ebene von Teams** (lernOS für Teams) und auf **Ebene von Organisationen** (lernOS für Organisationen) beschreiben. Zusätzlich gibt es die **lernOS Toolbox**, die oft genutzte Methoden und Werkzeuge erklärt (z.B. Podcast, Barcamp, Sketchnoting, Expert Debriefing). lernOS ist nicht auf der sprichwörtlichen grünen Wiese entstanden, sondern ist eine Zusammenstellung von bereits bestehenden und bewährten Methoden. Alle lernOS Leitfäden sind unter der **offenen Lizenz Creative Commons Attribution (CC BY)** auf der [lernOS Webseite](https://cogneon.de/lernos) verfügbar und können gerne an die eigenen Bedürfnisse angepasst werden.
+Zu lernOS gibt es **drei grundlegende Leitfäden**, die den Ansatz auf **individueller Ebene** (lernOS für Dich, [Präsentation](https://cogneon.github.io/lernos-for-you)), auf **Ebene von Teams** (lernOS für Teams) und auf **Ebene von Organisationen** (lernOS für Organisationen) beschreiben. Zusätzlich gibt es die **lernOS Toolbox**, die oft genutzte Methoden und Werkzeuge erklärt (z.B. Podcast, Barcamp, Sketchnoting, Expert Debriefing). lernOS ist nicht auf der sprichwörtlichen grünen Wiese entstanden, sondern ist eine Zusammenstellung von bereits bestehenden und bewährten Methoden. Alle lernOS Leitfäden sind unter der **offenen Lizenz Creative Commons Attribution (CC BY)** auf der [lernOS Webseite](https://cogneon.de/lernos) verfügbar und können gerne an die eigenen Bedürfnisse angepasst werden.
 
 Wenn du **weitere Fragen** bezüglich lernOS hast, oder **Unterstützung von Gleichgesinnten** brauchst, kannst du die Community-Plattform [CONNECT](https://community.cogneon.de) und den [lernOS CircleFinder](https://community.cogneon.de/c/lernos/lernos-circlefinder) nutzen oder mit [#lernOS](https://twitter.com/search?q=%23lernOS) auf Twitter schreiben. Beachte: Die Meisterschaft von lernOS ist eine Frage von Monaten oder Jahren, nicht Stunden oder Tagen. Also: **Keep Calm & Learn On!**
 
@@ -61,7 +61,7 @@ Normalerweise laufen die Sprints jeweils in einem Quartal des Jahres.
 Der Rhythmus kann bei Bedarf angepasst werden. Die Woche 0 wird
 für die Planung des Sprints genutzt. Von Woche 1-11 schlägt ein Lernpfad Übungen vor, um neue Fähigkeiten und eine neue Haltung zu erlernen. In Woche 12 wird eine Retrospektive durchgeführt, um das Gelernte zu reflektieren.
 
-![lernOS Sprint von @simondueckert, CC BY 4.0](images/lernOS-Sprint.png)
+![lernOS Sprint](images/lernOS-Sprint.png)
 
 Das passiert in einem Learning Sprint:
 
@@ -85,7 +85,7 @@ experimentieren und zu scheitern, wird der Erfolg ausbleiben. Wie die
 Leute mit den "quadratischen Rädern" im Bild unten, sind wir oft zu
 beschäftigt, um die neuen Chancen zu sehen.
 
-![lernOS Wheel People von @simondueckert, CC BY 4.0](images/lernOS-Wheel-People.png)
+![lernOS Wheel People](images/lernOS-Wheel-People.png)
 
 Bei der Anwendung neuer Handlungsweisen im Privatleben, in der Schule oder in der
 Arbeit geht es nicht nur um die Verwendung digitaler Tools.
@@ -96,7 +96,7 @@ Skillset und Toolset. Sich nur auf ein oder zwei Dimensionen zu konzentrieren,
 kann schon helfen. Doch für die besten Ergebnisse sollten alle drei Dimensionen im
 persönlichen Entwicklungsprozess berücksichtigt werden.
 
-![lernOS Wheel von @simondueckert, CC BY 4.0](images/lernOS-Wheel.png)
+![lernOS Wheel](images/lernOS-Wheel.png)
 
 ### Mindset: Deine Haltung und Werte
 
@@ -123,12 +123,9 @@ Offen](https://opendefinition.org)). Du solltest im Lauf der Zeit
 ein "Open First Mindset" entwickeln, wie im [Open
 First Manifest](http://innovationsbeirat.de/open-first) beschrieben:
 
-![Open First (Innovationsbeirat.de/Open-First) by Innovations Beirat, CC
-BY SA 4.0](images/open-first-manifesto-v1.0.png)
+![Open First Manifesto](images/open-first-manifesto-v1.0.png)
 
-**ProTip:** Dein Mindset ist nicht in den sprichwörtlichen Stein gemeißelt, es kann sich mit der Zeit
-verändern. Schaue dir das Video [Developing a
-Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) von Carol Dweck an,
+**ProTip:** Dein Mindset ist nicht in den sprichwörtlichen Stein gemeißelt, es kann sich mit der Zeit verändern. Schaue dir das Video [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) von Carol Dweck an,
 um mehr darüber zu erfahren.
 
 ### Skillset: Deine Fähigkeiten
@@ -140,7 +137,7 @@ künstliche Intelligenz ersetzt werden können. Um fit für das 21.
 Jahrhundert zu werden, solltest du folgende fünf Fähigkeitsbereiche trainieren
 ([Framework for 21st Century Learning](http://www.p21.org/our-work/p21-framework), [DigiComp 2.1 Framework](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use)):
 
-![lernOS Skillset von @simondueckert, CC BY 4.0](images/lernOS-Skillset.png)
+![lernOS Skillset](images/lernOS-Skillset.png)
 
 Du kannst die folgende Tabelle für eine Selbsteinschätzung am Anfang eines Learning Sprints nutzen. Wir nutzen die Stufen 1-5 aus dem [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) (1 = Novize, 2 = Fortgeschrittener Anfänger, 3 = Kompetent, 4 = Profi, 5 = Experte). Trage deine aktuelle Stufe in die Spalte "Ist" und deine angestrebte Stufe in die Spalte "Soll". Auf der Basis kannst du den Fokus für deine Lernaktivitäten bestimmen.
 
@@ -225,7 +222,7 @@ passiert, bleibt im Circle! Die Circle-Mitglieder treffen sich wöchentlich
 und folgen dabei einem vorgegebenen Ablauf, der den Lern- und
 Entwicklungsprozess strukturiert.
 
-![Learning Circle von @simondueckert, CC BY 4.0](images/lernOS-Circle.png)
+![Learning Circle](images/lernOS-Circle.png)
 
 Einmal pro Woche trifft sich der Learning Circle. Jedes Treffen folgt
 einem vorgegebenen Ablauf (siehe Anhang) mit einem Check-in,
@@ -315,7 +312,7 @@ Webseite](https://lernOS.org) in verschiedenen Formaten heruntergeladen
 solltest du nie darauf schreiben. Aus diesem Grund wurden
 Haftnotizen erfunden!
 
-![lernOS Canvas von @simondueckert, CC BY 4.0](images/lernOS-Canvas-de.png)
+![lernOS Canvas](images/lernOS-Canvas-de.png)
 
 Der obere Teil des Canvas enthält
 Motivations- oder Mission Statement (wenn du eines hast) und Nummer oder Datum des Sprints. Im
@@ -338,7 +335,7 @@ _**Dauer:** 25 Minuten_
 
 Was willst du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dich wirklich, wirklich wichtig ist und bei dem du im Sprint Fortschritte machen kannst. du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Für den NOOB Pfad ist es nicht erste Priorität, das Ziel zu erreichen. Im Fokus steht zu lernen, wie du mit Hilfe eines offenen Arbeitsstils und der Entwicklung eines Netzwerks Ziele einfacher erreichst.
 
-![Meine Ziele für die nächsten 12 Wochen](images/lernOS-Kata-02.png)
+![Meine Ziele für die nächsten 12 Wochen](images/lernOS-Kata-Meine-Ziele.png)
 
 Wähle ein Ziel für die nächsten 12 Wochen. Verwende die Fragen
 "Ist es mir wirklich, wirklich wichtig?", "Kann ich es in 12 Wochen
@@ -480,7 +477,7 @@ Dir bei deinen Zielen helfen können? Du kannst diese Situation
 simulieren, indem du Dich selbst googelst (oft als egosurfing, egosearch
 oder vanity search bezeichnet).
 
-![](images/lernOS-Kata-13.png)
+![](images/lernOS-Kata-Google-Dich-selbst.png)
 
 Öffne eine Suchmaschine im Netz und gebe
 Deinen Namen ein. Öffne mindestens die ersten zehn Suchergebnisse und
@@ -704,7 +701,7 @@ verwahre ihn an einem sicheren Ort oder nutze Online-Dienste
 wie [futureme.org](https://futureme.org) um ihn automatisch an Dein
 zukünftiges Selbst zu senden:
 
-![](images/lernOS-Kata-16.png)
+![](images/lernOS-Kata-Ein-Brief-an-mein-zukuenftiges-Ich.png)
 
 **Weitere Informationen:**
 
@@ -1264,7 +1261,7 @@ In dieser Woche sollte die endgültige Iteration Deiner Key Results vorliegen. S
 
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Zeigt die finale Iteration der Key Results. Drei-Minuten-Timebox
 pro Circle-Mitglied. *(15 Minuten)*
-* **Your Learning Moments:** Sprecht über die Momente im Sprint, die für euch besonders waren. Was sind eure "key learnings"? _(20 minutes)_
+* **Your Learning Moments:** Sprecht über die Momente im Sprint, die für euch besonders waren. Was sind eure "key learnings"? Überlegt, ob ihr diese als [lernOS Story](https://docs.google.com/forms/d/e/1FAIpQLSc9KrufUD9Mu9wstGv8ojfChRwPlq2dVi_kAUB04MuymmzUSg/viewform) für alle anderen Praktiker veröffentlichen wollt. _(20 minutes)_
 * **After Action Review:** Was war der Plan für den Sprint? Was ist passiert? Gab es eine Abweichung? Was kann man daraus lernen? _(20 minutes)_
 * **Check-out:** Gibt es nächste Schritte? Bleibt ihr für einen weiteren Sprint zusammen?
 * **Party Time!** *(Die Dauer wählt ihr)*
