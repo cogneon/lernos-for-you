@@ -8,16 +8,23 @@ Wenn du **weitere Fragen** bezüglich lernOS hast, oder **Unterstützung von Gle
 
 Dein @simondueckert
 
-# Danksagungen
+# Lizenz
 
-lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). Einen Überblick über die Wurzeln und Inspirationen habe ich [im lernOS Wiki](https://github.com/cogneon/lernos-core/wiki) zusammengestellt. Für diesen Leitfaden möchte ich besonders danken:
+lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
 
-* **Hirotaka Takeuchi** und **Ikujiro Nonaka** für die Einführung des Begriffs Scrum für agile Innovationsmethoden (1986).
-* **Jeff Sutherland** und **Ken Schwaber** für die Definition eines agilen Projektmanagements im [Scrum Guide](https://scrumguides.org) (2010).
-* **David Allen** für die Methode [Getting Things Done](https:/gettingthingsdone.com) (GTD), die den Weg zu stressfreier Produktivität von Wissensarbeiter*innen aufzeigt.
-* **Andy Grove** für die Entwicklung der Methode [Objectives & Key Results](https://de.wikipedia.org/wiki/Objectives_and_Key_Results) (OKR) als Weiterentwicklung des Management by Objectives (MbO) von Peter Drucker bei Intel (1980er). **John Doer** für die Einführung von OKR bei Google und **Rick Klau** von Google Ventures für seinen Vortrag [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) (2013).
-* **Glyn Moody** (2006) und **Bryce Williams** (2010) für den Begriff und die Definition von Working Out Loud als "Observable Work + Narrating Your Work". **John Stepper** für die Gestaltung des 12-wöchigen WOL-Lernprogramms, das in den [WOL Circle Guides](https:/workingoutloud.com/circle-guides) dokumentiert ist (2015). **Katharina Krentz** von Bosch für ihre vielen Beiträge, Working Out Loud in Organisationen nutzbar zu machen.
-* **Johannes Müller** und **Tobias Müller-Zielke** für die Vorträge zu OKRs und GTD auf dem lernOS Rockstars Camp 2019 und **Alexander Rose** für die Zusammenstellung des GTD Lernpfads.
+![](./images/cc-by.png)
+
+**Du darfst:**
+
+* **Teilen** - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
+* **Bearbeiten** - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+
+**Unter folgenden Bedingungen:**
+
+- **Namensnennung** - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+- **Keine weiteren Einschränkungen** - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+
+![](./images/FreeCulturalWorks.png)
 
 # Grundlagen
 
@@ -91,17 +98,15 @@ persönlichen Entwicklungsprozess berücksichtigt werden.
 
 ![lernOS Wheel von @simondueckert, CC BY 4.0](images/lernOS-Wheel.png)
 
-### Mindset: Deine Weltanschauung
+### Mindset: Deine Haltung und Werte
 
-Das Mindset kann als die Einstellung und die Werte beschrieben werden,
-die zu Handlungen und sichtbaren Ergebnissen führen. Diese Werte
+Das Mindset kann die Haltung und Werte beschrieben werden,
+die zu Handlungen und sichtbaren Ergebnissen führen. Diese 
 entwickeln sich im Laufe der Zeit und bilden die Kultur von
 Organisationen und der Gesellschaft. Wenn wir in der Welt handeln,
 bekommen wir Feedback und lernen daraus. Im Laufe der Zeit erzeugen wir
 mentale Modelle der Welt und Werte, die unser zukünftiges Handeln
-leiten ([Boisot,
-2004](https://www.rrojasdatabank.info/thermo/20388.pdf)). Für den Erfolg in der
-VUCA-Welt sind diese fünf Werte besonders wichtig (Buhse 2014 & Petry, 2014):
+leiten ([Boisot, 2004](https://www.rrojasdatabank.info/thermo/20388.pdf)). Für den Erfolg in der VUCA-Welt sind diese fünf Werte besonders wichtig (Buhse 2014 & Petry, 2014):
 
 1. **Vernetzung** vor Isolation
 2. **Vertrauen** vor Misstrauen
@@ -325,12 +330,9 @@ etc.) werden in "Meine WissensWerte" aufgeführt. Die bei "Meine
 Ablageorte" aufgeführten Ablagen werden genutzt, um wertvolle Ressourcen
 großzügig mit dem Netzwerk zu teilen.
 
-**ProTip:** Wenn du das lernOS OneNote Circle Template verwendest,
-kannst du ein aktuelles Foto von Deinem Canvas machen und
-einfügen, damit die anderen Circle-Mitglieder es sehen und Feedback
-geben können.
-
 ### Mein Ziel für die nächsten 12 Wochen (Kata)
+
+In dieser Kata wählst Du Dein Ziel für den Sprint. Das Ziel kann bis zur 4. Woche verfeinert werden, aber nicht danach.
 
 _**Dauer:** 25 Minuten_
 
@@ -364,8 +366,6 @@ von 0,7 als Erfolg.
 3. ...
 4. ...
 
-Teile deine Ziele im Circle (10 Minuten).
-
 **Weitere Informationen:**
 
 - Wikipedia Artikel [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria)
@@ -378,6 +378,8 @@ Teile deine Ziele im Circle (10 Minuten).
   von Felipe Castro
 
 ### Menschen, die mit meinem Ziel zu tun haben (Kata)
+
+In dieser Woche wirst Du über Menschen nachdenken, die Dir bei Deinen Zielen helfen können (allein arbeiten ist Addition, zusammenarbeiten ist Multiplikation!).
 
 _**Dauer:** 20 Minuten_
 
@@ -412,14 +414,13 @@ soziale Netzwerke, um mehr Personen zu finden:
 1.  ...
 1. ...
 
-Teile deine Liste im Circle und helft Euch gegenseitig, sie zu
-vervollständigen (10 Minuten).
-
 **Weitere Informationen:**
 
 * Video [Social Networking In Plain English](https://www.youtube.com/watch?v=6a_KF7TYKVc)
 
 ### Deine erste Erfahrung des Teilens (Kata)
+
+In dieser Kata wirst Du Aufmerksamkeit, Wissen, Erfahrungen und wertvolle Ressourcen mit Deinem Netzwerk teilen, um Vertrauen aufzubauen und Unterstützung zu erhalten.
 
 _**Dauer:** 40 Minuten_
 
@@ -442,9 +443,9 @@ Kontaktformular sein. Mache mindestens fünf Erfahrungen, Aufmerksamkeit zu teil
 1.  ...
 1.  ...
 
-Besprecht Eure Erfahrungen im Circle (20 Minuten).
-
 ### Ein Termin mit dir selbst (Kata)
+
+In dieser Woche wirst Du dafür sorgen, dass Du genügend Zeit hast, um Dich zu vernetzen, zu teilen und Dich um Dein Netzwerk zu kümmern. Du wirst dies tun, indem Du Termine mit Dir selbst vereinbarst. In dieser Woche sollte Dein Ziele stabil sein und Du solltest eine klare Vorstellung haben, welche Leute im Netzwerk Dir helfen könnten, Deine Dinge zu erledigen. Nehmt Euch diese Woche einen kurzen "Boxenstopp", um zu reflektieren, ob alles gut für Dich und den Circle funktioniert. In den nächsten vier Wochen wirst Du Dich darauf konzentrieren, an der ersten Iteration Deiner Key Results zu arbeiten.
 
 _**Dauer:** 15 Minuten_
 
@@ -467,9 +468,9 @@ diese Zeit für Dich zur Gewohnheit wird. Finde mindestens fünf Termine:
 1.  ...
 1.  ...
 
-Besprecht Eure Ansätze im Circle.
-
 ### Google Dich selbst! (Kata)
+
+In dieser Kata wirst Du Dich selber im Intranet oder Internet suchen.
 
 _**Dauer:** 10 Minuten_
 
@@ -510,6 +511,8 @@ Der digitale Zwilling repräsentiert Dich im Netz:
 * Artikel [Google Yourself! Measuring the performance of personalized information resources](https://snurb.info/files/aoir2008/Google%20Yourself!%20Measuring%20the%20performance%20of%20personalized%20information%20resources%20%28AoIR%202008%29.pdf) von Thomas Nicolai und Lars Kirchhoff.
 
 ### 25 Fakten über mich (Kata)
+
+In dieser Kata wirst Du Fakten und persönliche Informationen sammeln, die für Dein Netzwerk relevant sein könnten und Dir helfen, Dich zu vernetzen.
 
 _**Dauer:** 25 Minuten_
 
@@ -566,13 +569,13 @@ und erweitere deine Liste auf 25 Fakten:
 24. ...
 25. ...
 
-Teile deine Fakten über Dich im Circle (10 Minuten).
-
 **Weitere Informationen:**
 
 * YouTube-Suche ["random facts about me"](https://www.youtube.com/results?search_query=random+facts+about+me)
 
 ### Meine Top 10 WissensWerte (Kata)
+
+In dieser Kata wirst Du zu Deinen Top 10 Wissenswerte reflektieren, die Du in Deinem Netzwerk teilen kannst.
 
 _**Dauer:** 30 Minuten_
 
@@ -596,9 +599,9 @@ Ressourcen auf, die dafür nützlich oder interessant sind:
 9.  ...
 10. ...
 
-Stelle deine Top 10 Liste im Circle vor und besprecht sie (10 Minuten).
-
 ### Aktualisiere deinen digitalen Zwilling (Kata)
+
+In dieser Kata wirst Du, wenn Deine digitalen Zwillinge wie Website, Blog oder Profil nicht mit Deinen Erkenntnissen aus der letzten Woche übereinstimmen, diese aktualisieren.
 
 _**Dauer:** 20 Minuten_
 
@@ -625,6 +628,8 @@ Liste Verbesserungsideen auf, die du umsetzen möchtest:
 10. ...
 
 ### Finde Communities, die mit Deinem Ziel in Verbindung stehen (Kata)
+
+In dieser Kata nach Communities oder Gruppen suchen, die Dir helfen können, Deine Ziele zu erreichen.
 
 _**Dauer:** 15 Minuten_
 
@@ -656,9 +661,9 @@ Groups](https://www.xing.com/communities) ,
 9.  ...
 10. ...
 
-Sprecht über die Liste im Circle und helft Euch gegenseitig beim Vervollständigen.
-
 ### Bringe dein ICH ein (Kata)
+
+In dieser Kata wirst Du die Fakten über Dich selbst nutzen, um eine persönliche Verbindung herzustellen. Du wirst lernen, dass Zuhören manchmal wichtiger ist als Reden.
 
 _**Dauer:** 20 Minuten_
 
@@ -676,6 +681,8 @@ die Beziehung anhand dieses Fakts zu vertiefen:
 1.  ...
 
 ### Ein Brief an mein zukünftiges Ich (Kata)
+
+In dieser Kata wirst Du Dir Dich selbst in der Zukunft vorstellen, indem Du einen Brief an Dein zukünftiges ich schreibst. Und Du hilfst Deinem Netzwerk, Dich zu unterstützen, indem Du Deine Vision und Deine Ziele auf Deinen Online-Profilen sichtbar machst.
 
 _**Dauer:** 35 Minuten_
 
@@ -698,9 +705,6 @@ wie [futureme.org](https://futureme.org) um ihn automatisch an Dein
 zukünftiges Selbst zu senden:
 
 ![](images/lernOS-Kata-16.png)
-
-Wenn du den Brief mit deinen Circle-Mitgliedern teilen möchten, lies
-ihn anschließend laut vor (15 Minuten).
 
 **Weitere Informationen:**
 
@@ -781,16 +785,12 @@ _Ich will (Objective): .......... gemessen an .......... (Key Results):_
 * Die Key Results drücken Ergebnisse, nicht Tätigkeiten aus. Die Formulierung eines Key Results sollte keine Wörter wie "beraten", "helfen", "analysieren" oder "teilnehmen" enthalten.
 * Messbare Meilensteine sollten den Nachweis der Fertigstellung beinhalten. Und diese Nachweise sollten sichtbar, glaubwürdig und leicht nachvollziehbar sein.
 
-Wenn du den OKR-Lernpfad in einem lernOS Circle machst, dann diskutiert die OKRs im Circle und gebt euch gegenseitig Feedback.
-
 ### Finalisiere deine OKRs für den Sprint (Kata)
 **Überprüfe deine OKRs für den Sprint und lege dich fest.**
 
 _**Dauer:** 30 Minuten_
 
 Du hattest jetzt einige Nächte, um deine OKRs nochmal zu überdenken. Fühlst du dich wohl und motiviert damit? Fühlen sich die Objectives anspruchsvoll an? Siehst du eine realistische Chance die Key Results zu 60-70% erreichen zu können. Überdenke deine OKRs nochmal und lege dich für diesen Sprint fest. Dokumentiere die OKRs dann in deiner OKR-Umgebung.
-
-Wenn du den OKR-Lernpfad in einem Circle machst, stellt euch die finalen OKRs gegenseitig vor und sprecht über Wege der Zielerreichung. So wird sichtbar, wie unterschiedlich die Herangehensweisen der unterschiedlichen Personen sein können.
 
 ### Führe dein Weekly Check-In durch (Kata)
 **Starte mit einem kurzen OKR Weekly Check-In in jede Woche**
@@ -808,8 +808,6 @@ Den Zeitpunkt deines Check-in hast du ja bereits festgelegt und als Regeltermin 
 
 Verwende die kommenden vier Wochen, um das Check-in zu einer wöchentlichen Routine zu machen. In jeder Woche lernst du in kleinen Lernhäppchen von 15 Minuten zusätzliche Themen rund um OKRs kennen.
 
-Wenn du den OKR-Lernpfad in einem Circle machst, tauscht euch aus, wie ihr eure Weeklys organisiert und welche Erfahrungen ihr mit dem Prozess macht.
-
 ### Tools für OKRs (Kata)
 **Lerne einige Tools für OKRs kennen.**
 
@@ -823,8 +821,6 @@ David Allen beschreibt Getting Things Done (GTD) oft als "tool-agnostic". D.h. m
 * **To-Do-Listen-Tools**, z.B. Trello, Microsoft To-Do, Microsoft Planner, Jira
 * **Wikis**, z.B. Mediawiki, Confluence, TiddlyWiki, Etherpad
 * **Enterprise OKR-Tools**, z.B. 7Geese, WeekDone, Workpath
-
-Wenn du den OKR-Lernpfad in einem Circle machst, tauscht euch die Erfahrungen mit euren OKR-Umgebungen und probiert weitere Tools aus.
 
 ### Scoring vs. Measuring Key Results (Kata)
 **Verstehe den Unterschied zwischen "Scoring" und "Measuring" und entscheide dich für deinen Weg.**
@@ -840,8 +836,6 @@ Daher empfiehlt Felipe die Key Results nicht auf der Skala von 0 - 1,0 zu "score
 
 Schaue dir deine Key Results an und überlege, ob sich der Prozess für dich durch einfaches Messen statt der Bewertung auf der Skala von 0 - 1,0 vereinfachen würde. Entscheide dich für eine Vorgehensweise und passe deine Key Results ggf. an.
 
-Wenn du den OKR-Lernpfad in einem Circle machst, tauscht euch aus, wer welchen Weg aus welchen Gründen gewählt hat. In den folgenden Wochen könnt ihr dann immer mal wieder über die Auswirkungen und Erfahrungen sprechen.
-
 ### Stretch Goals and Moonshots (Kata)
 **Lerne die Bedeutung von "Strech Goals" für das Stecken anspruchsvoller Ziele kennen.**
 
@@ -850,8 +844,6 @@ _**Dauer:** 15 Minuten_
 Mit Strech Goals oder Moonshot OKRs (abgeleitet von Kennedy's Moonshot Goal 1962) werden Ziele bezeichnet, die unmöglich zu erreichen scheinen. Man kann sich z.B. mal nicht fragen "Wie werde ich um 10% besser/schneller?", sondern "Wie werde ich um den Faktor 10 besser/schneller". Dadurch wird man gezwungen, die eigene Komfortzone zu verlassen und über andere Praktiken, Fähigkeiten und anders Know-how nachzudenken.
 
 Schaue dir deine Objectives an und überlege, aus welchen du Moonshot OKRs machen könntest und welche Konsequenzen das für dich hätte. Wenn du Moonshot OKRs ausprobieren möchtest, entscheide, ob du die OKRs noch für diesen oder einen folgenden Sprint anpassen möchtest.
-
-Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Ideen und Einschätzungen zu Moonshot OKRs.
 
 ### What is your Confidence Level? (Kata)
 **Wie sicher bist du dir, dass du deine OKRs erreichen wirst?**
@@ -862,8 +854,6 @@ Nach Henrik-Jan van der Pol von perdoo zeigt der [OKR Confidence Level](https://
 
 Schaue dir die beiden Quellen an und entscheide, ob du für deine OKRs auch Confidence Level schätzen möchtest. Wenn ja, überlege, wo und wann du diese in deiner Dokumentation pflegst.
 
-Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Entscheidungen zu den OKR Confidence Leveln.
-
 ### Individual vs. Team/Organizational OKRs (Kata)
 **Lerne das Zusammenspiel von OKRs auf den Ebenen Individuum, Team und Organisation kennen.**
 
@@ -872,8 +862,6 @@ _**Dauer:** 30 Minuten_
 Wie im Video [How Google sets goals: OKRs](https://youtu.be/mJB83EZtAjc?t=1061) von Rick Klau gut beschrieben, werden OKRs nicht nur auf individueller Ebene, sondern auch auf Ebene von Teams, Abteilungen und der ganzen Organisation definiert. Im Gegensatz zu anderen Zielvereinbarungssystemen wie beispielsweise [Management by Objectives](https://de.wikipedia.org/wiki/Management_by_Objectives) (MbO) ist das aber kein reiner Top-Down-Prozess, sondern erfolgt sowohl Top-Down (Empfehlung John Doerr: 40%), als auch Bottom-Up (Empfehlung John Doerr: 60%).
 
 Überlege, ob du neben deinen persönlichen OKRs die Methode auch in deinem Umfeld, wie beispielsweise deinem Team oder deiner Abteilung einsetzen kannst. Überlege dir mindestens eine Maßnahme, um zu testen, ob dein Umfeld offen für OKRs ist und wie man das dort umsetzen könnte.
-
-Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Ansätze zur Verbreitung von OKRs in der Organisation und lernt voneinander.
 
 ### OKR Review (Kata)
 **War dein OKR Zyklus erfolgreich und welche Themen ergeben sich für den nächsen?**
@@ -889,8 +877,6 @@ Franziska Schneider von Workpath [schlägt in einem Blog vor](https://www.workpa
 * Wo kann/sollte ich die Ergebnisse des Reviews präsentieren?
 
 Führe jetzt ein OKR Review für den aktuellen Sprint durch und dokumentiere die Ergebnisse.
-
-Wenn du den OKR-Lernpfad in einem Circle machst, diskutiert eure Review-Ergebnisse.
 
 ## GTD Lernpfad
 
@@ -1136,7 +1122,166 @@ einen weiteren Sprint gemeinsam durchlaufen wollt.
 
 Keep Calm & Learn On! :-)
 
-# Änderungshistorie
+# Anhang
+
+## Circle Moderator*innen Checkliste
+
+**WOCHE 0 - Sprint Planung & Get Together**
+
+Wenn Ihr Euch im Circle noch nicht kennt, lernt Euch in der Woche 0 kennen.
+Plant, wann Ihr Euch trefft, welche Tools Ihr
+nutzt und wer der Moderator ist.
+
+* **Check-in:** Herzlich willkommen! *(5 Minuten)*
+* **Get together:** Wer bist du? Stell Dich vor. Fünf-Minuten-Timebox
+pro Circle-Mitglied. *(25 Minuten)*
+* **Sprint Planung** siehe unten *(25 Minuten)*
+* **Check-out:** Das nächste Treffen bestätigen. *(5 Minuten)*
+
+Definiert einen Circle-Moderator, der sich um Event- und
+Zeitmanagement kümmert. Eines der größten
+Hindernisse für erfolgreiche Circle ist Disziplin und Zeitmanagement. Der Moderator ist nicht der "Chef" des
+Circle, sondern ein normales Circle-Mitglied, das sich um einen
+reibungslosen Ablauf kümmert. Legt fest, welchen Lernpfad ihr verwendet. Definiert Tag und Uhrzeit
+des wöchentlichen Treffens. Definiert, ob Ihr Euch
+persönlich oder virtuell trefft. Definiert die Tools, die Ihr
+für Kommunikation und Dokumentation im Circle verwendt. Entscheidet,
+welche der vorgeschlagenen Übungen Ihr im Kreis
+machen wollt. Entscheidet auch, ob Ihr den lernOS Canvas
+(siehe Kapitel lernOS Canvas) als unterstützendes Werkzeug verwenden möchtet.
+
+* **Circle-Moderator:** ...
+* **Lernpfad:** WOL / OKR / GTD
+* **Tag und Uhrzeit des Weekly:** ...
+* **Wöchentliche Treffen sind:** persönlich / virtuell
+* **Verwendete Tools (können alle sie nutzen?):** ...
+* **Benutzen wir den Canvas:** Ja / Nein
+
+**ProTip:** jeder sollte die Katas "Gestalte dein Future Backwards" und "Visuell denken mit dem lernOS Canvas" in Woche 0 machen, um die richtigen Ziele für den lernOS Sprint zu finden.
+
+**ProTip:** in vielen Fällem ist die Zeit für das Ausführen der
+Übungen im Weekly zu kurz. Verwendet daher die Methode [Flipped
+Classroom](https://en.wikipedia.org/wiki/Flipped_classroom): jedes
+Circle-Mitglied bereitet die Übungen als "Hausaufgabe" vor,
+so dass Ihr im Weekly mehr Zeit habt, die Ergebnisse zu besprechen.
+
+**ProTip:** Wenn du das lernOS OneNote Circle Template verwendest,
+kannst du ein aktuelles Foto von Deinem Canvas machen und
+einfügen, damit die anderen Circle-Mitglieder es sehen und Feedback
+geben können.
+
+**WOCHE 1**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Teilt eure Ziele im Circle. *(45 Minuten)*
+* **OKR Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 2**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen. *(45 Minuten)*
+* **OKR Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 3**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Besprecht eure Erfahrungen im Circle. *(45 Minuten)*
+* **OKR Lernpfad Kata:** Diskutiert die OKRs im Circle und gebt euch gegenseitig Feedback. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 4 & Boxenstopp 1**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Besprecht Eure Ansätze im Circle. *(45 Minuten)*
+* **OKR Lernpfad Kata:** Stellt die finalen OKRs gegenseitig vor und sprecht über Wege der Zielerreichung. So wird sichtbar, wie unterschiedlich die Herangehensweisen der unterschiedlichen Personen sein können. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 5**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** tbd. *(45 Minuten)*
+* **OKR Lernpfad Kata:** Tauscht euch aus, wie ihr eure Weeklys organisiert und welche Erfahrungen ihr mit dem Prozess macht. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 6**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Teilt eure Fakten über euch im Circle. *(45 Minuten)*
+* **OKR Lernpfad Kata:** Tauscht euch die Erfahrungen mit euren OKR-Umgebungen und probiert weitere Tools aus. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 7**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Stellt eure Top 10 Liste im Circle vor und besprecht sie. *(45 Minuten)*
+* **OKR Lernpfad Kata:** Tauscht euch aus, wer welchen Weg aus welchen Gründen gewählt hat. In den folgenden Wochen könnt ihr dann immer mal wieder über die Auswirkungen und Erfahrungen sprechen. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 8 & Boxenstopp 2**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** tbd. *(45 Minuten)*
+* **OKR Lernpfad Kata:** Diskutiert eure Ideen und Einschätzungen zu Moonshot OKRs. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 9**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Sprecht über die Liste im Circle und helft Euch gegenseitig beim Vervollständigen. *(45 Minuten)*
+* **OKR Lernpfad Kata:** Diskutiert eure Entscheidungen zu den OKR Confidence Leveln. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 10**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Bringe Dein ICH ein. *(45 Minuten)*
+* **OKR Lernpfad Kata:** Diskutiert eure Ansätze zur Verbreitung von OKRs in der Organisation und lernt voneinander. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 11**
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
+* **WOL Lernpfad Kata:** Ein Brief an mein zukünftiges Ich - Wenn ihr den Brief mit den Circle-Mitgliedern teilen möchtet, lest ihn euch gegenseitig laut vor *(45 Minuten)*
+* **OKR Lernpfad Kata:** Diskutiert eure Review-Ergebnisse. *(45 Minuten)*
+* **GTD Lernpfad Kata:** tbd.
+* **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
+
+**WOCHE 12: Retrospektive & Feier**
+
+In dieser Woche sollte die endgültige Iteration Deiner Key Results vorliegen. Sprecht darüber und zeigt Sie im Check-in. Ihr werdet über die Erfahrungen im Circle nachdenken und darüber sprechen, wie Ihr den Prozess aufrecht erhalten könnt. Nach dem Weekly solltet Ihr Euch etwas Zeit nehmen, um Euren Erfolg zu feiern!
+
+* **Check-in:** Was habe ich seit dem letzten Check-in getan? Zeigt die finale Iteration der Key Results. Drei-Minuten-Timebox
+pro Circle-Mitglied. *(15 Minuten)*
+* **Your Learning Moments:** Sprecht über die Momente im Sprint, die für euch besonders waren. Was sind eure "key learnings"? _(20 minutes)_
+* **After Action Review:** Was war der Plan für den Sprint? Was ist passiert? Gab es eine Abweichung? Was kann man daraus lernen? _(20 minutes)_
+* **Check-out:** Gibt es nächste Schritte? Bleibt ihr für einen weiteren Sprint zusammen?
+* **Party Time!** *(Die Dauer wählt ihr)*
+
+## Danksagungen
+
+lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). Einen Überblick über die Wurzeln und Inspirationen habe ich [im lernOS Wiki](https://github.com/cogneon/lernos-core/wiki) zusammengestellt. Für diesen Leitfaden möchte ich besonders danken:
+
+- **Hirotaka Takeuchi** und **Ikujiro Nonaka** für die Einführung des Begriffs Scrum für agile Innovationsmethoden (1986).
+- **Jeff Sutherland** und **Ken Schwaber** für die Definition eines agilen Projektmanagements im [Scrum Guide](https://scrumguides.org) (2010).
+- **David Allen** für die Methode [Getting Things Done](https:/gettingthingsdone.com) (GTD), die den Weg zu stressfreier Produktivität von Wissensarbeiter*innen aufzeigt.
+- **Andy Grove** für die Entwicklung der Methode [Objectives & Key Results](https://de.wikipedia.org/wiki/Objectives_and_Key_Results) (OKR) als Weiterentwicklung des Management by Objectives (MbO) von Peter Drucker bei Intel (1980er). **John Doer** für die Einführung von OKR bei Google und **Rick Klau** von Google Ventures für seinen Vortrag [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) (2013).
+- **Glyn Moody** (2006) und **Bryce Williams** (2010) für den Begriff und die Definition von Working Out Loud als "Observable Work + Narrating Your Work". **John Stepper** für die Gestaltung des 12-wöchigen WOL-Lernprogramms, das in den [WOL Circle Guides](https:/workingoutloud.com/circle-guides) dokumentiert ist (2015). **Katharina Krentz** von Bosch für ihre vielen Beiträge, Working Out Loud in Organisationen nutzbar zu machen.
+- **Johannes Müller** und **Tobias Müller-Zielke** für die Vorträge zu OKRs und GTD auf dem lernOS Rockstars Camp 2019 und **Alexander Rose** für die Zusammenstellung des GTD Lernpfads.
+
+## Änderungshistorie
+
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |-----|----------------|--------------------------------------------|---------|
 | 1.0 | Simon Dückert | Erste Version des lernOS Leitfadens | 17.09.2018 |
@@ -1145,3 +1290,4 @@ Keep Calm & Learn On! :-)
 | 1.2 | Simon Dückert | Leitfaden in "lernOS Leitfaden für Dich" umbenannt, lernOS Logo in die Titelseite eingefügt, Telegram als User Group durch CONNECT ersetzt, Mobi-Version (Amazon) zu Ausgabeformaten hinzugefügt, Erzeugung aller Ausgabedateien über make.bat automatisiert, Inhaltsverzeichnis (TOC) zur HTML-Version hinzugefügt | 25.03.2019 |
 | 1.3 | Simon Dückert | Neue "High Level Structure" für lernOS Guides angewendet, Reihenfolge im Grundlagen-Kapitel geändert (Sprint, Wheel, Circle), Hashtags von "ProTips" entfernt, Platzhalter für OKR und GTD Lernpfade eingefügt, Kata "Gestalte dein Future Backwards" zu Woche 0 hinzugefügt, Kata "Visuell denken mit dem lernOS Canvas" in Woche 0 verschoben, Skillset: Tabelle der Fähigkeiten für Selbsteinschätzung erweitert, Anzahl der Anwendungen zur Unterstützung von Circles auf Basis WOL Umfrage 2018 reduziert, Standardisiertes Vorwort eingefügt, Inhalt und Struktur des Kapitels Danksagungen verbessert, Standardisierte orange Rückseite eingefügt | 17.06.2019 |
 | 1.4 | Simon Dückert | Neue Lernpfade für OKR und GTD hinzugefügt, Link zum lernoS CircleFinder zum Vorwort hinzugefügt, Moderatoren Checkliste vom Lernpfad entfernt (ist jetzt ein extra Markdown-Dokument), lernOS Canvas und OneNote Vorlage ins lernOS Core Repository verschoben, Metadaten-Erstellung für E-Book-Versionen verbessert | 16.09.2019 |
+| 1.5 | Simon Dückert | ... | 16.12.2019 |
