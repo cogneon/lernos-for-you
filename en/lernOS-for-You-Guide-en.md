@@ -8,16 +8,23 @@ If you have **further questions** regarding lernOS or need **peer support** you 
 
 Yours @simondueckert
 
-# Acknowledgments
+# License
 
-lernOS is inspired by many of sources and thought leaders and is thus [standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). An overview of the roots & inspirations I have compiled [in the lernos Wiki](https://github.com/cogneon/lernos-core/wiki). For this guide I would especially like to thank:
+lernOS Guides are released under the [Creative Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en) (CC BY 4.0) license:
 
-* **Hirotaka Takeuchi** and **Ikujiro Nonaka** for introducing the term scrum for agile development (1986).
-* **Jeff Sutherland** and **Ken Schwaber** for the definition of scrum in [The Scrum Guide](https://scrumguides.org) (2010).
-* **David Allen** for the method [Getting Things Done](https://gettingthingsdone.com) (GTD) to show the path towards the art of stress-free productivity (2001).
-* **Andy Grove** for the development of the method [Objective & Key Results](https://en.wikipedia.org/wiki/OKR) (OKR) as a further development of Peter Drucker\'s management by objectives (MbO) at Intel (1980s). **John Doer** for bringing OKR to Google and **Rick Klau** from Google Ventures for his talk [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) (2013).
-* **Glyn Moody** (2006) and **Bryce Williams** (2010) for coining and defining the term Working Out Loud. **John Stepper** for the design of the 12-week WOL learning program documented in the [WOL Circle Guides](https://workingoutloud.com/en/circle-guides) (2015). **Katharina Krentz** from Bosch for her many contributions to make WOL usable in organizations to develop a learning organization.
-* **Johannes Müller** and **Tobias Müller-Zielke** for the talks on OKRs and GTD at the lernOS Rockstars Camp 2019 and **Alexander Rose** for compiling the GTD learning path.
+![](./images/cc-by.png)
+
+**You are free to:**
+
+* **Share** - copy and redistribute the material in any medium or format.
+* **Adapt** - remix, transform, and build upon the material for any purpose, even commercially.
+
+**Under the following terms:**
+
+- **Attribution** - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions** - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+![](./images/FreeCulturalWorks.png)
 
 
 # Introduction
@@ -29,31 +36,33 @@ lernOS for You can help you to get fit for the 21st century. lernOS helps to org
 
 And the best thing is: lernOS is free, open, and easy to understand. Start using it today!
 
-## lernOS Sprint: A 13 Week Self Learning Experience
+## lernOS Sprints: Lifelong Learning in 13 Weeks Timeboxes
 
-lernOS is practiced in timeboxes of 13 weeks called learning sprints. Normally sprints run along the quarters of a year but the rhythm can be changed if necessary. The week 0 is used for the planning of the sprint. From week 1-11 a learning path suggests exercises called katas to learn something new. In week 12 a retrospective is done to reflect on the learnings.
+lernOS is practiced in timeboxes of 13 weeks called learning sprints like in [scrum](https://scrumguides.org). Normally sprints run along the quarters of a year but the rhythm can be changed if necessary. A sprint can be done alone (lernOS Soloist), in pairs (lernOS Tandem) or in a group of 4-5 persons (lernOS Circle).
 
-![lernOS Sprint by @simondueckert, CC BY 4.0](images/lernOS-Sprint.png)
+![lernOS Sprint](images/lernOS-Sprint.png)
 
-This is what happens during a learning sprint:
+This is what happens during a lernOS sprint:
 
-- **Week 0 with the Sprint Planning:** Does everybody understand the process? When will the weekly meeting be? Will the weekly be face-to-face or virtual? Which tools are used for communication and documentation? Is everybody able to use the tools?
-- **Weeks 1-11 with the Weekly Meeting:** the circle members are working on their objectives and desired results during the sprint. A learning path provide the circle members with a set of exercises called katas to build a network that supports them with achieving their objectives. The two pitstops in week 4 and week 8 help to see if everybody is still on track.
-- **Week 12 with the Retrospective:** the circle members show their final results and reflect on the overall process. They also decide if they want to do another sprint together.
+- **Week 0:** The sprint planning. Does everybody understand the process? When will the weekly meeting be? Which learning path is chosen? For lernOS tandems and circles: Will the weekly be face-to-face or virtual? Which tools are used for communication and documentation? Is everybody able to use the tools?
+- **Weeks 1-11 with the Weekly Meeting:** It is worked on the objectives and desired results and the progress is critically reflected in the weekly. A learning path suggests exercises, which are called Katas as in [CoderDojos](https://coderdojo.com). Three learning paths are available for beginners (NOOBs): WOL learning path (open and connected working and learning), OKR learning path (targeted and focused working and learning) and GTD learning path (stress-free and productive working and learning). The recommendation is to select only one learning path per sprint and not to mix the learning paths in tandems or circles. The two pit stops in week 4 and week 8 help to see whether everyone is still on the right track.
+- **Week 12 with the Retrospective:** Review of the final results of the sprint and retrospective of the entire process. For learning tandems and circles: The participants decide whether they want to stay together for another sprint.
 
-## lernOS Wheel: New Mindset, Skillset, and Toolset
+At school and university, the pace of learning is determined by school years and semesters. In order to structure the learning afterwards in a self-organized way, the lernOS sprints are planned in extreme cases up to the end of one's life (from the cradle to the cradle), just [as Peter Drucker did it](https://www.inc.com/magazine/19970201/1169.html).
+
+## lernOS Wheel: Mindset, Skillset, and Toolset
 
 Mastering the VUCA world of the 21st century requires to be open for change and new approaches. There are a lot of tools and methods out there. But when one is not open to give it a try, experiment, and fail there will be no success. Like the people with the "square wheels" in the image below we are often too busy to see new opportunities.
 
-![lernOS Wheel People by @simondueckert, CC BY 4.0](images/lernOS-Wheel-People.png)
+![lernOS Wheel People](images/lernOS-Wheel-People.png)
 
 Adopting new practices in life, school, or work is not only about using digital tools. To switch from "square wheels" to "round wheels" the personal attitude, values, and skills have also to be taken into account. lernOS calls these three dimensions mindset, skillset, and toolset. To focus only on some dimensions might help. But for the best results all three should be considered in the personal development process.
 
-![lernOS Wheel by @simondueckert, CC BY 4.0](images/lernOS-Wheel.png)
+![lernOS Wheel](images/lernOS-Wheel.png)
 
-### Mindset: Your World View
+### Mindset: Your Attitude and Values
 
-The mindset can be described as the attitudes and values that lead to actions and visible results. These values develop over time and form the culture of organizations and society. When we act in the world we get feedback and learn from it. Over time our mind creates mental models of the world and values that guide our future actions ([Boisot, 2004](http://www.rrojasdatabank.info/thermo/20388.pdf)). To successfully navigate the VUCA world these five values are important to be successful (Buhse 2014 & Petry, 2014):
+The mindset can be described as the attitudes and values that lead to actions and visible results. These develop over time and form the culture of organizations and society. When we act in the world we get feedback and learn from it. Over time our mind creates mental models of the world and values that guide our future actions ([Boisot, 2004](http://www.rrojasdatabank.info/thermo/20388.pdf)). To successfully navigate the VUCA world these five values are important to be successful (Buhse 2014 & Petry, 2014):
 
 1. **NETWORKING** over isolation
 1. **TRUST** over suspiciousness
@@ -63,7 +72,7 @@ The mindset can be described as the attitudes and values that lead to actions an
 
 There is no ranking in the values above but for some people [openness](https://en.wikipedia.org/wiki/Openness) seems to be the core value for a 21st century mindset. It means being open to new experiences, knowledge, and ideas as well as sharing knowledge, ideas, and content openly (see also the [Open Definition](https://opendefinition.org)). You should develop an "open first mindset" over time as described in the [Open First Manifesto](http://innovationsbeirat.de/open-first):
 
-![Open First (innovationsbeirat.de/open-first) by innovationsbeirat, CC BY SA 4.0](images/open-first-manifesto-v1.0.png)
+![Open First Manifesto](images/open-first-manifesto-v1.0.png)
 
 **ProTip:** your mindset is not fixed it can grow over time. Watch Carol Dweck's video on [Developing a Growth Mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ) to learn more about it.
 
@@ -71,7 +80,7 @@ There is no ranking in the values above but for some people [openness](https://e
 
 Since the 1980s skills like solving problems and interacting with others in creative ways became most important to be successful. These are also skills that can't be easily replaced by automation and artificial intelligence in the future. To get fit for the 21st century you have to train the following skills ([Framework for 21st Century Learning](http://www.p21.org/our-work/p21-framework), [DigiComp 2.1 Framework](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use)):
 
-![lernOS Skillset by @simondueckert, CC BY 4.0](images/lernOS-Skillset.png)You can use this table to do a self assessment at the beginning of a lernOS Sprint. The levels 1-5 are according to the [Dreyfus model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) (1 = Novice, 2 = Advanced Beginner, 3 = Competence, 4 = Proficient, 5 = Expert). Just put your current skill level in the "As-Is" column and your desired skill level in the "To-Be" column. You can then set a focus for your learning activities.
+![lernOS Skillset](images/lernOS-Skillset.png)You can use this table to do a self assessment at the beginning of a lernOS Sprint. The levels 1-5 are according to the [Dreyfus model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) (1 = Novice, 2 = Advanced Beginner, 3 = Competence, 4 = Proficient, 5 = Expert). Just put your current skill level in the "As-Is" column and your desired skill level in the "To-Be" column. You can then set a focus for your learning activities.
 
 | Skill | As-Is | To-Be |
 |------------------------------|----|----|
@@ -125,7 +134,7 @@ For a beginner 28 categories and dozens of tools might be overwhelming. Therefor
 ## lernOS Circle: The Power Of Peer Support
 If you do not want to practice lernOS on your own you can do it in a group of 4-5 people called a learning circle. A circle is a [peer support](https://en.wikipedia.org/wiki/Peer_support) group in which members help each other with feedback, experience, knowledge, and reflection. The circle is a circle of trust: what happens in the circle stays in the circle! The circle members will have a weekly meeting with a standard agenda to structure the learning and development process.
 
-![Learning Circle by @simondueckert, CC BY 4.0](images/lernOS-Circle.png)
+![Learning Circle](images/lernOS-Circle.png)
 
 A learning circle meets once a week. Each meeting has a standardized agenda with a check-in, suggested exercises called lernOS Katas (see appendix for the weekly agendas and the exercise descriptions), and a check-out. The timebox for the weekly can be adopted to the needs of the circle members, suggested timeslot is Friday between 11-12am.
 
@@ -150,13 +159,15 @@ If you have an Enterprise Social Network (ESN) like Jive or Connections in your 
 
 # Learning Paths for Newbies (NOOBs)
 
-A learning path is a set of activities and exercises to learn something new. A learning path normally lasts for one lernOS Sprint. For learnOS beginners (newbies or noobs) we suggest to run on or more learning paths to get you in touch with the basic concepts of lernOS. Currently these learning paths are available which can be run through in one sprint each:
+A lernOS learning path is a collection of exercises (Katas) with which you learn new skills and develop a new attitude over time. A learning path can be followed within a lernOS sprint. lernOS beginners* (NOOBs) can choose from one of three learning paths:
 
-1. **WOL Learning Path:** The idea for this learning path is inspired by John Stepper's [Working Out Loud circle method](https://workingoutloud.com/en/circle-guides) (WOL). Due to experience and a WOL circle survey ran in 2018 the number of exercises has been reduced to 11 to fit more easy in the 13 weeks without loosing aspects of the core idea of WOL.
-2. **OKR Lernpfad:** In this learning path you learn how to set your goals for a sprint with th method [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (OKR) and how to check the goals systematically every week.
-3. **GTD Lernpfad:** In this learning path you get to know the method [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) (GTD) by David Allen. GTD helps you to not lose control in an environment with a lot of tasks and information.
+![lernOS Lernpfade für Einsteiger*innen](images/lernOS-Learning-Paths.png)
 
-As an individual lernOS Practitioner or lernOS Circle you can decide with which learning path you start and if you want to do more than one learning path. If you are already a GTD practitioner, OKR practitioner or if you already have finished a WOL Circle you can can skip that and choose one of the other learning paths to start with.
+1. **WOL Learning Path:** in this learning path you'll learn to work **open** and **connected**, as well as how to make your results visible and to narrate about it. The learning path is based on the [Working Out Loud Circle Guides](https://workingoutloud.com/de/circle-guides) by John Stepper.
+2. **OKR Learning Path:** this learning path helps you to work and learn **goal-oriented** and **focused**. It is not only about everyday goals, but also about the big goals in work and life (Moonshots). The learning path is based on the method [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/). (OKR) from Google.
+3. **GTD Learning Path:** In this learning path you learn to be **productive** in the multitude of tasks and to keep track of every situation in a **stress-less** way. The learning path is based on the method [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) (GTD) by David Allen.
+
+**ProTip:** Only one of the three learning paths should be chosen for a sprint. All three learning paths can be completed in follow-up sprints. Tandems and circles should not mix learning paths, otherwise you won't be able to benefit from each other's experiences in the weekly.
 
 ## WOL Learning Path
 
@@ -192,19 +203,19 @@ A canvas is a visual structure that can be used to work through several building
 
 The lernOS Canvas can be downloaded from the [lernOS Website](https://lernos.org) in different formats (e.g. PowerPoint, PDF, PNG). To be able to work with the canvas in an agile way one should NEVER write on a canvas ... that's why sticky notes were invented!
 
-![lernOS Canvas by @simondueckert, CC BY 4.0](images/lernOS-Canvas-en.png)
+![lernOS Canvas](images/lernOS-Canvas-en.png)
 
 The header of the canvas contains the creation date, the number of the sprint, and a motivation/mission statement (if you have one). In the building block "My Objectives & Key Results" the goals for the current sprint are documented. The building blocks "My Roles", "My Activities", "My Projects", and "My Knowledge & Skills" can be used to identify potential objectives. "My Relationships" and "My Social Networks" can be used to identify people that can help you to achieve your objectives. Available resources (e.g. documents, checklists, videos etc.) are listed in "My Knowledge Assets". The repositories listed at "My Repositories" can be used to share assets generously with the network.
 
-**ProTip:** if you use the lernOS OneNote Circle Template you can take a photo of the current version of the canvas and upload so the other circle members can see it and give feedback.
-
 ### My Objective For The Next 12 weeks (Kata)
+
+In this kata you choose your objective for the sprint. 
 
 _**Duration:** 25 minutes_
 
 What do you want to accomplish in the next 12 weeks? Pick an objective that you really, really care about and you can make progress towards in the sprint. You will use Google's OKR method to define that objective. For the NOOB path it's not prio 1 to achieve the objective. Core is to learn how to achieve objectives more easy with the help of an open workstyle and the development of a network.
 
-![My Objectives For The Next 12 weeks](images/lernOS-Kata-02.png)
+![](images/lernOS-Kata-My-Objective-For-The-Next-12-Weeks.png)
 
 Select an objective for the next 12 weeks. Use the questions "Do I really, really care?", "Can I achieve it in 12 weeks?", and "Can my network help me?" to test if the objective is appropriate for the sprint. If you have problems to find a good objective think about goals that support your roles, activities, or projects. If you want to help to make the world a better place you can also choose an objective that is related to the [United Nation's 17 sustainable development goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals).
 
@@ -219,8 +230,6 @@ _as measured by (key results):_
 1. ...
 1. ...
 
-Share your objective(s) in the circle (10 minutes).
-
 **Further Information:**
 
 * Wikipedia Article [SMART Criteria](https://en.wikipedia.org/wiki/SMART_criteria)
@@ -230,11 +239,13 @@ Share your objective(s) in the circle (10 minutes).
 * Book [Introduction To OKRs](https://www.oreilly.com/business/free/files/introduction-to-okrs.pdf) by Christina Wodtke
 * Book [The Beginner's Guide To OKR](https://felipecastro.com/resource/The-Beginners-Guide-to-OKR.pdf) by Felipe Castro
 
-### Kata: People Related To Your Objective
+### People Related To Your Objective (Kata)
+
+In this kata you will start to think about people who might help you with your objectives (Working alone is addition, working together is multiplication!).
+
+_**Duration:** 20 minutes_
 
 Most tasks we do have been done by others before. Most of the mistakes we make, have been made in the past already. You can gain access to knowledge and experiences related to your objectives by getting in touch with experienced people inside and outside your organization. Strong relationships are based on trust, sharing, and caring. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie) said "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you". So how do you get in touch with people related to your objectives and develop the relationship?
-
-**Exercise (20 minutes):**
 
 Create a list of at least ten people related to your objectives. If you don't know people by name you can also put roles or descriptions on the list (e.g. "best WoW player in wown", "a good camera man", "owner of company XY"). Use your contact lists or social networks find more people:
 
@@ -249,17 +260,17 @@ Create a list of at least ten people related to your objectives. If you don't kn
 1. ...
 1. ...
 
-Share your list in the circle and let others help to complete it (10 minutes).
-
 **Further Information:**
 
 * Video [Social Networking In Plain English](https://www.youtube.com/watch?v=6a_KF7TYKVc)
 
-### Kata: Your First Sharing Experience
+### Your First Sharing Experience (Kata)
+
+In this kata you start to share attention, knowledge, experiences, and assets with your network to build trust and get support.
+
+_**Duration:** 20 minutes_
 
 Sharing is caring! In the digital world sharing is often seen as giving others access to files or digital content. But it can also be as simple as sharing your attention with another person by following him, liking his content or subscribing to his website. By sharing you deepen your relationships with every contribution you make.
-
-**Exercise (40 minutes):**
 
 Go through your relationship list and look for some kind of online presence for each person (e.g. website, blog, profile in social network). Look for possibilities to share some attention. This might be a follow button, a like button, a subscribe field, a five star rating, a comment field or a contact form. Make at least five sharing experiences:
 
@@ -269,9 +280,10 @@ Go through your relationship list and look for some kind of online presence for 
 1. ...
 1. ...
 
-Discuss your sharing experiences in the circle (20 minutes).
-
 ### An Appointment With Yourself (Kata)
+
+In this kata you will make sure that you have enough time for networking, sharing, and caring for your network. You will do this by making appointments with yourself. In this week your objectives should be stable and you should have a clear idea which people in the network might help you to get your things done.
+
 _**Duration:** 15 minutes_
 
 Do you spend enough time for your personal development and for working on your personal objectives? A lot of people are busy with their daily tasks and do not care enough for their development and their well-being. A good approach is to make an appointment with yourself and reserve that time for yourself in the calendar.
@@ -284,14 +296,15 @@ Check your calendar and see when an appointment with yourself fits in. One hour 
 1. ...
 1. ...
 
-Discuss your approaches in the circle.
-
 ### Go Google Yourself! (Kata)
+
+In this kata you will look yourself up in the intranet or internet.
+
 _**Duration:** 10 minutes_
 
 What do people see when they search for you online? Do they get an idea of who you are and how they might help you with your objectives? You can simulate that situation by googling yourself (often called egosurfing, egosearching or vanity search).
 
-![Go Google Yourself on google.com or in an intranet search engine](images/lernOS-Kata-13.png)
+![](images/lernOS-Kata-Go-Google-Yourself.png)
 
 Open a search engine in the internet or intranet and enter your name. Open at least the first 10 search results and check if your personality and the facts about you are up-to-date. Identify possible improvements:
 
@@ -316,6 +329,9 @@ Think about what your main online profile might be (e.g. LinkedIn profile, about
 * Article [Google Yourself! Measuring the performance of personalized information resources](http://snurb.info/files/aoir2008/Google%20Yourself!%20Measuring%20the%20performance%20of%20personalized%20information%20resources%20%28AoIR%202008%29.pdf) by Thomas Nicolai and Lars Kirchhoff.
 
 ### 25 Facts About Me (Kata)
+
+In this kata you will collect facts and personal information that might be relevant for your network and help you to connect.
+
 _**Duration:** 25 minutes_
 
 What are interesting facts about you that might help to connect with other people? If you apply to study at Fuqua Business School you have to write an essay with a list of 25 random things about yourself so the application team gets to know you better. When you write down facts about yourself you collect information that might help you to make new connections based on similar interests and backgrounds (e.g. "We studied in the same place 20 years ago!"). Random things about yourself might include:
@@ -361,13 +377,13 @@ Create a list of 10 random facts about yourself. Then read the [Fuqua 25 random 
 1. ...
 1. ...
 
-Share the facts about you in the circle (10 minutes).
-
 **Further Information:**
 
 * YouTube-Search ["random facts about me"](https://www.youtube.com/results?search_query=random+facts+about+me)
 
 ### Your Top 10 Assets (Kata)
+
+In this week kata you will reflect on your top 10 knowledge assets that you can share in your network.
 
 _**Duration:** 30 minutes_
 
@@ -386,9 +402,10 @@ Chose one of your objectives and list at least ten related resources you find us
 1. ...
 1. ...
 
-Present the top 10 list in the circle and discuss it (10 minutes).
-
 ### Update Your Digital Twin (Kata)
+
+In this kata you will check if your digital twins like website, blog or profile do match your wishes and if not you will go out and update them.
+
 _**Duration:** 20 minutes_
 
 Does your main digital twin represent you in the way you want to? A lot of people register for an account in a social network and never think about updating their profile. You should keep your profile up to date and have a look at it on a regular basis (e.g. have a recurring task every three month). The facts about you, current projects and interests should be visible on that profile.
@@ -407,6 +424,9 @@ Check in the online profile if you have a nice image, a short description, and a
 1. ...
 
 ### Find Communities Related To Your Objectives (Kata)
+
+In this kata you will look for communities or groups that can help you to reach your objectives.
+
 _**Duration:** 15 minutes_
 
 A tribe [according to Seth Godin](https://www.ted.com/talks/seth_godin_on_the_tribes_we_lead) is a group of people connected to one another, connected to a leader, and connected to an idea. Instead of tribe the term "community" or "community of practice" is also often used. A group needs only two things to be a tribe: a shared interest and a way to communicate. Tribes need leadership. Sometimes one person leads, sometimes more. Which are the communities related to your objectives?
@@ -424,9 +444,10 @@ Look for communities that are related to your objectives and find at least 10 (u
 1. ...
 1. ...
 
-Talk about your lists in the circle and let the others help you to complete your list.
-
 ### Contribute Your Self (Kata)
+
+In this kata you will use the facts about yourself to make a personal connection. And you will learn that sometimes listening is more important then talking.
+
 _**Duration:** 35 minutes_
 
 Not all contributions in your network have to be about your objectives. Sometimes it's good to share something about yourself to make a personal connection. The list of facts about yourself might help to find interesting links to other people. Try to find these possible links and use them to make a connection.
@@ -439,15 +460,15 @@ Go through your facts about you and find at least one fact that might be of inte
 
 ### Write A Letter To Your Future Self (Kata)
 
+In this kata you will start to envision yourself in the future by writing a letter to your future self. And you will help your network to support you by making your vision and your objectives visible on your online profiles.
+
 _**Duration:** 35 minutes_
 
 The letter to your future self is a classic method in self motivation and visioning. You reflect on your current situation and give your future self an advice. You write it down as a letter, address it to yourself and open it in the future. With the letter in the back of your mind chances are that your wishes become a [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy).
 
 Write a letter to your future self. Talk about who you are now (e.g. summary, fears, values, beliefs, skills, abilities, goals, hopes). Then address your future self with the things you want to stop/continue/start doing. Give yourself advice and ask yourself questions. Seal the letter and store it in a safe place or use services like [futureme.org](https://futureme.org) to send it to your future self automatically:
 
-![](images/lernOS-Kata-16.png)
-
-If you want to share the letter with your circle members just read it out loud afterwards (15 minutes).
+![](images/lernOS-Kata-A-Letter-To-You-Future-Self.png)
 
 **Further Information:**
 
@@ -612,9 +633,6 @@ Check your **key results** against the following criteria:
 -   Measurable milestones should include proof of completion. And this
     evidence should be visible, credible and easily comprehensible.
 
-If you make the OKR learning path in a learningOS Circle, then discuss
-the OKRs in the Circle and give each other feedback.
-
 ### Finalize your OKRs for the Sprint (Kata)
 
 **Check your OKRs for the sprint and freeze it.**
@@ -626,10 +644,6 @@ and motivated by it? Do the objectives feel demanding? Do you see a
 realistic chance of achieving the key results at 60-70%. Rethink your
 OKRs and set yourself up for this sprint. Document the
 OKRs in the OKR environment.
-
-If you\'re doing the OKR learning path in a circle, explain the
-final OKRs and talk about ways to achieve goals. This shows how
-different the approaches of the different people can be.
 
 ### Perform your Weekly Check-In (Kata)
 
@@ -655,9 +669,6 @@ Use the next four weeks to make the check-in a weekly routine. Every week,
 you\'ll learn about additional topics around OKRs in a small 15-minute
 learning nugget.
 
-If you make the OKR learning path in a circle, share how you
-organize your weeklys and what experiences you have with the process.
-
 ### Tools for OKRs (Kata)
 
 **Learn about some tools for OKRs.**
@@ -681,10 +692,7 @@ OKR tools this week and decide if you want to use them:
 
 -   **Wikis**, e.g. Mediawiki, Confluence, TiddlyWiki, Etherpad
 
--   **Enterprise OKR-Tools**, e.g. 7Geese, WeekDone, WorkpathIf
-
-If you make the OKR learning path in a Circle, share the
-experiences with your OKR environments and try out other tools.
+-   **Enterprise OKR-Tools**, e.g. 7Geese, WeekDone, Workpath
 
 ### Scoring vs. Measuring Key Results (Kata)
 
@@ -709,10 +717,6 @@ Check out your key results and consider whether the process would be
 simplified for you by simply measuring instead of scoring on the 0-1.0
 scale. Choose an approach and adjust your key results if necessary.
 
-If you make the OKR learning path in a learning OS Circle, you can
-exchange ideas about who chose which option and for what reasons. In the
-following weeks you can talk about the effects and experiences again.
-
 ### Stretch Goals and Moonshots (Kata)
 
 **Learn the meaning of \"Strech Goals\" for setting challenging goals.**
@@ -729,9 +733,6 @@ from and what the consequences would be for you. If you want to try
 Moonshot OKRs, decide whether you want to customize the OKRs for this sprint or
 a following sprint.
 
-If you make the OKR learning path in a Circle, discuss your
-ideas and opinions about Moonshot OKRs.
-
 ### What is your Confidence Level? (Kata)
 
 **How sure are you that you will reach your OKRs?**
@@ -747,9 +748,6 @@ to happen\" and a 10 \"Yeah, I can do that\".
 Check out the two sources and decide if you also want to have
 confidence levels for your OKRs. If so, consider where and when to put
 them in your documentation.
-
-If you make the OKR learning path in a Circle, discuss your
-decisions about the OKR confidence levels.
 
 ### Individual vs. Team/Organizational OKRs (Kata)
 
@@ -772,10 +770,6 @@ your team or department in addition to your personal OKRs. Consider at
 least one try to test whether your environment is open to OKRs and
 how to implement it there.
 
-If you make the OKR learning path in a Circle, discuss your
-approaches to spreading OKRs in the organization and learn from each
-other.
-
 ### OKR Review (Kata)
 
 **Was your OKR cycle successful and what topics are for the next one?**
@@ -796,8 +790,6 @@ Franziska Schneider from Workpath [suggests in a blog](https://www.workpath.com/
 
 Now perform an OKR review for the current sprint and document the
 results.
-
-If you make the OKR learning path in a Circle, discuss your review results.
 
 ## GTD Learning Path
 
@@ -1169,7 +1161,148 @@ If you read through this guide but are not practising yet you should do so NOW! 
 
 Keep Calm & Learn On! :-)
 
-# Change History
+# Appendix
+
+## Circle Moderator  Checklist
+
+**ProTip:** if you want to use OneNote or Microsoft Teams in the circle, you can have a look at the [lernOS Circle Template](https://github.com/cogneon/lernos-core/tree/master/lernOS%20Circle%20Template) (available in German and English). The template can be used to document the circle.
+
+**WEEK 0 - Sprint Planning & Get Together**
+
+When you are new to the circle you will get to know each other in week 0. You will plan when to meet, which tools to use and who is the moderator is.
+
+* **Check-in:** Welcome Everybody! _(5 minutes)_
+* **Get together:** Who are you? Introduce yourself. Five minute timebox per Circle member. _(25 minutes)_
+* **Sprint Planning** see below _(25 minutes)_
+* **Check-out:** Confirm the next meeting. _(5 minutes)_
+
+Define a circle moderator who cares for event and time management. The moderator is not the "boss" of the circle but just a normal member that cares for smooth operation. Define which of the learing paths you will use. Define the day and time of your weekly circle meeting. Define if you meet face-to-face or virtually . Define the tools you use for communication and documentation in the circle. Decide which exercises from the suggested agenda you plan to do in the circle. Also decide if you want to use the lernOS Canvas (see chapter lernOS Canvas) as supporting tool.
+
+* **Circle moderator:** ...
+* **Learning path:** WOL / OKR / GTD
+* **Day & time of weekly meeting:** ...
+* **Weekly meetings are:** face-to-face / virtual
+* **Tools used in circle:** ...
+* **Do we use the Canvas:** yes / no
+
+**ProTip:** everybody should do the Katas "Design Your Future Backwards" and "Think visual with the lernOS Canvas" in week 0 to find the right objectives for the lernOS Sprint.
+
+**ProTip:** in a lot of circles the timebox for running an exercise in the Weekly is too short. You should use the method [inverted classroom](https://en.wikipedia.org/wiki/Flipped_classroom). Every circle member prepares the exercises as "homework" upfront so you will have more time to discuss results in the circle.
+
+**ProTip:** if you use the lernOS OneNote Circle Template you can take a photo of the current version of the canvas and upload so the other circle members can see it and give feedback.
+
+**WEEK 1**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** Share your objective(s) in the circle. The objective might be refined until week 4 but not later. _(45 minutes)_
+* **OKR Learning Path Kata:** tbd.
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 2**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** Share your list in the circle and let others help to complete it. _(45 minutes)_
+* **OKR Learning Path Kata:** tbd.
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 3**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** Discuss your sharing experiences in the circle. _(45 minutes)_
+* **OKR Learning Path Kata:** Discuss the OKRs in the Circle and give each other feedback. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 4 & Pitstop 1**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** Discuss your approaches in the circle. _(45 minutes)_
+* **OKR Learning Path Kata:** Explain the final OKRs and talk about ways to achieve goals. This shows how different the approaches of the different people can be. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 5**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** tbd. _(45 minutes)_
+* **OKR Learning Path Kata:** Share how you organize your weeklys and what experiences you have with the process. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 6**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** Share the facts about you in the circle. _(45 minutes)_
+* **OKR Learning Path Kata:** Share the experiences with your OKR environments and try out other tools. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 7**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** Present the top 10 list in the circle and discuss it. _(45 minutes)_
+* **OKR Learning Path Kata:** Exchange ideas about who chose which option and for what reasons. In the
+  following weeks you can talk about the effects and experiences again. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 8 & Pitstop 2**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** tbd. _(45 minutes)_
+* **OKR Learning Path Kata:** Discuss your ideas and opinions about Moonshot OKRs. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 9**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** Talk about your lists in the circle and let the others help you to complete your list. _(45 minutes)_
+* **OKR Learning Path Kata:** Discuss your decisions about the OKR confidence levels. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 10**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** tbd. _(45 minutes)_
+* **OKR Learning Path Kata:** Discuss your approaches to spreading OKRs in the organization and learn from each other. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 11**
+
+* **Check-in:** What happened since the last check-in? What changed in the key results? What is slowing me down? Two minute timebox per circle member. _(10 minutes)_
+* **WOL Learning Path Kata:** If you want to share the letter with your circle members just read it out loud afterwards. _(45 minutes)_
+* **OKR Learning Path Kata:** Discuss your review results. _(45 minutes)_
+* **GTD Learning Path Kata:** tbd.
+* **Check-out:** What will I do until the next Weekly? One minute timebox per circle member. _(5 minutes)_
+
+**WEEK 12 - Retrospective & Celebration**
+
+In this week the final iteration of your key results should be available. Talk about them and show them in the check-in. You will reflect on the circle experience and talk about how to sustain the process. After the weekly you should take some time to celebrate your success!
+
+* **Check-in:** What happened since the last check-in? Show the final iteration of the key results. 3 minute timebox per circle member. _(15 minutes)_
+* **Your Learning Moments:** Talk about the moments in the sprint that where special for your. What are your key learnings? Discuss if you want to publish them as [lernOS Story](https://docs.google.com/forms/d/e/1FAIpQLSc9KrufUD9Mu9wstGv8ojfChRwPlq2dVi_kAUB04MuymmzUSg/viewform) for other practitioners. _(20 minutes)_
+* **After Action Review:** What was the plan for the sprint? What did happened? Is there any deviation? What can you learn from it? _(20 minutes)_
+* **Check-out:** Are there any next steps? Will you stay together for another sprint?
+* **Celebration time!** _(timebox is up to you)_
+
+## Acknowledgments
+
+lernOS is inspired by many of sources and thought leaders and is thus [standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). An overview of the roots & inspirations I have compiled [in the lernos Wiki](https://github.com/cogneon/lernos-core/wiki). For this guide I would especially like to thank:
+
+- **Hirotaka Takeuchi** and **Ikujiro Nonaka** for introducing the term scrum for agile development (1986).
+- **Jeff Sutherland** and **Ken Schwaber** for the definition of scrum in [The Scrum Guide](https://scrumguides.org) (2010).
+- **David Allen** for the method [Getting Things Done](https://gettingthingsdone.com) (GTD) to show the path towards the art of stress-free productivity (2001).
+- **Andy Grove** for the development of the method [Objective & Key Results](https://en.wikipedia.org/wiki/OKR) (OKR) as a further development of Peter Drucker\'s management by objectives (MbO) at Intel (1980s). **John Doer** for bringing OKR to Google and **Rick Klau** from Google Ventures for his talk [How Google sets goals: OKRs](https://www.youtube.com/watch?v=mJB83EZtAjc) (2013).
+- **Glyn Moody** (2006) and **Bryce Williams** (2010) for coining and defining the term Working Out Loud. **John Stepper** for the design of the 12-week WOL learning program documented in the [WOL Circle Guides](https://workingoutloud.com/en/circle-guides) (2015). **Katharina Krentz** from Bosch for her many contributions to make WOL usable in organizations to develop a learning organization.
+- **Johannes Müller** and **Tobias Müller-Zielke** for the talks on OKRs and GTD at the lernOS Rockstars Camp 2019 and **Alexander Rose** for compiling the GTD learning path.
+
+## Change History
+
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |---------|----------------|-----------------------|-------|
 | 1.0 | Simon Dueckert | First Version of the lernOS Guide | 2018-09-17 |
@@ -1177,4 +1310,5 @@ Keep Calm & Learn On! :-)
 | 1.1 | Simon Dueckert | OKRs als Standard-Methode für Learning Sprints, Einführung NOOB Path mit reduziertem Kata-Set, Umbenennung lernOS Sprint/Circle, Einführung von Lernpfaden | 2018-12-17 |
 | 1.2 | Simon Dueckert | Guideline renamed to "lernOS Guide for You", lernOS logo added to cover page, Telegram User Group replaced by CONNECT, Mobi version (Amazon) added to output formats, generation of all output files via make.bat, Table of Contents (TOC) added to html version | 2019-03-25 |
 | 1.3 | Simon Dückert | New "high level structure" for lernOS Guides applied, Order in introduction chapter changed (Sprint, Wheel, Circle), Hashtags removed from "ProTips", Placeholders for OKR and GTD learning paths added, Kata "Design Your Future Backwards" added to week 0, Kata "Think visual with the lernOS Canvas" moved to week 0, Skillset: table of skills expanded to act as self assessment tool, Number of circle support tools reduced based on WOL survey 2018, Standardized preface added, Content and structure in chapter acknowledgements improved, Standard orange backside cover added | 2019-06-17 |
-| 1.4 | Simon Düclert | New learning paths for OKR and GTD added, Link to lernOS CircleFinder added to preface, Moderator checklist removed from learning path (separate markdown document now), lernOS Canvas and OneNote template moved to lernOS Core repository, Improved metadata creation for E-Book versions | 2019-09-16 |
+| 1.4 | Simon Dückert | New learning paths for OKR and GTD added, Link to lernOS CircleFinder added to preface, Moderator checklist removed from learning path (separate markdown document now), lernOS Canvas and OneNote template moved to lernOS Core repository, Improved metadata creation for E-Book versions | 2019-09-16 |
+| 1.5 | Simon Dückert | New chapter License and "CC BY" removed from title, New definition of mindset (attitude and values), All format specifics moved to (resumed) moderator checklist in appendix, Links to web presentation and lernOS Stories added, lernOS Circle Template (OneNote) updated, Chapter "lernOS Sprint" adapted to new learning paths, Chapter "Learning paths for beginners revised | 2019-16-12 |
