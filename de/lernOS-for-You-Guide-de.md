@@ -54,29 +54,21 @@ erfinden und jeden Fehler wiederholen musst.
 
 Und das Beste ist: lernOS ist frei, offen und leicht zu verstehen. Starte heute damit!
 
-## lernOS Sprint: Eine 13-wöchige Selbstlernreise
+## lernOS Sprints: Lebenslanges Lernen in 13-wöchigen Timeboxen
 
-lernOS wird in Zeiträumen von 13 Wochen, die Learning Sprints genannt werden, praktiziert.
-Normalerweise laufen die Sprints jeweils in einem Quartal des Jahres.
-Der Rhythmus kann bei Bedarf angepasst werden. Die Woche 0 wird
-für die Planung des Sprints genutzt. Von Woche 1-11 schlägt ein Lernpfad Übungen vor, um neue Fähigkeiten und eine neue Haltung zu erlernen. In Woche 12 wird eine Retrospektive durchgeführt, um das Gelernte zu reflektieren.
+lernOS wird in Zeiträumen von 13 Wochen, die wie bei [Scrum](https://scrumguides.org) Learning Sprints genannt werden, praktiziert. Normalerweise laufen die Sprints jeweils in einem Quartal des Jahres. Der Rhythmus kann bei Bedarf angepasst werden. Ein Sprint kann alleine (lernOS Solist), zu zweit (lernOS Tandem) oder in einer Gruppe von 4-5 Personen (lernOS Circle) durchlaufen werden.
 
 ![lernOS Sprint](images/lernOS-Sprint.png)
 
-Das passiert in einem Learning Sprint:
+So läuft ein lernOS Sprint ab:
 
-- **Woche 0:** Die Sprint Planung. Versteht jeder den Vorgang? Wann
-  wird das wöchentliche Treffen stattfinden? Wird das Weekly
-  als persönliches Treffen oder virtuell stattfinden? Welche Tools
-  werden für die Kommunikation und Dokumentation verwendet? Ist jeder
-  in der Lage, die Tools zu verwenden? Welche Übungen werden für
-  die Wochen 1-11 ausgewählt?
-- **Wochen 1-11:** Die Circle-Mitglieder treffen sich wöchentlich im Weekly und
-  arbeiten im Sprint an Ihren Zielen und gewünschten Ergebnissen. Ein Lernpfad stellt den Circle-Mitgliedern Übungen bereit, die Katas genannt werden, um ein Netzwerk aufzubauen, das sie bei der Erreichung ihrer Ziele
-  unterstützt. Die beiden Boxenstopps in Woche 4 und Woche 8 helfen zu sehen, ob noch alle auf dem richtigen Weg sind.
-- **Woche 12 mit der Retrospektive:** Die Mitglieder des Circles zeigen ihre finalen Ergebnisse und reflektieren über den gesamten Prozess. Sie entscheiden außerdem, ob sie für einen weiteren Sprint zusammen bleiben wollen.
+- **Woche 0:** Die Sprint Planung. Versteht jeder die Vorgehensweise? Wann wird der wöchentliche Termin (Weekly) stattfinden? Welcher Lernpfad wird für den Sprint gewählt? Bei lernOS Tandems und Circles: Wird das Weekly als persönliches Treffen oder virtuell stattfinden? Welche Tools werden für die Kommunikation und Dokumentation verwendet? Ist jeder in der Lage, die Tools zu verwenden?
+- **Wochen 1-11:** Es wird an den Zielen und gewünschten Ergebnissen gearbeitet und der Fortschritt im Weekly kritisch reflektiert. Ein Lernpfad schlägt Übungen vor, die wie bei [CoderDojos](https://coderdojo.com) Katas genannt werden. Für Einsteiger*innen (NOOBs) stehen drei Lernpfade zur Verfügung: WOL-Lernpfad (offenes und vernetztes Arbeiten und Lernen), OKR-Lernpfad (zielgerichtetes und fokussiertes Arbeiten und Lernen) und GTD-Lernpfad (stressfreies und produktives Arbeiten und Lernen). Die Empfehlung ist, je Sprint nur ein Lernpfad auszuwählen und in Lerntandems oder Circles die Lernpfade nicht zu mischen. Die beiden Boxenstopps in Woche 4 und Woche 8 helfen zu sehen, ob noch alle auf dem richtigen Weg sind.
+- **Woche 12 mit der Retrospektive:** Review der finalen Ergebnisse des Sprints und Retrospektive des gesamten Prozesses. Bei Lerntandems und Circles: Die Beteiligten entscheiden, ob sie für einen weiteren Sprint zusammen bleiben wollen.
 
-## lernOS Wheel: Neues Mindset, Skillset und Toolset
+In Schule und Hochschule wird der Takt des Lernens durch Schuljahre und Semester vorgegeben. Um das Lernen danach selbstorganisiert zu stukturieren, werden die lernOS Sprints im Extremfall bis zum eigenen Lebensende eingeplant (von der Wiege bis zur Bahre), so wie das [auch schon Peter Drucker](https://www.inc.com/magazine/19970201/1169.html) praktiziert hat.
+
+## lernOS Wheel: Mindset, Skillset und Toolset
 
 Die Beherrschung der VUCA-Welt des 21. Jahrhunderts erfordert Offenheit
 für Veränderungen und neue Ansätze. Es gibt eine Menge von Werkzeugen
@@ -257,13 +249,15 @@ Kommunikation, die Audio-/Video-Konferenz-Funktion für virtuelle Meetings und e
 
 # Lernpfade für Einsteiger*innen (NOOBs)
 
-Ein Lernpfad ist eine Zusammenstellung von Aktivitäten und Übungen, mit denen du neue Fähigkeiten und eine neue Haltung erlernst. Ein Lernpfad kann in der Regel innerhalb eines lernOS Sprints durchlaufen werden. Für lernOS Einsteiger*innen (newbies oder noobs) schlagen ich vor, einen oder mehrere Learning Sprints zu verwenden, um mit den Grundlagen von lernOS vertraut zu werden. Aktuell sind dafür folgende Lernpfade verfügbar, die in jeweils einem Sprint durchlaufen werden können:
+Ein lernOS Lernpfad ist eine Zusammenstellung von Übungen (Katas), mit denen du neue Fähigkeiten erlernst und im Lauf der Zeit eine neue Haltung entwickelst. Ein Lernpfad kann innerhalb eines lernOS Sprints durchlaufen werden. lernOS Einsteiger*innen (NOOBs) können aus einem von drei Lernpfaden wählen:
 
-1. **WOL Lernpfad:** Die Idee für diesen Lernpfad ist inspiriert von John Stepper's [Working Out Loud](https://workingoutloud.com/en/circle-guides) (WOL) Circle Methode. Durch Erfahrungen und eine WOL Circle Umfrage im Jahr 2018 wurde die Anzahl der Übungen von 31 auf elf reduziert, ohne dabei die Kernidee von WOL zu verlieren.
-2. **OKR Lernpfad:** In diesem Lernpfad lernst du, dir für einen Sprint Ziele mit der Methode [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (OKR) zu stecken und diese in einem wöchentlichen Rhytmus nachzuverfolgen.
-3. **GTD Lernpfad:** In diesem Lernpfad lernst du die Methode [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) (GTD) von David Allen kennen. Sie hilft dir, bei der Menge von Aufgaben und Informationen nicht den Überblick zu verlieren.
+![lernOS Lernpfade für Einsteiger*innen](images/lernOS-Lernpfade.png)
 
-Als einzelner lernOS Anwender oder lernOS Circle könnt ihr entscheiden, mit welchem Lernpfad ihr beginnt und ob ihr mehr als einen Lernpfad machen wollt. Wenn du ein GTD Anwender bzw. ein OKR Anwender bist, oder schon einen WOL Circle abgeschlossen hast, kannst du einfach einen der anderen Lernpfade für den Start wählen.
+1. **WOL Lernpfad:** in diesem Lernpfad lernst du, **offen** und **vernetzt** zu Arbeiten, sowie deine Ergebnisse sichtbar zu machen und darüber zu erzählen. Der Lernpfad basiert auf den [Working Out Loud Circle Guides](https://workingoutloud.com/de/circle-guides) von John Stepper.
+2. **OKR Lernpfad:** dieser Lernpfad hilft dir, **zielgerichtet** und **fokussiert** zu Arbeiten und zu Lernen. Dabei geht es nicht nur um alltägliche Ziele, sondern auch um die großen Ziele in der Arbeit und im Leben (Moonshots). Der Lernpfad basiert auf der Methode [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (OKR) von Google.
+3. **GTD Lernpfad:** In diesem Lernpfad lernst du, bei der Fülle von Aufgaben **produktiv** zu sein und in jeder Situation **stressfrei** den Überblick zu behalten. Der Lernpfad basiert auf der Methode [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) (GTD) von David Allen.
+
+**ProTip:** für einen Sprint sollte nur einer der drei Lernpfade gewählt werden. Alle drei Lernpfade können in aufeinanderfolgenden Sprints durchlaufen werden. Tandems und Circles sollten Lernpfade nicht mischen, da ihr sonst im Weekly nicht von den Erfahrungen der anderen profitieren könnt.
 
 ## WOL Lernpfad
 
@@ -1289,4 +1283,5 @@ lernOS ist von vielen Personen und Quellen inspiriert und steht daher [auf den S
 | 1.2 | Simon Dückert | Leitfaden in "lernOS Leitfaden für Dich" umbenannt, lernOS Logo in die Titelseite eingefügt, Telegram als User Group durch CONNECT ersetzt, Mobi-Version (Amazon) zu Ausgabeformaten hinzugefügt, Erzeugung aller Ausgabedateien über make.bat automatisiert, Inhaltsverzeichnis (TOC) zur HTML-Version hinzugefügt | 25.03.2019 |
 | 1.3 | Simon Dückert | Neue "High Level Structure" für lernOS Guides angewendet, Reihenfolge im Grundlagen-Kapitel geändert (Sprint, Wheel, Circle), Hashtags von "ProTips" entfernt, Platzhalter für OKR und GTD Lernpfade eingefügt, Kata "Gestalte dein Future Backwards" zu Woche 0 hinzugefügt, Kata "Visuell denken mit dem lernOS Canvas" in Woche 0 verschoben, Skillset: Tabelle der Fähigkeiten für Selbsteinschätzung erweitert, Anzahl der Anwendungen zur Unterstützung von Circles auf Basis WOL Umfrage 2018 reduziert, Standardisiertes Vorwort eingefügt, Inhalt und Struktur des Kapitels Danksagungen verbessert, Standardisierte orange Rückseite eingefügt | 17.06.2019 |
 | 1.4 | Simon Dückert | Neue Lernpfade für OKR und GTD hinzugefügt, Link zum lernoS CircleFinder zum Vorwort hinzugefügt, Moderatoren Checkliste vom Lernpfad entfernt (ist jetzt ein extra Markdown-Dokument), lernOS Canvas und OneNote Vorlage ins lernOS Core Repository verschoben, Metadaten-Erstellung für E-Book-Versionen verbessert | 16.09.2019 |
-| 1.5 | Simon Dückert | ... | 16.12.2019 |
+| 1.5 | Simon Dückert | Neues Kapitel Lizenz und "CC BY" aus dem Titel entfernt, Neue Definition Mindset (Haltung und Werte), Alle Format-Spezifika in die (wieder aufgenommene) Moderatoren Checkliste im Anhang verschoben, Links zu Web Präsentation und lernOS Stories eingefügt, lernOS Circle Template (OneNote) aktualisiert, Kapitel "lernOS Sprint" an neue Lernpfade angepasst, Kapitel "Lernpfade für Einsteiger*innen" überarbeitet | 16.12.2019 |
+

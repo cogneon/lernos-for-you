@@ -36,19 +36,21 @@ lernOS for You can help you to get fit for the 21st century. lernOS helps to org
 
 And the best thing is: lernOS is free, open, and easy to understand. Start using it today!
 
-## lernOS Sprint: A 13 Week Self Learning Experience
+## lernOS Sprints: Lifelong Learning in 13 Weeks Timeboxes
 
-lernOS is practiced in timeboxes of 13 weeks called learning sprints. Normally sprints run along the quarters of a year but the rhythm can be changed if necessary. The week 0 is used for the planning of the sprint. From week 1-11 a learning path suggests exercises called katas to learn something new. In week 12 a retrospective is done to reflect on the learnings.
+lernOS is practiced in timeboxes of 13 weeks called learning sprints like in [scrum](https://scrumguides.org). Normally sprints run along the quarters of a year but the rhythm can be changed if necessary. A sprint can be done alone (lernOS Soloist), in pairs (lernOS Tandem) or in a group of 4-5 persons (lernOS Circle).
 
 ![lernOS Sprint](images/lernOS-Sprint.png)
 
-This is what happens during a learning sprint:
+This is what happens during a lernOS sprint:
 
-- **Week 0 with the Sprint Planning:** Does everybody understand the process? When will the weekly meeting be? Will the weekly be face-to-face or virtual? Which tools are used for communication and documentation? Is everybody able to use the tools?
-- **Weeks 1-11 with the Weekly Meeting:** the circle members are working on their objectives and desired results during the sprint. A learning path provide the circle members with a set of exercises called katas to build a network that supports them with achieving their objectives. The two pitstops in week 4 and week 8 help to see if everybody is still on track.
-- **Week 12 with the Retrospective:** the circle members show their final results and reflect on the overall process. They also decide if they want to do another sprint together.
+- **Week 0:** The sprint planning. Does everybody understand the process? When will the weekly meeting be? Which learning path is chosen? For lernOS tandems and circles: Will the weekly be face-to-face or virtual? Which tools are used for communication and documentation? Is everybody able to use the tools?
+- **Weeks 1-11 with the Weekly Meeting:** It is worked on the objectives and desired results and the progress is critically reflected in the weekly. A learning path suggests exercises, which are called Katas as in [CoderDojos](https://coderdojo.com). Three learning paths are available for beginners (NOOBs): WOL learning path (open and connected working and learning), OKR learning path (targeted and focused working and learning) and GTD learning path (stress-free and productive working and learning). The recommendation is to select only one learning path per sprint and not to mix the learning paths in tandems or circles. The two pit stops in week 4 and week 8 help to see whether everyone is still on the right track.
+- **Week 12 with the Retrospective:** Review of the final results of the sprint and retrospective of the entire process. For learning tandems and circles: The participants decide whether they want to stay together for another sprint.
 
-## lernOS Wheel: New Mindset, Skillset, and Toolset
+At school and university, the pace of learning is determined by school years and semesters. In order to structure the learning afterwards in a self-organized way, the lernOS sprints are planned in extreme cases up to the end of one's life (from the cradle to the cradle), just [as Peter Drucker did it](https://www.inc.com/magazine/19970201/1169.html).
+
+## lernOS Wheel: Mindset, Skillset, and Toolset
 
 Mastering the VUCA world of the 21st century requires to be open for change and new approaches. There are a lot of tools and methods out there. But when one is not open to give it a try, experiment, and fail there will be no success. Like the people with the "square wheels" in the image below we are often too busy to see new opportunities.
 
@@ -157,13 +159,15 @@ If you have an Enterprise Social Network (ESN) like Jive or Connections in your 
 
 # Learning Paths for Newbies (NOOBs)
 
-A learning path is a set of activities and exercises to learn something new. A learning path normally lasts for one lernOS Sprint. For learnOS beginners (newbies or noobs) we suggest to run on or more learning paths to get you in touch with the basic concepts of lernOS. Currently these learning paths are available which can be run through in one sprint each:
+A lernOS learning path is a collection of exercises (Katas) with which you learn new skills and develop a new attitude over time. A learning path can be followed within a lernOS sprint. lernOS beginners* (NOOBs) can choose from one of three learning paths:
 
-1. **WOL Learning Path:** The idea for this learning path is inspired by John Stepper's [Working Out Loud circle method](https://workingoutloud.com/en/circle-guides) (WOL). Due to experience and a WOL circle survey ran in 2018 the number of exercises has been reduced to 11 to fit more easy in the 13 weeks without loosing aspects of the core idea of WOL.
-2. **OKR Lernpfad:** In this learning path you learn how to set your goals for a sprint with th method [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (OKR) and how to check the goals systematically every week.
-3. **GTD Lernpfad:** In this learning path you get to know the method [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) (GTD) by David Allen. GTD helps you to not lose control in an environment with a lot of tasks and information.
+![lernOS Lernpfade für Einsteiger*innen](images/lernOS-Learning-Paths.png)
 
-As an individual lernOS Practitioner or lernOS Circle you can decide with which learning path you start and if you want to do more than one learning path. If you are already a GTD practitioner, OKR practitioner or if you already have finished a WOL Circle you can can skip that and choose one of the other learning paths to start with.
+1. **WOL Learning Path:** in this learning path you'll learn to work **open** and **connected**, as well as how to make your results visible and to narrate about it. The learning path is based on the [Working Out Loud Circle Guides](https://workingoutloud.com/de/circle-guides) by John Stepper.
+2. **OKR Learning Path:** this learning path helps you to work and learn **goal-oriented** and **focused**. It is not only about everyday goals, but also about the big goals in work and life (Moonshots). The learning path is based on the method [Objectives & Key Results](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/). (OKR) from Google.
+3. **GTD Learning Path:** In this learning path you learn to be **productive** in the multitude of tasks and to keep track of every situation in a **stress-less** way. The learning path is based on the method [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) (GTD) by David Allen.
+
+**ProTip:** Only one of the three learning paths should be chosen for a sprint. All three learning paths can be completed in follow-up sprints. Tandems and circles should not mix learning paths, otherwise you won't be able to benefit from each other's experiences in the weekly.
 
 ## WOL Learning Path
 
@@ -1307,4 +1311,4 @@ lernOS is inspired by many of sources and thought leaders and is thus [standing 
 | 1.2 | Simon Dueckert | Guideline renamed to "lernOS Guide for You", lernOS logo added to cover page, Telegram User Group replaced by CONNECT, Mobi version (Amazon) added to output formats, generation of all output files via make.bat, Table of Contents (TOC) added to html version | 2019-03-25 |
 | 1.3 | Simon Dückert | New "high level structure" for lernOS Guides applied, Order in introduction chapter changed (Sprint, Wheel, Circle), Hashtags removed from "ProTips", Placeholders for OKR and GTD learning paths added, Kata "Design Your Future Backwards" added to week 0, Kata "Think visual with the lernOS Canvas" moved to week 0, Skillset: table of skills expanded to act as self assessment tool, Number of circle support tools reduced based on WOL survey 2018, Standardized preface added, Content and structure in chapter acknowledgements improved, Standard orange backside cover added | 2019-06-17 |
 | 1.4 | Simon Dückert | New learning paths for OKR and GTD added, Link to lernOS CircleFinder added to preface, Moderator checklist removed from learning path (separate markdown document now), lernOS Canvas and OneNote template moved to lernOS Core repository, Improved metadata creation for E-Book versions | 2019-09-16 |
-| 1.5 | Simon Dückert | ... | 2019-16-12 |
+| 1.5 | Simon Dückert | New chapter License and "CC BY" removed from title, New definition of mindset (attitude and values), All format specifics moved to (resumed) moderator checklist in appendix, Links to web presentation and lernOS Stories added, lernOS Circle Template (OneNote) updated, Chapter "lernOS Sprint" adapted to new learning paths, Chapter "Learning paths for beginners revised | 2019-16-12 |
