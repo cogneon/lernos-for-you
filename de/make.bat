@@ -25,12 +25,11 @@ pandoc metadata.yaml %filename%.md -o %filename%.pdf --from markdown --template 
 
 REM Create eBook Versions (epub, mobi)
 echo Creating eBook versions ...
-magick -density 300 %filename%.pdf[0] ebook-cover.jpg
-magick mogrify -size 2500x2500 -resize 2500x2500 ebook-cover.jpg
-magick mogrify -crop 1563x2500+102+0 ebook-cover.jpg
-pandoc metadata.yaml -s --epub-cover-image=ebook-cover.jpg -o %filename%.epub %filename%.md
+magick -density 300 %filename%.pdf[0] images/ebook-cover.jpg
+magick mogrify -size 2500x2500 -resize 2500x2500 images/ebook-cover.jpg
+magick mogrify -crop 1563x2500+102+0 images/ebook-cover.jpg
+pandoc metadata.yaml -s --epub-cover-image=images/ebook-cover.jpg -o %filename%.epub %filename%.md
 ebook-convert %filename%.epub %filename%.mobi
-del ebook-cover.jpg
 
 echo Done. Check for error messages or warnings above. 
 
