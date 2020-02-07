@@ -12,6 +12,6 @@ lof: false
 toc: true
 toc-own-page: true
 toc-depth: 3
-logo: images/lernOS-logo-white-4000px.png
+logo: src/images/lernOS-logo-white-4000px.png
 logo-width: 300
 ---
