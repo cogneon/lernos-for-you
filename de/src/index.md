@@ -9,7 +9,7 @@ Podcasts haben hierbei den Vorteil, dass sie viel einfacher zu produzieren sind,
 \@simondueckert
 
 
-Lizenz
+**Lizenz:**
 
 lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
 

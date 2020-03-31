@@ -6,7 +6,7 @@ REM See lernOS Core Repository
 
 REM Variables
 set filename="lernOS-for-You-Guide-en"
-set chapters=./src/1-About-lernOS.md ./src/2-Introduction.md ./src/3-0-Learning-Paths.md ./src/3-1-Learning-Path-WOL.md ./src/3-2-Learning-Path-OKR.md ./src/3-3-Learning-Path-GTD.md ./src/4-Appendix.md
+set chapters=./src/index.md ./src/1-0-Introduction.md ./src/1-1-lernOS-Sprints.md ./src/1-2-lernOS-Wheel.md ./src/1-3-lernOS-Circle.md ./src/2-0-Learning-Paths.md ./src/2-1-0-Learning-Path-WOL.md ./src/2-1-1-Kata-1.md ./src/2-1-2-Kata-2.md ./src/2-1-3-Kata-3.md ./src/2-1-4-Kata-4.md ./src/2-1-5-Kata-5.md ./src/2-1-6-Kata-6.md ./src/2-1-7-Kata-7.md ./src/2-1-8-Kata-8.md ./src/2-1-9-Kata-9.md ./src/2-1-10-Kata-10.md ./src/2-1-11-Kata-11.md ./src/2-1-12-Kata-12.md ./src/2-1-13-Kata-13.md ./src/2-2-0-Learning-Path-OKR.md ./src/2-2-1-Kata-1.md ./src/2-2-2-Kata-2.md ./src/2-2-3-Kata-3.md ./src/2-2-4-Kata-4.md ./src/2-2-5-Kata-5.md ./src/2-2-6-Kata-6.md ./src/2-2-7-Kata-7.md ./src/2-2-8-Kata-8.md ./src/2-2-9-Kata-9.md ./src/2-2-10-Kata-10.md ./src/2-2-11-Kata-11.md ./src/2-3-0-Learning-Path-GTD.md ./src/2-3-1-Kata-1.md ./src/2-3-2-Kata-2.md ./src/2-3-3-Kata-3.md ./src/2-3-4-Kata-4.md ./src/2-3-5-Kata-5.md ./src/2-3-6-Kata-6.md ./src/2-3-7-Kata-7.md ./src/2-3-8-Kata-8.md ./src/2-3-9-Kata-9.md ./src/2-3-10-Kata-10.md ./src/2-3-11-Kata-11.md ./src/3-Appendix.md
 
 REM Delete Old Versions
 echo Deleting old versions ...
