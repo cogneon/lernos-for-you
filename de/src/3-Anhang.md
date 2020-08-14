@@ -31,13 +31,13 @@ machen wollt. Entscheidet auch, ob Ihr den lernOS Canvas
 * **Circle-Moderator:** ...
 * **Lernpfad:** WOL / OKR / GTD
 * **Tag und Uhrzeit des Weekly:** ...
-* **Wöchentliche Treffen sind:** persönlich / virtuell
+* **Wöchentliche Treffen sind:** Persönlich / Virtuell
 * **Verwendete Tools (können alle sie nutzen?):** ...
 * **Benutzen wir den Canvas:** Ja / Nein
 
-**ProTip:** jeder sollte die Katas "Gestalte dein Future Backwards" und "Visuell denken mit dem lernOS Canvas" in Woche 0 machen, um die richtigen Ziele für den lernOS Sprint zu finden.
+**ProTip:** Jeder sollte die Katas "Gestalte dein Future Backwards" und "Visuell denken mit dem lernOS Canvas" in Woche 0 machen, um die richtigen Ziele für den lernOS Sprint zu finden.
 
-**ProTip:** in vielen Fällem ist die Zeit für das Ausführen der
+**ProTip:** In vielen Fällen ist die Zeit für das Ausführen der
 Übungen im Weekly zu kurz. Verwendet daher die Methode [Flipped
 Classroom](https://en.wikipedia.org/wiki/Flipped_classroom): jedes
 Circle-Mitglied bereitet die Übungen als "Hausaufgabe" vor,
@@ -53,7 +53,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Teilt eure Ziele im Circle. *(45 Minuten)*
 * **OKR Lernpfad Kata:** tbd.
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 2**
@@ -61,7 +61,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen. *(45 Minuten)*
 * **OKR Lernpfad Kata:** tbd.
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 3**
@@ -69,7 +69,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Besprecht eure Erfahrungen im Circle. *(45 Minuten)*
 * **OKR Lernpfad Kata:** Diskutiert die OKRs im Circle und gebt euch gegenseitig Feedback. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 4 & Boxenstopp 1**
@@ -77,7 +77,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Besprecht Eure Ansätze im Circle. *(45 Minuten)*
 * **OKR Lernpfad Kata:** Stellt die finalen OKRs gegenseitig vor und sprecht über Wege der Zielerreichung. So wird sichtbar, wie unterschiedlich die Herangehensweisen der unterschiedlichen Personen sein können. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 5**
@@ -85,7 +85,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** tbd. *(45 Minuten)*
 * **OKR Lernpfad Kata:** Tauscht euch aus, wie ihr eure Weeklys organisiert und welche Erfahrungen ihr mit dem Prozess macht. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 6**
@@ -93,7 +93,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Teilt eure Fakten über euch im Circle. *(45 Minuten)*
 * **OKR Lernpfad Kata:** Tauscht euch die Erfahrungen mit euren OKR-Umgebungen und probiert weitere Tools aus. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 7**
@@ -101,7 +101,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Stellt eure Top 10 Liste im Circle vor und besprecht sie. *(45 Minuten)*
 * **OKR Lernpfad Kata:** Tauscht euch aus, wer welchen Weg aus welchen Gründen gewählt hat. In den folgenden Wochen könnt ihr dann immer mal wieder über die Auswirkungen und Erfahrungen sprechen. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 8 & Boxenstopp 2**
@@ -109,7 +109,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** tbd. *(45 Minuten)*
 * **OKR Lernpfad Kata:** Diskutiert eure Ideen und Einschätzungen zu Moonshot OKRs. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 9**
@@ -117,7 +117,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Sprecht über die Liste im Circle und helft Euch gegenseitig beim Vervollständigen. *(45 Minuten)*
 * **OKR Lernpfad Kata:** Diskutiert eure Entscheidungen zu den OKR Confidence Leveln. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 10**
@@ -125,7 +125,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Bringe Dein ICH ein. *(45 Minuten)*
 * **OKR Lernpfad Kata:** Diskutiert eure Ansätze zur Verbreitung von OKRs in der Organisation und lernt voneinander. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 11**
@@ -133,7 +133,7 @@ geben können.
 * **Check-in:** Was habe ich seit dem letzten Check-in getan? Was hat sich bei den Schlüsselergebnissen getan? Was hält mich auf? Zwei-Minuten-Timebox pro Circle-Mitglied. *(10 Minuten)*
 * **WOL Lernpfad Kata:** Ein Brief an mein zukünftiges Ich - Wenn ihr den Brief mit den Circle-Mitgliedern teilen möchtet, lest ihn euch gegenseitig laut vor *(45 Minuten)*
 * **OKR Lernpfad Kata:** Diskutiert eure Review-Ergebnisse. *(45 Minuten)*
-* **GTD Lernpfad Kata:** tbd.
+* **GTD Lernpfad Kata:** Teilt eure Liste im Circle und helft euch gegenseitig, sie zu vervollständigen und/oder aufgekommene Fragen zu klären. *(45 Minuten)*
 * **Check-out:** Was werde ich bis zum nächsten Weekly tun? Eine-Minute-Timebox pro Circle-Mitglied. *(5 Minuten)*
 
 **WOCHE 12: Retrospektive & Feier**
