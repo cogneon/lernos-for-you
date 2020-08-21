@@ -8,9 +8,6 @@ nav:
     - Über lernOS: index.md
     - Grundlagen:
         - Grundlagen: 1-0-Grundlagen.md
-        - lernOS Sprints: 1-1-lernOS-Sprints.md
-        - lernOS Wheel: 1-2-lernOS-Wheel.md
-        - lernOS Circle: 1-3-lernOS-Circle.md
     - Lernpfade:
         - Lernpfade: 2-0-Lernpfade.md
         - WOL Lernpfad:
