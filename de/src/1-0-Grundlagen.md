@@ -261,7 +261,7 @@ Der Ansatz von lernOS für Dich besteht aus einer Kombination von drei in der Pr
 
 Um die einzelnen Methoden zu erlernen, stellt dieser Leitfaden jeweils einen Lernpfad mit Aufgaben und Übungen zur Verfügung. Mit welchen der Lernpfade du beginnst, hängt an deinen Bedürfnissen. Bist du auf der Suche nach Purpose und dem richtigen Ziel, beginne mit dem OKR Lernpfad. Hast du mit Informationsflut und Aufgabenvielfalt zu kämpfen, dann ist der GTD Lernpfad der richtige für dich. Hast du das Gefühl, das Rad ständig neu zu erfinden und nicht auf das kollektive Wissen der Welt zugreifen zu können? Dann beginne mit dem WOL Lernpfad.
 
-![lernOS Lernpfade für Einsteiger*innen](/Users/simondueckert/Documents/GitHub/lernos-for-you/de/src/images/lernOS-Lernpfade.png)
+![lernOS Lernpfade für Einsteiger*innen](./images/lernOS-Lernpfade.png)
 
 Der lernOS for You (4U) Flow ist ein Workflow für die Organisation von Wissensarbeit, der die drei Methoden OKR, GTD und WOL kombiniert und um Ansätze des persönlichen Wissensmanagements (PKM) ergänzt. Er sieht auf den ersten Blick recht unübersichtlich aus, ist aber Schritt für Schritt leicht zu verstehen und anzuwenden. Das Bild ist am besten von links nach rechts zu lesen. Es gibt zwei mögliche Startpunkte (grüne Kreise) und einen Endpunkt (roter Kreis). Mit dem unteren Startpunkt befasst man sich eher mit dem kurzfristigen und operativen Umgang mit Wissen und Lernen. Der obere Startpunkt bildet die langfristige und strategische Perspektive ab. 
 
