@@ -1,26 +1,21 @@
+# Vorwort
+
+Wofür gibt es den **lernOS für Dich Leitfaden**? Wir stehen vor enormen Herausforderungen, die durch Globalisierung, Digitalisierung sowie schnelle technologische und wissenschaftliche Entwicklung angetrieben werden. Gleichzeitig bieten uns diese Veränderungen viele neue Entwicklungsmöglichkeiten. Die Zukunft ist ungewiss und wir können Sie nicht vorhersagen.
+
+Wir müssen also offen und bereit dafür sein und sie gemeinsam gestalten (Quelle: [Learning Framework 2030](https://www.oecd.org/education/2030)). Um durch die sogenannte [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity)-Welt des 21. Jahrhunderts voller Volatilität, Unsicherheit, Komplexität und Mehrdeutigkeit zu navigieren, müssen sich Teenager, Studenten, Fachleute, Manager und Führungskräfte ständig weiterentwickeln. Jeder muss Fähigkeiten wie Kreativität, kritisches Denken, Kommunikation und Kollaboration erlernen. Digital Literacy ist die Kompetenz, mit Hilfe digitaler Tools lesen und schreiben, sowie an gemeinsamen Aktivitäten teilhaben zu können. Sie ist wichtig, um digitale Werkzeuge produktiv einsetzen zu können.
+
+Die Motivation für die persönliche Entwicklung sollte dabei mehr sein, als einen gut bezahlten Job zu bekommen oder Profit zu machen. Jeder sollte sich um das eigene Wohlergehen, aber auch das Wohl seiner Freunde und Familie, seiner Communities und der Gesellschaft kümmern. Wir müssen lernen, welches Wissen, Fähigkeiten, Denkweisen, Einstellungen, Werte, Methoden und Werkzeuge wir brauchen, um gemeinsam eine bessere Zukunft zu gestalten.
+
+lernOS kann dir helfen, Dich fit für das 21. Jahrhundert zu machen. lernOS hilft Dir, deine Aktivitäten
+zu organisieren und bewusst aus jeder Aktion zu lernen. Es fördert außerdem die Vernetzung mit anderen Menschen, damit du nicht jedes Rad neu erfinden und jeden Fehler wiederholen musst.
+
+Und das Beste ist: lernOS ist frei, offen und leicht zu verstehen. Starte heute damit, mache dich mit den Grundlagen vertraut und durchlaufe einen Lernpfad alleine, im Lerntandem oder im Circle!
+
 # Über lernOS
 
-lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).
+**lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und [Lernende Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). Die Funktionsweise von lernOS wird in [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** beschrieben. lernOS kann ganz einfach als **Einzelperson**, im **Team** oder in der gesamten **Organisation** praktiziert werden.
 
-Der Trend Working Out Loud bedeutet, die eigene Arbeit sichtbar zu machen und über die eigene Arbeit zu erzählen, um Vernetzung zu ermöglichen und Hilfe aus dem Netzwerk zu erhalten. Als Plattform kommen oft interne und externe soziale Netzwerke zum Einsatz. Gerade wenn es um den Transport von Wissen zu komplexen Themen oder Emotionen geht, reichen kurze Texte oft nicht aus. Hier eignen sich Audio- und Video-Formate wie Screencasts, Erklärvideos und Podcasts besser.
+Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem **Circle** (4-5 Personen) oder zumindest in einem **Lerntandem** (2 Personen) zu starten. Weitere Informationen findest du auf der Seite [lernos.org](http://lernos.org). Mitstreiter findest du ganz einfach in der [lernOS Community CONNECT](https://community.cogneon.de). Dort gibt es auch den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/) als Marktplatz für Circle-Angebote und -Gesuche.
 
-Podcasts haben hierbei den Vorteil, dass sie viel einfacher zu produzieren sind, als Videos. Außerdem können Podcasts an Orten konsumiert werden, an denen die Nutzung von Videos schwierig ist (Pendler, im Auto, im Flugzeug, beim Spazieren etc.). Mit diesem lernOS Leitfaden lernt ihr in einem Learning Sprint, selber Podcast zu machen und zu veröffentlichen. Ihr könnt den Podcasting Lernpfad alleine durchlaufen oder in einem Learning Circle mit 4-5 anderen Personen.
+**KEEP CALM & LEARN ON!**
 
-\@simondueckert
-
-
-**Lizenz:**
-
-lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
-
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
-
-**Du darfst:**
-
-* **Teilen** - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
-* **Bearbeiten** - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
-
-**Unter folgenden Bedingungen:**
-
-- **Namensnennung** - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
-- **Keine weiteren Einschränkungen** - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
