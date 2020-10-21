@@ -78,6 +78,10 @@ Nach der Taxonomie von Lernzielen nach Benjamin Bloom reift das Wissen im Lernpr
 ... formelles/informelles Lernen, Grafik aus WP en ...
 
 ### Wissensarten - Was, wie, wann?
+… herleiten, warum Wissensarten für persönliche/DIY-Maßnahmen relvant sein könnten … 
+
+http://ehms-muenchen.de/publications/diss/#50540547_pgfId-1007617
+Die grundlegende Idee, die zur Beschäftigung mit Wissensarten führt, ist die folgende: Wenn sich grundlegene, scheinbar natürliche Arten von Wissen unterscheiden ließen, dann lassen sich hieraus möglicherweise Hinweise ableiten, wie mit diesen unterschiedlichen Arten von Wissen _in einer Interventionspraxis differenziert_ zu verfahren ist. Wissensarten würden so die unabhängigen Variablen des Umgangs mit Wissen darstellen.
 
 ... Wissen und lernen zwei Seiten einer Medaille, dynamisch vs. Statisch, Objekt vs. Prozess, collect vs. Connect ...
 
@@ -90,6 +94,9 @@ Nach der Taxonomie von Lernzielen nach Benjamin Bloom reift das Wissen im Lernpr
 Fachliches Wissen
 
 ### Strategischer vs. operativer Umgang mit Wissen und Lernen
+
+vgl. Reinmann & Eppler: Wissenswege; dort werden explizt "operative" und langfristige Methoden unterschieden; baut auf diesem Modell zum persönlichen WM auf
+http://ehms-muenchen.de/publications/diss/#50540551_pgfId-1008778 (operativ vs. strategisch X effizient vs. innovativ ) https://denkwerkzeuge.wordpress.com/2015/11/11/persoenliches-wissensmanagement/ 
 
 ... Wissenstreppe ...
 
