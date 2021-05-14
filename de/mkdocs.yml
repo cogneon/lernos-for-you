@@ -64,6 +64,10 @@ theme:
 repo_name: 'cogneon/lernos-for-you'
 repo_url: 'https://github.com/cogneon/lernos-for-you'
 
+google_analytics:
+  - 'UA-156969141-1'
+  - 'auto'
+
 extra:
     social:
         - icon: fontawesome/brands/twitter

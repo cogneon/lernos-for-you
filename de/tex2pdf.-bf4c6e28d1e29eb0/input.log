@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.30)  30 APR 2021 13:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.14)  14 MAY 2021 09:19
 entering extended mode
-**./tex2pdf.-27929d2e9aef2e96/input.tex
-(tex2pdf.-27929d2e9aef2e96/input.tex
+**./tex2pdf.-bf4c6e28d1e29eb0/input.tex
+(tex2pdf.-bf4c6e28d1e29eb0/input.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> xparse <2020-03-03>
+L3 programming layer <2021-05-07>
 (C:\Users\SimonDückert\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrartcl.c
 ls
 Document Class: scrartcl 2021/03/17 v3.33 KOMA-Script document class (article)
@@ -456,7 +456,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
 
 (C:\Users\SimonDückert\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
@@ -502,12 +502,12 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 \Hy@linkcounter=\count269
 \Hy@pagecounter=\count270
  (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
 nguages
 )
 (C:\Users\SimonDückert\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
@@ -519,7 +519,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count271
  (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -567,7 +567,7 @@ with kernel methods
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
 
 (C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
@@ -763,13 +763,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box61
 )
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/01/26 3.53 The Babel package
+Package: babel 2021/04/26 3.58 The Babel package
 
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/01/26 3.53 Babel common definitions
+File: babel.def 2021/04/26 3.58 Babel common definitions
 \babel@savecnt=\count298
 \U@D=\dimen194
-\l@babelnohyphens=\language79
+\l@unhyphenated=\language79
 
 (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
@@ -859,16 +859,15 @@ Package: mdframed 2013/07/01 1.9b: mdframed
 
 (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-02-18 L3 programming layer (loader) 
+Package: expl3 2021-05-07 L3 programming layer (loader) 
 
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count308
 \l__pdf_internal_box=\box64
 ))
-Package: xparse 2020-10-27 L3 Experimental document command parser
-
-(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex))
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-2020-10-01.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex)))
 (C:\Program Files\MiKTeX\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
 
@@ -1168,7 +1167,7 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 
 (C:\Users\SimonDückert\OneDrive - Cogneon GmbH\Dokumente\GitHub\lernos-for-you
-\de\./tex2pdf.-27929d2e9aef2e96\input.aux)
+\de\./tex2pdf.-bf4c6e28d1e29eb0\input.aux)
 \openout1 = `input.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 303.
@@ -1230,7 +1229,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package hyperref Info: Link coloring OFF on input line 303.
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
@@ -1358,7 +1360,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 34
 9.
 
 (C:\Users\SimonDückert\OneDrive - Cogneon GmbH\Dokumente\GitHub\lernos-for-you
-\de\./tex2pdf.-27929d2e9aef2e96\input.toc)
+\de\./tex2pdf.-bf4c6e28d1e29eb0\input.toc)
 \tf@toc=\write3
 \openout3 = `input.toc'.
 
@@ -1438,20 +1440,84 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 5.0pt on input line 365.
 
-[3
-! pdfTeX error (font expansion): auto expansion is only possible with scalable 
-fonts.
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.416 
-       
+[3]
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 434.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 434.
+ [4]
+LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF o
+n input line 477.
+
+(C:\Program Files\MiKTeX\tex/latex/sourcesanspro\ts1sourcesanspro-tlf.fd
+File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/So
+urceSansPro-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 477.
+LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 477.
+<tex2pdf.-bf4c6e28d1e29eb0/77d0041a787dc5f06a1fa89be1315cf6fce7350f.jpg, id=89,
+ 341.02406pt x 246.1697pt>
+File: tex2pdf.-bf4c6e28d1e29eb0/77d0041a787dc5f06a1fa89be1315cf6fce7350f.jpg Gr
+aphic file (type jpg)
+<use tex2pdf.-bf4c6e28d1e29eb0/77d0041a787dc5f06a1fa89be1315cf6fce7350f.jpg>
+Package pdftex.def Info: tex2pdf.-bf4c6e28d1e29eb0/77d0041a787dc5f06a1fa89be131
+5cf6fce7350f.jpg  used on input line 504.
+(pdftex.def)             Requested size: 341.03883pt x 246.18034pt.
+
+[5] [6 <./tex2pdf.-bf4c6e28d1e29eb0/77d0041a787dc5f06a1fa89be1315cf6fce7350f.jp
+g>] [7] [8] [9] [10]
+<tex2pdf.-bf4c6e28d1e29eb0/df19bf99afbb44721e135e9eea2ed49ab82560e2.png, id=183
+, 1204.5pt x 677.53125pt>
+File: tex2pdf.-bf4c6e28d1e29eb0/df19bf99afbb44721e135e9eea2ed49ab82560e2.png Gr
+aphic file (type png)
+<use tex2pdf.-bf4c6e28d1e29eb0/df19bf99afbb44721e135e9eea2ed49ab82560e2.png>
+Package pdftex.def Info: tex2pdf.-bf4c6e28d1e29eb0/df19bf99afbb44721e135e9eea2e
+d49ab82560e2.png  used on input line 829.
+(pdftex.def)             Requested size: 455.25195pt x 256.07921pt.
+<tex2pdf.-bf4c6e28d1e29eb0/bd77dc0df1ce1b6dae68b830db7f4902bd9b84b4.png, id=184
+, 1204.5pt x 677.53125pt>
+File: tex2pdf.-bf4c6e28d1e29eb0/bd77dc0df1ce1b6dae68b830db7f4902bd9b84b4.png Gr
+aphic file (type png)
+<use tex2pdf.-bf4c6e28d1e29eb0/bd77dc0df1ce1b6dae68b830db7f4902bd9b84b4.png>
+Package pdftex.def Info: tex2pdf.-bf4c6e28d1e29eb0/bd77dc0df1ce1b6dae68b830db7f
+4902bd9b84b4.png  used on input line 852.
+(pdftex.def)             Requested size: 455.25195pt x 256.07921pt.
+ [11 <./tex2pdf.-bf4c6e28d1e29eb0/df19bf99afbb44721e135e9eea2ed49ab82560e2.png>
+]
+<tex2pdf.-bf4c6e28d1e29eb0/666a101983cad9cdc9853b46af6c4c040d71e49d.png, id=195
+, 1114.1625pt x 627.09282pt>
+File: tex2pdf.-bf4c6e28d1e29eb0/666a101983cad9cdc9853b46af6c4c040d71e49d.png Gr
+aphic file (type png)
+<use tex2pdf.-bf4c6e28d1e29eb0/666a101983cad9cdc9853b46af6c4c040d71e49d.png>
+Package pdftex.def Info: tex2pdf.-bf4c6e28d1e29eb0/666a101983cad9cdc9853b46af6c
+4c040d71e49d.png  used on input line 868.
+(pdftex.def)             Requested size: 455.24551pt x 256.2294pt.
+ [12 <./tex2pdf.-bf4c6e28d1e29eb0/bd77dc0df1ce1b6dae68b830db7f4902bd9b84b4.png>
+] [13 <./tex2pdf.-bf4c6e28d1e29eb0/666a101983cad9cdc9853b46af6c4c040d71e49d.png
+>]
+<tex2pdf.-bf4c6e28d1e29eb0/0b6da1ca1544dc3dc47d47c304963015ed6dcf34.png, id=217
+, 1204.5pt x 677.53125pt>
+File: tex2pdf.-bf4c6e28d1e29eb0/0b6da1ca1544dc3dc47d47c304963015ed6dcf34.png Gr
+aphic file (type png)
+<use tex2pdf.-bf4c6e28d1e29eb0/0b6da1ca1544dc3dc47d47c304963015ed6dcf34.png>
+Package pdftex.def Info: tex2pdf.-bf4c6e28d1e29eb0/0b6da1ca1544dc3dc47d47c30496
+3015ed6dcf34.png  used on input line 924.
+(pdftex.def)             Requested size: 455.25195pt x 256.07921pt.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.941 F
+       ähigkeit & Ist & Soll \\ 
 Here is how much of TeX's memory you used:
- 20976 strings out of 479334
- 359232 string characters out of 2866936
- 898637 words of memory out of 3000000
- 37910 multiletter control sequences out of 15000+200000
- 529729 words of font info for 117 fonts, out of 3000000 for 9000
+ 21607 strings out of 479173
+ 377522 string characters out of 2864061
+ 902653 words of memory out of 3000000
+ 38423 multiletter control sequences out of 15000+600000
+ 555375 words of font info for 225 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,11n,117p,10648b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 108i,12n,117p,10648b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
