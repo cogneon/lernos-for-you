@@ -36,39 +36,37 @@ Seit den 1980er Jahren sind Fähigkeiten, wie das Lösen von Problemen und der A
 
 ![lernOS Skillset](images/lernOS-Skillset.png)
 
-Du kannst die folgende Tabelle für eine Selbsteinschätzung am Anfang eines Learning Sprints nutzen. Wir nutzen die Stufen 1-5 aus dem [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) (1 = Novize, 2 = Fortgeschrittener Anfänger, 3 = Kompetent, 4 = Profi, 5 = Experte). Trage deine aktuelle Stufe in die Spalte "Ist" und deine angestrebte Stufe in die Spalte "Soll". Auf der Basis kannst du den Fokus für deine Lernaktivitäten bestimmen.
+Du kannst die folgende Aufstellung für eine Selbsteinschätzung am Anfang eines Learning Sprints nutzen. Wir nutzen die Stufen 1-5 aus dem [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) (1 = Novize, 2 = Fortgeschrittener Anfänger, 3 = Kompetent, 4 = Profi, 5 = Experte). Schreibe zu jeder Fähigkeit deinen Ist-Einschätzung und deinen gewünschten Soll-Wert. Aus dem Ergebnis kannst du Lernziele zur Schließung von Lücken ableiten.
 
-| Fähigkeit                                                    | Ist  | Soll |
-| ------------------------------------------------------------ | ---- | ---- |
-| **Kreativität & Innovation**                                 |      |      |
-| Kreativ denken                                               |      |      |
-| Kreativ mit anderen arbeiten                                 |      |      |
-| Innovationen umsetzen                                        |      |      |
-| **Kritisches Denken & Problemlösen**                         |      |      |
-| Ermittlung von Bedürfnissen und technologischen Möglichkeiten |      |      |
-| Dingen effektiv auf den Grund gehen                          |      |      |
-| Urteile und Entscheidungen treffen                           |      |      |
-| Technische und nicht-technische Probleme lösen               |      |      |
-| Kreativ Technologien zur Lösung von Problemen einsetzen      |      |      |
-| **Kommunikation**                                            |      |      |
-| Gedanken und Ideen klar und effektiv artikulieren            |      |      |
-| Effektiv zuhören und Bedeutung erkennen                      |      |      |
-| Kommunikation nutzen, um zu informieren, zu unterrichten, zu motivieren und zu überzeugen |      |      |
-| Vielfältige Medien und Technologien nutzen                   |      |      |
-| Effektiv in verschiedenen Umgebungen kommunizieren           |      |      |
-| **Kollaboration**                                            |      |      |
-| Effektiv und respektvoll in gemischten Teams arbeiten        |      |      |
-| Flexibilität und Bereitschaft zeigen sowie bei notwendigen Kompromissen unterstützen, um ein gemeinsames Ziel zu erreichen |      |      |
-| Verantwortung für die gemeinsame Arbeit übernehmen und einzelne Beiträge wertschätzen |      |      |
-| Mit digitalen Medien interagieren, sich beteiligen, austauschen und zusammenarbeiten |      |      |
-| Digitale Identität verwalten                                 |      |      |
-| **Digital Literacy**                                         |      |      |
-| Surfen, suchen, Daten, Informationen und digitale Inhalte filtern |      |      |
-| Auswertung und Verwaltung von Daten, Informationen und digitalen Inhalten |      |      |
-| Schutz digitaler Geräte und personenbezogener Daten          |      |      |
-| Entwicklung, Integration und Überarbeitung digitaler Inhalte |      |      |
-| Umgang mit Urheberrechten und Lizenzen                       |      |      |
-| Programmieren, Scripten und Kodieren                         |      |      |
+* **Kreativität & Innovation**
+  * Kreativ denken              
+  * Kreativ mit anderen arbeiten
+  * Innovationen umsetzen       
+* **Kritisches Denken & Problemlösen**                         
+  * Ermittlung von Bedürfnissen und technologischen Möglichkeiten 
+  * Dingen effektiv auf den Grund gehen                          
+  * Urteile und Entscheidungen treffen                           
+  * Technische und nicht-technische Probleme lösen               
+  * Kreativ Technologien zur Lösung von Problemen einsetzen      
+* **Kommunikation**           
+  * Gedanken und Ideen klar und effektiv artikulieren            
+  * Effektiv zuhören und Bedeutung erkennen                      
+  * Kommunikation nutzen, um zu informieren, zu unterrichten, zu motivieren und zu überzeugen 
+  * Vielfältige Medien und Technologien nutzen                   
+  * Effektiv in verschiedenen Umgebungen kommunizieren           
+* **Kollaboration**           
+  * Effektiv und respektvoll in gemischten Teams arbeiten        
+  * Flexibilität und Bereitschaft zeigen sowie bei notwendigen Kompromissen unterstützen, um ein gemeinsames Ziel zu erreichen 
+  * Verantwortung für die gemeinsame Arbeit übernehmen und einzelne Beiträge wertschätzen 
+  * Mit digitalen Medien interagieren, sich beteiligen, austauschen und zusammenarbeiten 
+  * Digitale Identität verwalten
+* **Digital Literacy**        
+  * Surfen, suchen, Daten, Informationen und digitale Inhalte filtern 
+  * Auswertung und Verwaltung von Daten, Informationen und digitalen Inhalten 
+  * Schutz digitaler Geräte und personenbezogener Daten          
+  * Entwicklung, Integration und Überarbeitung digitaler Inhalte 
+  * Umgang mit Urheberrechten und Lizenzen                       
+  * Programmieren, Scripten und Kodieren 
 
 **ProTip:** Das Mozilla [Web Literacy Framework](https://learning.mozilla.org/en-US/web-literacy) bietet Übungen zu Digital Literacy und Fähigkeiten des 21. Jahrhunderts.
 
@@ -100,8 +98,6 @@ Um die einzelnen Methoden zu erlernen, stellt dieser Leitfaden jeweils einen Ler
 Der lernOS for You (4U) Flow ist ein Workflow für die Organisation von Wissensarbeit, der die drei Methoden OKR, GTD und WOL kombiniert und um Ansätze des persönlichen Wissensmanagements (PKM) ergänzt. Er sieht auf den ersten Blick recht unübersichtlich aus, ist aber Schritt für Schritt leicht zu verstehen und anzuwenden. Das Bild ist am besten von links nach rechts zu lesen. Es gibt zwei mögliche Startpunkte (grüne Kreise) und einen Endpunkt (roter Kreis). Mit dem unteren Startpunkt befasst man sich eher mit dem kurzfristigen und operativen Umgang mit Wissen und Lernen. Der obere Startpunkt bildet die langfristige und strategische Perspektive ab. 
 
 ![](./images/lernOS-for-You-Flow.png)
-
-
 
 ### lernOS Sprints: Neues lernen in nur 13 Wochen
 
