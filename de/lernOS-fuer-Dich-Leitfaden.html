@@ -7,12 +7,143 @@
   <meta name="author" content="Simon Dückert" />
   <title>lernOS für Dich Leitfaden</title>
   <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -133,7 +264,7 @@
 </ul>
 <p>Neben dem “Lernen des Lernens” gibt es aber auch inhaltlich viel zu lernen. Wissenschaft und Forschung erzeugen eine hohen Dynamik der “Wissensproduktion” in vielen Bereichen. Das kann mit der Kurve der Halbwertzeit des Wissens dargestellt werden (Bildquelle: Schüppel, Jürgen: Wissensmanagment. Organisatorisches Lernen im Spannungsfeld von Wissens- und Lernbarrieren 1996,S.238). Bleiben Bereiche wie das Schulwissen einigermaßen stabil, ist der Bedarf neues zu Lernen besonders im Technik- und IT-Bereich besonders groß.</p>
 <figure>
-<img src="./images/halbwertzeit-des-wissens.jpg" alt="" /><figcaption>Halbwertszeit des Wissens</figcaption>
+<img src="./images/halbwertzeit-des-wissens.jpg" alt="Halbwertszeit des Wissens" /><figcaption aria-hidden="true">Halbwertszeit des Wissens</figcaption>
 </figure>
 <p>Das bedeutet für die Bürger einer Gesellschaft, dass sie sich auch nach absolvierter Ausbildung durch Schule und Hochschule kontinuierlich weiterbilden sollten, um nicht den Anschluss zu verlieren. Diesen Lernprozess von Geburt bis zum Tod bezeichnet man als lebensbegleitendes oder <a href="https://de.wikipedia.org/wiki/Lebenslanges_Lernen">lebenslanges Lernen</a>. Bis zur ersten Ausbildung kümmern sich in den meisten Fällen Eltern und Staat um das Lernen, danach muss man es für sich <a href="https://de.wikipedia.org/wiki/Selbstorganisation">selbst organisieren</a>.</p>
 <h3 id="wissensarbeit---das-lernen-hört-nach-der-ausbildung-nicht-auf">Wissensarbeit - das Lernen hört nach der Ausbildung nicht auf</h3>
@@ -224,7 +355,7 @@
 <h3 id="lernos-wheel-mindset-skillset-und-toolset">lernOS Wheel: Mindset, Skillset und Toolset</h3>
 <p>Durch die Menge an verfügbarer Literatur, das Internet und soziale Netzwerke haben wir Zugriff auf eine große Menge von Experten, Communities, Tools, Informationen, und Lerninhalte. Ob wir diese nutzen oder nicht, hängt von unserer persönlichen Einstellung zum lebenslangen Lernen ab. Ist es für uns wichtig genug, dass wir uns dafür ausreichend Zeit nehmen? Leider fühlen wir uns oft zu beschäftigt und nehmen uns diese Zeit nicht:</p>
 <figure>
-<img src="images/lernOS-Wheel-People.png" alt="" /><figcaption>lernOS Wheel People</figcaption>
+<img src="images/lernOS-Wheel-People.png" alt="lernOS Wheel People" /><figcaption aria-hidden="true">lernOS Wheel People</figcaption>
 </figure>
 <p>Für den Umstieg von quadratischen auf runde Räder des Lernens braucht es folglich eine ganzheitliche Sicht auf das eigene Lernen, die die eigene Haltung und Werte mit einschließt:</p>
 <ul>
@@ -233,12 +364,12 @@
 <li><strong>Toolset</strong> - Nutze ich zeitgemäße Tools und Methoden in meinen Lernprozessen?</li>
 </ul>
 <figure>
-<img src="images/lernOS-Wheel.png" alt="" /><figcaption>lernOS Wheel</figcaption>
+<img src="images/lernOS-Wheel.png" alt="lernOS Wheel" /><figcaption aria-hidden="true">lernOS Wheel</figcaption>
 </figure>
 <p>Beim <strong>Mindset</strong> sind insbesondere die Haltungen <strong>Growth Mindset</strong> von Carol Dweck und <strong>Open Mindset</strong> von Gary Hamel wichtig.</p>
 <p>Das <strong>Growth Mindset</strong> beschreibt eine Haltung, die prinziell davon ausgeht, dass ich alles lernen kann, was ich mir vornehme. Probleme und Hindernisse spornen mich nur noch mehr an. Fehler sehe ich als Chance zum Lernen und nicht als Scheitern. Das Gegenteil des Growth Mindsets ist das Fixed Mindset.</p>
 <figure>
-<img src="./images/growth-mindset.png" alt="" /><figcaption>Quelle: https://www.thebeone.com/post/fixed-vs-growth-mindset</figcaption>
+<img src="./images/growth-mindset.png" alt="Quelle: https://www.thebeone.com/post/fixed-vs-growth-mindset" /><figcaption aria-hidden="true">Quelle: https://www.thebeone.com/post/fixed-vs-growth-mindset</figcaption>
 </figure>
 <p><strong>ProTip:</strong> Schaue dir das Video <a href="https://www.youtube.com/watch?v=hiiEeMN7vbQ">Developing a Growth Mindset</a> von Carol Dweck an, um mehr darüber zu erfahren.</p>
 <p>In seinem Buch Humanocracy stellt Gary Hamel das <strong>Open Mindset</strong> dem Closed Mindset gegenüber. Ein Mensch mit einem geschlossenen Mindset ist gefangen in seinen Paradigmen und Vorannahmen. Neue Erkenntnisse werden nicht wahrgenommen, ignoriert oder aktiv abgelehnt. Ein Open Mindset dagegen ist nach Hamel durch vier Verhaltensweisen gekennzeichnet (Buch Humanocracy):</p>
@@ -251,7 +382,7 @@
 <p><strong>Skillset: Deine Fähigkeiten</strong></p>
 <p>Seit den 1980er Jahren sind Fähigkeiten, wie das Lösen von Problemen und der Austausch mit anderen, für den eigenen Erfolg am wichtigsten. Dazu gehören insbesondere Fähigkeiten, die in Zukunft nicht einfach durch Automatisierung und künstliche Intelligenz ersetzt werden können. Um fit für das 21. Jahrhundert zu werden, solltest du folgende fünf Fähigkeitsbereiche trainieren (<a href="http://www.p21.org/our-work/p21-framework">Framework for 21st Century Learning</a>, <a href="https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use">DigiComp 2.1 Framework</a>):</p>
 <figure>
-<img src="images/lernOS-Skillset.png" alt="" /><figcaption>lernOS Skillset</figcaption>
+<img src="images/lernOS-Skillset.png" alt="lernOS Skillset" /><figcaption aria-hidden="true">lernOS Skillset</figcaption>
 </figure>
 <p>Du kannst die folgende Tabelle für eine Selbsteinschätzung am Anfang eines Learning Sprints nutzen. Wir nutzen die Stufen 1-5 aus dem <a href="https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition">Dreyfus Model of Skill Acquisition</a> (1 = Novize, 2 = Fortgeschrittener Anfänger, 3 = Kompetent, 4 = Profi, 5 = Experte). Trage deine aktuelle Stufe in die Spalte “Ist” und deine angestrebte Stufe in die Spalte “Soll”. Auf der Basis kannst du den Fokus für deine Lernaktivitäten bestimmen.</p>
 <table>
@@ -434,14 +565,14 @@
 </ol>
 <p>Um die einzelnen Methoden zu erlernen, stellt dieser Leitfaden jeweils einen Lernpfad mit Aufgaben und Übungen zur Verfügung. Mit welchen der Lernpfade du beginnst, hängt an deinen Bedürfnissen. Bist du auf der Suche nach Purpose und dem richtigen Ziel, beginne mit dem OKR Lernpfad. Hast du mit Informationsflut und Aufgabenvielfalt zu kämpfen, dann ist der GTD Lernpfad der richtige für dich. Hast du das Gefühl, das Rad ständig neu zu erfinden und nicht auf das kollektive Wissen der Welt zugreifen zu können? Dann beginne mit dem WOL Lernpfad.</p>
 <figure>
-<img src="./images/lernOS-Lernpfade.png" alt="" /><figcaption>lernOS Lernpfade für Einsteiger*innen</figcaption>
+<img src="./images/lernOS-Lernpfade.png" alt="lernOS Lernpfade für Einsteiger*innen" /><figcaption aria-hidden="true">lernOS Lernpfade für Einsteiger*innen</figcaption>
 </figure>
 <p>Der lernOS for You (4U) Flow ist ein Workflow für die Organisation von Wissensarbeit, der die drei Methoden OKR, GTD und WOL kombiniert und um Ansätze des persönlichen Wissensmanagements (PKM) ergänzt. Er sieht auf den ersten Blick recht unübersichtlich aus, ist aber Schritt für Schritt leicht zu verstehen und anzuwenden. Das Bild ist am besten von links nach rechts zu lesen. Es gibt zwei mögliche Startpunkte (grüne Kreise) und einen Endpunkt (roter Kreis). Mit dem unteren Startpunkt befasst man sich eher mit dem kurzfristigen und operativen Umgang mit Wissen und Lernen. Der obere Startpunkt bildet die langfristige und strategische Perspektive ab.</p>
 <p><img src="./images/lernOS-for-You-Flow.png" /></p>
 <h3 id="lernos-sprints-neues-lernen-in-nur-13-wochen">lernOS Sprints: Neues lernen in nur 13 Wochen</h3>
 <p>lernOS wird in Zeiträumen von 13 Wochen, die wie bei <a href="https://scrumguides.org">Scrum</a> Learning Sprints genannt werden, praktiziert. Normalerweise laufen die Sprints jeweils in einem Quartal des Jahres. Der Rhythmus kann bei Bedarf angepasst werden. Ein Sprint kann alleine (lernOS Solist), zu zweit (lernOS Tandem) oder in einer Gruppe von 4-5 Personen (lernOS Circle) durchlaufen werden.</p>
 <figure>
-<img src="images/lernOS-Sprint.png" alt="" /><figcaption>lernOS Sprint</figcaption>
+<img src="images/lernOS-Sprint.png" alt="lernOS Sprint" /><figcaption aria-hidden="true">lernOS Sprint</figcaption>
 </figure>
 <p>So läuft ein lernOS Sprint ab:</p>
 <ul>
@@ -453,7 +584,7 @@
 <p><strong>Besser alleine oder gemeinsam Lernen?</strong></p>
 <p>Wenn du lernOS nicht alleine praktizieren möchtest, kannst du Dich in einer Gruppe von 4-5 Personen, die Learning Circle genannt wird, zusammenschließen. Ein Circle ist eine <a href="https://en.wikipedia.org/wiki/Peer_support">Peer Support</a> Gruppe, in der sich die Mitglieder gegenseitig mit Feedback, Erfahrung, Wissen und Reflexion helfen. Der Circle ist ein “Kreis des Vertrauens”: was im Circle passiert, bleibt im Circle! Die Circle-Mitglieder treffen sich wöchentlich und folgen dabei einem vorgegebenen Ablauf, der den Lern- und Entwicklungsprozess strukturiert.</p>
 <figure>
-<img src="images/lernOS-Circle.png" alt="" /><figcaption>Learning Circle</figcaption>
+<img src="images/lernOS-Circle.png" alt="Learning Circle" /><figcaption aria-hidden="true">Learning Circle</figcaption>
 </figure>
 <p>Einmal pro Woche trifft sich der Learning Circle. Jedes Treffen folgt einem vorgegebenen Ablauf (siehe Anhang) mit einem Check-in, Übungen (Katas) und einem Check-out. Der Zeitraum für das Weekly kann an die Bedürfnisse der Circle-Mitglieder angepasst werden. Der vorgeschlagene Zeitraum ist Freitag zwischen 11-12 Uhr.</p>
 <p><strong>ProTip:</strong> Kata ist anderes Wort für Übung. Es kommt aus dem Bereich des Erlernens von Programmier-Fähigkeiten im Peer-Learning-Format. Lies mehr über dieses Format unter <a href="http://codekata.com">codekata.com</a>.</p>
@@ -498,7 +629,7 @@
 <p>Ein Canvas ist eine visuelle Struktur, die für die strukturierte Bearbeitung mehrere Bereiche parallel verwendet werden kann. Auf diese Weise verwendet man einen Canvas als visuelle Checkliste. Er kann aber auch für das Erzählen komplexer Geschichten verwendet werden. Die Idee kam ursprünglich von Alex Osterwalder, der den <a href="https://en.wikipedia.org/wiki/Business_Model_Canvas">Business Model Canvas</a> entwickelt hat. Der lernOS Canvas verwendet die gleiche Grundstruktur wie der Business Model Canvas. Doch die Benennungen der Bereiche wurden geändert, um die Arbeitsthemen von lernOS abzudecken.</p>
 <p>Der lernOS Canvas kann von der <a href="https://lernos.org">lernOS Webseite</a> in verschiedenen Formaten heruntergeladen (z.B. PowerPoint, PDF, PNG) werden. Um mit dem Canvas flexibel arbeiten zu können, solltest du nie darauf schreiben. Aus diesem Grund wurden Haftnotizen erfunden!</p>
 <figure>
-<img src="images/lernOS-Canvas-de.png" alt="" /><figcaption>lernOS Canvas</figcaption>
+<img src="images/lernOS-Canvas-de.png" alt="lernOS Canvas" /><figcaption aria-hidden="true">lernOS Canvas</figcaption>
 </figure>
 <p>Der obere Teil des Canvas enthält Motivations- oder Mission Statement (wenn du eines hast) und Nummer oder Datum des Sprints. Im Bereich “Meine Ziele &amp; Schlüsselergebnisse” werden die Ziele für den aktuellen Sprint dokumentiert. Die Bereiche “Meine Rollen”, “Meine Aktivitäten”, “Meine Projekte” und “Mein Wissen &amp; Meine Fähigkeiten” können genutzt werden, um mögliche Ziele zu identifizieren. Die Bereiche “Meine Beziehungen” und “Meine Sozialen Netzwerke” werden zur Identifikation von Personen verwendet, die bei der Zielerreichung unterstützen können. Vorhandene Ressourcen (z.B. Dokumente, Checklisten, Videos etc.) werden in “Meine WissensWerte” aufgeführt. Die bei “Meine Ablageorte” aufgeführten Ablagen werden genutzt, um wertvolle Ressourcen großzügig mit dem Netzwerk zu teilen.</p>
 <h3 id="circle-moderations-checkliste">Circle Moderations-Checkliste</h3>
@@ -636,7 +767,7 @@
 <p><strong>Übung (25 Minuten):</strong></p>
 <p>Was willst du in den nächsten zwölf Wochen erreichen? Wähle ein Ziel, das Dich wirklich, wirklich wichtig ist und bei dem du im Sprint Fortschritte machen kannst. du wirst die die OKR-Methode von Google verwenden, um dieses Ziel zu definieren. Für den NOOB Pfad ist es nicht erste Priorität, das Ziel zu erreichen. Im Fokus steht zu lernen, wie du mit Hilfe eines offenen Arbeitsstils und der Entwicklung eines Netzwerks Ziele einfacher erreichst.</p>
 <figure>
-<img src="images/lernOS-Kata-Meine-Ziele.png" alt="" /><figcaption>Meine Ziele für die nächsten 12 Wochen</figcaption>
+<img src="images/lernOS-Kata-Meine-Ziele.png" alt="Meine Ziele für die nächsten 12 Wochen" /><figcaption aria-hidden="true">Meine Ziele für die nächsten 12 Wochen</figcaption>
 </figure>
 <p>Wähle ein Ziel für die nächsten 12 Wochen. Verwende folgende Testfragen, um ein geeignetes Ziel für den WOL-Lernpfad zu finden:</p>
 <ul>
