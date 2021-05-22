@@ -4,7 +4,7 @@ Beim Begriff des modernen Lern- und Arbeitsortest denken viele sofort an den "Di
 
 > A fool with a tool is still a fool (Ron Weinstein)
 
-### Mindset, Skillset & Toolset statt nur Toolset
+### Mindset, Skillset & Toolset
 
 Wenn du an die Gestaltung der eigenen Lernumgebung oder des eigenen Wissenarbeitsplatzes gehst ist vielmehr eine ausgewogene Betrachtung von drei Bereichen wichtig:
 

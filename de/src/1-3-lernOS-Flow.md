@@ -6,7 +6,7 @@ Der lernOS Flow setzt deswegen auf 13-wöchige Zyklen, die in Anlehnung an [Scru
 
 ![lernOS Sprint](images/lernOS-Sprint.png)
 
-Der lernOS Flow ist ein Arbeitsablauf, den Wissensarbeiter_innen und Lebenslang Lernende für ihr Selbstorganisation verwenden können. Hierfür wird auf drei Praxis-erprobte Methoden zurückgegriffen: 
+Der lernOS Flow ist ein Arbeitsablauf, den Wissensarbeiter_innen und Lebenslang Lernende für ihr Selbstorganisation verwenden können. Hierfür wird auf Praxis-erprobte Methoden und Ansätze zurückgegriffen: 
 
 1. **Objektives & Key Results (OKR)** für zielgerichtetes und fokussiertes Arbeiten und Lernen durch die Definition von Lernzielen und gewünschten Ergebnissen (s.a. [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) bei Google).
 2. **Getting Things Done (GTD)** für produktives und stressfreies Arbeiten und Lernen, indem die Selbstorganisation durch einen 5-Schritte-Prozess strukturiert wird (s.a. [GTD](https://gettingthingsdone.com) von David Allen).

@@ -1,4 +1,4 @@
-## Wissensarbeit und Lebenslanges Lernen
+## Lebenslanges Lernen und Wissensarbeit
 
 Wir befinden uns gerade im sehr dynamischen Übergang von Industrie- zur [Wissensgesellschaft](https://de.wikipedia.org/wiki/Wissensgesellschaft), die dadurch gekennzeichnet ist, dass Regeln und Normen durch Lernprozesse kontinuierlich in Frage gestellt werden (s.a. [Merkmale der Wissensgesellschaft](https://www.researchgate.net/publication/283061140_Merkmale_der_Wissensgesellschaft)). Als Einzelpersonen können wir in dieser Gesellschaft durch Lernen erfolgreich sein und zum Wohlergehen aller beitragen.
 

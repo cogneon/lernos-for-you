@@ -1,8 +1,8 @@
-## GTD Lernpfad
+## Lernpfad Produktivität & Stressfreiheit
 
 Sich selbst und seine Arbeitsweise zu organisieren und zu optimieren kann sehr motivierend sein. Viele Menschen stehen heute vor dem Problem, im Hamsterrad der Tages- und Routinetätigkeiten zu versinken und keine Zeit für wertschöpfende Dinge zu haben, geschweigen denn sich Gedanken darüber zu machen, wohin sie sich mittel- bis langfristig entwickeln wollen. 
 
-Alle Elemente von GTD werden schon lange erfolgreich eingesetzt. David Allen hat einige dieser Methoden so zusammengestellt und kombiniert, das die Wirkung größer ist als die Summe seiner Teile.
+Der Lernpfad setzt auf der Idee von Getting Things Done (GTD) von David Allen auf, die schon lange erfolgreich eingesetzt wird. David Allen hat einige dieser Methoden so zusammengestellt und kombiniert, das die Wirkung größer ist als die Summe seiner Teile.
 
 GTD ist eine Möglichkeit sich in unserer VUCA-Welt die Freiräume zu schaffen, um uns fit für die Zukunft zu machen. 
 

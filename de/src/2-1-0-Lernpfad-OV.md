@@ -1,8 +1,8 @@
-## WOL Lernpfad
+## Lernpfad Offenheit & Vernetzung
 
-Sein Wissen mit anderen offen zu teilen und von dem Wissen anderer zu profitieren hilft, dass nicht alle das Rad immer wieder neu erfinden müssen. Gemäß der [Working Out Loud Methode](https://workingoutloud.com/en/circle-guides) von John Stepper kannst du, lernen
+Sein Wissen mit anderen offen zu teilen und von dem Wissen anderer zu profitieren hilft, dass nicht alle das Rad immer wieder neu erfinden müssen. In diesem Lernpfad wirst du
 
-1. Dir ein eigenes Lernziel für den Sprint zu stecken.
+1. Dir ein eigenes Lernziel für den Sprint stecken.
 2. Menschen und Communities identifizieren, die mit deinem Ziel zu tun haben.
 3. Beiträge veröffentlichen und Wertschätzung zeigen, um dir systematisch und zielorientiert ein Netzwerk aufzubauen.
 4. Die Unterstützung deines neuen Netzwerks nutzen, um deine Ziele schneller und einfacher zu erreichen.
