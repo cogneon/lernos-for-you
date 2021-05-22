@@ -15,7 +15,7 @@ Mit dem [Delors Report](https://en.wikipedia.org/wiki/Delors_Report) wurde 1996 
 
 Es gibt aber auch ganz praktische Gründe, die lebenslanges Lernen für dich notwendig machen. Wie man an der Grafik der [Halbwertzeit des Wissens](http://www.online-lehrbuch-bwl.de/lehrbuch/kap3/oe_le/oe_le.pdf) erkennen kann verlieren einige Wissensarten schnell an Aktualität und machen ständiges Lernen erforderlich. Bleiben Bereiche wie das Schulwissen einigermaßen stabil, ist der Bedarf neues zu Lernen besonders im Technik- und IT-Bereich besonders groß.
 
-![Halbwertszeit des Wissens](./images/halbwertzeit-des-wissens.jpg)
+![Halbwertszeit des Wissens (aus Schüppel, J.: Wissensmanagment. Organisatorisches Lernen im Spannungsfeld von Wissens- und Lernbarrieren, eigene Darstellung)](./images/halbwertzeit-des-wissens.png)
 
 Das bedeutet für die Bürger einer Gesellschaft, dass sie sich auch nach absolvierter Ausbildung durch Schule und Hochschule kontinuierlich weiterbilden sollten, um nicht den Anschluss zu verlieren. Diesen Lernprozess von Geburt bis zum Tod bezeichnet man als lebensbegleitendes oder [lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen). Bis zur ersten Ausbildung kümmern sich in den meisten Fällen Eltern und Staat um das Lernen, danach muss man es für sich [selbst organisieren](https://de.wikipedia.org/wiki/Selbstorganisation).
 

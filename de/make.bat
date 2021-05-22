@@ -6,7 +6,7 @@ REM See lernOS Core Repository
 
 REM Variables
 set filename="lernOS-fuer-Dich-Leitfaden"
-set chapters=./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Wissensarbeit-und-Lebenslanges-Lernen.md ./src/1-2-lernOS-Canvas.md ./src/1-3-lernOS-Flow.md ./src/1-4-lernOS-Workplace.md ./src/2-0-Lernpfade.md ./src/2-1-0-Lernpfad-WOL.md ./src/2-1-1-Kata-1.md ./src/2-1-2-Kata-2.md ./src/2-1-3-Kata-3.md ./src/2-1-4-Kata-4.md ./src/2-1-5-Kata-5.md ./src/2-1-6-Kata-6.md ./src/2-1-7-Kata-7.md ./src/2-1-8-Kata-8.md ./src/2-1-9-Kata-9.md ./src/2-1-10-Kata-10.md ./src/2-1-11-Kata-11.md ./src/2-2-0-Lernpfad-OKR.md ./src/2-2-1-Kata-1.md ./src/2-2-2-Kata-2.md ./src/2-2-3-Kata-3.md ./src/2-2-4-Kata-4.md ./src/2-2-5-Kata-5.md ./src/2-2-6-Kata-6.md ./src/2-2-7-Kata-7.md ./src/2-2-8-Kata-8.md ./src/2-2-9-Kata-9.md ./src/2-2-10-Kata-10.md ./src/2-2-11-Kata-11.md ./src/2-3-0-Lernpfad-GTD.md ./src/2-3-1-Kata-1.md ./src/2-3-2-Kata-2.md ./src/2-3-3-Kata-3.md ./src/2-3-4-Kata-4.md ./src/2-3-5-Kata-5.md ./src/2-3-6-Kata-6.md ./src/2-3-7-Kata-7.md ./src/2-3-8-Kata-8.md ./src/2-3-9-Kata-9.md ./src/2-3-10-Kata-10.md ./src/2-3-11-Kata-11.md ./src/3-Anhang.md
+set chapters=./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Lebenslanges-Lernen-und-Wissensarbeit.md ./src/1-2-lernOS-Canvas.md ./src/1-3-lernOS-Flow.md ./src/1-4-lernOS-Workplace.md ./src/2-0-Lernpfade.md ./src/2-1-0-Lernpfad-WOL.md ./src/2-1-1-Kata-1.md ./src/2-1-2-Kata-2.md ./src/2-1-3-Kata-3.md ./src/2-1-4-Kata-4.md ./src/2-1-5-Kata-5.md ./src/2-1-6-Kata-6.md ./src/2-1-7-Kata-7.md ./src/2-1-8-Kata-8.md ./src/2-1-9-Kata-9.md ./src/2-1-10-Kata-10.md ./src/2-1-11-Kata-11.md ./src/2-2-0-Lernpfad-OKR.md ./src/2-2-1-Kata-1.md ./src/2-2-2-Kata-2.md ./src/2-2-3-Kata-3.md ./src/2-2-4-Kata-4.md ./src/2-2-5-Kata-5.md ./src/2-2-6-Kata-6.md ./src/2-2-7-Kata-7.md ./src/2-2-8-Kata-8.md ./src/2-2-9-Kata-9.md ./src/2-2-10-Kata-10.md ./src/2-2-11-Kata-11.md ./src/2-3-0-Lernpfad-GTD.md ./src/2-3-1-Kata-1.md ./src/2-3-2-Kata-2.md ./src/2-3-3-Kata-3.md ./src/2-3-4-Kata-4.md ./src/2-3-5-Kata-5.md ./src/2-3-6-Kata-6.md ./src/2-3-7-Kata-7.md ./src/2-3-8-Kata-8.md ./src/2-3-9-Kata-9.md ./src/2-3-10-Kata-10.md ./src/2-3-11-Kata-11.md ./src/3-Anhang.md
 
 REM Delete Old Versions
 echo Deleting old versions ...
@@ -26,7 +26,7 @@ mkdocs build
 
 REM Create PDF Version (pdf)
 echo Creating PDF version ...
-pandoc metadata.yaml --from markdown --resource-path="./src" --template lernOS --number-sections -V lang=de-de %chapters% -o %filename%.pdf 
+pandoc metadata.yaml --from markdown --resource-path="./src" --template lernOS --number-sections -V lang=de-de %chapters% -o %filename%.pdf
 
 REM Create eBook Versions (epub, mobi)
 echo Creating eBook versions ...
@@ -37,6 +37,6 @@ pandoc metadata.yaml -s --resource-path="./src" --epub-cover-image=src/images/eb
 ebook-convert %filename%.epub %filename%.mobi
 
 
-echo Done. Check for error messages or warnings above. 
+echo Done. Check for error messages or warnings above.
 
 pause
