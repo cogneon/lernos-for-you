@@ -4,6 +4,12 @@ Ein lernOS Lernpfad ist eine Zusammenstellung von Übungen (Katas), mit denen du
 
 **ProTip:** für einen Sprint sollte nur einer der drei Lernpfade gewählt werden. Alle drei Lernpfade können in aufeinanderfolgenden Sprints durchlaufen werden. Tandems und Circles sollten Lernpfade nicht mischen, da ihr sonst im Weekly nicht von den Erfahrungen der anderen profitieren könnt.
 
+Kopiert:
+
+Um die einzelnen Methoden zu erlernen, stellt dieser Leitfaden jeweils einen Lernpfad mit Aufgaben und Übungen zur Verfügung. Mit welchen der Lernpfade du beginnst, hängt an deinen Bedürfnissen. Bist du auf der Suche nach Purpose und dem richtigen Ziel, beginne mit dem OKR Lernpfad. Hast du mit Informationsflut und Aufgabenvielfalt zu kämpfen, dann ist der GTD Lernpfad der richtige für dich. Hast du das Gefühl, das Rad ständig neu zu erfinden und nicht auf das kollektive Wissen der Welt zugreifen zu können? Dann beginne mit dem WOL Lernpfad.
+
+![lernOS Lernpfade für Einsteiger*innen](C:\Users\SimonDückert\OneDrive - Cogneon GmbH\Dokumente\GitHub\lernos-for-you\de\src\images\lernOS-Lernpfade.png)
+
 ## Woche 0
 
 Die Woche 0 ist die Woche, bevor es mit den Übungen im Lernpfad so richtig los geht. Nach Abschluss der Woche 0 sollten folgende Dinge festgelegt sein:
@@ -32,20 +38,6 @@ Diese Kata basiert auf der Methode [The Future, Backwards](https://cognitive-edg
 4. Beschreibe deine Vision in 3-5 kurzen Sätzen (5 Minuten)
 5. Beschreibe deine Anti-Vision in 3-5 kurzen Sätzen (5 Minuten)
 6. Beschreibe die 3-5 Schlüssel-Aktivitäten oder -Projekte, die deine Vision Wirklichkeit werden lässt und die Anti-Vision verhindert (5 Minuten)
-
-### Visuell denken mit dem lernOS Canvas (Kata)
-
-Ein Canvas ist eine visuelle Struktur, die für die strukturierte Bearbeitung mehrere Bereiche parallel verwendet werden kann. Auf diese Weise verwendet man einen Canvas als visuelle Checkliste. Er kann aber auch für das Erzählen komplexer Geschichten verwendet werden. Die Idee kam ursprünglich von Alex
-Osterwalder, der den [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) entwickelt hat. Der lernOS Canvas verwendet die gleiche Grundstruktur wie der Business Model Canvas. Doch die Benennungen der Bereiche wurden geändert, um
-die Arbeitsthemen von lernOS abzudecken.
-
-Der lernOS Canvas kann von der [lernOS Webseite](https://lernos.org) in verschiedenen Formaten heruntergeladen (z.B. PowerPoint, PDF, PNG) werden. Um mit dem Canvas flexibel arbeiten zu können, solltest du nie darauf schreiben. Aus diesem Grund wurden Haftnotizen erfunden!
-
-![lernOS Canvas](images/lernOS-Canvas-de.png)
-
-Der obere Teil des Canvas enthält Motivations- oder Mission Statement (wenn du eines hast) und Nummer oder Datum des Sprints. Im Bereich "Meine Ziele & Schlüsselergebnisse" werden die Ziele für den aktuellen Sprint dokumentiert. Die Bereiche "Meine Rollen", "Meine Aktivitäten", "Meine Projekte" und "Mein Wissen & Meine Fähigkeiten" können genutzt werden, um mögliche Ziele zu identifizieren. Die Bereiche "Meine
-Beziehungen" und "Meine Sozialen Netzwerke" werden zur Identifikation von Personen verwendet,
- die bei der Zielerreichung unterstützen können. Vorhandene Ressourcen (z.B. Dokumente, Checklisten, Videos etc.) werden in "Meine WissensWerte" aufgeführt. Die bei "Meine Ablageorte" aufgeführten Ablagen werden genutzt, um wertvolle Ressourcen großzügig mit dem Netzwerk zu teilen.
 
 ### Circle Moderations-Checkliste
 Beim Lernen im Circle hilft Circle-Moderations-Checkliste den Moderator*innen, den Circle strukturiert zu organisieren. Ihr könnt euch in Woche 0 entscheiden, ob eine Person die Koordination über den ganzen Sprint übernimmt, oder ob ihr die Rolle rotieren lassen wollt. Kopiert euch die Checkliste am besten an einen Ort, an dem alle Mitglieder des Circles Zugriff darauf haben (z.B. OneNote, Etherpad, OneDrive, Dropbox).
