@@ -1,4 +1,4 @@
-## lernOS Workplace - Deine Lernumgebung und dein Wissensarbeitsplatz
+## lernOS Workplace und Memel
 
 Beim Begriff des modernen Lern- und Arbeitsortest denken viele sofort an den "Digitalen Arbeitsplatz" oder das "Digitale Klassenzimmer" mit ihren vielen digitalen Tools. Deswegen sei diesem Kapitel folgendes Zitat vorangestellt:
 
