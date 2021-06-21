@@ -1,13 +1,19 @@
-## OKR Lernpfad
+## Lernpfad Zielorientierung & Fokussierung
 
-Sich selbst ambitionierte Ziele (Objectives) zu stecken und greifbare Ergebnisse (Key Results) zu definieren, kann sehr motivierend sein. Viele Menschen haben eine lange Man-Müsste-Mal-Liste, gehen dieses Ziele aber nicht richtig an. Je länger die Liste, desto größer die Hürde etwas anzupacken. Google verwendet daher die einfache Methode Objectives & Key Results (OKR) bei der die Ziele der nächsten drei Monate [nach folgenden Kriterien](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) definiert werden:
+In dem Lernpfad Zielorientierung & Fokussierung (ehem. OKR Lernpfad) lernst du, dir selbst ambitionierte Ziele (Objectives) zu stecken und greifbare Ergebnisse (Key Results) zu definieren. Viele Menschen haben eine lange Man-Müsste-Mal-Liste, gehen dieses Ziele aber nicht an. Je länger die Liste, desto größer die Hürde etwas anzupacken.
 
-* Objectives sind anspruchsvoll und können sich etwas unbequem anfühlen.
-* Key Results sind auf einer Skala von 0 - 1,0 messbar (oder 0-100%).
-* OKRs sind transparent, so dass jeder sehen kann, woran andere arbeiten.
+Das Unternehmen Google verwendet dafür die Methode Objectives & Key Results (OKR) bei der die Ziele der nächsten drei Monate [nach folgenden Kriterien](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) definiert werden:
+
+* Ziele (Objectives) sind anspruchsvoll und können sich etwas unbequem anfühlen.
+* Schlüsselergebnisse (Key Results) sind auf einer Skala von 0 - 1 messbar.
+* Die Kombination aus Zielen und Schlüsselergebnissen (OKRs) sind transparent, so dass jeder sehen kann, woran ich gerade arbeite.
 * Der optimale Grad der Zielerreichung ist 60-70%. Wenn du deine Ziele immer zu 100% erreichst, sind deine OKRs nicht ambitioniert genug und du solltest dir höhere Ziele stecken.
-* Ein niedriger Grad der Zielerreichung sollte als Lernchance für die nächsten OKRs angesehen werden.
-* In Unternehmen dienen OKRs NICHT(!) zur Leistungsbeurteilung.
+* Ein niedrigerer Grad der Zielerreichung sollte als Lernchance für die nächsten OKRs angesehen werden.
+* In Organisationen dienen OKRs NICHT(!) zur Leistungsbeurteilung.
 * OKRs sind keine geteilte Aufgabenliste.
 
-Mit den folgenden Katas, kannst du OKRs für das Stecken eigener Ziele in einem Sprint erlernen. Dabei ist es egal, ob du in einer Organisation oder einem Unternehmen bist, das bereits OKR einsetzt oder ob du OKRs einfach für dich selber nutzen magst.
+Alle drei Monate (lernOS Sprint) steckst du dir neue Ziele, planst deren Erreichung (Planning) überprüfst den Fortschritt wöchentlich (Weeklys) und reflektierst regelmäßig (Review & Retrospektive). Mindestens einmal im Jahr arbeitest du an deinem Zweck (Purpose), deiner Vision und dem mittelfristigen oder strategischen Zielen (Moals, midterm goals).
+
+![Der OKR-Zyklus in einem lernOS Sprint (Quelle: [Der OKR-Guide](https://www.die-agilen.de/fileadmin/downloads/okr-guide-free.pdf), eigene Darstellung)](./images/lernOS-OKR-zyklus.png)
+
+Mit den folgenden Katas kannst du OKRs für das Stecken eigener Ziele in einem Sprint erlernen. Dabei ist es egal, ob du in einer Organisation oder einem Unternehmen bist, das bereits OKR einsetzt oder ob du OKRs einfach für dich selber nutzen magst.

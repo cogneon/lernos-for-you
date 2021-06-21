@@ -1,4 +1,4 @@
-## WOL Lernpfad
+## Lernpfad Offenheit & Vernetzung
 
 Sein Wissen mit anderen offen zu teilen und von dem Wissen anderer zu profitieren hilft, dass nicht alle das Rad immer wieder neu erfinden müssen. Gemäß der [Working Out Loud Methode](https://workingoutloud.com/en/circle-guides) von John Stepper kannst du, lernen
 

@@ -10,7 +10,7 @@ Um die einzelnen Methoden zu erlernen, stellt dieser Leitfaden jeweils einen Ler
 
 ![lernOS Lernpfade für Einsteiger*innen](C:\Users\SimonDückert\OneDrive - Cogneon GmbH\Dokumente\GitHub\lernos-for-you\de\src\images\lernOS-Lernpfade.png)
 
-## Woche 0
+### Woche 0
 
 Die Woche 0 ist die Woche, bevor es mit den Übungen im Lernpfad so richtig los geht. Nach Abschluss der Woche 0 sollten folgende Dinge festgelegt sein:
 

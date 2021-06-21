@@ -18,4 +18,3 @@ Und das Beste ist: lernOS ist frei, offen und leicht zu verstehen. Starte heute 
 Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem **Circle** (4-5 Personen) oder zumindest in einem **Lerntandem** (2 Personen) zu starten. Weitere Informationen findest du auf der Seite [lernos.org](http://lernos.org). Mitstreiter findest du ganz einfach in der [lernOS Community CONNECT](https://community.cogneon.de). Dort gibt es auch den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/) als Marktplatz für Circle-Angebote und -Gesuche.
 
 **KEEP CALM & LEARN ON!**
-
