@@ -1,14 +1,14 @@
 # Lernpfad
 
-Ein lernOS Lernpfad ist eine Zusammenstellung von Übungen (Katas), mit denen du neue Fähigkeiten erlernst und im Lauf der Zeit eine neue Haltung entwickelst. Ein Lernpfad kann innerhalb eines lernOS Sprints durchlaufen werden. lernOS Einsteiger*innen (NOOBs) können zum Start aus einem  drei Lernpfaden OKR, GTD und WOL wählen.
+Ein lernOS Lernpfad ist eine Zusammenstellung von Übungen (Katas), mit denen du neue Fähigkeiten erlernst und im Lauf der Zeit eine neue Haltung entwickelst. Ein Lernpfad kann innerhalb eines lernOS Sprints durchlaufen werden. lernOS Einsteiger*innen (NOOBs) können zum Start aus einem  drei Lernpfaden "Zielorientierung & Vernetzung", "Produktivität & Stressfreiheit" sowie "Offenheit & Vernetzung" wählen.
 
 **ProTip:** für einen Sprint sollte nur einer der drei Lernpfade gewählt werden. Alle drei Lernpfade können in aufeinanderfolgenden Sprints durchlaufen werden. Tandems und Circles sollten Lernpfade nicht mischen, da ihr sonst im Weekly nicht von den Erfahrungen der anderen profitieren könnt.
 
 Kopiert:
 
-Um die einzelnen Methoden zu erlernen, stellt dieser Leitfaden jeweils einen Lernpfad mit Aufgaben und Übungen zur Verfügung. Mit welchen der Lernpfade du beginnst, hängt an deinen Bedürfnissen. Bist du auf der Suche nach Purpose und dem richtigen Ziel, beginne mit dem OKR Lernpfad. Hast du mit Informationsflut und Aufgabenvielfalt zu kämpfen, dann ist der GTD Lernpfad der richtige für dich. Hast du das Gefühl, das Rad ständig neu zu erfinden und nicht auf das kollektive Wissen der Welt zugreifen zu können? Dann beginne mit dem WOL Lernpfad.
+Um die einzelnen Methoden zu erlernen, stellt dieser Leitfaden jeweils einen Lernpfad mit Aufgaben und Übungen zur Verfügung. Mit welchen der Lernpfade du beginnst, hängt an deinen Bedürfnissen. Bist du auf der Suche nach Purpose und dem richtigen Ziel, beginne mit dem Lernpfad Zielorientierung & Fokussierung. Hast du mit Informationsflut und Aufgabenvielfalt zu kämpfen, dann ist der Lernpfad Produktivität & Stressfreiheit der richtige für dich. Hast du das Gefühl, das Rad ständig neu zu erfinden und nicht auf das kollektive Wissen der Welt zugreifen zu können? Dann beginne mit dem Lernpfad Offenheit & Vernetzung.
 
-![lernOS Lernpfade für Einsteiger*innen](C:\Users\SimonDückert\OneDrive - Cogneon GmbH\Dokumente\GitHub\lernos-for-you\de\src\images\lernOS-Lernpfade.png)
+![lernOS Lernpfade für Einsteiger*innen](./images/lernOS-Lernpfade.png)
 
 ### Woche 0
 
