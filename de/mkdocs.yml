@@ -7,7 +7,7 @@ nav:
     - Willkommen: index.md
     - Grundlagen:
         - Überblick: 1-0-Grundlagen.md
-        - Wissensarbeit und Lebenslanges Lernen: 1-1-Wissensarbeit-und-Lebenslanges-Lernen.md
+        - Wissensarbeit und Lebenslanges Lernen: 1-1-Lebenslanges-Lernen-und-Wissensarbeit.md
         - lernOS Canvas: 1-2-lernOS-Canvas.md
         - lernOS Flow: 1-3-lernOS-Flow.md
         - lernOS Workplace: 1-4-lernOS-Workplace.md
@@ -15,7 +15,7 @@ nav:
     - Lernpfade:
         - Überblick: 2-0-Lernpfade.md
         - Lernpfad Produktivität & Stressfreiheit:
-            - Überblick: 2-1-0-Lernpfad-GTD.md
+            - Überblick: 2-1-0-Lernpfad-PS.md
             - Mach Dich mit den Grundlagen vertraut (Kata): 2-1-1-Kata-1.md
             - Sammeln - Mind-Sweep (Kata): 2-1-2-Kata-2.md
             - Verarbeiten - Die 2 Minuten Regel (Kata): 2-1-3-Kata-3.md
@@ -28,7 +28,7 @@ nav:
             - Das 6-Horizonte-Modell (Kata): 2-1-10-Kata-10.md
             - Kontinuierliche Verbesserung - Der Weg zur Meisterschaft (Kata): 2-1-11-Kata-11.md
         - Lernpfad Zielorientierung & Fokussierung:
-            - Überblick: 2-2-0-Lernpfad-OKR.md
+            - Überblick: 2-2-0-Lernpfad-ZF.md
             - Top 10 Quellen zu OKRs (Kata): 2-2-1-Kata-1.md
             - Richte deine OKR-Umgebung ein (Kata): 2-2-2-Kata-2.md
             - Definiere OKRs für deinen Sprint (Kata): 2-2-3-Kata-3.md
@@ -41,7 +41,7 @@ nav:
             - Individual vs. Team/Organizational OKRs (Kata): 2-2-10-Kata-10.md
             - OKR Review (Kata): 2-2-11-Kata-11.md
         - Lernpfad Offenheit & Vernetzung:
-            - Überblick: 2-3-0-Lernpfad-WOL.md
+            - Überblick: 2-3-0-Lernpfad-OV.md
             - Lege dein Ziel für die nächsten 12 Wochen fest (Kata): 2-3-1-Kata-1.md
             - Wer kann dir bei deinem Ziel helfen? (Kata): 2-3-2-Kata-2.md
             - Teile etwas im Netzwerk (Kata): 2-3-3-Kata-3.md

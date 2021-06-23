@@ -1,4 +1,0 @@
-## lernOS Wissenslandkarte und -strategie
-
-...
-

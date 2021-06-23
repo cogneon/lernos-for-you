@@ -16,7 +16,7 @@ Dein **lernOS Workplace** ist eine sehr individuelle Angelegenheit, du solltest 
 
 Mit der folgenden Vorlage in Anlehnung an das [Seek>Sense>Share Frameworks](https://jarche.com/2014/02/the-seek-sense-share-framework/) von Harold Jarche kannst du deinen aktuellen lernOS Workplace beschreiben, deine Gedanken dazu mit anderen teilen und Ideen für die Zukunft entwickeln:
 
-![lernOS Wheel](./images/lernOS-Workplace.png)
+![lernOS Workplace](./images/lernOS-Workplace.png)
 
 Das trifft auch auf den digitalen Teil der persönlichen Lernumgebung zu: alle Lernenden müssen sich geeignete Tools auswählen und einrichten.
 

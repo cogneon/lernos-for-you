@@ -17,3 +17,16 @@ Alle drei Monate (lernOS Sprint) steckst du dir neue Ziele, planst deren Erreich
 ![Der OKR-Zyklus in einem lernOS Sprint (Quelle: [Der OKR-Guide](https://www.die-agilen.de/fileadmin/downloads/okr-guide-free.pdf), eigene Darstellung)](./images/lernOS-OKR-zyklus.png)
 
 Mit den folgenden Katas kannst du OKRs für das Stecken eigener Ziele in einem Sprint erlernen. Dabei ist es egal, ob du in einer Organisation oder einem Unternehmen bist, das bereits OKR einsetzt oder ob du OKRs einfach für dich selber nutzen magst.
+
+1. **Kata:** Top 10 Quellen zu OKRs
+2. **Kata:** Richte deine OKR-Umgebung ein
+3. **Kata:** Definiere OKRs für deinen Sprint
+4. **Kata:** Finalisiere deine OKRs für den Sprint
+5. **Kata:** Führe dein Weekly Check-In durch
+6. **Kata:** Tools für OKRs
+7. **Kata:** Scoring vs. Measuring Key Results
+8. **Kata:** Moonshots Objectives
+9. **Kata:** Wie groß ist dein Confidence Level?
+10. **Kata:** OKRs auf den Ebenen Individuen, Teams und Organisation
+11. **Kata:** OKR Review
+
