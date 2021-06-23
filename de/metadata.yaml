@@ -1,8 +1,8 @@
 ---
 title: "lernOS für Dich Leitfaden"
-subtitle: "Die Kunst des lebenslangen, selbstgesteuerten Lernens"
+subtitle: "Lernen und Arbeiten im 21. Jahrhundert"
 author: [Simon Dückert]
-date: "Version 1.7 (05.10.2020)"
+date: "Version 2.0 (23.06.2021)"
 titlepage: true
 titlepage-color: "ff6600"
 titlepage-text-color: "ffffff"
@@ -13,5 +13,5 @@ toc: true
 toc-own-page: true
 toc-depth: 3
 logo: src/images/lernOS-logo-white-4000px.png
-logo-width: 300
+logo-width: 300px
 ---

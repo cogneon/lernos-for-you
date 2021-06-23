@@ -1,33 +1,34 @@
 site_name: lernOS für Dich Leitfaden
-
+site_url: https://cogneon.github.io/
 docs_dir: src
-
 site_dir: ../docs/de
 
 nav:
-    - Über lernOS: index.md
+    - Willkommen: index.md
     - Grundlagen:
-        - Grundlagen: 1-0-Grundlagen.md
-        - Wissensgesellschaft und Wissensarbeit: 1-1-Wissensgesellschaft-und-Wissensarbeit.md
-        - Persönliche Wissens- und Lernumgebung: 1-2-Persoenliche-Wissens-und-Lernumgebungen.md
-        - Lebenslanges Lernen mit lernOS: 1-3-Lebenslanges-Lernen-mit-lernOS.md
+        - Überblick: 1-0-Grundlagen.md
+        - Wissensarbeit und Lebenslanges Lernen: 1-1-Lebenslanges-Lernen-und-Wissensarbeit.md
+        - lernOS Canvas: 1-2-lernOS-Canvas.md
+        - lernOS Flow: 1-3-lernOS-Flow.md
+        - lernOS Workplace: 1-4-lernOS-Workplace.md
+        - lernOS Memex: 1-5-lernOS-Memex.md
     - Lernpfade:
-        - Lernpfade: 2-0-Lernpfade.md
-        - WOL Lernpfad:
-            - WOL Lernpfad: 2-1-0-Lernpfad-WOL.md
-            - Lege dein Ziel für die nächsten 12 Wochen fest (Kata): 2-1-1-Kata-1.md
-            - Wer kann dir bei deinem Ziel helfen? (Kata): 2-1-2-Kata-2.md
-            - Teile etwas im Netzwerk (Kata): 2-1-3-Kata-3.md
-            - Mache Termine mit dir selbst (Kata): 2-1-4-Kata-4.md
-            - Egosurfe dich! (Kata): 2-1-5-Kata-5.md
-            - Beschreibe dich mit 25 Tags (Kata): 2-1-6-Kata-6.md
-            - Aktualisiere deinen digitalen Zwilling (Kata): 2-1-7-Kata-7.md
-            - Poste deine Top 10 Trüffel (Kata): 2-1-8-Kata-8.md
-            - Welche Kanäle willst du nutzen? (Kata): 2-1-9-Kata-9.md
-            - Welche Communities können dir helfen? (Kata): 2-1-10-Kata-10.md
-            - Schreibe einen Brief an dein zukünftiges Ich (Kata): 2-1-11-Kata-11.md
-        - OKR Lernpfad:
-            - OKR Lernpfad: 2-2-0-Lernpfad-OKR.md
+        - Überblick: 2-0-Lernpfade.md
+        - Lernpfad Produktivität & Stressfreiheit:
+            - Überblick: 2-1-0-Lernpfad-PS.md
+            - Mach Dich mit den Grundlagen vertraut (Kata): 2-1-1-Kata-1.md
+            - Sammeln - Mind-Sweep (Kata): 2-1-2-Kata-2.md
+            - Verarbeiten - Die 2 Minuten Regel (Kata): 2-1-3-Kata-3.md
+            - Organisieren - Listen & Kontexte aufbauen (Kata): 2-1-4-Kata-4.md
+            - Durchsehen - Der Wochenrückblick (Kata): 2-1-5-Kata-5.md
+            - Erledigen (Kata): 2-1-6-Kata-6.md
+            - Projekte - Werdet wie die Kinder (Kata): 2-1-7-Kata-7.md
+            - Arbeite die 5 Phasen durch (Kata): 2-1-8-Kata-8.md
+            - Die Macht des nächsten Schritts (Kata): 2-1-9-Kata-9.md
+            - Das 6-Horizonte-Modell (Kata): 2-1-10-Kata-10.md
+            - Kontinuierliche Verbesserung - Der Weg zur Meisterschaft (Kata): 2-1-11-Kata-11.md
+        - Lernpfad Zielorientierung & Fokussierung:
+            - Überblick: 2-2-0-Lernpfad-ZF.md
             - Top 10 Quellen zu OKRs (Kata): 2-2-1-Kata-1.md
             - Richte deine OKR-Umgebung ein (Kata): 2-2-2-Kata-2.md
             - Definiere OKRs für deinen Sprint (Kata): 2-2-3-Kata-3.md
@@ -39,19 +40,19 @@ nav:
             - What is your Confidence Level? (Kata): 2-2-9-Kata-9.md
             - Individual vs. Team/Organizational OKRs (Kata): 2-2-10-Kata-10.md
             - OKR Review (Kata): 2-2-11-Kata-11.md
-        - GTD Lernpfad:
-            - GTD Lernpfad: 2-3-0-Lernpfad-GTD.md
-            - Mach Dich mit den Grundlagen vertraut (Kata): 2-3-1-Kata-1.md
-            - Sammeln - Mind-Sweep (Kata): 2-3-2-Kata-2.md
-            - Verarbeiten - Die 2 Minuten Regel (Kata): 2-3-3-Kata-3.md
-            - Organisieren - Listen & Kontexte aufbauen (Kata): 2-3-4-Kata-4.md
-            - Durchsehen - Der Wochenrückblick (Kata): 2-3-5-Kata-5.md
-            - Erledigen (Kata): 2-3-6-Kata-6.md
-            - Projekte - Werdet wie die Kinder (Kata): 2-3-7-Kata-7.md
-            - Arbeite die 5 Phasen durch (Kata): 2-3-8-Kata-8.md
-            - Die Macht des nächsten Schritts (Kata): 2-3-9-Kata-9.md
-            - Das 6-Horizonte-Modell (Kata): 2-3-10-Kata-10.md
-            - Kontinuierliche Verbesserung - Der Weg zur Meisterschaft (Kata): 2-3-11-Kata-11.md
+        - Lernpfad Offenheit & Vernetzung:
+            - Überblick: 2-3-0-Lernpfad-OV.md
+            - Lege dein Ziel für die nächsten 12 Wochen fest (Kata): 2-3-1-Kata-1.md
+            - Wer kann dir bei deinem Ziel helfen? (Kata): 2-3-2-Kata-2.md
+            - Teile etwas im Netzwerk (Kata): 2-3-3-Kata-3.md
+            - Mache Termine mit dir selbst (Kata): 2-3-4-Kata-4.md
+            - Egosurfe dich! (Kata): 2-3-5-Kata-5.md
+            - Beschreibe dich mit 25 Tags (Kata): 2-3-6-Kata-6.md
+            - Aktualisiere deinen digitalen Zwilling (Kata): 2-3-7-Kata-7.md
+            - Poste deine Top 10 Trüffel (Kata): 2-3-8-Kata-8.md
+            - Welche Kanäle willst du nutzen? (Kata): 2-3-9-Kata-9.md
+            - Welche Communities können dir helfen? (Kata): 2-3-10-Kata-10.md
+            - Schreibe einen Brief an dein zukünftiges Ich (Kata): 2-3-11-Kata-11.md
     - Anhang: 3-Anhang.md
 
 theme:
@@ -60,15 +61,17 @@ theme:
         primary: 'deep orange'
         accent: 'deep orange'
     language: de
+    features:
+      - navigation.sections
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
 
 repo_name: 'cogneon/lernos-for-you'
 repo_url: 'https://github.com/cogneon/lernos-for-you'
 
-google_analytics:
-  - 'UA-156969141-1'
-  - 'auto'
-
 extra:
+    homepage: https://lernos.org
     social:
         - icon: fontawesome/brands/twitter
           link: https://twitter.com/lern_os
