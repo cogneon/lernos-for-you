@@ -54,18 +54,29 @@ nav:
             - Welche Communities können dir helfen? (Kata): 2-3-10-Kata-10.md
             - Schreibe einen Brief an dein zukünftiges Ich (Kata): 2-3-11-Kata-11.md
     - Anhang: 3-Anhang.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/lernos-template/blob/master/de/lernOS-fuer-Dich-Leitfaden.pdf
+      - Word-Version: https://github.com/cogneon/lernos-template/blob/master/de/lernOS-fuer-Dich-Leitfaden.docx
+      - HTML-Version: https://github.com/cogneon/lernos-template/blob/master/de/lernOS-fuer-Dich-Leitfaden.html
+      - E-Book (epub): https://github.com/cogneon/lernos-template/blob/master/de/lernOS-fuer-Dich-Leitfaden.epub
+      - E-Book (mobi): https://github.com/cogneon/lernos-template/blob/master/de/lernOS-fuer-Dich-Leitfaden.mobi
+    - Links:
+      - lernOS Website: https://lernos.org
+      - lernOS Community: https://community.cogneon.de
+      - Peerfinder: https://web.peerfinder.app
 
 theme:
     name: 'material'
+    custom_dir: src/overrides
     palette:
-        primary: 'deep orange'
-        accent: 'deep orange'
+        scheme: lernos
     language: de
-    features:
-      - navigation.sections
     icon:
       logo: material/home
       repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
 
 repo_name: 'cogneon/lernos-for-you'
 repo_url: 'https://github.com/cogneon/lernos-for-you'
@@ -74,9 +85,22 @@ extra:
     homepage: https://lernos.org
     social:
         - icon: fontawesome/brands/twitter
-          link: https://twitter.com/lern_os
+          link: 'https://twitter.com/lern_os'
         - icon: fontawesome/brands/linkedin
-          link: https://www.linkedin.com/showcase/lern-os
+          link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
-          link: https://github.com/cogneon
+          link: 'https://github.com/cogneon'
     disqus: lernos
+    analytics:
+        provider: custom
+
+    markdown_extensions:
+      - pymdownx.superfences:
+          custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
+
+    plugins:
+      - search
+      - mermaid2
