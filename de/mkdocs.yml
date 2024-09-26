@@ -61,7 +61,7 @@ nav:
       - E-Book (epub): https://github.com/cogneon/lernos-for-you/blob/master/de/lernOS-fuer-Dich-Leitfaden.epub
       - E-Book (mobi): https://github.com/cogneon/lernos-for-you/blob/master/de/lernOS-fuer-Dich-Leitfaden.mobi
     - Links:
-      - lernOS Website: https://lernos.org
+      - lernos.org: https://lernos.org
       - lernOS Community: https://community.cogneon.de
       - Peerfinder: https://web.peerfinder.app
 
@@ -84,15 +84,16 @@ repo_url: 'https://github.com/cogneon/lernos-for-you'
 extra:
     homepage: https://lernos.org
     social:
-        - icon: fontawesome/brands/twitter
-          link: 'https://twitter.com/lern_os'
+        - icon: fontawesome/brands/mastodon
+          link: 'https://colearn.social/@lernos'
         - icon: fontawesome/brands/linkedin
           link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
-    disqus: lernos
+    giscus: true
     analytics:
         provider: custom
+    generator: false
 
     markdown_extensions:
       - pymdownx.superfences:

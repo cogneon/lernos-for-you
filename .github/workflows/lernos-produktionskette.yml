@@ -1,0 +1,102 @@
+name: lernOS Produktionskette
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      # Repository auschecken, damit Workflow es nutzen kann
+      - uses: actions/checkout@v3
+      
+      # Delete Old Versions
+      # de
+      - run: rm -rf ./de/${{ github.event.repository.name }}-guide.*
+      - run: rm -rf ./docs/de/*
+
+      # Create Chapter List
+      # de
+      - name: Create Chapter Lists de
+        id: chapter_list_de
+        run: echo "chapters-de=$(printf '%s ' ./de/src/[0-9]*.md)" >> "$GITHUB_OUTPUT"
+      
+      # Create Microsoft Word Version (docx)
+      # de
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./de/metadata.yaml
+            --standalone
+            --resource-path=./de/src
+            --number-sections
+            --toc
+            --toc-depth=2
+            -V lang=de-de
+            --output=./de/${{ github.event.repository.name }}-guide.docx
+            ./de/src/index.md ${{ steps.chapter_list_de.outputs.chapters-de }}
+
+      # Create HTML Version (html)
+      # de
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./de/metadata.yaml
+            --standalone
+            --resource-path=./de/src
+            --number-sections
+            --toc
+            --toc-depth=2
+            -V lang=de-de
+            --output=./de/${{ github.event.repository.name }}-guide.html
+            ./de/src/index.md ${{ steps.chapter_list_de.outputs.chapters-de }}
+
+      # Create eBook Version (epub)
+      # de
+      - uses: docker://pandoc/core
+        with:
+          args: >-
+            ./de/metadata.yaml
+            --standalone
+            --resource-path=./de/src
+            --number-sections
+            --toc
+            --toc-depth=2
+            -V lang=de-de
+            --output=./de/${{ github.event.repository.name }}-guide.epub
+            ./de/src/index.md ${{ steps.chapter_list_de.outputs.chapters-de }}
+
+      # Create PDF Version (pdf)
+      # de
+      - uses: docker://pandoc/extra:3.1
+        with:
+          args: >-
+            ./de/metadata.yaml
+            --standalone
+            --resource-path=./de/src
+            --number-sections
+            --toc
+            --toc-depth=2
+            -V lang=de-de
+            --template /.pandoc/templates/eisvogel.latex
+            --output=./de/${{ github.event.repository.name }}-guide.pdf
+            ./de/src/index.md ${{ steps.chapter_list_de.outputs.chapters-de }}
+
+      # Create Web Version de (mkdocs)
+      # de
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material
+      - run: mkdocs build -f ./de/mkdocs.yml
+
+      # Geänderte Datein zurück ins Repository committen
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Erzeugt von automatischer lernOS Produktionskette
