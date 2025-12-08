@@ -44,7 +44,8 @@ flowchart LR
   P4(( )):::pastSmall
   P5(( )):::pastSmall
   P6(( )):::pastSmall
-  CS(( )):::currentBig
+  
+  CS((Current State)):::currentBig
   
   %% UP path to HEAVEN
   U1(( )):::upSmall
