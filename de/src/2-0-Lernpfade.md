@@ -31,3 +31,55 @@ Das Past Forward basiert auf der Methode [The Future, Backwards](https://cogniti
 5. Beschreibe deine Anti-Vision in 3-5 kurzen Sätzen (5 Minuten)
 6. Beschreibe die 3-5 Schlüssel-Aktivitäten oder -Projekte, die deine Vision Wirklichkeit werden lässt und die Anti-Vision verhindert (5 Minuten)
 
+```mermaid
+flowchart LR
+  %% Layout direction
+  %% PAST (left) -> CURRENT (center) -> split UP (green) and DOWN (red)
+  
+  %% PAST path to CURRENT
+  P0((Past)):::pastBig
+  P1(( )):::pastSmall
+  P2(( )):::pastSmall
+  P3(( )):::pastSmall
+  P4(( )):::pastSmall
+  P5(( )):::pastSmall
+  P6(( )):::pastSmall
+  
+  CS((Current State)):::currentBig
+  
+  %% UP path to HEAVEN
+  U1(( )):::upSmall
+  U2(( )):::upSmall
+  U3(( )):::upSmall
+  U4(( )):::upSmall
+  U5(( )):::upSmall
+  HV((Heaven)):::upBig
+  
+  %% DOWN path to HELL
+  D1(( )):::downSmall
+  D2(( )):::downSmall
+  D3(( )):::downSmall
+  D4(( )):::downSmall
+  D5(( )):::downSmall
+  HL((Hell)):::downBig
+
+  %% --- Edges ---
+  P0 ~~~ P1 ~~~ P2 ~~~ P3 ~~~ P4 ~~~ P5 ~~~ P6 ~~~ CS
+  CS ~~~ U1 ~~~ U2 ~~~ U3 ~~~ U4 ~~~ U5 ~~~ HV
+  CS ~~~ D1 ~~~ D2 ~~~ D3 ~~~ D4 ~~~ D5 ~~~ HL
+
+  %% --- Styles ---
+  classDef pastBig fill:#b8860b,stroke:#b8860b,stroke-width:2px;
+  classDef pastSmall fill:#f3c44e,stroke:#f3c44e,stroke-width:2px;
+
+  classDef currentBig fill:#2f5aa6,stroke:#2f5aa6,stroke-width:2px;
+
+  classDef transSmall fill:#cfe7c7,stroke:#cfe7c7,stroke-width:2px;
+  classDef transDotted fill:#cfe7c7,stroke:#6abf4b,stroke-width:2px,stroke-dasharray:5 5;
+
+  classDef upSmall fill:#9bd58e,stroke:#9bd58e,stroke-width:2px;
+  classDef upBig fill:#4aa24a,stroke:#4aa24a,stroke-width:2px;
+
+  classDef downSmall fill:#f28b8b,stroke:#f28b8b,stroke-width:2px;
+  classDef downBig fill:#e42020,stroke:#e42020,stroke-width:2px;
+```
