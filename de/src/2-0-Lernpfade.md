@@ -61,13 +61,12 @@ flowchart LR
   D3(( )):::downSmall
   D4(( )):::downSmall
   D5(( )):::downSmall
-  D6(( )):::downSmall
   HL((Hell)):::downBig
 
   %% --- Edges ---
   P0 ~~~ P1 ~~~ P2 ~~~ P3 ~~~ P4 ~~~ P5 ~~~ P6 ~~~ CS
   CS ~~~ U1 ~~~ U2 ~~~ U3 ~~~ U4 ~~~ U5 ~~~ HV
-  CS ~~~ D1 ~~~ D2 ~~~ D3 ~~~ D4 ~~~ D5 ~~~ D6 ~~~ HL
+  CS ~~~ D1 ~~~ D2 ~~~ D3 ~~~ D4 ~~~ D5 ~~~ HL
 
   %% --- Styles ---
   classDef pastBig fill:#b8860b,stroke:#b8860b,stroke-width:2px;
